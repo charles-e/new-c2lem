@@ -1,10 +1,10 @@
 /* Basic site styling */
 body {
-    font-family: system-ui, sans-serif;
+   font-family: 'Lora', system-ui, sans-serif;
     margin: 2rem;
     line-height: 1.6;
-    background-color: #fafafa;
-    color: #333;
+    background-color: #fdf6f0;
+    color: #4a3c31;
   }
   
   /* Navigation styling */
@@ -15,7 +15,7 @@ body {
   nav a {
     text-decoration: none;
     padding: 0.5rem 1rem;
-    color: #0056b3;
+    color: #8b5e3c;
     border-radius: 4px;
     transition: background-color 0.2s, color 0.2s;
   }
@@ -60,7 +60,7 @@ body {
   .back-link {
   display: inline-block;
   margin-top: 1.5rem;
-  color: #0056b3;
+  color: #8b5e3c;
   text-decoration: none;
   font-size: 0.95rem;
 }
@@ -71,16 +71,17 @@ body {
 .breadcrumbs {
     font-size: 0.9rem;
     margin-bottom: 1.5rem;
-    color: #666;
+    color: #8b5e3c;
   }
   
   .breadcrumbs a {
-    color: #0056b3;
+    color: #8b5e3c;
     text-decoration: none;
   }
   
   .breadcrumbs a:hover {
     text-decoration: underline;
+    color: #6e4228;
   }
 
   .book-grid {
@@ -127,5 +128,135 @@ body {
   
   .book-card:hover .hover-info {
     opacity: 1;
+  }
+  
+  .latest-weekly {
+    margin-bottom: 2rem;
+  }
+  
+  .latest-weekly h2 {
+    font-size: 1.75rem;
+  }
+  
+  .weekly-content {
+    margin-top: 1rem;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .previous-posts ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .previous-posts li {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 0.5rem;
+  }
+  
+  .previous-posts a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .previous-posts a:hover {
+    text-decoration: underline;
+  }
+  
+  .previous-posts small {
+    font-size: 0.85rem;
+    color: #777;
+  }
+
+  .blog-post {
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+  
+  .blog-title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: #8b5e3c;
+  }
+  
+  .blog-date {
+    font-size: 0.9rem;
+    color: #777;
+    margin-bottom: 2rem;
+  }
+  
+  .blog-body {
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+  
+  .blog-body h2 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+  }
+  
+  .blog-body ul, .blog-body ol {
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .blog-body a {
+    color: #0077cc;
+    text-decoration: underline;
+  }
+  
+  .blog-body a:hover {
+    text-decoration: none;
+  }
+  
+  .book-page {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .book-header {
+    margin-bottom: 1.5rem;
+  }
+  
+  .book-title {
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+  }
+  
+  .book-author {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1rem;
+  }
+  
+  .book-tags {
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
+  .book-body {
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-top: 2rem;
+  }
+  
+  blockquote {
+    margin: 1.5rem 0;
+    padding-left: 1.5rem;
+    border-left: 4px solid #ccc;
+    font-style: italic;
+    color: #6b5844;
+  }
+  
+  blockquote p {
+    margin: 0;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Lora', serif;
   }
   

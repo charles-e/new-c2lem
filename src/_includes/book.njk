@@ -3,28 +3,26 @@ layout: base.njk
 ---
 
 <article>
-<nav class="breadcrumbs">
-  <a href="/">Home</a> →
-  <a href="/books/">Books</a> →
-  <span>{{ title }}</span>
-</nav>
+    <h1 class="book-title">{{ title }}</h1>
 
   {% if img_url %}
-    <div class="book-cover">
-      <img src="{{ img_url }}" alt="Cover of {{ title }}">
-    </div>
-  {% endif %}
-
-  <p><strong>Author:</strong> {{ author }}</p>
-
-  {% if tags %}
-    <p><strong>Tags:</strong> {{ tags | join(', ') }}</p>
-  {% endif %}
-
-  <div>
-    {{ content | safe }}
+  <div class="book-cover">
+    <img src="{{ img_url }}" alt="Cover of {{ title }}" />
   </div>
-   <p style="margin-top: 2rem;">
+  {% endif %}
+  <div class="book-header">
+    <p><strong>Author:</strong> {{ author }}</p>
+
+    {% if tags %}
+    <p><strong>Tags:</strong> {{ tags | join(', ') }}</p>
+    {% endif %}
+  </div>
+  <div class="book-body">
+    {% block content %} {{ content | safe }} {% endblock %}
+  </div>
+  {% if date_read %}
+  <p style="margin-top: 2rem">
     <a href="/books/" class="back-link">← Back to Books</a>
   </p>
+  {% endif %}
 </article>

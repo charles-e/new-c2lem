@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <title>{{ title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
 </head>
 
@@ -11,11 +13,13 @@
 <nav>
   <a href="/" class="{% if page.url == '/' %}active{% endif %}">c2lem</a> |
   <a href="/books/" class="{% if page.url == '/books/' %}active{% endif %}">Books</a> |
-      <a href="/books/in-progress/">Now Reading</a> |
-  <a href="/weeklies/" class="{% if page.url == '/blog/' %}active{% endif %}">Blog</a>
+<a href="/books/in-progress/" class="{% if page.url == '/books/in-progress/' %}active{% endif %}">Now Reading</a> |
+  <a href="/weeklies/" class="{% if page.url == '/weeklies/' %}active{% endif %}">Blog</a>
 </nav>
   <main>
+  {% block content %}
     {{ content | safe }}
-  </main>
+  {% endblock %}
+    </main>
 </body>
 </html>

@@ -1,0 +1,14 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+<article class="blog-post">
+  <h1 class="blog-title">{{ title }}</h1>
+
+  <div class="blog-body">
+    {{ content | safe }}
+  </div>
+</article>
+  <a href="/weeklies/">Back to Weeklies</a> 
+
+{% endblock %}
