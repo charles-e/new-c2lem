@@ -1,0 +1,24 @@
+---
+title: Debug
+layout: base.njk
+permalink: /debug/
+---
+
+<h1>Debugging Eleventy Collections</h1>
+
+<h2>All Collections</h2>
+
+<ul>
+{% for collectionName, items in collections %}
+  <li>
+    <strong>{{ collectionName }}</strong> — {{ items | length }} items
+    <ul>
+      {% for item in items %}
+        <li>
+          <code>{{ item.url }}</code> — {{ item.data.title or 'No title' }}
+        </li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>

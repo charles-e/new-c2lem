@@ -1,0 +1,14 @@
+{
+  "name": "minimal-src-c2lem-site",
+  "version": "1.0.0",
+  "description": "Minimal starter with src/ structure for c2lem.com",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.3",
+    "luxon": "^3.6.1"
+  }
+}

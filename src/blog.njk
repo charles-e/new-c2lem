@@ -1,0 +1,22 @@
+---
+title: Blog
+layout: base.njk
+permalink: /blog/
+---
+
+<h1>All Books (Newest First)</h1>
+
+<ul id="book-list">
+{% for book in collections.allBooksSorted %}
+  <li>
+    <a href="{{ book.url }}">{{ book.data.title }}</a> —
+    by {{ book.data.author }}
+    {% if book.data.date_read %}
+      (Finished {{ book.data.date_read | date() }})
+    {% else %}
+      (Started {{ book.data.date_started | date() }})
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+

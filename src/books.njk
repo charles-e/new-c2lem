@@ -1,0 +1,20 @@
+---
+title: Books
+layout: base.njk
+permalink: /books/
+---
+
+<h1>Completed Books</h1>
+<input id="search-box" type="text" placeholder="Search books..." style="margin-bottom: 1rem; padding: 0.5rem; width: 100%; max-width: 400px;">
+
+<ul id="book-list">
+  {% for book in collections.all %}
+    {% if book.inputPath.indexOf('/books/') != -1 and book.data.date_read %}
+      <li>
+        <a href="{{ book.url }}">{{ book.data.title }}</a> — by {{ book.data.author }}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="/scripts/search.js"></script>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+<nav>
+  <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a> |
+  <a href="/books/" class="{% if page.url == '/books/' %}active{% endif %}">Books</a> |
+  <a href="/blog/" class="{% if page.url == '/blog/' %}active{% endif %}">Blog</a>
+</nav>
+  <main>
+    {{ content | safe }}
+  </main>
+</body>
+</html>
