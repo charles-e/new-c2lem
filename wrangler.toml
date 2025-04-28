@@ -1,0 +1,8 @@
+name = "c2lem"
+account_id = "charles.eubanks@gmail.com
+compatibility_date = "2024-04-30"
+
+[pages]
+project = "c2lem-11ty"
+directory = "./_site"
+
