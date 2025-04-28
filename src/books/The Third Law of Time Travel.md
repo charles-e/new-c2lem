@@ -1,14 +1,14 @@
 ---
 title: The Third Law of Time Travel
-author: Fraccassi, Philip
+author: 'Fraccassi, Philip'
 pages: 336
-tags: sci-fi, suspense
-date_started: 2025-04-10
-date_read: 2025-04-12
+tags: 'sci-fi, suspense'
+date_started: 2025-04-10T00:00:00.000Z
+date_read: 2025-04-12T00:00:00.000Z
 publisher: Orbit
 published: 2025
 format: soft-cover
-img_url: "https://m.media-amazon.com/images/I/71E5ps-8b4L._SL1500_.jpg"
+img_url: /images/books/The Third Law of Time Travel.jpg
 permalink: /books/Third_Law_of_Time_Travel/
 layout: book.njk
 ---

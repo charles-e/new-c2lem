@@ -1,11 +1,11 @@
 ---
 title: When We Were Real
-author: Gregory, Daryl
-date_started: 2025-04-18
-tags: sci-fi, fantasy, humor, thriller
-date_read: 2025-04-20
+author: 'Gregory, Daryl'
+date_started: 2025-04-18T00:00:00.000Z
+tags: 'sci-fi, fantasy, humor, thriller'
+date_read: 2025-04-20T00:00:00.000Z
 published: 2025
-img_url: "https://m.media-amazon.com/images/I/718xVvvniRL._SL1500_.jpg"
+img_url: /images/books/When We Were Real.jpg
 publisher: S&S/Saga Press
 pages: 464
 permalink: /books/When_We_Were_Real/

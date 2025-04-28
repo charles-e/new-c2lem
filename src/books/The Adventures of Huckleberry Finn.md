@@ -1,11 +1,13 @@
 ---
 title: The Adventures of Huckleberry Finn
-author:  Twain,Mark
+author: 'Twain,Mark'
 pages: 333
-tags: [humor, edifying]
-date_read: 2024-11-11
+tags:
+  - humor
+  - edifying
+date_read: 2024-11-11T00:00:00.000Z
 published: 1885
-img_url: "https://m.media-amazon.com/images/I/817CY4sQ-yL._SL1500_.jpg"
+img_url: /images/books/The Adventures of Huckleberry Finn.jpg
 permalink: /books/Huckleberry_Finn/
 layout: book.njk
 ---

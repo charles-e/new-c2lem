@@ -1,11 +1,16 @@
 ---
 title: The Black Echo
-author:  Connelly,Michael
-date_read: 2024-12-29
-tags: [crime, mystery, hard-boiled, los angeles, police procedural]
-pages: 400 
+author: 'Connelly,Michael'
+date_read: 2024-12-29T00:00:00.000Z
+tags:
+  - crime
+  - mystery
+  - hard-boiled
+  - los angeles
+  - police procedural
+pages: 400
 series: Harry Bosch
-img_url: "https://m.media-amazon.com/images/I/81TZFLqY1DL._SL1500_.jpg"
+img_url: /images/books/The Black Echo.jpg
 permalink: /books/Black_Echo/
 layout: book.njk
 ---

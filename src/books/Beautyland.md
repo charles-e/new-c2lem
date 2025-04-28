@@ -1,13 +1,14 @@
 ---
 title: Beautyland
-author: Bertino, Marie-Helene
+author: 'Bertino, Marie-Helene'
 pages: 545
-tags: [magic-realism, fantasy]
-date_read: 2025-02-20
-img_url: "https://m.media-amazon.com/images/I/8107r4S7ULL._SL1500_.jpg"
+tags:
+  - magic-realism
+  - fantasy
+date_read: 2025-02-20T00:00:00.000Z
+img_url: /images/books/Beautyland.jpg
 permalink: /books/Beautyland/
 layout: book.njk
-
 ---
 I heard about this book from my sister and that was good enough to intrigue me... and here we are.  
 This is the life story of a woman Adina, who, from infancy,

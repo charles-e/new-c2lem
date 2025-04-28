@@ -1,10 +1,12 @@
 ---
 title: Far From the Madding Crowd
-author: Thomas Hardy
+author: 'Hardy, Thomas'
 pages: 262
-tags: [romance, edifying]
-date_read: 2024-12-08
-img_url: "https://m.media-amazon.com/images/I/81fQ2wTgnwL._SL1489_.jpg"
+tags:
+  - romance
+  - edifying
+date_read: 2024-12-08T00:00:00.000Z
+img_url: /images/books/Far From the Madding Crowd.jpg
 permalink: /books/Far_from_the_Madding_Crowd/
 layout: book.njk
 ---

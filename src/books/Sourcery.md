@@ -1,12 +1,14 @@
 ---
 title: Sourcery (A Discworld Novel)
-author: Pratchett, Terry
+author: 'Pratchett, Terry'
 pages: 256
-tags: [fantasy, humor]
-date_read: 2025-03-28
+tags:
+  - fantasy
+  - humor
+date_read: 2025-03-28T00:00:00.000Z
 publisher: HarperCollins
-img_url: "https://m.media-amazon.com/images/I/81wdd05ENYL._SL1500_.jpg"
-series: Discworld (Wizards #3)
+img_url: /images/books/Sourcery.jpg
+series: Discworld (Wizards
 permalink: /books/Sourcery/
 layout: book.njk
 ---

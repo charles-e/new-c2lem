@@ -1,11 +1,14 @@
 ---
 title: Frankenstein
-author: Shelley, Mary Wollstonecraft
+author: 'Shelley, Mary Wollstonecraft'
 published: 1818
-tags: [horror, scifi, edifying]
-date_read: 2024-10-09
+tags:
+  - horror
+  - scifi
+  - edifying
+date_read: 2024-10-09T00:00:00.000Z
 pages: 231
-img_url: "https://m.media-amazon.com/images/I/810dJOH5t1L._SL1500_.jpg"
+img_url: /images/books/Frankenstein.jpg
 permalink: /books/Frankenstein/
 layout: book.njk
 ---

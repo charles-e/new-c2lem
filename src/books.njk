@@ -4,17 +4,32 @@ layout: base.njk
 permalink: /books/
 ---
 
-<h1>Completed Books</h1>
-<input id="search-box" type="text" placeholder="Search books..." style="margin-bottom: 1rem; padding: 0.5rem; width: 100%; max-width: 400px;">
+<h1>Reading History</h1>
 
-<ul id="book-list">
-  {% for book in collections.all %}
-    {% if book.inputPath.indexOf('/books/') != -1 and book.data.date_read %}
-      <li>
-        <a href="{{ book.url }}">{{ book.data.title }}</a> — by {{ book.data.author }}
-      </li>
-    {% endif %}
+<input id="search-box" type="text" placeholder="Filter books..."   
+title="search title, author, or tags (add an asterisk at the end)"
+ style="margin-bottom: 1rem; padding: 0.5rem; width: 100%; max-width: 400px;">
+<div id="search-helper" style="margin-bottom: 1rem; font-size: 0.9rem; color: #555;">
+  Filter by title, author, series or tags.
+</div>
+<div class="book-grid" id="book-list">
+  <ul id="no-results" style="display:none;">
+  <li>No Books Found</li>
+  </ul>
+  {% for book in collections.allBooksSorted %}
+    <a href="{{ book.url }}" title="{{ book.url }}" class="book-card" aria-label="{{ book.data.title }} by {{ book.data.author }}">
+      <img src="{{ book.data.img_url }}" alt="{{ book.data.title }} by {{ book.data.author }}" />
+      <div class="hover-info">
+        <strong>{{ book.data.title }}</strong><br/>
+        <span>{{ book.data.author }}</span><br/>
+      </div>
+    </a>
   {% endfor %}
-</ul>
+</div>
+
+{% if collections.allBooksSorted.length == 0 %}
+  <p>No completed books found.</p>
+{% endif %}
+
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 <script src="/scripts/search.js"></script>

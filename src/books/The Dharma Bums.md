@@ -1,11 +1,11 @@
 ---
 title: The Dharma Bums
-author: Kerouac, Jack
-date_read: 2025-01-30
-tags: travel, spirituality, poetry, memoir
-pages: 119 
+author: 'Kerouac, Jack'
+date_read: 2025-01-30T00:00:00.000Z
+tags: 'travel, spirituality, poetry, memoir'
+pages: 119
 published: 1958
-img_url: "https://m.media-amazon.com/images/I/61ZD8FK0ilL._SL1495_.jpg"
+img_url: /images/books/The Dharma Bums.jpg
 permalink: /books/Dharma_Bums/
 layout: book.njk
 ---

@@ -1,11 +1,13 @@
 ---
 title: Rose/House
-author: Martine, Arkady
-date_read: 2025-03-04
+author: 'Martine, Arkady'
+date_read: 2025-03-04T00:00:00.000Z
 published: 2025
-tags: [detective, scifi]
+tags:
+  - detective
+  - scifi
 pages: 117
-img_url: "https://m.media-amazon.com/images/I/91JpBlTva8L._SL1500_.jpg"
+img_url: '/images/books/Rose:House.jpg'
 permalink: /books/RoseHouse/
 layout: book.njk
 ---

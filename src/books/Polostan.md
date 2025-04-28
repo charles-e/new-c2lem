@@ -1,11 +1,13 @@
 ---
 title: Polostan
-author:  Stephenson,Neal
-tags: [scifi, historical]
-date_read: 2024-11-05
+author: 'Stephenson,Neal'
+tags:
+  - scifi
+  - historical
+date_read: 2024-11-05T00:00:00.000Z
 published: 2024
 pages: 320
-img_url: "https://m.media-amazon.com/images/I/91Njwpk2cRL._SL1500_.jpg"
+img_url: /images/books/Polostan.jpg
 permalink: /books/Polostan/
 layout: book.njk
 ---

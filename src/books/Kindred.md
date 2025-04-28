@@ -1,10 +1,12 @@
 ---
 title: Kindred
-author: Butler, Octavia E.
-date_read: 2025-02-13
-tags: [fantasy, history]
-pages: 264 
-img_url: "https://m.media-amazon.com/images/I/81aKFgMaH5L._SL1500_.jpg"
+author: 'Butler, Octavia E.'
+date_read: 2025-02-13T00:00:00.000Z
+tags:
+  - fantasy
+  - history
+pages: 264
+img_url: /images/books/Kindred.jpg
 permalink: /books/Kindred/
 layout: book.njk
 ---

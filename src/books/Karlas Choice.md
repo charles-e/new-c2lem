@@ -1,13 +1,17 @@
 ---
 title: Karla's Choice &colon; A John Le Carre Novel
-author: Harkaway, Nick
-date_read: 2025-03-13
-tags: [espionage, cold-war, suspense, audio]
+author: 'Harkaway, Nick'
+date_read: 2025-03-13T00:00:00.000Z
+tags:
+  - espionage
+  - cold-war
+  - suspense
+  - audio
 hours: 10.6
-published: 2024 
+published: 2024
 publisher: Penguin Audio
-narrator: Beale, Simon Russell
-img_url: "https://m.media-amazon.com/images/I/71capiKZpBL._SL1500_.jpg"
+narrator: 'Beale, Simon Russell'
+img_url: /images/books/Karlas Choice.jpg
 permalink: /books/Karlas_Choice/
 layout: book.njk
 ---

@@ -1,0 +1,24 @@
+---
+title: Currently Reading 
+layout: base.njk
+permalink: /books/in-progress/
+---
+
+<h1>Currently Reading</h1>
+
+<div class="book-grid">
+  {% for book in collections.allPendingBooks %}
+    <a href="{{ book.url }}" class="book-card" aria-label="{{ book.data.title }} by {{ book.data.author }}">
+      <img src="{{ book.data.img_url }}" alt="{{ book.data.title }} by {{ book.data.author }}" />
+      <div class="hover-info">
+        <strong>{{ book.data.title }}</strong><br/>
+        <span>{{ book.data.author }}</span>
+      </div>
+    </a>
+  {% endfor %}
+</div>
+
+{% if collections.allPendingBooks.length == 0 %}
+  <p>No books currently in progress.</p>
+{% endif %}
+

@@ -1,13 +1,13 @@
 ---
 title: Yellowface
-author: Kuang, R.F.
-date_read: 2025-03-21
-tags: satire, audio
-hours: 8.6 
+author: 'Kuang, R.F.'
+date_read: 2025-03-21T00:00:00.000Z
+tags: 'satire, audio'
+hours: 8.6
 publisher: William Morrow
 published: 2023
 format: audio
-img_url: "https://m.media-amazon.com/images/I/613uj6+BwxL._SL1500_.jpg"
+img_url: /images/books/Yellowface.jpg
 permalink: /books/Yellowface/
 layout: book.njk
 ---

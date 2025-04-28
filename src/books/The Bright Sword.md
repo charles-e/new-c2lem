@@ -1,10 +1,11 @@
 ---
 title: The Bright Sword
-author: Grossman, Lev
+author: 'Grossman, Lev'
 pages: 673
-date_read: 2025-01-14
-tags: [fantasy]
-img_url: "https://m.media-amazon.com/images/I/81FZl2YBsqL._SL1500_.jpg"
+date_read: 2025-01-14T00:00:00.000Z
+tags:
+  - fantasy
+img_url: /images/books/The Bright Sword.jpg
 permalink: /books/Bright_Sword/
 layout: book.njk
 ---

@@ -1,11 +1,14 @@
 ---
 title: I’m Starting to Worry About This Black Box of Doom
 format: audio
-author: Pargin, Jason
-tags: [humor, audio, popular]
-date_read: 2024-11-13
+author: 'Pargin, Jason'
+tags:
+  - humor
+  - audio
+  - popular
+date_read: 2024-11-13T00:00:00.000Z
 hours: 13
-img_url: "https://m.media-amazon.com/images/I/81GQuTeRH0L._SL1500_.jpg"
+img_url: /images/books/Im Starting to Worry About this Black Box of Doom.jpg
 permalink: /books/Black_Box_of_Doom/
 layout: book.njk
 ---

@@ -1,11 +1,16 @@
 ---
 title: The Black Ice
-author:  Connelly,Michael
-date_read: 2025-01-08
-tags: [crime, mystery, hard-boiled, los angeles, police procedural]
-pages: 400 
+author: 'Connelly,Michael'
+date_read: 2025-01-08T00:00:00.000Z
+tags:
+  - crime
+  - mystery
+  - hard-boiled
+  - los angeles
+  - police procedural
+pages: 400
 series: Harry Bosch
-img_url: "https://m.media-amazon.com/images/I/81HUw6xopHL._SL1500_.jpg"
+img_url: /images/books/The Black Ice.jpg
 permalink: /books/Black_Ice/
 layout: book.njk
 ---

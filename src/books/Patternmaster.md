@@ -1,13 +1,15 @@
 ---
 title: Patternmaster
-author: Butler, Octavia
-date_read: 2025-03-27
-date_began: 2025-03-23
+author: 'Butler, Octavia'
+date_read: 2025-03-27T00:00:00.000Z
+date_began: 2025-03-23T00:00:00.000Z
 published: 1979
-tags: [scifi, hillmantok]
-series: Patternist #4
-pages: 190 
-img_url: "https://m.media-amazon.com/images/I/711fSQ7TADL._SL1500_.jpg"
+tags:
+  - scifi
+  - hillmantok
+series: Patternist
+pages: 190
+img_url: /images/books/Patternmaster.jpg
 permalink: /books/Patternmaster/
 layout: book.njk
 ---

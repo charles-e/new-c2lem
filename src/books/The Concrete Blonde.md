@@ -1,12 +1,16 @@
 ---
 title: The Concrete Blonde
-author: Connelly, Michael
-date_read: 2025-01-25
+author: 'Connelly, Michael'
+date_read: 2025-01-25T00:00:00.000Z
 published: 1980
-tags: [detective, mystery, police-procedural, audio]
-series: Harry Bosch #3
-pages: 248 
-img_url: "https://m.media-amazon.com/images/I/81cNQXindbL._SL1500_.jpg"
+tags:
+  - detective
+  - mystery
+  - police-procedural
+  - audio
+series: Harry Bosch
+pages: 248
+img_url: /images/books/The Concrete Blonde.jpg
 permalink: /books/Concrete_Blond/
 layout: book.njk
 ---

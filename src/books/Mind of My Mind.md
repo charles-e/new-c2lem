@@ -1,12 +1,13 @@
 ---
 title: Mind of My Mind
-author: Butler, Octavia E.
-date_read: 2025-02-19
-tags: [fantasy]
+author: 'Butler, Octavia E.'
+date_read: 2025-02-19T00:00:00.000Z
+tags:
+  - fantasy
 published: 1977
-pages: 169 
-series: Patternist #2
-img_url: "https://m.media-amazon.com/images/I/71YIGJylq6L._SL1500_.jpg"
+pages: 169
+series: Patternist
+img_url: /images/books/Mind of My Mind.jpg
 permalink: /books/Mind_of_My_Mind/
 layout: book.njk
 ---

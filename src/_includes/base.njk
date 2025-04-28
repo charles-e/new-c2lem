@@ -9,9 +9,10 @@
 
 <body>
 <nav>
-  <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a> |
+  <a href="/" class="{% if page.url == '/' %}active{% endif %}">c2lem</a> |
   <a href="/books/" class="{% if page.url == '/books/' %}active{% endif %}">Books</a> |
-  <a href="/blog/" class="{% if page.url == '/blog/' %}active{% endif %}">Blog</a>
+      <a href="/books/in-progress/">Now Reading</a> |
+  <a href="/weeklies/" class="{% if page.url == '/blog/' %}active{% endif %}">Blog</a>
 </nav>
   <main>
     {{ content | safe }}

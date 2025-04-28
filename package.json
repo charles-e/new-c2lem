@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "description": "Minimal starter with src/ structure for c2lem.com",
   "scripts": {
+    "download:images": "node scripts/download-images.js",
     "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy"
+    "build": "npx @11ty/eleventy",
+    "update:markdown": "node scripts/update-markdown-images.js"
+
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-plugin-rss": "^2.0.3",
-    "luxon": "^3.6.1"
+    "gray-matter": "^4.0.3",
+    "luxon": "^3.6.1",
+    "node-fetch": "^2.7.0"
   }
 }

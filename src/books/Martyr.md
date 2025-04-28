@@ -1,11 +1,12 @@
 ---
 title: Martyr!
-author: Akbar, Kaveh
-date_read: 2025-03-11
+author: 'Akbar, Kaveh'
+date_read: 2025-03-11T00:00:00.000Z
 published: 2024
-tags: [edifying]
-pages: 352 
-img_url: "https://m.media-amazon.com/images/I/71Z-111IKVL._SL1500_.jpg"
+tags:
+  - edifying
+pages: 352
+img_url: /images/books/Martyr.jpg
 permalink: /books/Martyr/
 layout: book.njk
 ---

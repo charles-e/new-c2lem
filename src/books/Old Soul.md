@@ -1,12 +1,15 @@
 ---
 title: Old Soul
-author: Barker, Susan
-date_read: 2025-03-22
-tags: [horror, supernatural, mystery]
+author: 'Barker, Susan'
+date_read: 2025-03-22T00:00:00.000Z
+tags:
+  - horror
+  - supernatural
+  - mystery
 pages: 352
 published: 2025
 publisher: G.P. Putnam's Sons
-img_url: "https://m.media-amazon.com/images/I/81zkMdXCe5L._SL1500_.jpg"
+img_url: /images/books/Old Soul.jpg
 permalink: /books/Old_Soul/
 layout: book.njk
 ---

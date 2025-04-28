@@ -11,7 +11,8 @@ module.exports = {
           title: book.data.title,
           author: book.data.author,
           tags: book.data.tags,
-          url: book.url
+          url: book.url,
+          series: book.data.series
         }));
   
       return JSON.stringify(books, null, 2);

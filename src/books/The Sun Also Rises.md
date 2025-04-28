@@ -1,11 +1,11 @@
 ---
 title: The Sun Also Rises
-author: Hemingway, Ernest
-date_read: 2025-02-25
+author: 'Hemingway, Ernest'
+date_read: 2025-02-25T00:00:00.000Z
 tags: edifying
-pages: 247 
+pages: 247
 published: 1926
-img_url: "https://m.media-amazon.com/images/I/71IwKUdkvQL._SL1500_.jpg"
+img_url: /images/books/The Sun Also Rises.jpg
 permalink: /books/Sun_Also_Rises/
 layout: book.njk
 ---

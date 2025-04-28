@@ -1,10 +1,10 @@
 ---
 title: Crypt of the Moon Spider
-author: Ballingrud, Nathan
+author: 'Ballingrud, Nathan'
 pages: 100
-tags: horror, fantasy, novella
-date_read: 2025-01-03
-img_url: "https://m.media-amazon.com/images/I/91SpLNzbWIL._SL1500_.jpg"
+tags: 'horror, fantasy, novella'
+date_read: 2025-01-03T00:00:00.000Z
+img_url: /images/books/Crypt of the Moon Spider.jpg
 permalink: /books/Crypt_of_the_Moon_Spider/
 layout: book.njk
 ---

@@ -1,11 +1,11 @@
 ---
 title: The Women
-author: Hannah, Kristen
-hours: 14 
-tags: historical fiction, abandoned, audio
-date_read: 2025-03-13
+author: 'Hannah, Kristen'
+hours: 14
+tags: 'historical fiction, abandoned, audio'
+date_read: 2025-03-13T00:00:00.000Z
 published: 2024
-img_url: "https://m.media-amazon.com/images/I/913C+MR3S5L._SL1500_.jpg"
+img_url: /images/books/The Women.jpg
 permalink: /books/The_Women/
 layout: book.njk
 ---

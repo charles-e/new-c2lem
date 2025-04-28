@@ -1,11 +1,14 @@
 ---
 title: Mistborn&#58 The Final Empire
-author:  Sanderson,Brandon
+author: 'Sanderson,Brandon'
 pages: 576
 hours: 24.6
-tags: [fantasy, abandoned, audio]
-date_read: 2025-01-20
-img_url: "https://m.media-amazon.com/images/I/91U6rc7u0yL._SL1500_.jpg"
+tags:
+  - fantasy
+  - abandoned
+  - audio
+date_read: 2025-01-20T00:00:00.000Z
+img_url: '/images/books/Mistborn: The Final Empire.jpg'
 permalink: /books/Mistborn/
 layout: book.njk
 ---

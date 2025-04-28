@@ -1,12 +1,13 @@
 ---
 title: Survivor
-author: Butler, Octavia E.
-date_read: 2025-02-30
+author: 'Butler, Octavia E.'
+date_read: 2025-03-02T00:00:00.000Z
 published: 1978
-tags: [scifi]
+tags:
+  - scifi
 series: Patternist
 pages: 185
-img_url: "https://m.media-amazon.com/images/I/71-T9jdHATL._SL1500_.jpg"
+img_url: /images/books/Survivor.jpg
 permalink: /books/Survivor/
 layout: book.njk
 ---

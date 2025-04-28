@@ -1,12 +1,12 @@
 ---
 title: Wild Seed
-author: Butler, Octavia E.
-date_read: 2025-02-16
+author: 'Butler, Octavia E.'
+date_read: 2025-02-16T00:00:00.000Z
 published: 1980
 tags: fantasy
-series: Patternist #1
+series: Patternist
 length: 248 pages
-img_url: "https://m.media-amazon.com/images/I/817U1RLaykL._SL1500_.jpg"
+img_url: /images/books/Wild Seed.jpg
 permalink: /books/Wild_Seed/
 layout: book.njk
 ---

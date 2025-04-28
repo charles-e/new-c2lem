@@ -1,11 +1,11 @@
 ---
 title: The Fourth Consort
-author:  Ashton, Edward
-tags: scifi, humor
-date_read: 2025-04-05
+author: 'Ashton, Edward'
+tags: 'scifi, humor'
+date_read: 2025-04-05T00:00:00.000Z
 published: 2025
 pages: 288
-img_url: "https://m.media-amazon.com/images/I/814Kr-QbJ6L._SL1500_.jpg"
+img_url: /images/books/The Fourth Consort.jpg
 permalink: /books/Fourth_Consort/
 layout: book.njk
 ---

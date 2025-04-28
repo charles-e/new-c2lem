@@ -1,13 +1,13 @@
 ---
 title: The Hunger Games
-author: Collins, Suzanne
-date_read: 2025-03-16
-tags: young adult, dystopian, post-apcolyptic, adventure, audio
+author: 'Collins, Suzanne'
+date_read: 2025-03-16T00:00:00.000Z
+tags: 'young adult, dystopian, post-apcolyptic, adventure, audio'
 hours: 10.5
 published: 2018
 publisher: Scholastic Audio
-narrator: Maslany, Tatiana
-img_url: "https://m.media-amazon.com/images/I/51ZTuVrkzbL._SL1200_.jpg"
+narrator: 'Maslany, Tatiana'
+img_url: /images/books/The Hunger Games.jpg
 permalink: /books/Hunger_Games/
 layout: book.njk
 ---

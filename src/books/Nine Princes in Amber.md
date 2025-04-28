@@ -1,17 +1,17 @@
 ---
 title: Nine Princes in Amber
-author: Zelazny, Roger
-date_started: 2025-04-08
-date_read: 2025-04-16
-tags: [fantasy]
+author: 'Zelazny, Roger'
+date_started: 2025-04-08T00:00:00.000Z
+date_read: 2025-04-16T00:00:00.000Z
+tags:
+  - fantasy
 publisher: Doubleday
 pages: 175
 published: 1970
-series: The Chronicles of Amber #1
-img_url: "https://m.media-amazon.com/images/I/81Q-EsxaG7S._SL1500_.jpg"
+series: The Chronicles of Amber
+img_url: /images/books/Nine Princes in Amber.jpg
 permalink: /books/Nine_Princes_in_Amber/
 layout: book.njk
-
 ---
 I read this a looooong time ago (sometime between 1980 and 1990 maybe).  The only way I am sure that I read it is that I remember a couple of the plot devices, perhaps the most iconic one is the Deck of Trumps which is like a Tarot deck but each card has the likeness of one of the nine Princes (and some other royal family members) and can be used to both communicate with and transport the Princes to one another.  They are the Princes of Amber which is the eternal most perfect most real city (or Kingdom I think really). Anyway that's as good a place to start as any with this book.  
 

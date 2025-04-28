@@ -1,14 +1,14 @@
 ---
 title: Where the Axe is Buried &colon; A Novel
-author: Nayler, Ray
+author: 'Nayler, Ray'
 pages: 338
-tags: sci-fi, suspense, espionage russia
-date_started: 2025-04-12
-date_read: 2025-04-12
+tags: 'sci-fi, suspense, espionage russia'
+date_started: 2025-04-12T00:00:00.000Z
+date_read: 2025-04-12T00:00:00.000Z
 publisher: MCD
 published: 2025
 format: soft-cover
-img_url: "https://m.media-amazon.com/images/I/A1vQL7asugL._SL1500_.jpg"
+img_url: /images/books/Where the Axe is Buried.jpg
 permalink: /books/Where_the_Axe_is_Buried/
 layout: book.njk
 ---

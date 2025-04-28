@@ -8,7 +8,8 @@ module.exports = function(eleventyConfig) {
   // passthrough css & js
   eleventyConfig.addPassthroughCopy({"src/_includes/css": "css"});
   eleventyConfig.addPassthroughCopy({"src/_includes/scripts": "scripts"});
-  
+  eleventyConfig.addPassthroughCopy({ "src/images": "images" });
+
   eleventyConfig.addFilter('xmlEscape', function(value) {
     if (!value) return '';
     return value.replace(/&/g, '&amp;')
@@ -37,15 +38,49 @@ module.exports = function(eleventyConfig) {
       }
     });
   
-
+    eleventyConfig.addPlugin(pluginRss, {
+      type: "rss", // or "atom", "json"
+      outputPath: "/weekies_rss.xml",
+      template: "weeklies_feed.njk",
+      collection: {
+        name: "weekliesSorted", // replace with your collection name
+        limit: 0,     // 0 means no limit
+      },
+      metadata: {
+        language: "en",
+        title: "c2lem/weeklies",
+        subtitle: "just news & stuff",
+        base: "https://c2lem.com/",
+        author: {
+          name: "lemagne",
+          email: "charles.eubanks@gmail.com",
+        }
+      }
+    });
   // Collection to list all books sorted by date
   eleventyConfig.addCollection("allBooksSorted", function (collectionApi) {
     return collectionApi.getFilteredByGlob("src/books/*.md")
-      .sort((a, b) => {
+    .filter(book => book.data.date_read) // ✅ ONLY books that have date_read
+      .sort((b,a) => {
         const dateA = a.data.date_read || a.data.date_started;
         const dateB = b.data.date_read || b.data.date_started;
-        return new Date(dateB) - new Date(dateA); // Newest first
+        return new Date(dateA) - new Date(dateB); // Newest first
       });
+  });
+
+  eleventyConfig.addCollection("allPendingBooks", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/books/*.md")
+      .filter(book => !book.data.date_read) // ✅ ONLY books WITHOUT date_read
+      .sort((a, b) => {
+        const dateA = a.data.date_started || book.date;
+        const dateB = b.data.date_started || book.date;
+        return new Date(dateB) - new Date(dateA);
+      });
+  });
+  
+  eleventyConfig.addCollection("weekliesSorted", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/weeklies/*.md")
+      .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
   });
 
   eleventyConfig.addFilter("date", (dateObj) => {

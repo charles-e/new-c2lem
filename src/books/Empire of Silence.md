@@ -1,11 +1,13 @@
 ---
 title: Empire of Silence
-series: The Sun Eaters #1
-author: Ruocchio,Christopher
+series: The Sun Eaters
+author: 'Ruocchio,Christopher'
 pages: 545
-tags: [scifi, space opera]
-date_read: 2025-01-09
-img_url: "https://m.media-amazon.com/images/I/81Y4R71134L._SL1500_.jpg"
+tags:
+  - scifi
+  - space opera
+date_read: 2025-01-09T00:00:00.000Z
+img_url: /images/books/Empire of Silence.jpg
 permalink: /books/Empire_of_Silence/
 layout: book.njk
 ---
