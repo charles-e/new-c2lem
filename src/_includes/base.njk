@@ -7,13 +7,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="Books RSS Feed" href="/books_feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Weeklies RSS Feed" href="/weeklies_feed.xml">
+
 </head>
 
 <body>
-<nav>
-  <a href="/" class="{% if page.url == '/' %}active{% endif %}">c2lem</a> |
-  <a href="/books/" class="{% if page.url == '/books/' %}active{% endif %}">Books</a> |
-<a href="/books/in-progress/" class="{% if page.url == '/books/in-progress/' %}active{% endif %}">Now Reading</a> |
+<nav class="site-nav">
+  <a href="/" class="{% if page.url == '/' %}active{% endif %}">c2lem</a> 
+  <a href="/books/" class="{% if page.url == '/books/' %}active{% endif %}">Books</a> 
+<a href="/books/in-progress/" class="{% if page.url == '/books/in-progress/' %}active{% endif %}">Now Reading</a> 
   <a href="/weeklies/" class="{% if page.url == '/weeklies/' %}active{% endif %}">Blog</a>
 </nav>
   <main>
@@ -21,5 +24,12 @@
     {{ content | safe }}
   {% endblock %}
     </main>
+    <footer>
+  <p>© 2025 c2lem.com</p>
+  <p>
+    <a href="/books_feed.xml">Books RSS</a> | 
+    <a href="/weeklies_feed.xml">Weeklies (Blog) RSS</a>
+  </p>
+</footer>
 </body>
 </html>

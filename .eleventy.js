@@ -28,7 +28,7 @@ module.exports = function(eleventyConfig) {
       },
       metadata: {
         language: "en",
-        title: "c2lem/books",
+        title: "c2lem/books RSS Feed",
         subtitle: "Book Notes",
         base: "https://c2lem.com/",
         author: {
@@ -37,10 +37,11 @@ module.exports = function(eleventyConfig) {
         }
       }
     });
-  
+      eleventyConfig.addGlobalData("siteTitle", "c2lem");
+          
     eleventyConfig.addPlugin(pluginRss, {
       type: "rss", // or "atom", "json"
-      outputPath: "/weekies_rss.xml",
+      outputPath: "/weeklies_rss.xml",
       template: "weeklies_feed.njk",
       collection: {
         name: "weekliesSorted", // replace with your collection name
@@ -48,7 +49,7 @@ module.exports = function(eleventyConfig) {
       },
       metadata: {
         language: "en",
-        title: "c2lem/weeklies",
+        title: "c2lem/weeklies RSS Feed",
         subtitle: "just news & stuff",
         base: "https://c2lem.com/",
         author: {
