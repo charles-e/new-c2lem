@@ -11,5 +11,6 @@ img_url: /images/books/Catching_Fire.jpg
 format: audio
 permalink: /books/Catching_Fire/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 replace me

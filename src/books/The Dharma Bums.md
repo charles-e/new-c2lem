@@ -8,6 +8,7 @@ published: 1958
 img_url: /images/books/The Dharma Bums.jpg
 permalink: /books/Dharma_Bums/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 This is an important book mostly because Kerouac was an "influenster", back in the day, for the beatniks, who are basically proto-hippies.  Ray, the protagonist (a thinly veiled JK) wanders around the United States as a hobo (or as 
 he would put it a "bhikhu", a mendicant monk) along with his best buddy, Japhy and several other hangers on.  He is a buddhist, an alcoholic in denial, and a recognized poet who receives academic grants for his writing.  He does a lot of hiking in California and beautifully describes some beautiful country, notably to me, as a backpacker starting in the 1970's is that he is able to drink unfiltered water from streams. This an interesting

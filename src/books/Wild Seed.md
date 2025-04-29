@@ -9,6 +9,7 @@ length: 248 pages
 img_url: /images/books/Wild Seed.jpg
 permalink: /books/Wild_Seed/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 
 I am reading this as part of the black tiktok curriculum project.  By chronology this is the first book in 

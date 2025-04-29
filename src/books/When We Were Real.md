@@ -10,6 +10,7 @@ publisher: S&S/Saga Press
 pages: 464
 permalink: /books/When_We_Were_Real/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 This book takes place some five years after "The Announcement", the day humanity was informed that they are actually living in a simulation.  The "Simulationists" made this manifest by planting the scrolling message, "You are living in a simulation.", in the dreams of every single person on Earth.  Additionally, in order, apparently, to absolutely refute disbelief, the Simulationists simultaneously revealed multitudes of science-defying easter eggs, (called "the Impossibles") distributed across the planet.  
 

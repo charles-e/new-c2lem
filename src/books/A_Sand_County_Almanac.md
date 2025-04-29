@@ -7,5 +7,6 @@ tags:
 img_url: /images/books/A_Sand_County_Almanac.jpg
 permalink: /books/A_Sand_County_Almanac/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 replace me

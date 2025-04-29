@@ -9,5 +9,6 @@ language: swedish
 img_url: /images/books/On The Calculation of Volume 1..jpg
 permalink: /books/Calculation_of_Volume_1/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 replace me

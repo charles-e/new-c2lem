@@ -12,5 +12,6 @@ publisher: Barnes & Noble Books
 img_url: /images/books/Sentimental Education.jpg
 permalink: /books/Sentimental_Education/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 blah blah blah

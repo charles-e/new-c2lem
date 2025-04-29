@@ -8,5 +8,6 @@ tags:
 img_url: /images/books/A_Wrinkle_in_Time.jpg
 permalink: /books/A_Wrinkle_in_Time/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 replace me

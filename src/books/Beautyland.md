@@ -9,6 +9,7 @@ date_read: 2025-02-20T00:00:00.000Z
 img_url: /images/books/Beautyland.jpg
 permalink: /books/Beautyland/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 I heard about this book from my sister and that was good enough to intrigue me... and here we are.  
 This is the life story of a woman Adina, who, from infancy,

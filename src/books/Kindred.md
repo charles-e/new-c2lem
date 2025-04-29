@@ -9,6 +9,7 @@ pages: 264
 img_url: /images/books/Kindred.jpg
 permalink: /books/Kindred/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 
 The protagonist, Dana a black woman living in Los Angeles and the year is 1976 is somehow caught in a timetravel phenomena where she is pulled back in time to 1815 by her ancestor, Rufus, the son of a white plantation owner and slave holder.  On her first trip in time Rufus is a child drowning. Dana rescues him and after manages eventually to return to her own time only missing 10 minutes.  On her third trip to slave times by coincidence her husband a white man is pulled back along with her.  

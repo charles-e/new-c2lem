@@ -8,6 +8,7 @@ pages: 288
 img_url: /images/books/The Fourth Consort.jpg
 permalink: /books/Fourth_Consort/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 <blockquote>
 She held out her hand. "My name is Neera Agarwal. I'm here to change the course of your life. How would you like to leave this shit town and that bitch of a bartender behind you forever? Tell me, my sad sack friend—how would you like to be a spaceman?"

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Minimal starter with src/ structure for c2lem.com",
   "scripts": {
+    "update:postDate" : "node scripts/add-post-date.js",
     "update:weeklies": "node scripts/update-weeklies-fm.js",
     "update:markdown": "node scripts/update-markdown-images.js",
     "download:images": "node scripts/download-images.js",

@@ -7,6 +7,7 @@ date_read: 2025-01-03T00:00:00.000Z
 img_url: /images/books/Crypt of the Moon Spider.jpg
 permalink: /books/Crypt_of_the_Moon_Spider/
 layout: book.njk
+date_posted: '2025-04-15'
 ---
 This novella (100 pages) follows Veronica Brinkley the wife of a wealthy husband. Said husband is admitting her to an asylum presumably to cure her of chronic depression.
 The year is 1923 and by the way the asylum/hospital is on the moon.  And the doctor and his assistant really do not seemed concerned with treating her.  They are drugging
