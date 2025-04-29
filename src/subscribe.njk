@@ -1,0 +1,25 @@
+---
+title: Subscribe
+layout: base.njk
+permalink: /subscribe/
+---
+
+<main class="subscribe-page">
+
+  <h1>Subscribe</h1>
+
+  <p>Want to keep up with the latest book notes, weekly finds, and blog updates?  
+  Enter your email below to subscribe. No spam — just thoughtful updates whenever there's something worth sharing.</p>
+
+  <form action="https://buttondown.email/api/emails/embed-subscribe/charles.e" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/charles.e', 'popupwindow')">
+    <label for="bd-email" class="subscribe-label">Email Address</label><br>
+    <input type="email" name="email" id="bd-email" class="subscribe-input" required>
+    <br>
+    <input type="submit" value="Subscribe" class="subscribe-button">
+  </form>
+
+  <p style="margin-top: 2rem; font-size: 0.9rem; color: #777;">
+    You can unsubscribe at any time. Powered by <a href="https://buttondown.email/" target="_blank" rel="noopener noreferrer">Buttondown</a>.
+  </p>
+
+</main>

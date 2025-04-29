@@ -320,3 +320,47 @@ body {
     font-size: 0.85rem;
     color: #888;
   }
+  .subscribe-page {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .subscribe-input {
+    width: 100%;
+    max-width: 400px;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+  .subscribe-button {
+    margin-top: 1rem;
+    background-color: #8b5e3c;
+    color: white;
+    border: none;
+    padding: 0.6rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .subscribe-button:hover {
+    background-color: #6e4228;
+  }
+  
+  .subscribe-label {
+    font-weight: bold;
+  }
+  
+  .thank-you-page {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+    text-align: center;
+  }
+    
