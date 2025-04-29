@@ -9,6 +9,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({"src/_includes/css": "css"});
   eleventyConfig.addPassthroughCopy({"src/_includes/scripts": "scripts"});
   eleventyConfig.addPassthroughCopy({ "src/images": "images" });
+  eleventyConfig.addPassthroughCopy({ "public": "/" });
 
   eleventyConfig.addFilter('xmlEscape', function(value) {
     if (!value) return '';
