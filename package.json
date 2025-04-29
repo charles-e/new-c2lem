@@ -2,19 +2,19 @@
   "name": "minimal-src-c2lem-site",
   "version": "1.0.0",
   "description": "Minimal starter with src/ structure for c2lem.com",
-"scripts": {
-  "update:weeklies": "node scripts/update-weeklies-fm.js",
-  "update:markdown": "node scripts/update-markdown-images.js",
-  "download:images": "node scripts/download-images.js",
-  "build": "eleventy",
-  "serve": "eleventy --serve "
-}
-,
+  "scripts": {
+    "update:weeklies": "node scripts/update-weeklies-fm.js",
+    "update:markdown": "node scripts/update-markdown-images.js",
+    "download:images": "node scripts/download-images.js",
+    "build": "eleventy",
+    "serve": "eleventy --serve "
+  },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-plugin-rss": "^2.0.3",
     "gray-matter": "^4.0.3",
     "luxon": "^3.6.1",
+    "markdown-it-link-attributes": "^4.0.1",
     "node-fetch": "^2.7.0"
   }
 }

@@ -1,8 +1,26 @@
 const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
+const markdownIt = require("markdown-it");
+const markdownItAttrs = require("markdown-it-link-attributes");
 
 module.exports = function(eleventyConfig) {
+
+  // Set up Markdown-It with link attributes
+  let markdownLib = markdownIt({
+    html: true,
+    linkify: true,
+    typographer: true
+  }).use(markdownItAttrs, {
+    pattern: /^https?:\/\//, // Only external links
+    attrs: {
+      target: "_blank",
+      rel: "noopener noreferrer"
+    }
+  });
+
+  eleventyConfig.setLibrary("md", markdownLib);
+
   eleventyConfig.addPlugin(pluginRss);
 
   // passthrough css & js
