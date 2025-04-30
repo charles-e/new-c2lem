@@ -4,7 +4,7 @@ layout: base.njk
 permalink: /
 ---
 
-# Welcome to c2lem.com
+# Welcome to c2lem<span>.</span>com
 
 ## Who?
 
@@ -29,7 +29,7 @@ Whatever I am interested in that's worth posting — for now this includes:
 
 ## How?
 - This site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/) because its free tier is **free**!
-- The site is build using the blog generator, [Eleventy](https://www.11ty.dev/), because both [ChatGPT](https://openai.com/chatgpt) and [Gemini](https://deepmind.google/technologies/gemini/) suggested it.
+- The site is built using the blog generator, [Eleventy](https://www.11ty.dev/), because both [ChatGPT](https://openai.com/chatgpt) and [Gemini](https://deepmind.google/technologies/gemini/) suggested it.
 - Consulting, coding and design assistance is (currently) provided by [ChatGPT](https://openai.com/chatgpt) at the $20 a month tier.
-- Human readable content with *opinions* is, ya know, created by me, myself and I.
+- Human readable content with *opinion* is, ya know, created by me, myself and I.
 - More [details](/origin-story/) of the origin story.

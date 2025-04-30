@@ -1,0 +1,39 @@
+---
+title: Weekly Newsletter Preview
+layout: base.njk
+permalink: /newsletter-preview/
+---
+
+<h1>Newsletter Preview</h1>
+
+<h2>🧠 Links of Late</h2>
+<ul>
+{% for post in collections.weekliesSorted %}
+  {% if post.date and post.date >= lastSunday %}
+    <li>
+      <strong>{{ post.data.title }}</strong> — <a href="{{ post.url }}">{{ post.url }}</a><br>
+      {{ renderMarkdownBody(post.inputPath | replace("src/", "")) | safe }}
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<h2>📖 Currently Reading</h2>
+<ul>
+{% for book in collections.allPendingBooks %}
+  <li><strong>{{ book.data.title }}</strong> by {{ book.data.author }}</li>
+{% endfor %}
+</ul>
+
+<h2>📚 Recent Book Commentary </h2>
+<ul>
+{% for book in collections.allBooksSorted %}
+  {% if book.data.date_posted >= lastSunday %}
+    <li>
+      <strong>{{ book.data.title }}</strong> by {{ book.data.author }} — <a href="{{ book.url }}">{{ book.url }}</a><br>
+      {{ book.templateContent | safe }}
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+

@@ -21,6 +21,14 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownLib);
 
+
+  eleventyConfig.addNunjucksShortcode("renderMarkdownBody", function (relativePath) {
+    const fullPath = path.join(__dirname, "src", relativePath);
+    const raw = fs.readFileSync(fullPath, "utf8");
+    const parsed = matter(raw);
+    return markdownLib.render(parsed.content);
+  });
+
   eleventyConfig.addPlugin(pluginRss);
 
   // passthrough css & js
@@ -78,16 +86,12 @@ module.exports = function(eleventyConfig) {
       }
     });
   // Collection to list all books sorted by date
-  eleventyConfig.addCollection("allBooksSorted", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("src/books/*.md")
-    .filter(book => book.data.date_read) // ✅ ONLY books that have date_read
-      .sort((b,a) => {
-        const dateA = a.data.date_read || a.data.date_started;
-        const dateB = b.data.date_read || b.data.date_started;
-        return new Date(dateA) - new Date(dateB); // Newest first
-      });
+  eleventyConfig.addCollection("allBooksSorted", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("./src/books/*.md").filter(book => book.data.date_posted).sort((a, b) => {
+      return new Date(b.data.date_posted) - new Date(a.data.date_posted);
+    });
   });
-
+  
   eleventyConfig.addCollection("allPendingBooks", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/books/*.md")
       .filter(book => !book.data.date_read) // ✅ ONLY books WITHOUT date_read
@@ -115,7 +119,7 @@ module.exports = function(eleventyConfig) {
       return dt.toFormat("LLLL d, yyyy"); // Example: January 1, 2025
     }
   });
-  
+
   return {
     dir: {
       input: "src",

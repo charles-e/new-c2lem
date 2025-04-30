@@ -5,10 +5,10 @@ permalink: /origin-story/
 date: 2025-04-30
 ---
 # Origin Story
-I have been maintaining a blog on [WordPress.com](https://wordpress.com), but I found that as a beginner, it really wants me to "pick a lane" for my content (either book stuff or news stuff — no easy way to have them both without too much effort). 
+I have been maintaining a blog on [WordPress.com](https://wordpress.com), but I found that as a beginner, it really wants me to "pick a lane" for my content (either book stuff or news stuff — no easy way to have them both without too much effort). Also, to update the pages I have open a browser page and update the text on the WordPress site.  
 And on top of that, you __pay for the service__, which is just a low-grade stressor I don't need living in DJT's america.
 
-So I have been puttering around with a thing called [Web Origami](https://weborigami.org) hoping to eventually produce something I could host for cheaper than WordPress.
+So I have been puttering around with a thing called [Web Origami](https://weborigami.org) hoping to eventually produce something I could host for cheaper than WordPress. 
 
 - Then one day a few months ago, I found [Cloudflare Pages](https://pages.cloudflare.com/) , and its free tier lets me host the blog.
 - Last week, sick of hacking on web origami, elegantly-designed as it is, I decided to let an AI — specifically [Gemini](https://deepmind.google/technologies/gemini/) — help me design my blog to reuse the markdown posts that were already in WordPress. "What's the worst that could happen?", I thought.
