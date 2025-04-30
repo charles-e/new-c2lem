@@ -8,7 +8,7 @@ permalink: /weeklies/
 {% set latestPost = collections.weekliesSorted[0] %}
 
 <article class="latest-weekly">
-  <h2><a class="blog-title" href="{{ latestPost.url }}">{{ latestPost.data.title }}</a></h2>
+  <h2>Latest Links</h2>
   <div class="weekly-content">
     {{ latestPost.templateContent | safe }}
   </div>
