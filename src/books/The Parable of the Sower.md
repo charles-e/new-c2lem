@@ -8,4 +8,7 @@ permalink: /books/Parable_of_the_Sower/
 layout: book.njk
 date_posted: '2025-04-15'
 ---
-First thought after the first very short chapter: Wow, this writing has improved!
+* First thought after the first very short chapter: Wow, this writing has improved!  
+* Noticed today the dates of the diary entries start in 2024, and the dystopia is much more
+extreme than in DJT's America, but man it feels like he has put us on a path that ends in OB's
+dystopia.
