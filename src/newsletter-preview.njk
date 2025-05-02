@@ -20,7 +20,7 @@ permalink: /newsletter-preview/
 <h2>📖 Currently Reading</h2>
 <ul>
 {% for book in collections.allPendingBooks %}
-  <li><strong>{{ book.data.title }}</strong> by {{ book.data.author }}</li>
+  <li><strong>{{ book.data.title }}</strong> by {{ book.data.author | firstLast }}</li>
 {% endfor %}
 </ul>
 
@@ -28,7 +28,7 @@ permalink: /newsletter-preview/
 <ul>
 {% for book in collections.allBooksSorted %}
   {% if book.data.date_posted >= lastSunday %}
-      <h3>{{ book.data.title }}</strong> by {{ book.data.author }}</a></h3>
+      <h3>{{ book.data.title }}</strong> by {{ book.data.author | firstLast }}</a></h3>
       {{ book.templateContent | safe }}
   {% endif %}
 {% endfor %}

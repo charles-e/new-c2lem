@@ -18,10 +18,10 @@ title="search title, author, or tags (add an asterisk at the end)"
   </ul>
   {% for book in collections.allBooksSorted %}
     <a href="{{ book.url }}" title="{{ book.url }}" class="book-card" aria-label="{{ book.data.title }} by {{ book.data.author }}">
-      <img src="{{ book.data.img_url }}" alt="{{ book.data.title }} by {{ book.data.author }}" />
+      <img src="{{ book.data.img_url }}" alt="{{ book.data.title }} by {{ book.data.author | firstLast }}" />
       <div class="hover-info">
         <strong>{{ book.data.title }}</strong><br/>
-        <span>{{ book.data.author }}</span><br/>
+        <span>{{ book.data.author | firstLast}}</span><br/>
       </div>
     </a>
   {% endfor %}

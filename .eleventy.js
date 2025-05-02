@@ -21,14 +21,6 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownLib);
 
-
-  eleventyConfig.addNunjucksShortcode("renderMarkdownBody", function (relativePath) {
-    const fullPath = path.join(__dirname, "src", relativePath);
-    const raw = fs.readFileSync(fullPath, "utf8");
-    const parsed = matter(raw);
-    return markdownLib.render(parsed.content);
-  });
-
   eleventyConfig.addPlugin(pluginRss);
 
   // passthrough css & js
@@ -118,6 +110,23 @@ module.exports = function(eleventyConfig) {
     } else {
       return dt.toFormat("LLLL d, yyyy"); // Example: January 1, 2025
     }
+  });
+  
+  eleventyConfig.addFilter("firstLast", function (name) {
+    if (!name || typeof name !== "string") return name;
+  
+    // Handles single or multiple authors
+    return name
+      .split(/\s*;\s*/) // split multiple authors with `;` if used
+      .map(author => {
+        const parts = author.split(",");
+        if (parts.length === 2) {
+          return `${parts[1].trim()} ${parts[0].trim()}`;
+        } else {
+          return author.trim(); // fallback if already First Last or malformed
+        }
+      })
+      .join(", ");
   });
 
   return {

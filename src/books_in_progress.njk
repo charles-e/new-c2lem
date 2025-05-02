@@ -9,10 +9,10 @@ permalink: /books/in-progress/
 <div class="book-grid">
   {% for book in collections.allPendingBooks %}
     <a href="{{ book.url }}" class="book-card" aria-label="{{ book.data.title }} by {{ book.data.author }}">
-      <img src="{{ book.data.img_url }}" alt="{{ book.data.title }} by {{ book.data.author }}" />
+      <img src="{{ book.data.img_url }}" alt="{{ book.data.title }} by {{ book.data.author | firstLast }}" />
       <div class="hover-info">
         <strong>{{ book.data.title }}</strong><br/>
-        <span>{{ book.data.author }}</span>
+        <span>{{ book.data.author | firstLast }}</span>
       </div>
     </a>
   {% endfor %}
