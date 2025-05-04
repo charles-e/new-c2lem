@@ -85,7 +85,7 @@ module.exports = function(eleventyConfig) {
   });
   
   eleventyConfig.addCollection("allPendingBooks", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("src/books/*.md")
+    return collectionApi.getFilteredByGlob("src/books/*/*.md")
       .filter(book => !book.data.date_read) // ✅ ONLY books WITHOUT date_read
       .sort((a, b) => {
         const dateA = a.data.date_started || book.date;
