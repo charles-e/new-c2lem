@@ -7,7 +7,9 @@ module.exports = {
             Math.floor(DateTime.now().minus({ days: 7 }).toSeconds()),
         lastSunday: () => {
             let now = DateTime.now().startOf("day");
-            return now.minus({ days: now.weekday % 7 }).startOf("day")
+            let lastS = now.minus({ days: now.weekday % 7 }).startOf("day")
+            //console.log(`lastS = ${lastS}`)
+            return lastS
         },
         nextSunday: () => {
             let now = DateTime.now().startOf("day");

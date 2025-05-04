@@ -1,0 +1,35 @@
+---
+title: Weekly Newsletter Preview
+layout: base.njk
+permalink: /newsletter-send/
+---
+
+<h1>Newsletter Preview</h1>
+
+<h2>🧠 Links</h2>
+<ul>
+{% for post in collections.weekliesSorted %}
+  {% if post.date and post.date >= lastSundayNoon %}
+    <li>
+      {{ post.templateContent | safe }}
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<h2>📖 Currently Reading</h2>
+<ul>
+{% for book in collections.allPendingBooks %}
+  <li><strong>{{ book.data.title }}</strong> by {{ book.data.author | firstLast }}</li>
+{% endfor %}
+</ul>
+
+<h2>📚 Recent Book Commentary </h2>
+<ul>
+{% for book in collections.allBooksSorted %}
+  {% if book.data.date_posted >= lastSundayNoon %}
+      <h3><a href={{ book.data.permalink}}><strong>{{ book.data.title }}</strong></a> by {{ book.data.author | firstLast }}</h3>
+  {% endif %}
+{% endfor %}
+</ul>
+
