@@ -11,7 +11,7 @@ img_url: /images/books/Sourcery.jpg
 series: Discworld (Wizards
 permalink: /books/Sourcery/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 
 This is my first attempt to read Terry Pratchett (though I may have tried before and forgot).  People love the conceit of Discworld, with it's high-concept absurd mythos and british humor.  I wonder if, had I encountered these books near 1980 when I encountered and intensely loved _Hitchhiker's Guide_, I would I would be part of the Pratchett Posse, but I guess I am too old and jaded to join that club.  Yet I must say that in this novel Pratchett produces a steady stream of wit, and I must strongly proclaim, some really clever descriptive, even poetic, prose.  For example:

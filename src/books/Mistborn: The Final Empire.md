@@ -11,7 +11,7 @@ date_read: 2025-01-20T00:00:00.000Z
 img_url: '/images/books/Mistborn: The Final Empire.jpg'
 permalink: /books/Mistborn/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 
 I give Sanderson credit for developing a fantasy world and a system of magic that, apparently, many people enjoy.

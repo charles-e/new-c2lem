@@ -13,7 +13,7 @@ pages: 248
 img_url: /images/books/The Concrete Blonde.jpg
 permalink: /books/Concrete_Blond/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 Did Harry Bosch kill the wrong man when he tried to arrest the seeming Dollmaker Serial Killer?  The LAPD is
 being sued for wrongful death by the widow of the seeming killer and then the department receives a note

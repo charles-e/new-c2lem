@@ -9,7 +9,7 @@ date_read: 2024-12-08T00:00:00.000Z
 img_url: /images/books/Far From the Madding Crowd.jpg
 permalink: /books/Far_from_the_Madding_Crowd/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 Difficult 19th century sentences and unfamiliar Wessex dialect is challenging. The
 story of Bathsheba Everdene, a headstrong, impulsive, misbehaving, mistaken sheep

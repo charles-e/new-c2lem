@@ -10,7 +10,7 @@ date_read: 2025-01-09T00:00:00.000Z
 img_url: /images/books/Empire of Silence.jpg
 permalink: /books/Empire_of_Silence/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 This is the first book in a series that I have been meaning to read for a while.  It is a space opera that follows Hadrian Marlowe, the son
 of a wealthy family on  a planet called Terra.  The story is told in the first person and Hadrian is writing his memoirs.

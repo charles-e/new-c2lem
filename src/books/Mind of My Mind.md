@@ -10,7 +10,7 @@ series: Patternist
 img_url: /images/books/Mind of My Mind.jpg
 permalink: /books/Mind_of_My_Mind/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 
 This one centers around Mary, a young woman living in a suburb of Los Angeles.  Mary is black and comes from a broken family

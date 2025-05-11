@@ -15,6 +15,7 @@ series : Dungeon Crawler Carl #1
 hours : 13.5
 date_read: 2025-05-05
 date_posted: 2025-05-06
+permalink: /books/Dungeon_Crawler_Carl/
 layout: book.njk
 ---
 I actually started this several months ago and 50 pages in I abandoned because I decided this is just silly escapist trash. But I needed something new to listen to in the car and Cybil of all people ("not in to guy books") praised the audio edition and that was good enough for me to give it a second chance.

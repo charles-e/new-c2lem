@@ -1,7 +1,7 @@
 ---
 title: Sentimental Education
 author: 'Flaubert, Gustav'
-date_started: 2025-03-25T00:00:00.000Z
+date_started: '2025-03-25'
 tags:
   - edifying
   - french
@@ -12,6 +12,6 @@ publisher: Barnes & Noble Books
 img_url: /images/books/Sentimental Education.jpg
 permalink: /books/Sentimental_Education/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 blah blah blah

@@ -11,7 +11,7 @@ format: soft-cover
 img_url: /images/books/The Third Law of Time Travel.jpg
 permalink: /books/Third_Law_of_Time_Travel/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 Let's save you some time: Have you read 2 or 3 time-travel books and enjoyed them?  Do you enjoy quick reads?  Great then this book is for you; stop reading here!
 

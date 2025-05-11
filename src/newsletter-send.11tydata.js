@@ -10,7 +10,7 @@ module.exports = {
             let now = DateTime.now();
             console.log(`now = ${now}`)
 
-            let prevWeek = DateTime.now().minus( {days: 7} );
+            var prevWeek = DateTime.now().minus( {days: 7} );
             console.log(`prevWeek = ${prevWeek}`)
            // let retVal = now.minus({ days: now.weekday % 7 }).set({ hour: 12, minute: 0, second: 0, millisecond: 0 });
           //  console.debug(retVal);

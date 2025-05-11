@@ -8,7 +8,7 @@ tags:
 img_url: /images/books/The Bright Sword.jpg
 permalink: /books/Bright_Sword/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 “Crouching in the stern, he watched the umbilical of wake that connected him to his island home disperse and fade away.
 The sky above Mull was wild and windblown, here dropping curtains of gray rain, there lighting up a headland with a clear shaft

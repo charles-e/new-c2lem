@@ -13,7 +13,7 @@ series: Harry Bosch
 img_url: /images/books/The Black Ice.jpg
 permalink: /books/Black_Ice/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 Another early (#2) Bosch novel; this one starts as a police suicide but Bosch suspects more is involved.  Eventually the plot revolves around
 Mexican drug ("black-ice" = tar-heroin+PCP) smuggling.  Much of the action takes place in Calexico/Mexicali.  Again this is a dated pre-cellphone

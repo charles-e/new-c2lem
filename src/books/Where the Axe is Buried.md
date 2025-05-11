@@ -11,7 +11,7 @@ format: soft-cover
 img_url: /images/books/Where the Axe is Buried.jpg
 permalink: /books/Where_the_Axe_is_Buried/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 <blockquote>
 	Krotov had told him the state was not interested in whether people believed its lies. The state was not looking for plausible deniability. A good lie could always be punctured, with enough work. No, Krotov had said-all they needed was implausible deniability. A lie the population would see through immediately but would have to pretend they believed. Even to themselves.

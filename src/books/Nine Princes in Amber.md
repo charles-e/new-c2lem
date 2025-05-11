@@ -12,7 +12,7 @@ series: The Chronicles of Amber
 img_url: /images/books/Nine Princes in Amber.jpg
 permalink: /books/Nine_Princes_in_Amber/
 layout: book.njk
-date_posted: '2025-04-15'
+date_posted: 2025-04-15T00:00:00.000Z
 ---
 I read this a looooong time ago (sometime between 1980 and 1990 maybe).  The only way I am sure that I read it is that I remember a couple of the plot devices, perhaps the most iconic one is the Deck of Trumps which is like a Tarot deck but each card has the likeness of one of the nine Princes (and some other royal family members) and can be used to both communicate with and transport the Princes to one another.  They are the Princes of Amber which is the eternal most perfect most real city (or Kingdom I think really). Anyway that's as good a place to start as any with this book.  
 

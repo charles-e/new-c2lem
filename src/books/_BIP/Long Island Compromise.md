@@ -1,7 +1,7 @@
 ---
 title: Long Island Compromise
 author: Brodesser-Akner, Taffy
-date_started: 2025-04-1
+date_started: '2025-04-01'
 tags:  
     - humor 
     - jewish
