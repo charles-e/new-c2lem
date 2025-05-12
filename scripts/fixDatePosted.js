@@ -15,14 +15,14 @@ function fixDatePostedInFile(filePath) {
   const raw = fs.readFileSync(filePath, "utf-8");
   const parsed = matter(raw);
   const datePosted = parsed.data.date_posted;
-  console.log(datePosted);
+  console.log(`${parsed.data.title} ${datePosted} ${typeof datePosted}`);
   if (typeof datePosted === "string" && !isIsoDate(datePosted)) {
     let dt = DateTime.fromFormat(datePosted, "M/d/yyyy");
 
     if (!dt.isValid) {
       dt = DateTime.fromJSDate(new Date(datePosted));
     }
-    console.log(`dt = ${dt}`)
+    console.log(`${parsed.data.title} dt = ${dt}`)
     if (dt.isValid) {
       //parsed.data.date_posted = dt.toFormat("yyyy-MM-dd");
       parsed.data.date_posted = dt.toJSDate(); // 👈 full ISO format
