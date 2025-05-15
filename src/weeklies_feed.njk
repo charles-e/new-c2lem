@@ -18,9 +18,9 @@
 <channel>
 	<title>c2lem.com Weeklies Feed</title>
 	<atom:link href="https://c2lem.com/weeklies_feed.xml/" rel="self" type="application/rss+xml" />
-	<link>https://c2lem.com/</link>
+	<link>https://c2lem.com/weeklies_feed.xml</link>
 	<description>No trackers, no ads. Black type, polite background. Privacy policy: we don&#039;t collect or retain any data at all ever period.</description>
-	<lastBuildDate>{{ collections.weekliesSorted | getNewestCollectionItemDate | dateToRfc3339}}</lastBuildDate>
+	<lastBuildDate>{{ collections.weekliesSorted | getNewestCollectionItemDate | dateToRfc822}}</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -44,7 +44,7 @@
   <link href="{{ permalink | htmlBaseUrl(metadata.base) }}" rel="self" />
   <link href="{{ metadata.base | addPathPrefixToFullUrl }}" />
   <updated
-    >{{ collections.weekliesSorted | getNewestCollectionItemDate | dateToRfc3339
+    >{{ collections.weekliesSorted | getNewestCollectionItemDate | dateToRfc822
     }}</updated
   >
   <id>{{ metadata.base | addPathPrefixToFullUrl }}</id>
