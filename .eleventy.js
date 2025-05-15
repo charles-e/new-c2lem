@@ -47,7 +47,7 @@ module.exports = function (eleventyConfig) {
     template: "books_feed.njk",
     collection: {
       name: "allBooksSorted", // replace with your collection name
-      limit: 20,     // 0 means no limit
+      limit: 2,     // 0 means no limit
     },
     metadata: {
       language: "en",
@@ -68,7 +68,7 @@ module.exports = function (eleventyConfig) {
     template: "weeklies_feed.njk",
     collection: {
       name: "weekliesSorted", // replace with your collection name
-      limit: 10,     // 0 means no limit
+      limit: 2,     // 0 means no limit
     },
     metadata: {
       language: "en",
