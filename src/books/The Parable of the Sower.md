@@ -18,7 +18,7 @@ length: 356
 </blockquote>
 The story establishes a future California, USA which is dystopian, or rather in what could be called a long, ugly decline. Nothing extraordinary about the decline so I assume the primary factor is climate change, but it is not made explicit.  This is not apocalypse, there are still lots of people, actual government with paper currency, but of the characters (all brown or mixed-race), they are all struggling to survive; they only see distant glimpses of progress, prosperity such as space travel, wall-sized televisions, safe corporate settlements, paying jobs in the Washington, Canada.  
 
-The structure of this book is of a frog being boiled. It begins in “Robledo” outside LA with several small tragedies over a few years leading to complete disaster (Lauren is sole survivor in family) in the middle of the story. Our protagonist emerges to begin a pilgrimage north with a slow improvement in conditions in the second half.  It ends with Lauren and her new clan settled somewhere around Mendocino and having chosen a mate (but not quite married)
+The structure of this book is of a frog being boiled. It begins in a walled village in the town of “Robledo” (20 miles north of LA) with several small tragedies over a few years leading to complete disaster (Lauren is sole survivor in family) in the middle of the story. Our protagonist emerges to begin a pilgrimage north with a slow improvement in conditions in the second half.  It ends with Lauren and her new clan settled somewhere around Mendocino and having chosen a mate (but not quite married)
 
 There are few fantastical or technological plot devices:
 * Lauren’s “Hyperempathy” (which sounds suspiciously like a psychic ability.)

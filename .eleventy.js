@@ -43,7 +43,7 @@ module.exports = function(eleventyConfig) {
       template: "books_feed.njk",
       collection: {
         name: "allBooksSorted", // replace with your collection name
-        limit: 0,     // 0 means no limit
+        limit: 20,     // 0 means no limit
       },
       metadata: {
         language: "en",
@@ -51,8 +51,8 @@ module.exports = function(eleventyConfig) {
         subtitle: "Book Notes",
         base: "https://c2lem.com/",
         author: {
-          name: "lemagne",
-          email: "charles.eubanks@gmail.com",
+          name: "Charles",
+          email: "charles@c2lem.com",
         }
       }
     });
@@ -64,7 +64,7 @@ module.exports = function(eleventyConfig) {
       template: "weeklies_feed.njk",
       collection: {
         name: "weekliesSorted", // replace with your collection name
-        limit: 0,     // 0 means no limit
+        limit: 10,     // 0 means no limit
       },
       metadata: {
         language: "en",
@@ -72,8 +72,8 @@ module.exports = function(eleventyConfig) {
         subtitle: "just news & stuff",
         base: "https://c2lem.com/",
         author: {
-          name: "lemagne",
-          email: "charles.eubanks@gmail.com",
+          name: "Lemagne",
+          email: "lemagne@c2lem.com",
         }
       }
     });

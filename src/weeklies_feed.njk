@@ -8,30 +8,41 @@
     "language": "en",
     "base": "https://c2lem.com",
     "author": {
-      "name": "Newsy McNewsface"
+      "name": "C Lemagne"
     }
   }
 }
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ metadata.language or page.lang }}">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xml:lang="{{ metadata.language or page.lang }}"
+>
   <title>{{ metadata.title }}</title>
   <subtitle>{{ metadata.description }}</subtitle>
   <link href="{{ permalink | htmlBaseUrl(metadata.base) }}" rel="self" />
   <link href="{{ metadata.base | addPathPrefixToFullUrl }}" />
-  <updated>{{ collections.weekliesSorted | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <updated
+    >{{ collections.weekliesSorted | getNewestCollectionItemDate | dateToRfc3339
+    }}</updated
+  >
   <id>{{ metadata.base | addPathPrefixToFullUrl }}</id>
   <author>
     <name>{{ metadata.author.name }}</name>
   </author>
-  {%- for post in collections.weekliesSorted | reverse %}
-  {%- set absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.base) }}{% endset %}
+  {%- for post in collections.weekliesSorted | reverse %} {%- set
+  absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.base) }}{% endset %}
   <entry>
     <title>{{ post.data.title }}</title>
     <link href="{{ absolutePostUrl }}" />
     <updated>{{ post.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
-    <content type="html">{{ post.content | renderTransforms(post.data.page, metadata.base) }}</content>
+    <content type="html"
+      >{{ post.content | renderTransforms(post.data.page, metadata.base)
+      }}</content
+    >
   </entry>
   {%- endfor %}
 </feed>
+</rss>
