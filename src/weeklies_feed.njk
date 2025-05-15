@@ -53,14 +53,13 @@
   </author>
   {%- for post in collections.weekliesSorted | reverse %} {%- set
   absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.base) }}{% endset %}
-  <entry>
+  <item>
     <title>{{ post.data.title }}</title>
-    <link href="{{ absolutePostUrl }}" />
-    <updated>{{ post.date | dateToRfc3339 }}</updated>
-    <id>{{ absolutePostUrl }}</id>
-    <content type="html"
-      >{{ post.content | renderTransforms(post.data.page, metadata.base)
-      }}</content
+    <link>{{ absolutePostUrl }}</link>
+    <guid>{{ absolutePostUrl }}</guid>
+   <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+    <description>{{ post.content | renderTransforms(post.data.page, metadata.base)
+      }}</description>
     >
   </entry>
   {%- endfor %}
