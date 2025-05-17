@@ -6,6 +6,7 @@ const mkdirp = require('mkdirp');
 
 // Where your Markdown books live
 const booksFolder = path.join(__dirname, "../src/books");
+const readingFolder = path.join(__dirname, "../src/books/_BIP");
 
 // Where to save images locally
 const outputFolder = path.join(__dirname, "../src/images/books");
@@ -24,23 +25,32 @@ async function downloadImage(url, dest) {
     fileStream.on('finish', resolve);
   });
 }
-
 async function run() {
-  const files = fs.readdirSync(booksFolder).filter(file => file.endsWith(".md"));
+  await doFolder(booksFolder);
+  await doFolder(readingFolder);
+}
+
+async function doFolder(targetFolder) {
+  const files = fs.readdirSync(targetFolder).filter(file => file.endsWith(".md"));
 
   const downloads = [];
 
   for (const file of files) {
-    const fullPath = path.join(booksFolder, file);
+    const fullPath = path.join(targetFolder, file);
     const content = fs.readFileSync(fullPath, "utf8");
     const { data } = matter(content);
 
     if (data.img_url) {
       const imgUrl = data.img_url;
-      const filename = file.replace(/\.md$/, path.extname(imgUrl)); // keep extension from img
-      const destPath = path.join(outputFolder, filename);
+      if (imgUrl.startsWith("http")){
+        const filename = file.replace(/\.md$/, path.extname(imgUrl)); // keep extension from img
+        const destPath = path.join(outputFolder, filename);
 
-      downloads.push({ title: data.title, imgUrl, destPath });
+        downloads.push({ title: data.title, imgUrl, destPath });
+      }
+      else {
+        console.log(`already done ${file}`);
+      }
     }
   }
 
