@@ -16,6 +16,9 @@ layout: base.njk
     {% if tags %}
     <p><strong>Tags:</strong> {{ tags | join(', ') }}</p>
     {% endif %}
+    {% if date_read %}
+     <p><strong>Timeline:</strong> between {{ date_started}} and {{ date_read }}</p>
+    {% endif %}
   </div>
   <div class="book-body">
     {% block content %} {{ content | safe }} {% endblock %}

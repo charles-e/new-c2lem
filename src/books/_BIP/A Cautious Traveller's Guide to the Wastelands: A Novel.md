@@ -9,6 +9,6 @@ source: Kindle Unlimited
 published: 2024
 length: 310
 publisher: Flat Iron Books
-
+layout: book.njk
 ---
 replace me

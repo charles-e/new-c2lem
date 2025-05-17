@@ -10,5 +10,6 @@ bs_org: "https://bookshop.org/p/books/long-island-compromise-taffy-brodesser-akn
 amz_com: "https://www.amazon.com/dp/059313351X/?bestFormat=true&k=long%20island%20compromise"
 lvccld: "https://lvccld.bibliocommons.com/v2/record/S134C2748192"
 source: lvccld
+layout: book.njk
 ---
 replace me
