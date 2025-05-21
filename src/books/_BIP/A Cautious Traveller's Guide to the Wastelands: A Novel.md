@@ -8,7 +8,7 @@ img_url : "https://m.media-amazon.com/images/I/81r64T6lDXL._SL1500_.jpg"
 source: Kindle Unlimited
 published: 2024
 length: 310
-permalink: /books/BIP_/A_Cautious_Travellers_Guide
+permalink: /books/BIP_/A_Cautious_Travellers_Guide/
 publisher: Flat Iron Books
 layout: book.njk
 ---
