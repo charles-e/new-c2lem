@@ -1,7 +1,7 @@
 ---
 title: The Book of Love
 author: Link, Kelly
-date_started: 2024-04-1
+date_started: 2024-04-1T00:00:00.000Z
 date_read: 2024-04-09T00:00:00.000Z
 src: lvccld
 tags: 
