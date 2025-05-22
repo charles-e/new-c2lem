@@ -9,7 +9,7 @@ tags:
  - fantasy
  - young-adult 
 img_url : "/images/books/The Book of Love.jpg"
-permalink: /books/The_Book_of_Love
+permalink: /books/The_Book_of_Love/
 pages: 630
 publisher: Random House
 published: 2024
