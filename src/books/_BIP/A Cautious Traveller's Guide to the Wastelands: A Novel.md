@@ -19,3 +19,4 @@ layout: book.njk
 * <span meta="21@2025-05-21T19:50:07.236Z"></span> Marya is downwardly mobile - weiwei and her have a connection
 * <span meta="24@2025-05-21T20:06:21.457Z"></span> Part 2 begins 
 It is said that so much had been taken from the land that it was always hungry. It had been feeding off the blood spilled by the empires, and by the bones of the animals and people they left behind. It gained a taste for death.
+* <span meta="33@2025-05-22T04:12:12.118Z"></span> the stowaway had a bath after the captain had a dinner, now its chapter 4 
