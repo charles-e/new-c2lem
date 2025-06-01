@@ -2,6 +2,7 @@
 title: The Gate of The Feral Gods
 author: Dinniman, Matt
 date_started: 2025-05-14
+date_read: 2025-05-20
 tags: 
  - audio
  - fantasy 
