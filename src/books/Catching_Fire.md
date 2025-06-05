@@ -1,8 +1,8 @@
 ---
 title: Catching Fire
 author: 'Collins, Suzanne'
-date_started: 2025-04-13
-date_read: 2025-04-29
+date_started: 2025-04-13T00:00:00.000Z
+date_read: 2025-04-29T00:00:00.000Z
 tags:
   - fantasy
   - young-adult
@@ -12,7 +12,7 @@ img_url: /images/books/Catching_Fire.jpg
 format: audio
 permalink: /books/Catching_Fire/
 layout: book.njk
-date_posted: 2025-04-29
+date_posted: 2025-04-29T00:00:00.000Z
 ---
 Let's not even pretend this is a review: spoilers ahoy!
 

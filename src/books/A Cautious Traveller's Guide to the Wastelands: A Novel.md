@@ -1,12 +1,12 @@
 ---
-title: "A Cautious Traveller's Guide to the Wastelands: A Novel"
-author: Brooks, Sarah
-date_started: 2025-05-17
-date_read: 2025-05-27
+title: 'A Cautious Traveller''s Guide to the Wastelands: A Novel'
+author: 'Brooks, Sarah'
+date_started: 2025-05-17T00:00:00.000Z
+date_read: 2025-05-27T00:00:00.000Z
 date_posted: 2025-05-29T00:00:00.000Z
-tags: 
- - fantasy 
-img_url : "/images/books/A Cautious Traveller's Guide to the Wastelands: A Novel.jpg"
+tags:
+  - fantasy
+img_url: "/images/books/A Cautious Traveller''s Guide to the Wastelands: A Novel.jpg"
 source: Kindle Unlimited
 published: 2024
 length: 310

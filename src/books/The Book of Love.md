@@ -1,14 +1,14 @@
 ---
 title: The Book of Love
-author: Link, Kelly
-date_started: 2024-04-1T00:00:00.000Z
+author: 'Link, Kelly'
+date_started: 2024-04-01T00:00:00.000Z
 date_read: 2024-04-09T00:00:00.000Z
 src: lvccld
-tags: 
- - romance
- - fantasy
- - young-adult 
-img_url : "/images/books/The Book of Love.jpg"
+tags:
+  - romance
+  - fantasy
+  - young-adult
+img_url: /images/books/The Book of Love.jpg
 permalink: /books/The_Book_of_Love/
 pages: 630
 publisher: Random House

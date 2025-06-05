@@ -8,9 +8,9 @@ tags:
 img_url: /images/books/A_Wrinkle_in_Time.jpg
 permalink: /books/A_Wrinkle_in_Time/
 layout: book.njk
-date_posted: 2025-05-03
-date_read: 2025-05-03
-spoilers: yes
+date_posted: 2025-05-03T00:00:00.000Z
+date_read: 2025-05-03T00:00:00.000Z
+spoilers: 'yes'
 ---
 I have "known" since elementary school that I read _A Wrinkle in Time_ and "loved it".  I think/thought that I read it at least twice.  Then, a couple of weeks ago I had a notion that I could bond with Teresa's grandson, a fifth grader, by reading AWIT together with him. I figured that the book must still be a good choice if Disney made a movie out of it. But then after I brought it up with the child and experienced his very polite but noncommittal responses to the idea, the reality of the times dawned on me: 
 * He has no enthusiasm for reading

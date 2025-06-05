@@ -2,18 +2,18 @@
 title: Dungeon Crawler Carl
 author: 'Dinniman, Matt'
 date_started: 2025-05-1
-tags: 
-    - audio
-    - humor
-    - sci-fi
-    - fantasy 
-img_url : "/images/books/Dungeon Crawler Carl.jpg"
-narrator : Hays, Jeff
-publisher : Dandy House
-published : 2020
-series : Dungeon Crawler Carl #1
-hours : 13.5
-date_read: 2025-05-05
+tags:
+  - audio
+  - humor
+  - sci-fi
+  - fantasy
+img_url: /images/books/Dungeon Crawler Carl.jpg
+narrator: 'Hays, Jeff'
+publisher: Dandy House
+published: 2020
+series: Dungeon Crawler Carl
+hours: 13.5
+date_read: 2025-05-05T00:00:00.000Z
 date_posted: 2025-05-06T00:00:00.000Z
 permalink: /books/Dungeon_Crawler_Carl/
 layout: book.njk

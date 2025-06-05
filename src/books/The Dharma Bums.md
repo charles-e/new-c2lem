@@ -18,7 +18,7 @@ I would have loved more background as to
 how Ray came to consider himself a Buddhist and some explanation of the Buddhist vocabulary he used and mythos he referred to; in real life, JK read _The Buddhist Bible_ when he was in the merchant marine during WWII.
 
 
-[Our protagonist , "Ray" is pretty much Jack Kerouac. He begins the novel getting on a train from L.A. to San Francisco and rides it as a hobo.
+<!--Our protagonist , "Ray" is pretty much Jack Kerouac. He begins the novel getting on a train from L.A. to San Francisco and rides it as a hobo.
 Ray thinks of himself as a buddhist as a "bhikkhu" a mendicant monk, who aspires to be a bodhisattva. In Berkeley, he hangs out with his buddy
 Japhy and a few other poets partying with cheap red wine and having free love. I was seriously sceptical of this book during this section because
 our author really seemed to be flaunting just how exceptional he thought his anti-materialistic lifestyle was, when from my perspective he and his
@@ -44,4 +44,4 @@ Ray's inspiration, when in real life Kerouac read _The Buddhist Bible_ when he w
 
 This is more of a fictionalized memoir of JK than a story.  Set in the mid-1950s, it follows his travels over
 18 months from LA to Berkeley and then from LA back to North Carolina to his family's home, back to Berkeley and then,
-finally to Desolation Peak in upper Washington state.  It also includes hikes to Matterhorn Peak and to Mount Tamalpais.]: #
+finally to Desolation Peak in upper Washington state.  It also includes hikes to Matterhorn Peak and to Mount Tamalpais.-->

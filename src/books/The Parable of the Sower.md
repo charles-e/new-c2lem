@@ -3,10 +3,10 @@ title: The Parable of the Sower
 author: 'Butler, Octavia'
 date_started: '2025-04-23'
 date_read: '2025-05-10'
-tags: 
- - sci-fi
- - fantasy 
- - young-adult 
+tags:
+  - sci-fi
+  - fantasy
+  - young-adult
 img_url: /images/books/The Parable of the Sower.jpg
 permalink: /books/Parable_of_the_Sower/
 layout: book.njk
