@@ -12,7 +12,7 @@ permalink: /books/Library_at_Mount_Char/
 layout: book.njk
 publisher: Crown
 published: 2016
-date_posted: 20205-06-07:00:00:00:000Z
+date_posted: 2025-06-07:00:00:00:000Z
 ---
 This was fun, weird, right up my alley. Mr Hawkins has a good twisty plot and vivid characters described ... vividly, but the secret sauce is that he combines the mundane world with the fantastical in surprising ways and pulls this trick off through out the 400ish pages.
 
