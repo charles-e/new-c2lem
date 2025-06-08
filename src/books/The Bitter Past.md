@@ -14,6 +14,7 @@ pages: 305
 source: used
 layout: book.njk
 date_posted: 2025-06-06T00:00:00.000Z
+permalink: /books/Bitter Past/
 ---
 Wow, this book, by a new local author came to me from the local used bookstore so I didn't not have particularly high expectations for it: it far surpassed my expectations. 
 It had been sitting in  my TBR pile months and started it out of a feeling of guilt only to find an hour later that I was 60 pages into a 300 page novel that I knew I was going to finish quickly.

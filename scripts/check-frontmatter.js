@@ -13,6 +13,7 @@ let missing_perm = [];
 let bad_perm = [];
 
 for (const file of files) {
+    console.log(file);
     const raw = fs.readFileSync(file, "utf-8");
     const fm = matter(raw);
 
@@ -26,10 +27,7 @@ for (const file of files) {
     if (!fm.data.img_url.startsWith("/images/books/")) {
         bad_img.push(file);
     }
-    if (!fm.data.permalink) {
-        missing_perm.push(file);
-    }
-    if (!fm.data.permalink.startsWith("/books/") || !fm.data.permalink.endsWith("/")) {
+    if (!fm.data.permalink || !fm.data.permalink.startsWith || !fm.data.permalink.startsWith("/books/") || !fm.data.permalink.endsWith("/")) {
         bad_perm.push(file);
     }
 }
