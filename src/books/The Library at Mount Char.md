@@ -10,9 +10,10 @@ tags:
 img_url : "/images/books/The Library at Mount Char.jpg"
 permalink: /books/BIP_/Library_at_Mount_Char/
 layout: book.njk
+publisher:
 date_posted: 20205-06-08:00:00:00:000Z
 ---
-This was fun, weird, right up my alley. Mr Hawkins has a good twisty plot and vivid characters described ... vividly, but the secret sauce is that he combines the mundane world with the fantastical in surprising ways and pulls this trick off through out the 300ish pages.
+This was fun, weird, right up my alley. Mr Hawkins has a good twisty plot and vivid characters described ... vividly, but the secret sauce is that he combines the mundane world with the fantastical in surprising ways and pulls this trick off through out the 400ish pages.
 
 <blockquote> Carolyn stretched her hand out to touch the bronze handle protruding from the deer’s torso. The metal was warm. It trembled slightly under her fingertips, magnifying the faint, fading vibrations of [the deer] Isha’s gentle heart.</blockquote>
 
