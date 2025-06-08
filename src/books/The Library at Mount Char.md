@@ -8,7 +8,7 @@ tags:
  - fantasy 
  - side-quest
 img_url : "/images/books/The Library at Mount Char.jpg"
-permalink: /books/BIP_/Library_at_Mount_Char/
+permalink: /books/Library_at_Mount_Char/
 layout: book.njk
 publisher: Crown
 published: 2016
