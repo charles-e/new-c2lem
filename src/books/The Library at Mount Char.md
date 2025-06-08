@@ -7,9 +7,10 @@ src: Hoopla
 tags: 
  - fantasy 
  - side-quest
-img_url : "https://m.media-amazon.com/images/I/911qUqabOLL._SL1500_.jpg"
+img_url : "/images/books/The Library at Mount Char.jpg"
 permalink: /books/BIP_/Library_at_Mount_Char/
 layout: book.njk
+date_posted: 20205-06-08:00:00:00:000Z
 ---
 This was fun, weird, right up my alley. Mr Hawkins has a good twisty plot and vivid characters described ... vividly, but the secret sauce is that he combines the mundane world with the fantastical in surprising ways and pulls this trick off through out the 300ish pages.
 
