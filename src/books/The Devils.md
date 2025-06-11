@@ -7,7 +7,7 @@ src: lvccld
 tags: 
  - fantasy 
 img_url : "/images/books/The Devils.jpg"
-permalink: /books/BIP_/The_Devils/
+permalink: /books/The_Devils/
 publisher: Tor Books
 published: 2025
 format: hard cover
