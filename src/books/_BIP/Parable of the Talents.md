@@ -6,7 +6,7 @@ tags:
  - sci-fi
  - fantasy
  - dystopia 
-img_url : "https://m.media-amazon.com/images/I/71cu0M3uoYL._SL1500_.jpg"
+img_url : "/images/books/Parable of the Talents.jpg"
 pages: 407
 published: 1998
 publisher: Grand Central Publishing
