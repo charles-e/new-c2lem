@@ -1,6 +1,7 @@
 ---
 title: The Sun Also Rises
 author: 'Hemingway, Ernest'
+date_started: 2025-02-15T00:00:00.000Z
 date_read: 2025-02-25T00:00:00.000Z
 tags: edifying
 pages: 247
