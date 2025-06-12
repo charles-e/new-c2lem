@@ -1,8 +1,8 @@
 ---
 title: The Devils
 author: Abercrombie, Joe
-date_started: 2025-05-28T00:00:00:000Z
-date_read: 2025-06-10T00:00:00:000Z
+date_started: 2025-05-28T00:00:00.000Z
+date_read: 2025-06-10T00:00:00.000Z
 src: lvccld
 tags: 
  - fantasy 
@@ -12,7 +12,7 @@ publisher: Tor Books
 published: 2025
 format: hard cover
 layout: book.njk
-date_posted: 2025-06-10T00:00:00:000Z
+date_posted: 2025-06-10T00:00:00.000Z
 ---
 <blockquote>
 The sun was sinking. A bloody sunset over a valley of blasted mud, of splintered stumps. Columns of dark smoke towered into the wounded heavens.
