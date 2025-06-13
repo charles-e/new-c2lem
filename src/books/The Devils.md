@@ -1,12 +1,12 @@
 ---
 title: The Devils
-author: Abercrombie, Joe
+author: 'Abercrombie, Joe'
 date_started: 2025-05-28T00:00:00.000Z
 date_read: 2025-06-10T00:00:00.000Z
 src: lvccld
-tags: 
- - fantasy 
-img_url : "/images/books/The Devils.jpg"
+tags:
+  - fantasy
+img_url: /images/books/The Devils.jpg
 permalink: /books/The_Devils/
 publisher: Tor Books
 published: 2025

@@ -1,7 +1,8 @@
 ---
 title: Parable of the Talents
 author: Butler, Octavia
-date_started: 2025-05-16
+date_started: 2025-05-16T00:00:00.000Z
+date_read: 2025-06-13T00:00:00.000Z
 tags: 
  - sci-fi
  - fantasy
@@ -12,7 +13,7 @@ published: 1998
 publisher: Grand Central Publishing
 layout: book.njk
 date_posted: 2025-05-17T00:00:00.000Z
-source: Kindle Unlimited
+src: Kindle Unlimited
 ---
 <blockquote>
 He couldn’t keep my mother safe of course. No one could have done that. She had chosen her path long before they met. His mistake was in seeing her as a young girl. She was already a missile, armed and targeted.

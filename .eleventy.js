@@ -41,6 +41,20 @@ module.exports = function (eleventyConfig) {
       .replace(/"/g, '&quot;')
       .replace(/'/g, '&apos;');
   });
+
+  eleventyConfig.addFilter("readableDate", (dateStr) => {
+    //console.log(dateStr);
+    if (!dateStr || dateStr == undefined) { console.log('return undefined'); return ""; }
+    const dateObj = new Date(dateStr);
+    //console.log(`dateObj = ${dateObj.toLocaleDateString()}`);
+    var datep1 = DateTime.fromJSDate(dateObj);
+    // console.log(`datep1 = ${datep1}`);
+     var datep2 = datep1.toFormat('DDDD');
+    // console.log(`datep2 = ${datep2}`);
+    // console.log(`returning fuck ${datep2}`);
+    return datep2;
+  });
+
   eleventyConfig.addPlugin(pluginRss, {
     type: "rss", // or "atom", "json"
     outputPath: "/books_rss.xml",
@@ -132,6 +146,7 @@ module.exports = function (eleventyConfig) {
       })
       .join(", ");
   });
+
 
   return {
     dir: {
