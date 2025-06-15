@@ -1,13 +1,13 @@
 ---
 title: War and Peace
-author: Tolstoy, Leo
+author: 'Tolstoy, Leo'
 date_started: '2024-05-02T00:00:00.000Z'
 date_read: '2025-03-02T00:00:00.000Z'
-tags:  
-- romance
-- history
-- edifying
-img_url : "/images/books/War and Peace.jpg"
+tags:
+  - romance
+  - history
+  - edifying
+img_url: /images/books/War and Peace.jpg
 permalink: /books/War_and_Peace/
 layout: book.njk
 src: used
