@@ -1,0 +1,12 @@
+---
+title: Recipes
+layout: base.njk
+permalink: /recipes/
+---
+
+<h1>Recipes</h1>
+<ul>
+  {% for recipe in collections.recipes %}
+    <li><a href="{{ recipe.url }}">{{ recipe.data.title }}</a></li>
+  {% endfor %}
+</ul>

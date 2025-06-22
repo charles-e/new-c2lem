@@ -26,8 +26,9 @@
 <nav class="site-nav">
   <a href="/" class="{% if page.url == '/' %}active{% endif %}">c2lem</a> 
   <a href="/books/" class="{% if page.url == '/books/' %}active{% endif %}">Books</a> 
-<a href="/books/in-progress/" class="{% if page.url == '/books/in-progress/' %}active{% endif %}">Now Reading</a> 
+  <a href="/books/in-progress/" class="{% if page.url == '/books/in-progress/' %}active{% endif %}">Now Reading</a> 
   <a href="/weeklies/" class="{% if page.url == '/weeklies/' %}active{% endif %}">Blog</a>
+  <a href="/recipes/" class="{% if page.url == '/recipes/' %}active{% endif %}">Recipes</a>
 </nav>
   <main>
   {% block content %}

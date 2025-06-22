@@ -116,6 +116,9 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByGlob("src/weeklies/*.md")
       .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
   });
+eleventyConfig.addCollection("recipes", function (collectionApi) {
+  return collectionApi.getFilteredByGlob("src/recipes/*.md").sort((a, b) => b.date - a.date);
+});
 
   eleventyConfig.addFilter("date", (dateObj) => {
     if (!dateObj) return "";
