@@ -9,11 +9,13 @@ src: tiktok
 I saw this recipe on tiktok (and tracked it down from there to [here](https://ibakemistakes.substack.com/p/the-mrholmes-cornflake-toffee-cookie)) where they are called "The Mr. Holmes Cornflake Toffee Cookie", I am guessing named for [this place](https://mrholmesbakehouse.com/)? Anyway I made'em and brought'em to my bookclub with everyone saying they are addictive as fuck.  As the original recipe mentions you can freeze the dough balls for fast(ish - 20 minutes) cookie gratification. Because of the toffee and the brown butter this recipe is not as simple as making good-ole chocolate chip cookies but they're worth the work to please your bookclub buddies. 
 
 ## Ingredients
+
 ### Toffee:
 *   40 grams water
 *   115 grams unsalted butter
 *   100 grams granulated sugar
 *   1/4 teaspoon diamond crystal kosher salt
+
 ### Cookie Dough:
 *   280 grams unsalted butter
 *   1 Tablespoon + 1 teaspoon non-fat milk powder
@@ -28,16 +30,20 @@ I saw this recipe on tiktok (and tracked it down from there to [here](https://ib
 *   3/4 teaspoon baking soda
 *   100 grams toffee
 *   125 grams Frosted Flakes + more for rolling.
+
 ## Directions:
+
 ### For the toffee:
 1. Start off by lining a sheet pan with parchment paper.
 2. Place the 40 grams water, 115 gramsunsalted butter, 100 grams granulated sugar and 1/4 teaspoon diamond crystal kosher salt in a heavy bottomed saucepan in that order! Water first-this helps to ensure the sugar fully dissolves into the water and helps to avoid crystallization. Place over medium heat.
 3. Stir the mixture until the butter completely melts. Then you're just gonna leave it alone until the mixture reaches 240F. If you notice any sugar crystals around the sides of the pan, use a damp pastry brush to wipe down the edges and help dissolve any of that sugar.
-4. Once it reaches 240F you'll begin to stir constantly with a wooden spoonor rubber spatula until the mixture reaches 305F. The candy will go through some visual changes. It starts off looking like a pot of melted bubbling butter, eventually it will emulsify into a mixture that looks like melted marshmallow, which the longer it cooks and the hotter it gets will deep in color until it's a nice amber brown.
+4. Once it reaches 240F you'll begin to stir constantly with a wooden spoon or rubber spatula until the mixture reaches 305F. The candy will go through some visual changes. It starts off looking like a pot of melted bubbling butter, eventually it will emulsify into a mixture that looks like melted marshmallow, which the longer it cooks and the hotter it gets will deep in color until it's a nice amber brown.
 5. When the mixture hits 305F CAREFULLY pour it out on the the parchment lined sheet pan.
 6. Let set completely before breaking into pieces. By the time you've done the rest of the prep + mise for the cookie the toffee should be good to go.
 7. Be sure to store any extra in an airtight container. Use some silica packets (if you'd like) to absorb any moisture and keep your toffee crisp.
+
 ### For the cookie dough:
+
 1. Add the 280 grams unsalted butter to a light colored saucepan. Place over medium heat and melt.
 2. Once the butter is melted add the 1 tablespoon + 1 teaspoon of milk powder to the saucepan. Whisking to evenly disperse.
 3. Continue to cook the butter over medium heat, whisking frequently to keep the milk solids moving. The butter will start to foam, sizzle and steam. Keep whisking as the milk solids begin to brown. The butter will begin to smell nutty and caramelized. The browned butter is ready when the milk solids are a deep umber color teetering on dark brown and the steaming has stopped, this means all the water has boiled off from the butter. Quickly and carefully, pour the browned butter into a heat proof bowl to cool.
