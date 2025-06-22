@@ -13,7 +13,7 @@ published: 1998
 publisher: Grand Central Publishing
 layout: book.njk
 date_posted: 2025-06-17T12:00:00.000Z
-permalink: /books/Parable of the Talents/
+permalink: /books/Parable_Talents/
 src: Kindle Unlimited
 ---
 <blockquote>
