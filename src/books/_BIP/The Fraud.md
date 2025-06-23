@@ -40,4 +40,4 @@ This tells us the era is 1860.
 * <span meta="9@2025-06-23T01:21:20.044Z"></span> OMG reading so carefully to keep track of our characters and relationships  - also WA is a goofball: “I’m a writer and I’ve no intention of being anything else.”
 
 
-* <span meta="9.5@2025-06-23T01:48:45.100Z"></span> now flashing back to 1830 / Elm Lodge where Eliza goes to work for the Ainsworth family
+* <span meta="9.5@2025-06-23T01:48:45.100Z"></span> now flashing back to 4/23/1830 at Elm Lodge where Eliza goes to work for the Ainsworth family.
