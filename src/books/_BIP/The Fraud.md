@@ -17,7 +17,7 @@ This tells us the era is 1860.
  Tunbridge House
 
 ## Characters
-* Eliza Touchet - housekeeper & cousin (?) Widow (husband, children dead of scarlet fever when she was 24 - shortly after husband) age 69 (was 21 when WA 15)
+* Eliza Touchet - housekeeper & cousin (?) Widow (husband, children dead of scarlet fever when she was 24 - shortly after husband abandoned her) age 69 (was 21 when WA 15)
 * Sarah Wells - mother “Sarah Wells, aged 26, of Stepney; maid.”
 * Clara Ainsworth - daughter (pre William)
 * William Ainsworth -  writer, “That handsome young buck of the ’30s, hair slick with Macassar oil, had somehow become this whiskery, jowly, dejected, old man.”  Apparently not a wonderful writer. William Harrison Ainsworth, aged 63, of Manchester; widower.”
