@@ -21,6 +21,7 @@ This tells us the era is 1860.
 * Sarah Wells - mother “Sarah Wells, aged 26, of Stepney; maid.”
 * Clara Ainsworth - daughter (pre William)
 * William Ainsworth -  writer, “That handsome young buck of the ’30s, hair slick with Macassar oil, had somehow become this whiskery, jowly, dejected, old man.”  Apparently not a wonderful writer. William Harrison Ainsworth, aged 63, of Manchester; widower.”
+* Frances Ainsworth - RIP WA's first wife. Lover of ET.
 * Fanny Ainsworth - adult daughter of WA
 * Emily Ainsworth - adult daughter of WA
 * Ann-Blanche Ainsworth - adult daughter of WA
@@ -41,3 +42,5 @@ This tells us the era is 1860.
 
 
 * <span meta="9.5@2025-06-23T01:48:45.100Z"></span> now flashing back to 4/23/1830 at Elm Lodge where Eliza goes to work for the Ainsworth family.
+* <span meta="11@2025-06-23T02:39:10.503Z"></span> Chap 14 seems to say Eliza is in love with Frances Ainsworth
+* <span meta="24@2025-06-26T05:01:33.288Z"></span> “Were these two, perhaps, like those celebrated Ladies of Llangollen?”
