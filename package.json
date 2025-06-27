@@ -6,7 +6,7 @@
     "update:postDate" : "node scripts/add-post-date.js",
     "fix:PostDate" :"node scripts/fixDatePosted.js",
     "update:weeklies": "node scripts/update-weeklies-fm.js",
-    "update:markdown": "node scripts/update-markdown-images.js",
+    "update:images": "node scripts/update-markdown-images.js",
     "download:images": "node scripts/download-images.js",
     "sanity": "node scripts/check-frontmatter.js",
     "build": "eleventy",
