@@ -8,6 +8,7 @@
     "update:weeklies": "node scripts/update-weeklies-fm.js",
     "update:images": "node scripts/update-markdown-images.js",
     "download:images": "node scripts/download-images.js",
+    "create:tags": "node scripts/extracth3list.js",
     "sanity": "node scripts/check-frontmatter.js",
     "build": "eleventy",
     "serve": "eleventy --serve "
