@@ -8,7 +8,7 @@ img_url: /images/books/Mordew.jpg
 tags:
   - fantasy
 permalink: /books/Mordew/
-series: Cities of the Weft #1
+series: Cities of the Weft 1
 pages: 612
 publisher: Tor Books
 published: 2021

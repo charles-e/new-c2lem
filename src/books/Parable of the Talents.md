@@ -1,13 +1,13 @@
 ---
 title: Parable of the Talents
-author: Butler, Octavia
+author: 'Butler, Octavia'
 date_started: 2025-05-16T00:00:00.000Z
 date_read: 2025-06-13T00:00:00.000Z
-tags: 
- - sci-fi
- - fantasy
- - dystopia 
-img_url : "/images/books/Parable of the Talents.jpg"
+tags:
+  - sci-fi
+  - fantasy
+  - dystopia
+img_url: /images/books/Parable of the Talents.jpg
 pages: 407
 published: 1998
 publisher: Grand Central Publishing

@@ -3,7 +3,8 @@ const path = require('path');
 const matter = require('gray-matter');
 
 // Your books folder
-const booksFolder = path.join(__dirname, "../src/books");
+const booksFolder = path.join(__dirname, "../src/books/");
+const progFolder = path.join(__dirname, "../src/books/_BIP");
 
 // Where your local images are stored relative to site root
 const imageBasePath = "/images/books/";
@@ -36,12 +37,17 @@ function updateMarkdownFile(fullPath) {
 
 function run() {
   const files = fs.readdirSync(booksFolder).filter(file => file.endsWith(".md"));
-
+  const in_prog = fs.readdirSync(progFolder).filter(file => file.endsWith(".md"));
+  
   files.forEach(file => {
     const fullPath = path.join(booksFolder, file);
     updateMarkdownFile(fullPath);
   });
 
+  in_prog.forEach(file => {
+    const fullPath = path.join(progFolder, file);
+    updateMarkdownFile(fullPath);
+  });
   console.log("All markdown files updated.");
 }
 

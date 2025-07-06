@@ -1,12 +1,12 @@
 ---
 title: The Fraud
-author: Smith, Zadie
-date_started: 2025-06-18
+author: 'Smith, Zadie'
+date_started: 2025-06-18T00:00:00.000Z
 src: lvccld
-tags: 
- - edifying
- - humor
-img_url : "https://m.media-amazon.com/images/I/71lDtPQ9i3L._SY300_.jpg"
+tags:
+  - edifying
+  - humor
+img_url: /images/books/The Fraud.jpg
 permalink: /books/BIP_/The_Fraud/
 layout: book.njk
 ---
