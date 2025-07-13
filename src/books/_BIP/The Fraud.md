@@ -44,3 +44,10 @@ This tells us the era is 1860.
 * <span meta="9.5@2025-06-23T01:48:45.100Z"></span> now flashing back to 4/23/1830 at Elm Lodge where Eliza goes to work for the Ainsworth family.
 * <span meta="11@2025-06-23T02:39:10.503Z"></span> Chap 14 seems to say Eliza is in love with Frances Ainsworth
 * <span meta="24@2025-06-26T05:01:33.288Z"></span> “Were these two, perhaps, like those celebrated Ladies of Llangollen?”
+
+* <span meta="30@2025-07-06T20:38:09.146Z"></span> “Can you die of a broken heart? In novels you did. You could also be ‘too good for this world’. These clichés Mrs Touchet abhorred, and yet here, in this dismal room, they rushed in to greet her, robed as truths. ”
+
+* <span meta="31@2025-07-06T20:55:16.996Z"></span> “But she knew she lived in an age of things, no matter how out of step she felt in it, and whatever else hp was, Charles had been the poet of things. He had made animate and human the cold traffic and bitter worship of things. The only way she could make sense of the general mourning was to note that with his death an age of things now mourned itself.”
+* <span meta="32@2025-07-07T18:01:29.923Z"></span> “She kept a person usefully tethered to the present, like the stays on a hot air balloon.”
+
+* <span meta="39@2025-07-07T18:40:40.018Z"></span> It just dawned on me that the title is doubly relevant b/c the Tichbourn case and b/c WA is not a successful writer
