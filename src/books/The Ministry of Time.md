@@ -12,7 +12,7 @@ tags:
   - sci-fi
   - romance
 img_url: /images/books/The Ministry of Time.jpg
-permalink: /books/BIP_/Ministry_of_Time/
+permalink: /books/Ministry_of_Time/
 layout: book.njk
 date_posted: 2025-12-08T00:00:00.000Z
 ---
