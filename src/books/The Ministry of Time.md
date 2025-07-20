@@ -14,7 +14,7 @@ tags:
 img_url: /images/books/The Ministry of Time.jpg
 permalink: /books/Ministry_of_Time/
 layout: book.njk
-date_posted: 2025-12-08T00:00:00.000Z
+date_posted: 2025-07-08T00:00:00.000Z
 ---
 <blockquote>
 “She would never refer to herself as a refugee, or even a former refugee,” I added. “It’s been quite weird to hear people say that.”

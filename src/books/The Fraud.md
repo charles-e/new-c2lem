@@ -2,20 +2,43 @@
 title: The Fraud
 author: 'Smith, Zadie'
 date_started: 2025-06-18T00:00:00.000Z
+date_read: 2025-07-14T00:00:00.000Z
+date_posted: 2025-07-17T00:00:00.000Z
 src: lvccld
 tags:
   - edifying
   - humor
+  - side_quest
 img_url: /images/books/The Fraud.jpg
 pages: 449
-permalink: /books/BIP_/The_Fraud/
+permalink: /books/The_Fraud/
 layout: book.njk
 ---
+<blockquote>She had of course heard of this monument to Protestantism but the scale of it shocked her. From the water it looked impressive, almost as large as the Vatican. Once inside, though, the design proved reassuringly rational and without beauty, like Protestantism itself.</blockquote>
+
+My first Zadie Smith novel is decidedly difficult to unpack because so much is going on.  I have been pondering for several days and likely, my interpretation is wrong, however I gotta put something into words.  
+
+By way of critique, I would say this is a slow novel with some beautiful bits and some acidly humorous bits such as in the pull quote above.  I am not sure if this was the best ZS novel with which to start, it was challenging to follow the plot and the humorous bits, while very enjoyable, are doled out in a measured portion, presumably for sophisticated adults, in the same way that they enjoy red wine over fruit punch, which is to say, maybe I need my humor in greater measure than her target audience.
+
+Our main character, Eliza Touchet (pronounced "touché") is sixty-nine and lives as both housekeeper and secretary in the house of a prolific but way-past-his-prime writer, [William Ainsworth](https://en.wikipedia.org/wiki/William_Harrison_Ainsworth).  The book tells the highly embellished story of Eliza's life along with William's, the narrative jumping from "present day" (1869) and then back through extended flashbacks.  Eliza is a spinster whose husband died (along with her children) shortly after abandoning her.  William is about to marry Sarah who will be his third wife, a 26-yo single mother with a daughter.  Eliza is much more complicated than that synopsis indicates and so are her long standing entanglements with Ainsworth but I think its worth reading the book so I will stop there.
+
+Much of the plot of the novel follows the trial of [Roger Tichborne](https://en.wikipedia.org/wiki/Tichborne_case), presumably the titular Fraud. Sarah is a rabid believer in the Tichborne claimant and Eliza winds up attending the Tichborne trials as a chaperone for Sarah. By attending the testimony, Eliza develops a her own fascination with the most credible witness for the claimant and former valet of the Tichbornes, an emancipated slave named Henry Bogle (completely fictional).  She starts taking notes on the trial and interviews Bogle with the idea of writing a novel.  This allows ZS to tell us all about life as a slave in Jamaica and about the Empire's very unclean hands which it supposedly washed when it abolished slavery in 1833.   
+
+Besides the present day thread there is the thread of Ainsworth's career and his relationships with other literary figures of the time including, most notably, Charles Dickens. At one point in the book, Eliza expresses her admiration for <u>Middlemarch</u> and has to gracefully accept Ainsworth's response:
+<blockquote>
+William made a face like a dog eating a lemon.
+
+‘Couldn’t get through volume one – and aren’t there seven more to come? Once upon a time decent men satisfied themselves with three . . . What on earth does the woman need with so many? No adventure, no drama, no murder, nothing to excite the blood or chill it! I must say I can’t understand the glowing notices. As if she were a new Mary Shelley! But there isn’t an ounce of Shelley’s imagination. Just a lot of people going about their lives in a village – dull lives at that.”
+</blockquote>
+I have to say I loved <u>Middlemarch</u>, and I speculate that ZS and I are in agreement on that.  While <u>The Fraud</u> is not quite a George Eliot novel it is certainly a good modern stab at it.  
+
+
+<!--
+
 * <span meta="1@2025-06-18T19:53:04.771Z"></span> The boy pulled off his cap. It was a hot September day, hard to think through. Shame to have to move a finger on such a day! But cunts like this were sent to try you, and September meant work, only work. ‘I’ll come in or I won’t come in?’ he muttered, into his cap.
 * <span meta="5@2025-06-20T14:52:54.985Z"></span> “The Claimant had been found not to speak a word of French, although the real Roger Tichborne grew up speaking it. ”
 This tells us the era is 1860.
-## Setting
- Tunbridge House
+## Setting Tunbridge House
 
 ## Characters
 * Eliza Touchet - housekeeper & cousin (?) Widow (husband, children dead of scarlet fever when she was 24 - shortly after husband abandoned her) age 69 (was 21 when WA 15)
@@ -77,3 +100,5 @@ He was proclaimed a National Hero of Jamaica on 31 March 1982[3] and his image i
 
 * <span meta="84@2025-07-14T19:20:21.075Z"></span> “Ha! What you call foolishness, Mrs Touchet, I call eternal optimism. I always hope for the best and the jolly thing is I am almost always rewarded!”
 * <span meta="87@2025-07-15T22:50:52.053Z"></span> “She had of course heard of this monument to Protestantism but the scale of it shocked her. From the water it looked impressive, almost as large as the Vatican. Once inside, though, the design proved reassuringly rational and without beauty, like Protestantism itself.”
+
+-->
