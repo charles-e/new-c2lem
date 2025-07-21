@@ -7,7 +7,7 @@ AI, Mac
 Algorithms
 Animals
 Applied Math
-Archeology
+Archeaology
 Art
 Aspiration
 Astronomy
@@ -52,6 +52,7 @@ Happy
 Harkening back
 Health
 Hippie
+Hippie BS
 History
 Home Economics
 Imagination
@@ -69,6 +70,7 @@ MacOS
 Makes Me Smile
 Math
 Media
+Medicine
 Meditation
 Miracles and Wonders
 Modern Life
@@ -76,6 +78,7 @@ Music
 Mythos
 Nature
 Nerd
+Nerdery
 Neurology
 Organize
 Organizing
@@ -92,6 +95,7 @@ Pretty Colors
 Psychic Stuff
 Punctuation
 Quakers
+Quakers!
 Ran-do
 Random
 Rat Holes
@@ -103,9 +107,10 @@ Risk
 Sad
 Sad and/or Scary
 Sanity
-Skepticism
+Scepticism
 Sci-fi
 Science
+Science (eeerrr Math)
 Security
 Skills
 Slow Week
@@ -113,9 +118,11 @@ Smile
 Social Media
 Space
 Stuff From My Brother-in-Law
+Super Powers
 Superpowers
 TV
 Tech
+The Eighties
 The Forest Jar
 Things I want
 Transportation
