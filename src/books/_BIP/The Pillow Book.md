@@ -12,6 +12,8 @@ published: 2007
 permalink: /books/BIP_/Pillow_Book/
 layout: book.njk
 pages: 361
+pct_progress: 23
+latest_progress: "2025-07-13T21:23:54.260Z"
 ---
 * <span meta="10@2025-06-21T03:21:28.377Z"></span> So far, so charming (except for the Dog story)
 

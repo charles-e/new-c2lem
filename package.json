@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Minimal starter with src/ structure for c2lem.com",
   "scripts": {
+    "update:progress" : "node scripts/track-progress.js",
     "update:postDate" : "node scripts/add-post-date.js",
     "fix:PostDate" :"node scripts/fixDatePosted.js",
     "update:weeklies": "node scripts/update-weeklies-fm.js",

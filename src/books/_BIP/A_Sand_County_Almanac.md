@@ -9,6 +9,8 @@ permalink: /books/A_Sand_County_Almanac/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z
 source: gift
+pct_progress: 54
+latest_progress: "2025-07-18T20:47:02.034Z"
 ---
 replace me
 
