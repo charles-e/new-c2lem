@@ -18,6 +18,8 @@ layout: base.njk
     {% endif %}
     {% if date_read %}
      <p><strong>Timeline:</strong> between {{ date_started | readableDate }} and {{ date_read | readableDate }}</p>
+     {% else %}
+     <p><strong>Progress:</strong> {{ pct_progress }}% as of {{ latest_progress | readableDate }} </p>   
     {% endif %}
   </div>
   <div class="book-body">
