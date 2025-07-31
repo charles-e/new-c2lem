@@ -14,8 +14,8 @@ permalink: /books/Sentimental_Education/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z
 source: Used Books
-pct_progress: 75.9
-latest_progress: '2025-07-30T01:25:19.321Z'
+pct_progress: 83.1
+latest_progress: '2025-07-31T20:28:45.660Z'
 ---
 * <span meta="54@2025-07-18T20:47:02.034Z"></span> F. has almost been in a duel and is mocked in the pages of Hussonet's magazine (b/c F did not loan the 5000 francs)
 
@@ -43,3 +43,15 @@ I think this is supposed to be funny.
 
 * <span meta="75.9@2025-07-30T01:25:19.321Z"></span> “Then came the painter, the earthenware dealer, and Mademoiselle Louise; and, thanks to Martinon, who had taken his place to be near Cécile, Frédéric found himself beside Madame Arnoux.”
 (fred is such a dick)
+
+* <span meta="80.9@2025-07-31T19:47:12.209Z"></span> “Madame Dambreuse closed her eyes, and he was astonished at his easy victory. The tall trees in the garden stopped their gentle quivering. Motionless clouds streaked the sky with long strips of red, and on every side everything seemed to come to a standstill. Then he remembered, in a blurry sort of way, evenings just the same as this, filled with the same unbroken silence. Where was it that he had known them?”
+(now he has seduced M. Dambreuse)
+
+* <span meta="82.1@2025-07-31T20:09:01.116Z"></span> “Nevertheless, he approved of it; then, as Deslauriers was in touch with M. Roque, his friend explained to him how he stood with regard to Louise.“Tell them anything you like; that my affairs are in an unsettled state, that I am putting them in order. She is young enough to wait!”
+( why does F just drag this out?)
+
+* <span meta="82.7@2025-07-31T20:22:06.717Z"></span> “ People who left their names with the concierge made enquiries about her admiringly, and the passers-by were filled with respect on seeing the quantity of straw which was placed in the street under the windows.”
+(what is the significance of this in caring for a patient?)
+
+* <span meta="83.1@2025-07-31T20:28:45.660Z"></span> “The face was as yellow as straw. At the corners of the mouth there were traces of blood-stained foam. He had a silk handkerchief tied around his”
+(M Dambreuse dead - how? - now wifey wants to remarry)
