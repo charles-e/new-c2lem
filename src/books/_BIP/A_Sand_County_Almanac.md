@@ -16,4 +16,3 @@ replace me
 
 * <span meta="41@2025-07-13T21:11:33.644Z"></span> A melancholy read - reminds me of Prairie Home Companion (minus the humor)
 
-* <span meta="54@2025-07-18T20:47:02.034Z"></span> F. has almost been in a duel and is mocked in the pages of Hussonet's magazine (b/c F did not loan the 5000 francs)

@@ -17,7 +17,7 @@ source: Used Books
 pct_progress: 75.9
 latest_progress: '2025-07-30T01:25:19.321Z'
 ---
-blah blah blah
+* <span meta="54@2025-07-18T20:47:02.034Z"></span> F. has almost been in a duel and is mocked in the pages of Hussonet's magazine (b/c F did not loan the 5000 francs)
 
 * <span meta="57@2025-07-25T03:57:11.611Z"></span> “Her children had gone out; there was nothing but stillness around her. It seemed as if she were utterly deserted.“He is going to be married! Is it possible?”And she was seized with a fit of nervous trembling.“Why is this? Does it mean that I love him?”Then all of a sudden:“Why, yes; I love him—I love him!”It seemed to her as if she were sinking into endless depths. The clock struck three. She listened to the vibrations of the sounds as they died away. And she remained on the edge of the armchair, with her eyes fixed and an unchanging smile on her face.”
 
@@ -34,12 +34,12 @@ blah blah blah
 * <span meta="67@2025-07-27T19:10:23.249Z"></span> “The Citizen spent his days wandering about the streets, pulling his moustache, rolling his eyes about, accepting and propagating any dismal news that was communicated to him; and he had only two phrases: “Look out! we’re going to be out flanked!” or else, “Why, dammit! The Republic is being double-crossed!” He was dissatisfied with everything, and especially with the fact that we had not taken back our natural frontiers.”
 I think this is supposed to be funny.
 * <span meta="72.3@2025-07-29T21:46:40.686Z"></span> “On the following day they went to see the Wolf’s Gorge, the Fairies’ Pool, the Long Rock, and the Marlotte. Two days later, they began again at random, just as their coachman thought fit to drive them, without asking where they were, and often even neglecting the famous sites.”
-Places in Fountainbleu -- sounds nice
+(Places in Fountainbleu -- sounds nice)
 * <span meta="73.6@2025-07-30T00:00:54.216Z"></span> “Oh! oh! I may have been!” wishing to convey in this way that he had been often fortunate in his love-affairs, so that she might have a better opinion of him, just as Rosanette did not avow how many lovers she had had, in order that he might have more respect for her—for there will always be found in the midst of the most intimate confidences restrictions, false shame, delicacy, and pity. You divine either in the other or in yourself precipices or muddy paths which prevent you from penetrating any farther; moreover, you feel that you will not be understood. It is hard to express accurately the thing you mean, whatever it may be; and this is the reason why perfect unions are rare.”
-- Finally, something is happening
+(Finally, something is happening.)
 
 * <span meta="74.3@2025-07-30T01:08:39.756Z"></span> “He started at a running pace from the Quai Voltaire. At an open window an old man in his shirtsleeves was crying, with his eyes raised. The Seine glided peacefully along. The sky was of a clear blue; and in the trees round the Tuileries birds were singing.”
-- fred back in paris to find dussardier
+(fred back in paris to find dussardier.)
 
 * <span meta="75.9@2025-07-30T01:25:19.321Z"></span> “Then came the painter, the earthenware dealer, and Mademoiselle Louise; and, thanks to Martinon, who had taken his place to be near Cécile, Frédéric found himself beside Madame Arnoux.”
 (fred is such a dick)
