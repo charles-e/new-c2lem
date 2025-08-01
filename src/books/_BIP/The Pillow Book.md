@@ -12,8 +12,8 @@ published: 2007
 permalink: /books/BIP_/Pillow_Book/
 layout: book.njk
 pages: 361
-pct_progress: 34.8
-latest_progress: '2025-07-31T20:46:57.513Z'
+pct_progress: 35.6
+latest_progress: '2025-08-01T20:59:41.167Z'
 ---
 * <span meta="10@2025-06-21T03:21:28.377Z"></span> So far, so charming (except for the Dog story)
 
@@ -25,3 +25,6 @@ An ox cart that’s overturned. You’ve assumed that something of such enormous
 
 * <span meta="34.8@2025-07-31T20:46:57.513Z"></span> “However, my sleeves and train were now all left trailing outside the blind, and His Excellency soon caught sight of them. ‘Who’s that, watching from behind that blind there?’ he demanded.”
 (toodling along)
+
+* <span meta="35.6@2025-08-01T20:59:41.167Z"></span> “A branch of plum from which the blossoms had fallen arrived one day from the Privy Chamber, with the message: ‘What do you make of this?’
+My response was simply, ‘The flowers have already scattered.’ 1”
