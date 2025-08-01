@@ -14,8 +14,8 @@ permalink: /books/Sentimental_Education/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z
 source: Used Books
-pct_progress: 83.1
-latest_progress: '2025-07-31T20:28:45.660Z'
+pct_progress: 85.5
+latest_progress: '2025-08-01T20:38:15.302Z'
 ---
 * <span meta="54@2025-07-18T20:47:02.034Z"></span> F. has almost been in a duel and is mocked in the pages of Hussonet's magazine (b/c F did not loan the 5000 francs)
 
@@ -55,3 +55,6 @@ I think this is supposed to be funny.
 
 * <span meta="83.1@2025-07-31T20:28:45.660Z"></span> “The face was as yellow as straw. At the corners of the mouth there were traces of blood-stained foam. He had a silk handkerchief tied around his”
 (M Dambreuse dead - how? - now wifey wants to remarry)
+
+* <span meta="85.5@2025-08-01T20:38:15.302Z"></span> “ Since Frédéric’s defeat at the election, she was ambitious of obtaining for both of them a diplomatic post in Germany; therefore, the first thing they should do was to follow the current trends of ideas.”
+( now f is juggling 2 women and his bastard son)
