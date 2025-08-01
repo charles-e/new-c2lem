@@ -9,8 +9,8 @@ permalink: /books/A_Sand_County_Almanac/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z
 source: gift
-pct_progress: 49.5
-latest_progress: '2025-08-01T19:33:28.570Z'
+pct_progress: 53.6
+latest_progress: '2025-08-01T20:24:37.851Z'
 ---
 replace me
 
@@ -22,3 +22,5 @@ An enormous amount of some kind of motive power has been lost.
 It is easy to say that the loss is all in our minds eye, but is there any sober ecologist who will agree?
 He knows full well that there has been an ecological death, the significance of which is inexpressible in terms of contemporary science. A philosopher has called this imponderable essence the numenon of material things. It stands in contradistinction to phe-nomenon, which is ponderable and predictable, even to the tossings and turnings of the remotest star.
 The grouse is the numenon of the north woods, the blue jay of the hickory groves, the whisky-jack
+
+* <span meta="53.6@2025-08-01T20:24:37.851Z"></span> When Kipling smelled the supper smokes of Amritsar, he should have elaborated, for no other poet has sung, or smelled, this green earth’s firewood. Most poets must have subsisted on anthracite.
