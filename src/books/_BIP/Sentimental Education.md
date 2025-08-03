@@ -14,8 +14,8 @@ permalink: /books/Sentimental_Education/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z
 source: Used Books
-pct_progress: 85.5
-latest_progress: '2025-08-01T20:38:15.302Z'
+pct_progress: 86.7
+latest_progress: '2025-08-03T00:53:11.371Z'
 ---
 * <span meta="54@2025-07-18T20:47:02.034Z"></span> F. has almost been in a duel and is mocked in the pages of Hussonet's magazine (b/c F did not loan the 5000 francs)
 
@@ -58,3 +58,9 @@ I think this is supposed to be funny.
 
 * <span meta="85.5@2025-08-01T20:38:15.302Z"></span> “ Since Frédéric’s defeat at the election, she was ambitious of obtaining for both of them a diplomatic post in Germany; therefore, the first thing they should do was to follow the current trends of ideas.”
 ( now f is juggling 2 women and his bastard son)
+
+* <span meta="86.7@2025-08-03T00:50:02.309Z"></span> “In the Rue de Paradis, the concierge said that M. Arnoux had been away since the evening before. As for Madame, he ventured to say nothing; and Frédéric, having rushed like an arrow up the stairs, put his ear to the keyhole. Finally, the door was opened. Madame had gone out with Monsieur. The servant could not say when they would be back; her wages had been paid, and she was leaving herself.”
+(fred borrows 12000F from Dambreus for Arnoux!)
+
+* <span meta="86.7@2025-08-03T00:53:11.371Z"></span> “In the Rue de Paradis, the concierge said that M. Arnoux had been away since the evening before. As for Madame, he ventured to say nothing; and Frédéric, having rushed like an arrow up the stairs, put his ear to the keyhole. Finally, the door was opened. Madame had gone out with Monsieur. The servant could not say when they would be back; her wages had been paid, and she was leaving herself.”
+(fred borrows 12000 from MM Dambreuse for MM Arnoux!)

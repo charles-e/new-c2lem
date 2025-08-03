@@ -9,8 +9,8 @@ tags:
 img_url: /images/books/Mythos.jpg
 permalink: /books/BIP_/Mythos/
 layout: book.njk
-pct_progress: 15.2
-latest_progress: '2025-07-31T03:43:04.582Z'
+pct_progress: 26.5
+latest_progress: '2025-08-02T00:55:35.162Z'
 ---
 replace me
 
@@ -20,3 +20,5 @@ replace me
 
 * <span meta="15.2@2025-07-31T03:43:04.582Z"></span> “The shattered world was still smoking from the savagery of war. Zeus saw that it needed to heal and he knew that his own generation, the Third Order of divine beings, must manage better than the first two had done. It was time for a new order, an order purged of the wasteful bloodlust and elemental brutality that had marked earlier times.”
 (in the last chapter we learned about the various nymphs, fates, muses, etc)
+
+* <span meta="26.5@2025-08-02T00:55:35.162Z"></span> “Wave, Zeus. And for heaven’s sake, smile!’ Hera’s hissed undertone jerks him away.”
