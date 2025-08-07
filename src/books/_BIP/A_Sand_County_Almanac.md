@@ -9,8 +9,8 @@ permalink: /books/A_Sand_County_Almanac/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z
 source: gift
-pct_progress: 53.6
-latest_progress: '2025-08-01T20:24:37.851Z'
+pct_progress: 54.6
+latest_progress: '2025-08-03T21:35:38.241Z'
 ---
 replace me
 
@@ -24,3 +24,5 @@ He knows full well that there has been an ecological death, the significance of 
 The grouse is the numenon of the north woods, the blue jay of the hickory groves, the whisky-jack
 
 * <span meta="53.6@2025-08-01T20:24:37.851Z"></span> When Kipling smelled the supper smokes of Amritsar, he should have elaborated, for no other poet has sung, or smelled, this green earth’s firewood. Most poets must have subsisted on anthracite.
+
+* <span meta="54.6@2025-08-03T21:35:38.241Z"></span> just read about the gavilan river (presumably new mexico)

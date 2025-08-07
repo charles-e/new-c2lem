@@ -14,8 +14,9 @@ permalink: /books/Sentimental_Education/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z
 source: Used Books
-pct_progress: 86.7
-latest_progress: '2025-08-03T00:53:11.371Z'
+pct_progress: 91.9
+latest_progress: '2025-08-03T19:26:54.936Z'
+date_read: 2025-08-05T00:00:00.000Z
 ---
 * <span meta="54@2025-07-18T20:47:02.034Z"></span> F. has almost been in a duel and is mocked in the pages of Hussonet's magazine (b/c F did not loan the 5000 francs)
 
@@ -60,7 +61,10 @@ I think this is supposed to be funny.
 ( now f is juggling 2 women and his bastard son)
 
 * <span meta="86.7@2025-08-03T00:50:02.309Z"></span> “In the Rue de Paradis, the concierge said that M. Arnoux had been away since the evening before. As for Madame, he ventured to say nothing; and Frédéric, having rushed like an arrow up the stairs, put his ear to the keyhole. Finally, the door was opened. Madame had gone out with Monsieur. The servant could not say when they would be back; her wages had been paid, and she was leaving herself.”
-(fred borrows 12000F from Dambreus for Arnoux!)
+(fred borrows 12000F from Dambreuse for Arnoux!)
 
 * <span meta="86.7@2025-08-03T00:53:11.371Z"></span> “In the Rue de Paradis, the concierge said that M. Arnoux had been away since the evening before. As for Madame, he ventured to say nothing; and Frédéric, having rushed like an arrow up the stairs, put his ear to the keyhole. Finally, the door was opened. Madame had gone out with Monsieur. The servant could not say when they would be back; her wages had been paid, and she was leaving herself.”
-(fred borrows 12000 from MM Dambreuse for MM Arnoux!)
+(fred borrows 12000F from Mdm Dambreuse for Mdm Arnoux!)
+
+* <span meta="91.9@2025-08-03T19:26:54.936Z"></span> “He travelled. He came to know the melancholy of steamboats, the chill one feels on waking up in tents, the dizzy effect of landscapes and ruins, and the bitterness of ruptured friendships.”
+(that's all folks!)

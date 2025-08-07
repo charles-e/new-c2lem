@@ -12,8 +12,8 @@ published: 2007
 permalink: /books/BIP_/Pillow_Book/
 layout: book.njk
 pages: 361
-pct_progress: 35.6
-latest_progress: '2025-08-01T20:59:41.167Z'
+pct_progress: 39.6
+latest_progress: '2025-08-06T20:44:34.818Z'
 ---
 * <span meta="10@2025-06-21T03:21:28.377Z"></span> So far, so charming (except for the Dog story)
 
@@ -28,3 +28,16 @@ An ox cart that’s overturned. You’ve assumed that something of such enormous
 
 * <span meta="35.6@2025-08-01T20:59:41.167Z"></span> “A branch of plum from which the blossoms had fallen arrived one day from the Privy Chamber, with the message: ‘What do you make of this?’
 My response was simply, ‘The flowers have already scattered.’ 1”
+
+* <span meta="35.6@2025-08-03T23:16:29.388Z"></span> “A branch of plum from which the blossoms had fallen arrived one day from the Privy Chamber, with the message: ‘What do you make of this?’
+My response was simply, ‘The flowers have already scattered.’ 1
+When they learned of my reply, a large group of senior courtiers who were seated in the Black Door room set about chanting this poem. His Majesty happened to overhear, and remarked, ‘This is a better response than merely writing a good poem. She’s made a fine answer.”
+(can you imagine having everyone pay attention to you like this?)
+
+* <span meta="36.3@2025-08-04T05:20:27.797Z"></span> “It’s most distressing to see someone thin and swarthy dressed in a see-through gossamer-silk shift.”
+
+* <span meta="39.1@2025-08-06T02:48:27.434Z"></span> “[120] Awkward and pointless things – A large ship left beached by the tide. A great tree that’s blown over in the wind, and lies there on its side with its roots in the air.
+An inconsequential little man strutting about scolding a retainer.”
+
+* <span meta="39.6@2025-08-06T20:44:34.818Z"></span> “[124] It’s beautiful the way the water drops hang so thick and dripping on the garden plants after a night of rain in the ninth month, when the morning sun shines fresh and dazzling on them. Where the rain clings in the spider webs that hang in the open weave of a screening fence or draped on the eaves, it forms the most moving and beautiful strings of white pearly drops.
+I also love the way, when the sun has risen higher, the bush clover, all bowed down beneath the weight of the drops, will shed its dew, and a branch will suddenly spring up though no hand has touched it. And I also find it fascinating that things like this can utterly fail to delight others.”

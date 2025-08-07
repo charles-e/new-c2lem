@@ -9,8 +9,8 @@ tags:
 img_url: /images/books/Mythos.jpg
 permalink: /books/BIP_/Mythos/
 layout: book.njk
-pct_progress: 26.5
-latest_progress: '2025-08-02T00:55:35.162Z'
+pct_progress: 34.4
+latest_progress: '2025-08-03T21:17:57.074Z'
 ---
 replace me
 
@@ -22,3 +22,5 @@ replace me
 (in the last chapter we learned about the various nymphs, fates, muses, etc)
 
 * <span meta="26.5@2025-08-02T00:55:35.162Z"></span> “Wave, Zeus. And for heaven’s sake, smile!’ Hera’s hissed undertone jerks him away.”
+
+* <span meta="34.4@2025-08-03T21:17:57.074Z"></span> “And so death became a constant in human life, as it remains to this day. But the world of the Silver Age, it should be understood, was very different from our own. Gods, demigods and all kinds of immortals still walked amongst us. Intercourse of the personal, social and sexual kind with the gods was as normal to men and women of the Silver Age as intercourse with machines and AI assistants is to us today. And, I dare say, a great deal more fun.”
