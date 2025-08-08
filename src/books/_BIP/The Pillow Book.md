@@ -12,8 +12,8 @@ published: 2007
 permalink: /books/BIP_/Pillow_Book/
 layout: book.njk
 pages: 361
-pct_progress: 40.4
-latest_progress: '2025-08-07T01:52:29.249Z'
+pct_progress: 40.6
+latest_progress: '2025-08-08T17:00:14.541Z'
 ---
 * <span meta="10@2025-06-21T03:21:28.377Z"></span> So far, so charming (except for the Dog story)
 
@@ -44,3 +44,7 @@ I also love the way, when the sun has risen higher, the bush clover, all bowed d
 
 * <span meta="40.4@2025-08-07T01:52:29.249Z"></span> “In response to this, the voice of the night-priest nearby suddenly broke in, rather angrily, ‘No no, that’s a very bad idea. Do keep talking all night, ladies.’
 This was not only very entertaining, but also gave us a terrible start.”
+
+* <span meta="40.6@2025-08-08T17:00:14.541Z"></span> 
+‘Oh, you’re hopeless!’ said he, which amused me greatly.”
+The end of a cute anecdote about the emperor hitting on our narrator.
