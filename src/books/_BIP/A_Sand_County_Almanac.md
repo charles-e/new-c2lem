@@ -9,8 +9,8 @@ permalink: /books/A_Sand_County_Almanac/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z
 source: gift
-pct_progress: 54.6
-latest_progress: '2025-08-03T21:35:38.241Z'
+pct_progress: 56.9
+latest_progress: '2025-08-08T01:41:50.131Z'
 ---
 replace me
 
@@ -26,3 +26,5 @@ The grouse is the numenon of the north woods, the blue jay of the hickory groves
 * <span meta="53.6@2025-08-01T20:24:37.851Z"></span> When Kipling smelled the supper smokes of Amritsar, he should have elaborated, for no other poet has sung, or smelled, this green earth’s firewood. Most poets must have subsisted on anthracite.
 
 * <span meta="54.6@2025-08-03T21:35:38.241Z"></span> just read about the gavilan river (presumably new mexico)
+
+* <span meta="56.9@2025-08-08T01:41:50.131Z"></span> We tilt windmills in behalf of conservation in convention halls and editorial offices, but on the back forty we disclaim even owning a lance.
