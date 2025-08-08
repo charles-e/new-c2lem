@@ -5,6 +5,7 @@ date_started: '2025-03-25'
 tags:
   - edifying
   - french
+  - sidequest
 pages: 366
 published: 1869
 translated_from: French
@@ -18,6 +19,17 @@ pct_progress: 91.9
 latest_progress: '2025-08-03T19:26:54.936Z'
 date_read: 2025-08-05T00:00:00.000Z
 ---
+I chose this book for a sidequest book club when it was my turn.  I chose it because someone on Tiktok said it was as if Anna Karenina was written with a male protagonist. I remember enjoying Anna K so that was a good omen.  Plus it is a "classic" -- what could go wrong?  Well, a lot because I quickly tired of the book and yet it was the book which *I* chose, therefore I feel that it is my obligation to read the thing I conned other people into reading. 
+
+For one thing this book seems to be roughly half about our protagonist's (Fred's) love life and half about politics and culture.  Its the politics part that which dragged me down because its *French* politics... from 1865. With my half-assed American education I know that there was a big bad revolution in (checks wikipedia) 1789 and then there was Napoleon and then something something something.  And the first half of the book is dominated by Freddy swooning about a (married) girl and otherwise doing nothing much but talk politics and culture with his buddies (and his love-object's cheating husband). And since I have no insight into what Fred (or any other french person) might think about current events all the conversation went past me like the teacher's dialog in a Peanut's cartoon. 
+
+Eventually, in the third part of the book things pick up; the climax of the book is during a revolution (yet another) in 1865. And Fred has a child with his (call-girl) mistress and then shortly thereafter the child dies.  The married love of his life leaves Paris to disappear because her crappy husband (Arnoux) is fleeing debts. His buddy marries the rich, pretty, naive girl (from Fred's hometown) who Freddy lead on and then dumped.  And yet another (also rich) married woman (Dambreuse) whose husband dies is suddenly not so rich and not so attractive and so Fred also ditches her.  
+
+At the end of the book (10 years later?) Fred is no longer wealthy and is very much alone.  Fred reminds me of myself during my third decade: I was never happy with my love life and I disappointed many people not least of whom: myself.  
+
+But hey after five months of reading, now I can say that I read a French realist novel once.  So I have that going for me.  Which is nice.
+
+<!--
 * <span meta="54@2025-07-18T20:47:02.034Z"></span> F. has almost been in a duel and is mocked in the pages of Hussonet's magazine (b/c F did not loan the 5000 francs)
 
 * <span meta="57@2025-07-25T03:57:11.611Z"></span> “Her children had gone out; there was nothing but stillness around her. It seemed as if she were utterly deserted.“He is going to be married! Is it possible?”And she was seized with a fit of nervous trembling.“Why is this? Does it mean that I love him?”Then all of a sudden:“Why, yes; I love him—I love him!”It seemed to her as if she were sinking into endless depths. The clock struck three. She listened to the vibrations of the sounds as they died away. And she remained on the edge of the armchair, with her eyes fixed and an unchanging smile on her face.”
@@ -68,3 +80,4 @@ I think this is supposed to be funny.
 
 * <span meta="91.9@2025-08-03T19:26:54.936Z"></span> “He travelled. He came to know the melancholy of steamboats, the chill one feels on waking up in tents, the dizzy effect of landscapes and ruins, and the bitterness of ruptured friendships.”
 (that's all folks!)
+-->
