@@ -12,8 +12,8 @@ published: 2007
 permalink: /books/BIP_/Pillow_Book/
 layout: book.njk
 pages: 361
-pct_progress: 39.6
-latest_progress: '2025-08-06T20:44:34.818Z'
+pct_progress: 40.4
+latest_progress: '2025-08-07T01:52:29.249Z'
 ---
 * <span meta="10@2025-06-21T03:21:28.377Z"></span> So far, so charming (except for the Dog story)
 
@@ -41,3 +41,6 @@ An inconsequential little man strutting about scolding a retainer.”
 
 * <span meta="39.6@2025-08-06T20:44:34.818Z"></span> “[124] It’s beautiful the way the water drops hang so thick and dripping on the garden plants after a night of rain in the ninth month, when the morning sun shines fresh and dazzling on them. Where the rain clings in the spider webs that hang in the open weave of a screening fence or draped on the eaves, it forms the most moving and beautiful strings of white pearly drops.
 I also love the way, when the sun has risen higher, the bush clover, all bowed down beneath the weight of the drops, will shed its dew, and a branch will suddenly spring up though no hand has touched it. And I also find it fascinating that things like this can utterly fail to delight others.”
+
+* <span meta="40.4@2025-08-07T01:52:29.249Z"></span> “In response to this, the voice of the night-priest nearby suddenly broke in, rather angrily, ‘No no, that’s a very bad idea. Do keep talking all night, ladies.’
+This was not only very entertaining, but also gave us a terrible start.”
