@@ -9,8 +9,8 @@ tags:
 img_url: /images/books/Mythos.jpg
 permalink: /books/BIP_/Mythos/
 layout: book.njk
-pct_progress: 48.7
-latest_progress: '2025-08-08T00:53:52.347Z'
+pct_progress: 53.1
+latest_progress: '2025-08-08T20:33:48.822Z'
 ---
 replace me
 
@@ -27,3 +27,5 @@ replace me
 
 * <span meta="48.7@2025-08-08T00:53:52.347Z"></span> “Here Phaeton lies who in the sun-god’s chariot fared.
 And though greatly he failed, more greatly he dared."
+
+* <span meta="53.1@2025-08-08T20:33:48.822Z"></span> The birth of Dionysius - “The infant was suckled by the rain nymphs of Nysus;fn7 and, once weaned, was tutored by pot-bellied Silenus, who was to become his closest companion and follower – a kind of Falstaff to the young god’s Prince Hal. Silenus had his own train of followers too, the sileni – satyr-like creatures for ever associated with antic riot, rout and revelry.”
