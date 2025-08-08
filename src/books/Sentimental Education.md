@@ -27,7 +27,7 @@ Eventually, in the third part of the book things pick up; the climax of the book
 
 At the end of the book (10 years later?) Fred is no longer wealthy and is very much alone.  Fred reminds me of myself during my third decade: I was never happy with my love life and I disappointed many people not least of whom: myself.  
 
-But hey after five months of reading, now I can say that I read a French realist novel once.  So I have that going for me.  Which is nice.
+This novel was not for me and it was a bad choice on my part because I lack the necessary context to appreciate it (nor am I willing to acquire that context at this point in my life). But hey(!) after five months of reading, now I can say that I once read a French realist novel.  So I have that going for me.  Which is nice.  
 
 <!--
 * <span meta="54@2025-07-18T20:47:02.034Z"></span> F. has almost been in a duel and is mocked in the pages of Hussonet's magazine (b/c F did not loan the 5000 francs)
