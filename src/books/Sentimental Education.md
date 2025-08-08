@@ -13,7 +13,7 @@ publisher: Barnes & Noble Books
 img_url: /images/books/Sentimental Education.jpg
 permalink: /books/Sentimental_Education/
 layout: book.njk
-date_posted: 2025-04-15T00:00:00.000Z
+date_posted: 2025-08-08T00:00:00.000Z
 source: Used Books
 pct_progress: 91.9
 latest_progress: '2025-08-03T19:26:54.936Z'
