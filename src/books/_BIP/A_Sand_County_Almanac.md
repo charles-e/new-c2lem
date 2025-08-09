@@ -9,8 +9,8 @@ permalink: /books/A_Sand_County_Almanac/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z
 source: gift
-pct_progress: 56.9
-latest_progress: '2025-08-08T01:41:50.131Z'
+pct_progress: 60
+latest_progress: '2025-08-09T03:49:46.493Z'
 ---
 replace me
 
@@ -28,3 +28,5 @@ The grouse is the numenon of the north woods, the blue jay of the hickory groves
 * <span meta="54.6@2025-08-03T21:35:38.241Z"></span> just read about the gavilan river (presumably new mexico)
 
 * <span meta="56.9@2025-08-08T01:41:50.131Z"></span> We tilt windmills in behalf of conservation in convention halls and editorial offices, but on the back forty we disclaim even owning a lance.
+
+* <span meta="60@2025-08-09T03:49:46.493Z"></span> (Clandeboye is a town just north of Manitoba, Canada) Some day my marsh, dyked and pumped, will lie forgotten under the wheat, just as today and yesterday will lie forgotten under the years. Before the last mud-minnow makes his last wiggle in the last pool, the terns will scream goodbye to Clandeboye, the swans will circle skyward in snowy dignity, and the cranes will blow their trumpets in farewell.
