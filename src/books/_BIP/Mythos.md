@@ -9,8 +9,8 @@ tags:
 img_url: /images/books/Mythos.jpg
 permalink: /books/BIP_/Mythos/
 layout: book.njk
-pct_progress: 63.7
-latest_progress: '2025-08-09T01:13:47.838Z'
+pct_progress: 64.1
+latest_progress: '2025-08-09T04:11:05.974Z'
 ---
 * <span meta="8.3@2025-07-29T22:12:01.914Z"></span> “As all these unexpected new beings emerged alive from the blood-soaked ground, Kronos stared at them in disgust and scattered them with a sweep of his scythe. Next he turned to Gaia.”
 
@@ -34,3 +34,5 @@ And though greatly he failed, more greatly he dared."
 ‘I will do what must be done, my lord. I will wash and anoint you. I will place an obolus on your tongue so that you might pay the ferryman. We will stand guard seven days and seven nights over your catafalque.”
 
 * <span meta="63.1@2025-08-09T02:58:01.490Z"></span> corybantic: wild, hysterical “The next day Marsyas set off with his many followers to Lake Aulocrene. They had arranged to meet other satyrs there for a great feast at which Marsyas would play wild, corybantic dances of his own composition. ”
+
+* <span meta="64.1@2025-08-09T04:11:05.974Z"></span> “In English we still talk of the ‘distaff side’ of a family, meaning the female line. The distaff was the spindle around which the wool or flax was wound preparatory to spinning. And those who spun were called ‘spinsters’, a name which once applied without negative connotation to any unmarried woman.”
