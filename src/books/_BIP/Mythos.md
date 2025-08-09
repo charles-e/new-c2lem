@@ -9,8 +9,8 @@ tags:
 img_url: /images/books/Mythos.jpg
 permalink: /books/BIP_/Mythos/
 layout: book.njk
-pct_progress: 64.1
-latest_progress: '2025-08-09T04:11:05.974Z'
+pct_progress: 79.5
+latest_progress: '2025-08-09T23:10:37.633Z'
 ---
 * <span meta="8.3@2025-07-29T22:12:01.914Z"></span> “As all these unexpected new beings emerged alive from the blood-soaked ground, Kronos stared at them in disgust and scattered them with a sweep of his scythe. Next he turned to Gaia.”
 
@@ -36,3 +36,9 @@ And though greatly he failed, more greatly he dared."
 * <span meta="63.1@2025-08-09T02:58:01.490Z"></span> corybantic: wild, hysterical “The next day Marsyas set off with his many followers to Lake Aulocrene. They had arranged to meet other satyrs there for a great feast at which Marsyas would play wild, corybantic dances of his own composition. ”
 
 * <span meta="64.1@2025-08-09T04:11:05.974Z"></span> “In English we still talk of the ‘distaff side’ of a family, meaning the female line. The distaff was the spindle around which the wool or flax was wound preparatory to spinning. And those who spun were called ‘spinsters’, a name which once applied without negative connotation to any unmarried woman.”
+
+* <span meta="68.4@2025-08-09T04:49:05.221Z"></span> 'nous' means common understanding of how things work -- “Round and round dashed the Cadmean Vixen, while hot on her tail flew Lailaps, from whom no prey could escape. They would still be caught in that logic loop now I suppose, if Zeus hadn’t done something about it.
+The King of the Gods looked down at the sight and pondered the strange self-contradicting problem that presented such an affront to all proper reason and sense, and so vexingly subverted the notions embodied in that splendid Greek word nous. ”
+“Zeus solved the conundrum by turning the fox and the dog to stone. In this way they stayed frozen in time, their perfect possibilities unachieved for eternity, their destinies for ever unreconciled. At length, even this locked state seemed to him to challenge common sense, so he catasterized them – removed them to the heavens – where they became the constellations of the Greater and Lesser Dogs, Canis Major and Canis Minor.”
+
+* <span meta="79.5@2025-08-09T23:10:37.633Z"></span> (after the story of Echo and Narcissus) “Perhaps narcissism is best defined as a need to look on other people as mirrored surfaces who satisfy us only when they reflect back a loving or admiring image of ourselves. When we look into another’s eyes, in other words, we are not looking to see who they are, but how we are reflected in their eyes. By this definition, which of us can honestly disown our share of narcissism?”
