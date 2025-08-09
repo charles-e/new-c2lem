@@ -9,8 +9,8 @@ tags:
 img_url: /images/books/Mythos.jpg
 permalink: /books/BIP_/Mythos/
 layout: book.njk
-pct_progress: 53.1
-latest_progress: '2025-08-08T20:33:48.822Z'
+pct_progress: 57.5
+latest_progress: '2025-08-09T00:12:24.241Z'
 ---
 * <span meta="8.3@2025-07-29T22:12:01.914Z"></span> “As all these unexpected new beings emerged alive from the blood-soaked ground, Kronos stared at them in disgust and scattered them with a sweep of his scythe. Next he turned to Gaia.”
 
@@ -27,3 +27,5 @@ latest_progress: '2025-08-08T20:33:48.822Z'
 And though greatly he failed, more greatly he dared."
 
 * <span meta="53.1@2025-08-08T20:33:48.822Z"></span> The birth of Dionysius - “The infant was suckled by the rain nymphs of Nysus;fn7 and, once weaned, was tutored by pot-bellied Silenus, who was to become his closest companion and follower – a kind of Falstaff to the young god’s Prince Hal. Silenus had his own train of followers too, the sileni – satyr-like creatures for ever associated with antic riot, rout and revelry.”
+
+* <span meta="57.5@2025-08-09T00:12:24.241Z"></span> solecism - mistake: “Like Ixion before him he made the mistake of abusing Zeus’s hospitality, in his case by returning from a banquet on Olympus with stolen ambrosia and nectar in his pockets. He also committed the unpardonable solecism of telling tales about the private lives and mannerisms of the gods, amusing his courtiers and friends with insolent mimicry and gossip.”
