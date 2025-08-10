@@ -6,12 +6,19 @@ src: used
 tags:
   - non-fiction
   - edifying
+  - mythology
 img_url: /images/books/Mythos.jpg
-permalink: /books/BIP_/Mythos/
+permalink: /books/Mythos/
 layout: book.njk
-pct_progress: 79.5
+pages: 350
 latest_progress: '2025-08-09T23:10:37.633Z'
+date_read: '2025-08-09T23:10:37.633Z'
+date_posted: '2025-08-09T23:10:37.633Z'
 ---
+I started reading this just as a distraction from the longer reads that I was feeling bored with.  This book was perfectly acceptable as a distraction for the couple of weeks I needed to finish it without experiencing tedium.  The pull quotes on the cover advertise brilliance, belovedness and hilarity, while I found some mild amusement and serviceability as a review of the greek myths.  I think that 350 pages split into 28 bite-sized chapters with only a tiny bit of fussy vocabulary is the right size for a casual reader.  As a long time fantasy reader, with a college education only a couple of the stories were new to me but its a nice survey that doesn't gloss over the naughty and/or gruesome behaviors of god, demi-gods, monsters and humans. 
+
+
+<!--
 * <span meta="8.3@2025-07-29T22:12:01.914Z"></span> “As all these unexpected new beings emerged alive from the blood-soaked ground, Kronos stared at them in disgust and scattered them with a sweep of his scythe. Next he turned to Gaia.”
 
 * <span meta="8.5@2025-07-29T22:17:06.219Z"></span> “Kronos met these curses with a sneer and, corralling his mutilated father and newly freed mutant brothers at the point of his sickle, he led them down to Tartarus. The Hecatonchires and Cyclopes he imprisoned in the caves, but his father he buried even deeper, as far from his natural domain of the heavens as he could contrive”
@@ -42,3 +49,4 @@ The King of the Gods looked down at the sight and pondered the strange self-cont
 “Zeus solved the conundrum by turning the fox and the dog to stone. In this way they stayed frozen in time, their perfect possibilities unachieved for eternity, their destinies for ever unreconciled. At length, even this locked state seemed to him to challenge common sense, so he catasterized them – removed them to the heavens – where they became the constellations of the Greater and Lesser Dogs, Canis Major and Canis Minor.”
 
 * <span meta="79.5@2025-08-09T23:10:37.633Z"></span> (after the story of Echo and Narcissus) “Perhaps narcissism is best defined as a need to look on other people as mirrored surfaces who satisfy us only when they reflect back a loving or admiring image of ourselves. When we look into another’s eyes, in other words, we are not looking to see who they are, but how we are reflected in their eyes. By this definition, which of us can honestly disown our share of narcissism?”
+-->
