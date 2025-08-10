@@ -24,7 +24,9 @@ Brain
 Business
 COVID
 Candy
+Cars
 Cartoons
+Clever
 Coding
 Coffee
 Computing
@@ -75,6 +77,7 @@ Meditation
 Miracles and Wonders
 Modern Life
 Music
+Mythology
 Mythos
 Nature
 Nerd
@@ -101,6 +104,7 @@ Random
 Rat Holes
 Real Intelligence
 Recipe
+Religion
 Reptiles
 Resume
 Risk
@@ -120,6 +124,7 @@ Space
 Stuff From My Brother-in-Law
 Super Powers
 Superpowers
+TTRPG
 TV
 Tech
 The Eighties
@@ -133,5 +138,6 @@ Water
 Who Knew?
 Wildlife
 Woooh, Trippy
+Writing
 Yikes
 Zeitgeist
