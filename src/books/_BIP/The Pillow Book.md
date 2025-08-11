@@ -48,3 +48,6 @@ This was not only very entertaining, but also gave us a terrible start.”
 * <span meta="40.6@2025-08-08T17:00:14.541Z"></span> 
 ‘Oh, you’re hopeless!’ said he, which amused me greatly.”
 The end of a cute anecdote about the emperor hitting on our narrator.
+
+* <span meta="44.4@2025-08-11T04:24:51.498Z"></span> “[144] Endearingly lovely things – A baby’s face painted on a gourd. A sparrow coming fluttering down to the nest when her babies are cheeping for her.
+”

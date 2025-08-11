@@ -32,6 +32,3 @@ The grouse is the numenon of the north woods, the blue jay of the hickory groves
 * <span meta="60@2025-08-09T03:49:46.493Z"></span> (Clandeboye is a town just north of Manitoba, Canada) Some day my marsh, dyked and pumped, will lie forgotten under the wheat, just as today and yesterday will lie forgotten under the years. Before the last mud-minnow makes his last wiggle in the last pool, the terns will scream goodbye to Clandeboye, the swans will circle skyward in snowy dignity, and the cranes will blow their trumpets in farewell.
 
 * <span meta="61.4@2025-08-11T01:43:27.954Z"></span> There are not many texts that I am able to accept as gospel truths, but this is one of them. I am willing to rise up and declare my belief that this text is literally true; true forward, true backward, true even before breakfast. The man who cannot enjoy his leisure is ignorant, though his degrees exhaust the alphabet, and the man who does enjoy his leisure is to some extent educated, though he has never seen the inside of a school.
-
-* <span meta="44.4@2025-08-11T04:24:51.498Z"></span> “[144] Endearingly lovely things – A baby’s face painted on a gourd. A sparrow coming fluttering down to the nest when her babies are cheeping for her.
-”
