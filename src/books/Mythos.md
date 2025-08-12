@@ -15,7 +15,7 @@ latest_progress: '2025-08-09T23:10:37.633Z'
 date_read: '2025-08-09T23:10:37.633Z'
 date_posted: '2025-08-09T23:10:37.633Z'
 ---
-I started reading this just as a distraction from the longer reads that I was feeling bored with.  This book was perfectly acceptable as a distraction for the couple of weeks I needed to finish it without experiencing tedium.  The pull quotes on the cover advertise brilliance, belovedness and hilarity, while I found some mild amusement and serviceability as a review of the greek myths.  I think that 350 pages split into 28 bite-sized chapters with only a tiny bit of fussy vocabulary is the right size for a casual reader.  As a long time fantasy reader, with a college education only a couple of the stories were new to me but its a nice survey that doesn't gloss over the naughty and/or gruesome behaviors of god, demi-gods, monsters and humans. 
+I started reading this just as a distraction from the longer reads that I was feeling bored with.  This book was perfectly acceptable as a distraction for the couple of weeks I needed to finish it without experiencing tedium.  The pull quotes on the cover advertise brilliance, belovedness and hilarity, while I found some mild amusement and serviceability as a review of the greek myths.  I think that 350 pages split into 28 bite-sized chapters with only a tiny bit of fussy vocabulary is the right size for a casual reader.  As a college graduate, long time fantasy reader, only a couple of the stories were new to me, but its a nice survey of the stories that doesn't gloss over the rude, naughty and/or gruesome behaviors of god, demi-gods, monsters and humans. 
 
 
 <!--

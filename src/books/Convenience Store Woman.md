@@ -14,7 +14,7 @@ layout: book.njk
 date_read: '2025-08-10T04:59:48.673Z'
 date_posted: '2025-08-1T04:59:48.673Z'
 ---
-A novella about a weirdo, an, I assume, autistic, also asexual, woman, Keiko, who in early childhood realizes a set of rules to live by where she can exist peacefully in a society that has expectations about how people live. Shortly after matriculating to college she discovers that her job at a Japanese convenience store allows her an identity, a social-figleaf as well as the satisfaction that comes from performing a job with skill, even if that job is not particularly important, lucrative or well respected.  
+A novella set in Japan about a weirdo, an, I assume, autistic, also asexual, woman, Keiko, who in early childhood realizes a set of rules to live by where she can exist peacefully in a society that has expectations about how people live. Shortly after matriculating to college she discovers that her new job at a convenience store allows her an identity, a social-figleaf as well as the satisfaction that comes from performing a job with skill, even if that job is not particularly important, lucrative or well respected.  
  
 Keiko as a little girl after discovering a dead bird at the park....
 <blockquote>
