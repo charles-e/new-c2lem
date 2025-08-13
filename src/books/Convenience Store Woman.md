@@ -29,7 +29,7 @@ Keiko as a little girl after discovering a dead bird at the park....
 
 The story begins twenty years after taking her job at a convenience store when she is still at the store, the oldest worker who is only a year younger than the current store manager.  As middle age approaches, Keiko's normal obfuscations and excuses have worn thin so that her friends, relatives and co-workers wonder why she has not settled down, gotten married, had a career or children.  She must also confront the real existential problem of aging in a physical, subsistence-level job, where any injury may end her economic viability.
 
-This book is only 150ish pages long. It concerns the way that Keiko accepts her challenges as a oddball with cheerful honesty and resiliency. I smiled a lot along the way.
+This book is only 150ish pages and it concerns the way that Keiko accepts her challenges as a oddball with cheerful honesty and resiliency. I smiled a lot along the way.
 
 <!--
 * <span meta="7.1@2025-08-10T03:27:49.082Z"></span> “What’s up, Keiko? Oh! A little bird … where did it come from I wonder?” she said gently, stroking my hair. “The poor thing. Shall we make a grave for it?”
