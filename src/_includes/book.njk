@@ -25,6 +25,7 @@ layout: base.njk
   <div class="book-body">
     {% block content %} {{ content | safe }} {% endblock %}
   </div>
+  <div class="spoiler_btn"></div>
   {% if date_read %}
   <p style="margin-top: 2rem">
     <a href="/books/" class="back-link">← Back to Books</a>

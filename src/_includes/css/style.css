@@ -417,3 +417,35 @@ body {
 .recipe a:hover {
   text-decoration: none;
 }
+
+/* Spoilers are hidden by default */
+.spoiler {
+  color: transparent;                 /* hide text */
+  background: rgba(0,0,0,.85);        /* black bar */
+  border-radius: 4px;
+  padding: 0 .25em;                   /* a little pill */
+  transition: background .2s ease, color .2s ease, filter .2s ease;
+  user-select: none;                  /* optional: avoid copy-to-reveal */
+}
+
+/* When spoilers are ON (global toggle), reveal text */
+html.spoilers-on .spoiler {
+  color: inherit;
+  background: transparent;
+  user-select: text;
+}
+
+/* Toggle button styles */
+.spoiler-toggle {
+  margin-left: .5rem;
+  padding: .3rem .6rem;
+  font: inherit;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #f7f7f7;
+  cursor: pointer;
+}
+.spoiler-toggle[aria-pressed="true"] {
+  background: #e8f5e9;
+  border-color: #7cb342;
+}
