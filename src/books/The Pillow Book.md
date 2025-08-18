@@ -2,19 +2,42 @@
 title: The Pillow Book
 author: 'Shonagon, Sei'
 date_started: 2025-06-20T00:00:00.000Z
+date_read: 2025-08-17T00:00:00.000Z
+date_posted: 2025-08-17T00:00:00.000Z
 src: lvccld
 tags:
   - edifying
   - historical
+  - side-quest
+  - dnf
 img_url: /images/books/The Pillow Book.jpg
 publisher: Penguin
 published: 2007
-permalink: /books/BIP_/Pillow_Book/
+permalink: /books/Pillow_Book/
 layout: book.njk
 pages: 361
-pct_progress: 51
-latest_progress: '2025-08-17T19:13:39.123Z'
 ---
+<blockquote>
+One day in the ninth month, at a certain place, a gentleman who, though not exactly a court noble, was renowned at that time as a man of marvelous charm, taste and sensibility, pays a visit to Lady Someone. Dawn is breaking, thick mists diffuse the light of a glorious moon, and he bends all his powers to the task of producing words that will leave her heart aglow with memories of their night together.
+
+Ah, now he departs – she sits on and on, gazing into the distance after him. A scene of inexpressibly resonant beauty. He makes as if to go on his way, but surreptitiously turns and retraces his steps to secrete himself by the lattice fence. Seeing her deep reluctance to rise and leave, he bethinks himself to say something further to her of what is in his heart, but now he hears her murmur softly to herself the lines:
+
+  ‘though there in the dawn sky
+
+  the moon hangs bright’. 
+
+The woman he gazes at in secret is bending forward, so that her hair falls away from her head and hangs perhaps six inches before her face. It glows there like a candle, borrowing added light from the moonlight, and in astonishment at the sight the man chooses this moment to slip quietly away.
+
+This was a tale that someone told.”</blockquote>
+
+
+While it is an interesting book all about the daily life of an imperial consort around the year 1000AD in Japan.  It has many charming anecdotes about life in those times.  The overall narrative describes the life of leisure in the imperial court; about people who don't need to support themselves with labor and therefore concern themselves almost entirely with entertaining themselves, gossip and gaining/maintaining social status.  
+
+There are many older books in the western tradition, but all of these works are those that have managed to survive the implicit censorship of the Catholic church (in that the monks decided what works would be copied and passed through history).  Nothing like _The Pillow Book_ was ever gonna make the cut as scriptorium copyist material: instead what we get is religion, philosophy, history and math: Aristotle, Augustine and the like.   
+
+I suggested this for a side-quest book-club and have regretted it because, although I have enjoyed reading it, it is a memoir of a person with whom I have no particular interest so there is no plot or action or conflict; its just a series of anecdotes and even the anecdotes are not in a chronologic order. I read about 50 pages of it and realized that there was nothing more that I was going to get from it, but *I* suggested the book so I was *obliged* to read it.  But after two months all of us agreed enough was enough so I an officially DNFing this. All-in-all I read about two-thirds and that's good enough for me.
+
+<!--
 * <span meta="10@2025-06-21T03:21:28.377Z"></span> So far, so charming (except for the Dog story)
 
 * <span meta="23@2025-07-13T21:23:54.260Z"></span> The inner chamber was said to be haunted
@@ -52,7 +75,7 @@ The end of a cute anecdote about the emperor hitting on our narrator.
 * <span meta="44.4@2025-08-11T04:24:51.498Z"></span> “[144] Endearingly lovely things – A baby’s face painted on a gourd. A sparrow coming fluttering down to the nest when her babies are cheeping for her.
 ”
 
-* <span meta="48.7@2025-08-17T17:59:06.083Z"></span> “[172]* One day in the ninth month, at a certain place, a gentleman who, though not exactly a court noble, was renowned at that time as a man of marvellous charm, taste and sensibility, pays a visit to Lady Someone. Dawn is breaking, thick mists diffuse the light of a glorious moon, and he bends all his powers to the task of producing words that will leave her heart aglow with memories of their night together. Ah, now he departs – she sits on and on, gazing into the distance after him. A scene of inexpressibly resonant beauty. He makes as if to go on his way, but surreptitiously turns and retraces his steps to secrete himself by the lattice fence. Seeing her deep reluctance to rise and leave, he bethinks himself to say something further to her of what is in his heart, but now he hears her murmur softly to herself the lines:
+* <span meta="48.7@2025-08-17T17:59:06.083Z"></span> “[172]* One day in the ninth month, at a certain place, a gentleman who, though not exactly a court noble, was renowned at that time as a man of marvelous charm, taste and sensibility, pays a visit to Lady Someone. Dawn is breaking, thick mists diffuse the light of a glorious moon, and he bends all his powers to the task of producing words that will leave her heart aglow with memories of their night together. Ah, now he departs – she sits on and on, gazing into the distance after him. A scene of inexpressibly resonant beauty. He makes as if to go on his way, but surreptitiously turns and retraces his steps to secrete himself by the lattice fence. Seeing her deep reluctance to rise and leave, he bethinks himself to say something further to her of what is in his heart, but now he hears her murmur softly to herself the lines:
 ‘though there in the dawn sky
 the moon hangs bright’. 1
 The woman he gazes at in secret is bending forward, so that her hair falls away from her head and hangs perhaps six inches before her face. It glows there like a candle, borrowing added light from the moonlight, and in astonishment at the sight the man chooses this moment to slip quietly away. 2
@@ -62,3 +85,4 @@ This was a tale that someone told.”
 * <span meta="49.2@2025-08-17T18:04:08.186Z"></span> How do they know anything is a _chinese_ poem? 
 
 * <span meta="51@2025-08-17T19:13:39.123Z"></span> “It’s engaging to witness some very attractive young lady of eighteen or nineteen, with a beautiful sleek head of hair hanging the length of her back, wonderfully thick at the ends, a lovely plump figure and very pale face, who is suffering from a terrible toothache. She sits there, hand pressed to her bright red cheek, quite unaware that her side-locks are all sodden from weeping.”
+-->
