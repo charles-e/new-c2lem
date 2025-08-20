@@ -1,11 +1,11 @@
 ---
 title: Rogue Male
-author: Household, Geoffery
-date_started: 2025-08-15T00:00:00Z
+author: 'Household, Geoffery'
+date_started: 2025-08-15T00:00:00.000Z
 src: lvccld
-tags: 
- - Suspense
-img_url : "https://m.media-amazon.com/images/I/51oPPgp45wL.jpg"
+tags:
+  - Suspense
+img_url: /images/books/Rogue Male.jpg
 recommendation_src: The Ministry of Time
 permalink: /books/BIP_/Rogue_Male/
 layout: book.njk

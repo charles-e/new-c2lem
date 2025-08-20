@@ -7,7 +7,7 @@ tags:
   - literary
   - speculative
   - fiction
-img_url: 'https://m.media-amazon.com/images/I/91xHzji9PcL._SY466_.jpg'
+img_url: /images/books/Unworld.jpg
 permalink: /books/Unworld/
 layout: book.njk
 date_read: '2025-08-19T23:22:11.716Z'
