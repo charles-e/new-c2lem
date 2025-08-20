@@ -11,6 +11,6 @@ permalink: /books/BIP_/Rogue_Male/
 layout: book.njk
 pages: 189
 publisher: NYRB Classics
-published: 2007
+published: 2007 (1st ed. 1939)
 ---
 This book was gifted to and read by Commander Gore in _The Ministry of Time_ , so my decision to read is in large part the after glow I felt from that story. 
