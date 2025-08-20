@@ -14,7 +14,7 @@ date_read: '2025-08-19T23:22:11.716Z'
 pages: 257
 publisher: Knopf
 published: 2025
-date_posted: '2025-09-19T00:00:00.000Z'
+date_posted: '2025-08-19T00:00:00.000Z'
 ---
 <blockquote> He shrugged, grinning with the milk-fed confidence of the only child. He already knew she would say yes. He strolled through a garden of yes all his life. And yet, how could you say he was spoiled? Well behaved, thoughtful, considerate, kind, grateful. His requests were too modest not to be granted.
 </blockquote>
