@@ -11,6 +11,7 @@ img_url: /images/books/Unworld.jpg
 permalink: /books/Unworld/
 layout: book.njk
 date_read: '2025-08-19T23:22:11.716Z'
+recommendation_src: Wall Street Journal
 pages: 257
 publisher: Knopf
 published: 2025
