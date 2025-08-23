@@ -42,6 +42,6 @@ Vera's story is structured as a series of chapters with each chapter titled for 
 This book manages to be very funny frequently (but not exclusively) by using Vera's sophisticated ear-hustling and mimicry to mirror the adults (especially her father) in her life.  Those adults have real existential fears and hence there is the constant background tinge of fear and sadness to the tone. Lastly, this book is really charming because Vera is sincere and innocent.
 
 <span class="spoiler">
-I cried at one point.  I am not a crier.
+I cried at one point.  I am not a crier.  Also "frog march of the damned" is still making me smile.
 </span>
 
