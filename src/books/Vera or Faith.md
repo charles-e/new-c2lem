@@ -1,5 +1,5 @@
 ---
-title: Vera&comma; or Faith
+title: Vera, or Faith
 author: 'Shteyngart, Gary'
 date_started: 2025-08-17T00:00:00.000Z
 src: lvccld
