@@ -1,19 +1,29 @@
 ---
 title: A Sand County Almanac
 author: 'Leopold, Aldo'
-date_started: '2025-04-22'
+date_started: '2025-04-22T00:00:00.000Z'
+date_read: '2025-08-25T00:00:00.000Z'
+published: 1949
 tags:
   - non-fiction
+  - dnf
 img_url: /images/books/A_Sand_County_Almanac.jpg
 permalink: /books/A_Sand_County_Almanac/
 layout: book.njk
-date_posted: 2025-04-15T00:00:00.000Z
+date_posted: 2025-08-28T00:00:00.000Z
 source: gift
 pct_progress: 65.1
 latest_progress: '2025-08-23T01:32:32.234Z'
 ---
-replace me
+My brother-in-law, bless his aspirational hippie heart, gave me this book last Christmas.  I waited four months to start reading it when my guilt told me it was time.  Now having been nibbling at it for four more months I will officially retire from reading it.  
 
+Much like reading [The Pillow Book](/books/Pillow_Book/), this is beautifully written and has no fictional plot to drive you forward; its the sort of book you can keep in the bathroom to just pick up while you take care of business.  But where the Pillow Book is a mostly pleasant, if somewhat dull book about finding pleasure in medieval Japan, this book is a melancholy read because, even as it describes beauty in nature the driving theme of this work is the destruction of America's natural habitat.  
+
+A big memory of the book is that Mr Leopold went camping at a time when much of America's wilderness was only accessible on foot, horseback or canoe.  And he describes being camped for months at a time feeding himself largely by hunting and fishing.  Another memory is a little essay where he describes his idea of a good hobby for him: bow hunting with a homemade bow and arrows!  
+
+Anyway if you are really interested in this book, [Wikipedia](https://en.wikipedia.org/wiki/A_Sand_County_Almanac) has you covered.
+
+<!-- 
 * <span meta="41@2025-07-13T21:11:33.644Z"></span> A melancholy read - reminds me of Prairie Home Companion (minus the humor)
 
 
@@ -34,3 +44,5 @@ The grouse is the numenon of the north woods, the blue jay of the hickory groves
 * <span meta="61.4@2025-08-11T01:43:27.954Z"></span> There are not many texts that I am able to accept as gospel truths, but this is one of them. I am willing to rise up and declare my belief that this text is literally true; true forward, true backward, true even before breakfast. The man who cannot enjoy his leisure is ignorant, though his degrees exhaust the alphabet, and the man who does enjoy his leisure is to some extent educated, though he has never seen the inside of a school.
 
 * <span meta="65.1@2025-08-23T01:32:32.234Z"></span> I enjoyed his essay on what makes a good hobby (hint, for him: bow hunting with homemade bows and arrows)
+
+-->
