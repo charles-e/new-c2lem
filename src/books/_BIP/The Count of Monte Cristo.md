@@ -3,15 +3,16 @@ title: The Count of Monte Cristo
 author: 'Dumas, Alexandre'
 date_started: 2025-08-28T00:00:00.000Z
 src: used
+published: 1844
 tags:
   - edifying
   - romance
   - adventure
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
-img_url: "/images/books/The Count of Monte Cristo.jpg"
+img_url: /images/books/The Count of Monte Cristo.jpg
 layout: book.njk
-pct_progress: 4.9
-latest_progress: '2025-08-30T22:14:32.943Z'
+pct_progress: 6.8
+latest_progress: '2025-09-01T20:31:15.467Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -26,3 +27,7 @@ latest_progress: '2025-08-30T22:14:32.943Z'
  
 A young and beautiful girl, with hair as black as jet, her eyes as velvety as the gazelles, was leaning with her back against the wainscot, rubbing in her slender fingers, moulded after the antique style, a bunch of heath-blossoms, the flowers of which she was picking off and strewing on the floor; her arms bare to the elbow, tanned, and resembling those of the Venus at Arles, moved with a kind of restless impatience, and she tapped the earth with her pliant and well-formed foot so as to display the pure and full shape of her well-turned leg, in its red cotton stocking with grey and blue clocks.
 * <span meta="4.9@2025-08-30T22:14:32.943Z"></span> “Come on, come on,’ Danglars muttered. ‘I think that the matter is properly under way now, and all we have to do is to let it take its course.”
+
+* <span meta="6.4@2025-09-01T20:09:18.711Z"></span> “Why, then, they shall be breached,’ said M. de Salvieux. ‘Was he himself so scrupulous, when it came to shooting the poor Duc d’Enghien?’8”
+
+* <span meta="6.8@2025-09-01T20:31:15.467Z"></span> Villefort swears he will be pityless to his mom(?) but hints to his fiance that he will be merciful.
