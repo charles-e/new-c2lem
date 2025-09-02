@@ -11,8 +11,8 @@ tags:
 img_url: /images/books/A Room of One's Own.jpg
 permalink: /books/BIP_/A_Room_of_Ones_Own/
 layout: book.njk
-pct_progress: 62.7
-latest_progress: '2025-09-01T02:55:47.328Z'
+pct_progress: 77
+latest_progress: '2025-09-02T00:00:03.690Z'
 ---
  
 * <span meta="11.2@2025-08-25T15:39:42.556Z"></span> “We are all going to heaven and Vandyck is of the company – in other words, how good life seemed, how sweet its rewards, how trivial this grudge or that grievance, how admirable friendship and the society of one’s kind, as, lighting a good cigarette, one sank among the cushions in the window-seat.”
@@ -28,3 +28,7 @@ latest_progress: '2025-09-01T02:55:47.328Z'
 
 * <span meta="62.7@2025-09-01T02:55:47.328Z"></span> “ One must have been something of a firebrand to say to oneself, Oh, but they can’t buy literature too. Literature is open to everybody. I refuse to allow you, Beadle though you are, to turn me off the grass. Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind.
 But whatever effect discouragement and criticism ”
+
+* <span meta="79.5@2025-09-01T23:13:08.964Z"></span> “And there is the girl behind the counter too – I would as soon have her true history as the hundred and fiftieth life of Napoleon or seventieth study of Keats and his use of Miltonic inversion which old Professor Z and his like are now inditing. And then I went on very warily, on the very tips of my toes (so cowardly am I, so afraid of the lash that was once almost laid on my own shoulders), to murmur that she should also learn to laugh, without bitterness, at the vanities – say rather at the peculiarities, for it is a less offensive word – of the other sex.”
+
+* <span meta="77@2025-09-02T00:00:03.690Z"></span> “But she did her best. Considering that Mary Carmichael was no genius, but an unknown girl writing her first novel in a bed-sitting-room, without enough of those desirable things, time, money, and idleness, she did not do so badly, I thought.”
