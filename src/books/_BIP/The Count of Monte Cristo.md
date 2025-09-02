@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The Count of Monte Cristo.jpg
 layout: book.njk
-pct_progress: 6.8
-latest_progress: '2025-09-01T20:31:15.467Z'
+pct_progress: 6.1
+latest_progress: '2025-09-02T23:00:58.844Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -31,3 +31,9 @@ A young and beautiful girl, with hair as black as jet, her eyes as velvety as th
 * <span meta="6.4@2025-09-01T20:09:18.711Z"></span> “Why, then, they shall be breached,’ said M. de Salvieux. ‘Was he himself so scrupulous, when it came to shooting the poor Duc d’Enghien?’8”
 
 * <span meta="6.8@2025-09-01T20:31:15.467Z"></span> Villefort swears he will be pityless to his mom(?) but hints to his fiance that he will be merciful.
+
+* <span meta="6.9@2025-09-02T22:20:15.756Z"></span> “In reality, apart from the memory of his father’s choice of political allegiance (which, if he did not himself completely renounce it, might affect his own career), Gérard de Villefort was at that moment as happy as it is possible for a man to be. At the age of twenty-six, already wealthy in his own right, he held a high office in the legal profession; and he was to marry a beautiful young woman whom he loved, not with passion, but reasonably, as a deputy crown prosecutor may love.”
+
+* <span meta="6.1@2025-09-02T23:00:58.844Z"></span> This is ominous tho: 
+'Alas! alas!' murmured he, 'if the procureur du roi had been here in Marseilles, I should have been ruined. This accursed letter would have destroyed all my hopes. Oh! father, must your past career always interfere with mine?
+Suddenly a light passed over his face, a smile played round his mouth, and his lips relaxed."This will do”, said he, “and from this letter, which might have ruined me, I will make my fortune.”
