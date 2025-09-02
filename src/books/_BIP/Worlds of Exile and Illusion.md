@@ -5,7 +5,7 @@ date_started: 2025-08-26T00:00:00.000Z
 src: lvccld
 tags:
   - sci-fi
-img_url: 'images/books/Worlds of Exile and Illusion.jpg'
+img_url: '/images/books/Worlds of Exile and Illusion.jpg'
 permalink: /books/BIP_/Worlds_of_Exile/
 layout: book.njk
 pct_progress: 23.5
