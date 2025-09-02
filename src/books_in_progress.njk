@@ -10,10 +10,28 @@ permalink: /books/in-progress/
   {% for book in collections.allPendingBooks %}
     <a href="{{ book.url }}" class="book-card" aria-label="{{ book.data.title }} by {{ book.data.author }}">
       <img src="{{ book.data.img_url }}" alt="{{ book.data.title }} by {{ book.data.author | firstLast }}" />
+
       <div class="hover-info">
         <strong>{{ book.data.title }}</strong><br/>
         <span>{{ book.data.author | firstLast }}</span>
       </div>
+
+       <div class="progress-wrap" role="group" aria-label="Reading progress">
+        <div class="progress"
+             role="progressbar"
+             aria-valuemin="0"
+             aria-valuemax="100"
+             aria-valuenow="{{ book.data.pct_progress | round(0, 'floor') }}">
+          <span class="progress-bar" style="--pct: {{ book.data.pct_progress }}"></span>
+        </div>
+        <span class="progress-label">{{ book.data.pct_progress }}%</span>
+      </div>
+
+      {% if book.data.latest_progress %}
+        <div class="progress-meta">
+          <small>Updated {{ book.data.latest_progress | readableDate }}</small>
+        </div>
+      {% endif %}
     </a>
   {% endfor %}
 </div>

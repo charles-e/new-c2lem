@@ -49,7 +49,7 @@ module.exports = function (eleventyConfig) {
     //console.log(`dateObj = ${dateObj.toLocaleDateString()}`);
     var datep1 = DateTime.fromJSDate(dateObj);
     // console.log(`datep1 = ${datep1}`);
-     var datep2 = datep1.toFormat('DDDD');
+    var datep2 = datep1.toFormat('DDDD');
     // console.log(`datep2 = ${datep2}`);
     // console.log(`returning fuck ${datep2}`);
     return datep2;
@@ -103,6 +103,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("allPendingBooks", function (collectionApi) {
+
     return collectionApi.getFilteredByGlob("src/books/*/*.md")
       .filter(book => !book.data.date_read) // ✅ ONLY books WITHOUT date_read
       .sort((a, b) => {
@@ -116,9 +117,9 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByGlob("src/weeklies/*.md")
       .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
   });
-eleventyConfig.addCollection("recipes", function (collectionApi) {
-  return collectionApi.getFilteredByGlob("src/recipes/*.md").sort((a, b) => b.date - a.date);
-});
+  eleventyConfig.addCollection("recipes", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("src/recipes/*.md").sort((a, b) => b.date - a.date);
+  });
 
   eleventyConfig.addFilter("date", (dateObj) => {
     if (!dateObj) return "";
