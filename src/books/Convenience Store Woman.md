@@ -11,6 +11,7 @@ tags:
 img_url: /images/books/Convenience Store Woman.jpg
 permalink: /books/Convenience_Store_Woman/
 layout: book.njk
+recommender: Tracy
 date_read: '2025-08-10T04:59:48.673Z'
 date_posted: '2025-08-12T04:59:48.673Z'
 ---

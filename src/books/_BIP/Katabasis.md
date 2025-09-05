@@ -16,3 +16,4 @@ latest_progress: '2025-09-04T12:39:42.556Z'
 * <span meta="11.2@2025-08-25T15:39:42.556Z"></span>They are in hell and I have chuckled several times. So far so good.
 * <span meta="25@2025-09-02T15:39:42.556Z"></span>Past the first sin (pride).
 * <span meta="48.3@2025-09-04T12:39:42.556Z"></span>They have met Elsbeth. Chapter 17
+* <span meta="57@2025-09-04T12:39:42.556Z"></span> In an Escher-based trap. Chapter 20
