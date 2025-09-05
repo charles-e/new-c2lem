@@ -2,10 +2,10 @@
 title: 'Migrations: a novel'
 author: 'McConaghy, Charlotte'
 date_started: 2025-09-03T12:00:00.000Z
-src: lvccld
+src: book club
 tags:
   - sci-fi
-img_url: 'https://m.media-amazon.com/images/I/71L8YLJetLL._SL1500_.jpg'
+img_url: '/images/books/Migrations a novel.jpg'
 permalink: '/books/BIP_/Migrations:_a_novel/'
 layout: book.njk
 recommendation_src: Julia Twaddle
