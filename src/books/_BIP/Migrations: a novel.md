@@ -5,13 +5,13 @@ date_started: 2025-09-03T12:00:00.000Z
 src: book club
 tags:
   - sci-fi
-img_url: '/images/books/Migrations a novel.jpg'
+img_url: /images/books/Migrations a novel.jpg
 permalink: '/books/BIP_/Migrations:_a_novel/'
 layout: book.njk
 recommendation_src: Julia Twaddle
 pages: 237
-pct_progress: 15.6
-latest_progress: '2025-09-05T06:20:42.361Z'
+pct_progress: 48.2
+latest_progress: '2025-09-06T19:57:35.811Z'
 ---
 
 * <span meta="8.4@2025-09-05T06:17:51.055Z"></span> We share a silence filled with the beauty of delicate white wings that carry a creature so far. I think of the courage of this and I could cry with it, and maybe there's something in his eyes that suggests he understands a little of that.
@@ -24,3 +24,6 @@ There is society where none intrudes, by the deep sea, and music in its roar."
 I smile. "Byron."
 "Bless you, dear, I do love the Irish." He pauses and grins. "And by God I love to fish."
 But why? I want to ask. Why?
+
+* <span meta="48.2@2025-09-06T19:57:35.811Z"></span> I lie in the sea and feel more lost than ever, because I'm not meant to be homesick, I'm not meant to long for the things I have always been so desperate to leave.
+It isn't fair to be the kind of creature who is able to love but unable to stay.
