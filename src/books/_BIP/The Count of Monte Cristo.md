@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The Count of Monte Cristo.jpg
 layout: book.njk
-pct_progress: 6.1
-latest_progress: '2025-09-02T23:00:58.844Z'
+pct_progress: 7.1
+latest_progress: '2025-09-08T02:48:45.446Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -37,3 +37,5 @@ A young and beautiful girl, with hair as black as jet, her eyes as velvety as th
 * <span meta="6.1@2025-09-02T23:00:58.844Z"></span> This is ominous tho: 
 'Alas! alas!' murmured he, 'if the procureur du roi had been here in Marseilles, I should have been ruined. This accursed letter would have destroyed all my hopes. Oh! father, must your past career always interfere with mine?
 Suddenly a light passed over his face, a smile played round his mouth, and his lips relaxed."This will do”, said he, “and from this letter, which might have ruined me, I will make my fortune.”
+
+* <span meta="7.1@2025-09-08T02:48:45.446Z"></span> Danglars alone was happy and contented, he had got rid of an enemy and preserved his situation on board the Pharaon; Danglars was one of those men born with a pen behind the ear, and an inkstand in place of a heart. Everything with him was multiplication or subtraction, and he estimated the life of a man as less precious than a figure, when that figure could increase and that life diminish the total of the amount.
