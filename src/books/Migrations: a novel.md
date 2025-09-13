@@ -23,7 +23,7 @@ character-changes: 3
 We share a silence filled with the beauty of delicate white wings that carry a creature so far. I think of the courage of this and I could cry with it, and maybe there's something in his eyes that suggests he understands a little of that.
 </blockquote>
 
-Julia in the book club gave(lent) this to me and it sat on my shelf for about a year and a half probably because I knew that though it sounded good it also looked like it would be bleak. Now having plowed through it in a week I have to say: This fucking book is written such that every ten pages it made me want to cry and yet, still, I wanted to go on. 
+Julia in the book club gave(lent) this to me only for it to sit on the shelf for about a year and a half probably because I knew that though it sounded good it also looked like it would be bleak. Now having plowed through it in a week I have to say: This fucking book is written such that every ten pages it made me want to cry and yet, still, I wanted to go on. 
 
 A story told in an alternative but entirely possible future where mankind (at least partially due to climate change) has driven many species to extinction including almost all birds.  Franny, a lone woman is on a quest to follow the last of the arctic terns through their globe spanning migration (that is from the arctic to the antarctic).  She manages to join the crew of one of the few remaining Newfoundland fishing vessels in order to follow the three terns that she has managed to tag with radio beacons. Along the way she goes swimming in nearly frozen water sooo many times that I am sure I am missing a huge symbol (rebirth?).  
 
