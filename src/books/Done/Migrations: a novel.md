@@ -6,7 +6,7 @@ src: book club
 tags:
   - sci-fi
 img_url: /images/books/Migrations a novel.jpg
-permalink: '/books/BIP_/Migrations:_a_novel/'
+permalink: '/books/Migrations:_a_novel/'
 layout: book.njk
 recommendation_src: Julia Twaddle
 pages: 237
