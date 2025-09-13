@@ -41,8 +41,6 @@ What magicians of ancient civilizations discovered through accident and ingenuit
 </blockquote>
 
 ...And that's the overall premise of magic in the book, along with drawing pentagrams using chalk or blood. I found the magic as a plot device was well developed enough to enjoy having it used throughout the story without pausing to think, "this is bullshit". For example, sprinkled throughout the story there is discussion of magician's chalk, it's varieties and brand names (Barkle's vs Shropley's).  
- 
-I enjoyed now knowing how the book was going to end (is not this, uncertainty of the ending, the primary attribute of "literature")
 
 Another distinctive aspect of this book is that it is slathered with references not only to literature about Hell (Dante, Orpheus), but also, science, math and logic (especially paradoxes) and according to TikTok some readers found this annoying. I think this is overblown because you are given context for all these little mentions, and it is not necessary to _know_ any of the referenced texts.   Lastly there is some humor in the book, but, reflecting it's academic theme is subtle, for example, at one point a text is mentioned in passing: _Penhaligon’s Primer on the Unitarian Hell_. But did you know that Unitarians don't believe in Hell? Ha Ha! And yes, I chuckled, but that just makes me smug and pedantic.  
 
