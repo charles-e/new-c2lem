@@ -26,6 +26,8 @@ layout: base.njk
     {% block content %} {{ content | safe }} {% endblock %}
   </div>
   <div class="spoiler_btn"></div>
+  {% if comments_on %}
+
   <section id="comments">
   <h2>Comments</h2>
   <form id="comment-form">
@@ -87,6 +89,7 @@ loadComments();
 #comment-list li { padding: .75rem 1rem; background: #fafafa; border: 1px solid #eee; border-radius: .5rem; }
 #comment-list p { margin: .5rem 0 0; white-space: pre-wrap; }
 </style>
+    {% endif %}
 
   {% if date_read %}
   <p style="margin-top: 2rem">
