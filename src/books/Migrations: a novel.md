@@ -18,6 +18,7 @@ cried: 4
 world-building: 1
 laughed: 2
 character-changes: 3
+comments: on
 ---
 <blockquote>
 We share a silence filled with the beauty of delicate white wings that carry a creature so far. I think of the courage of this and I could cry with it, and maybe there's something in his eyes that suggests he understands a little of that.
