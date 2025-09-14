@@ -26,6 +26,68 @@ layout: base.njk
     {% block content %} {{ content | safe }} {% endblock %}
   </div>
   <div class="spoiler_btn"></div>
+  <section id="comments">
+  <h2>Comments</h2>
+  <form id="comment-form">
+    <input type="text" name="author" placeholder="Name (optional)" />
+    <textarea name="message" required placeholder="Write a comment…"></textarea>
+    <button type="submit">Post</button>
+  </form>
+  <ul id="comment-list" aria-live="polite"></ul>
+</section>
+
+<script type="module">
+const API = "https://api.c2lem.com/api/comments";
+const slug = "{{ page.url }}"; // unique per page
+
+function escapeHtml(s){return String(s).replace(/[&<>"']/g,m=>({ "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;" }[m]))}
+
+async function loadComments() {
+  const res = await fetch(`${API}?slug=${encodeURIComponent(slug)}`);
+  const { items = [] } = await res.json();
+  document.getElementById("comment-list").innerHTML = items.map(c => `
+    <li>
+      <strong>${escapeHtml(c.author || "Anonymous")}</strong>
+      <small> — ${new Date(c.created_at).toLocaleString()}</small>
+      <p>${escapeHtml(c.message)}</p>
+    </li>
+  `).join("");
+}
+
+document.getElementById("comment-form").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const fd = new FormData(e.currentTarget);
+  const payload = {
+    slug,
+    author: fd.get("author"),
+    message: fd.get("message")
+  };
+  const res = await fetch(API, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify(payload)
+  });
+  if (res.ok) {
+    e.currentTarget.reset();
+    loadComments();
+  } else {
+    const { error } = await res.json().catch(()=>({}));
+    alert(error || "Failed to post comment.");
+  }
+});
+
+loadComments();
+</script>
+
+<style>
+#comments { margin-top: 2rem; border-top: 1px solid #e5e5e5; padding-top: 1rem; }
+#comment-form { display: grid; gap: .5rem; margin-bottom: 1rem; }
+#comment-form textarea { min-height: 6rem; }
+#comment-list { list-style: none; padding: 0; margin: 0; display: grid; gap: .75rem; }
+#comment-list li { padding: .75rem 1rem; background: #fafafa; border: 1px solid #eee; border-radius: .5rem; }
+#comment-list p { margin: .5rem 0 0; white-space: pre-wrap; }
+</style>
+
   {% if date_read %}
   <p style="margin-top: 2rem">
     <a href="/books/" class="back-link">← Back to Books</a>
