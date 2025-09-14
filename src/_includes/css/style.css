@@ -2,81 +2,84 @@
 body {
   font-family: 'Lora', serif;
   margin: 0;
-  padding-top: 4.5rem; /* Enough space for fixed nav */
+  padding-top: 4.5rem;
+  /* Enough space for fixed nav */
   line-height: 1.7;
   background-color: #fdf6f0;
   color: #4a3c31;
   padding-bottom: 2rem;
-  }
-  
 }
 
-  
-  /* Navigation styling */
-  nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    background-color: #f5e9dc; /* Light warm contrasting color */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    z-index: 1000;
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    padding: 0.75rem 1rem;
-  }
-  
-  
-  nav a {
-    text-decoration: none;
-    padding: 0.5rem 1rem;
-    color: #8b5e3c;
-    border-radius: 4px;
-    transition: background-color 0.2s, color 0.2s;
-  }
-  
-  nav a:hover {
-    background-color: #e6f0ff;
-  }
-  
-  nav a.active {
-    font-weight: bold;
-    text-decoration: underline;
-    color: #003366;
-  }
-  
-  /* Main content styling */
-  main {
-    max-width: 700px;
-    margin: 0 auto;
-    padding: 1rem;
-    box-sizing: border-box;
-  }
-  
-  
-  /* Lists */
-  ul {
-    padding-left: 1.5rem;
-  }
-  
-  li {
-    margin-bottom: 0.5rem;
-  }
+}
 
-  .book-cover {
-    text-align: center;
-    margin-bottom: 1.5rem;
-  }
-  
-  .book-cover img {
-    max-width: 300px;
-    width: 100%;
-    height: auto;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-    border-radius: 8px;
-  }
-  .back-link {
+
+/* Navigation styling */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #f5e9dc;
+  /* Light warm contrasting color */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+}
+
+
+nav a {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  color: #8b5e3c;
+  border-radius: 4px;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+nav a:hover {
+  background-color: #e6f0ff;
+}
+
+nav a.active {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #003366;
+}
+
+/* Main content styling */
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+
+/* Lists */
+ul {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+.book-cover {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.book-cover img {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+}
+
+.back-link {
   display: inline-block;
   margin-top: 1.5rem;
   color: #8b5e3c;
@@ -87,290 +90,297 @@ body {
 .back-link:hover {
   text-decoration: underline;
 }
+
 .breadcrumbs {
-    font-size: 0.9rem;
-    margin-bottom: 1.5rem;
-    color: #8b5e3c;
-  }
-  
-  .breadcrumbs a {
-    color: #8b5e3c;
-    text-decoration: none;
-  }
-  
-  .breadcrumbs a:hover {
-    text-decoration: underline;
-    color: #6e4228;
-  }
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+  color: #8b5e3c;
+}
 
-  .book-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 1rem;
-    margin-top: 1rem;
-  }
-  
-  .book-card {
-    position: relative;
-    overflow: hidden;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    text-decoration: none;
-  }
-  
-  .book-card img {
-    width: 100%;
-    height: auto;
-    display: block;
-    object-fit: cover;
-    transition: transform 0.3s ease;
-  }
-  
-  .book-card:hover img {
-    transform: scale(1.05);
-  }
-  
-  .hover-info {
-    position: absolute;
-    inset: 0;
-    background: rgba(0,0,0,0.7);
-    color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-    text-align: center;
-    padding: 0.5rem;
-  }
-  
-  .book-card:hover .hover-info {
-    opacity: 1;
-  }
-  
-  .latest-weekly {
-    margin-bottom: 2rem;
-  }
-  
-  .latest-weekly h2 {
-    font-size: 1.75rem;
-  }
-  
-  .weekly-content {
-    margin-top: 1rem;
-    font-size: 1rem;
-    line-height: 1.6;
-  }
+.breadcrumbs a {
+  color: #8b5e3c;
+  text-decoration: none;
+}
 
-  .previous-posts ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  .previous-posts li {
-    font-size: 0.95rem;
-    color: #555;
-    margin-bottom: 0.5rem;
-  }
-  
-  .previous-posts a {
-    color: #333;
-    text-decoration: none;
-  }
-  
-  .previous-posts a:hover {
-    text-decoration: underline;
-  }
-  
-  .previous-posts small {
-    font-size: 0.85rem;
-    color: #777;
-  }
+.breadcrumbs a:hover {
+  text-decoration: underline;
+  color: #6e4228;
+}
 
-  .blog-post {
-    max-width: 700px;
-    margin: 2rem auto;
-    padding: 1rem;
-  }
-  
-  .blog-title {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
-    color: #8b5e3c;
-  }
-  
-  .blog-date {
-    font-size: 0.9rem;
-    color: #777;
-    margin-bottom: 2rem;
-  }
-  
-  .blog-body {
-    font-size: 1rem;
-    line-height: 1.7;
-  }
-  
-  .blog-body h2 {
-    font-size: 1.5rem;
-    margin-top: 2rem;
-  }
-  
-  .blog-body ul, .blog-body ol {
-    padding-left: 1.5rem;
-    margin-bottom: 1.5rem;
-  }
-  
-  .blog-body a {
-    color: #0077cc;
-    text-decoration: underline;
-  }
-  
-  .blog-body a:hover {
-    text-decoration: none;
-  }
-  
-  .book-page {
-    max-width: 700px;
-    margin: 0 auto;
-    padding: 1rem;
-  }
-  
-  .book-header {
-    margin-bottom: 1.5rem;
-  }
-  
-  .book-title {
-    font-size: 2rem;
-    margin-bottom: 0.25rem;
-  }
-  
-  .book-author {
-    font-size: 1rem;
-    color: #555;
-    margin-bottom: 1rem;
-  }
-  
-  .book-tags {
-    font-size: 0.9rem;
-    color: #777;
-  }
-  
-  .book-body {
-    font-size: 1rem;
-    line-height: 1.7;
-    margin-top: 2rem;
-  }
-  
-  blockquote {
-    margin: 1.5rem 0;
-    padding-left: 1.5rem;
-    border-left: 4px solid #ccc;
-    font-style: italic;
-    color: #6b5844;
-  }
-  
-  blockquote p {
-    margin: 0;
-  }
-  
-  h1, h2, h3 {
-    font-family: 'Lora', serif;
-  }
-  
-  .site-nav {
-    display: flex;
-    justify-content: center;
-    gap: 1rem; /* Space between links */
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    background-color: #f5e9dc; /* Or whatever warm background you like */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    z-index: 1000;
-    padding: 0.75rem 1rem;
-  }
-  
-  .site-nav a {
-    text-decoration: none;
-    color: #8b5e3c;
-    position: relative;
-    padding: 0 0.5rem;
-  }
-  
-  .site-nav a:not(:last-child)::after {
-    content: "|";
-    position: absolute;
-    right: -0.5rem;
-    color: #bbb;
-    transition: opacity 0.3s ease;
-    opacity: 1;
-  }
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
 
-  .site-nav a:hover::after {
-    opacity: 0;
-  }
-  
-  footer {
-    max-width: 700px;
-    margin: 2rem auto;
-    text-align: center;
-    font-size: 0.9rem;
-    color: #666;
-    padding: 1rem;
-    border-top: 1px solid #ddd;
-    margin-top: 3rem;
-    padding-top: 1.5rem;
-    font-size: 0.85rem;
-    color: #888;
-  }
-  .subscribe-page {
-    max-width: 600px;
-    margin: 2rem auto;
-    padding: 1rem;
-    text-align: center;
-  }
-  
-  .subscribe-input {
-    width: 100%;
-    max-width: 400px;
-    padding: 0.5rem;
-    margin-top: 0.5rem;
-    font-size: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-  }
-  
-  .subscribe-button {
-    margin-top: 1rem;
-    background-color: #8b5e3c;
-    color: white;
-    border: none;
-    padding: 0.6rem 1.5rem;
-    font-size: 1rem;
-    border-radius: 6px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  .subscribe-button:hover {
-    background-color: #6e4228;
-  }
-  
-  .subscribe-label {
-    font-weight: bold;
-  }
-  
-  .thank-you-page {
-    max-width: 600px;
-    margin: 2rem auto;
-    padding: 1rem;
-    text-align: center;
-  }
-  
-  /* General recipe styling */
+.book-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+}
+
+.book-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.book-card:hover img {
+  transform: scale(1.05);
+}
+
+.hover-info {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.book-card:hover .hover-info {
+  opacity: 1;
+}
+
+.latest-weekly {
+  margin-bottom: 2rem;
+}
+
+.latest-weekly h2 {
+  font-size: 1.75rem;
+}
+
+.weekly-content {
+  margin-top: 1rem;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.previous-posts ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.previous-posts li {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+.previous-posts a {
+  color: #333;
+  text-decoration: none;
+}
+
+.previous-posts a:hover {
+  text-decoration: underline;
+}
+
+.previous-posts small {
+  font-size: 0.85rem;
+  color: #777;
+}
+
+.blog-post {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.blog-title {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  color: #8b5e3c;
+}
+
+.blog-date {
+  font-size: 0.9rem;
+  color: #777;
+  margin-bottom: 2rem;
+}
+
+.blog-body {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.blog-body h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+.blog-body ul,
+.blog-body ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.blog-body a {
+  color: #0077cc;
+  text-decoration: underline;
+}
+
+.blog-body a:hover {
+  text-decoration: none;
+}
+
+.book-page {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.book-header {
+  margin-bottom: 1.5rem;
+}
+
+.book-title {
+  font-size: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+.book-author {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.book-tags {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.book-body {
+  font-size: 1rem;
+  line-height: 1.7;
+  margin-top: 2rem;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding-left: 1.5rem;
+  border-left: 4px solid #ccc;
+  font-style: italic;
+  color: #6b5844;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Lora', serif;
+}
+
+.site-nav {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  /* Space between links */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #f5e9dc;
+  /* Or whatever warm background you like */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  padding: 0.75rem 1rem;
+}
+
+.site-nav a {
+  text-decoration: none;
+  color: #8b5e3c;
+  position: relative;
+  padding: 0 0.5rem;
+}
+
+.site-nav a:not(:last-child)::after {
+  content: "|";
+  position: absolute;
+  right: -0.5rem;
+  color: #bbb;
+  transition: opacity 0.3s ease;
+  opacity: 1;
+}
+
+.site-nav a:hover::after {
+  opacity: 0;
+}
+
+footer {
+  max-width: 700px;
+  margin: 2rem auto;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  padding: 1rem;
+  border-top: 1px solid #ddd;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  font-size: 0.85rem;
+  color: #888;
+}
+
+.subscribe-page {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+.subscribe-input {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.subscribe-button {
+  margin-top: 1rem;
+  background-color: #8b5e3c;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.subscribe-button:hover {
+  background-color: #6e4228;
+}
+
+.subscribe-label {
+  font-weight: bold;
+}
+
+.thank-you-page {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* General recipe styling */
 .recipe {
   max-width: 700px;
   margin: 2rem auto;
@@ -378,7 +388,7 @@ body {
   background: #f4e4d2;
   border: 1px solid #ffe0b3;
   border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   font-family: 'Georgia', serif;
 }
 
@@ -394,12 +404,14 @@ body {
   color: #888;
 }
 
-.recipe h2, .recipe h3 {
+.recipe h2,
+.recipe h3 {
   color: #994d00;
   margin-top: 1.5rem;
 }
 
-.recipe ul, .recipe ol {
+.recipe ul,
+.recipe ol {
   margin-left: 1.5rem;
   margin-bottom: 1rem;
 }
@@ -420,12 +432,16 @@ body {
 
 /* Spoilers are hidden by default */
 .spoiler {
-  color: transparent;                 /* hide text */
-  background: rgba(0,0,0,.85);        /* black bar */
+  color: transparent;
+  /* hide text */
+  background: rgba(0, 0, 0, .85);
+  /* black bar */
   border-radius: 4px;
-  padding: 0 .25em;                   /* a little pill */
+  padding: 0 .25em;
+  /* a little pill */
   transition: background .2s ease, color .2s ease, filter .2s ease;
-  user-select: none;                  /* optional: avoid copy-to-reveal */
+  user-select: none;
+  /* optional: avoid copy-to-reveal */
 }
 
 /* When spoilers are ON (global toggle), reveal text */
@@ -445,6 +461,7 @@ html.spoilers-on .spoiler {
   background: #f7f7f7;
   cursor: pointer;
 }
+
 .spoiler-toggle[aria-pressed="true"] {
   background: #e8f5e9;
   border-color: #7cb342;
@@ -489,7 +506,47 @@ html.spoilers-on .spoiler {
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .progress-bar { transition: width .35s ease; }
+  .progress-bar {
+    transition: width .35s ease;
+  }
 }
 
-html.dark .progress { --progress-bg: #333; }
+html.dark .progress {
+  --progress-bg: #333;
+}
+
+#comments {
+  margin-top: 2rem;
+  border-top: 1px solid #e5e5e5;
+  padding-top: 1rem;
+}
+
+#comment-form {
+  display: grid;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+#comment-form textarea {
+  min-height: 6rem;
+}
+
+#comment-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+#comment-list li {
+  padding: 0.75rem 1rem;
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 0.5rem;
+}
+
+#comment-list p {
+  margin: 0.5rem 0 0;
+  white-space: pre-wrap;
+}
