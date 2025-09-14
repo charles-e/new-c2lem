@@ -48,8 +48,66 @@ layout: base.njk
   </section>
 
   <script type="module">
+    const form = document.getElementById("comment-form")
+    const list = document.getElementById("comment-list")
     const API = "https://api.c2lem.com/api/comments"
-    const slug = "{{ page.url }}" // unique per page
+    const slug = "{{ page.url }}" // or however you compute it
+
+    if (form && list) {
+      async function loadComments() {
+        const res = await fetch(`${API}?slug=${encodeURIComponent(slug)}`)
+        const { items = [] } = await res.json()
+        list.innerHTML = items
+          .map(
+            (c) => `
+      <li>
+        <strong>${escapeHtml(c.author || "Anonymous")}</strong>
+        <small> — ${new Date(c.created_at).toLocaleString()}</small>
+        <p>${escapeHtml(c.message)}</p>
+      </li>
+    `
+          )
+          .join("")
+      }
+
+      form.addEventListener("submit", async (e) => {
+        e.preventDefault()
+
+        // Don’t rely on e.currentTarget; use the captured form reference
+        const submitBtn = form.querySelector('button[type="submit"]')
+        submitBtn?.setAttribute("disabled", "true")
+
+        try {
+          const fd = new FormData(form)
+          const payload = {
+            slug,
+            author: fd.get("author"),
+            message: fd.get("message"),
+          }
+
+          const res = await fetch(API, {
+            method: "POST",
+            headers: { "content-type": "application/json" },
+            body: JSON.stringify(payload),
+          })
+
+          if (!res.ok) {
+            const { error } = await res.json().catch(() => ({}))
+            throw new Error(error || `HTTP ${res.status}`)
+          }
+
+          form.reset() // ← safe now
+          await loadComments() // refresh list
+        } catch (err) {
+          console.error(err)
+          alert("Failed to post comment.")
+        } finally {
+          submitBtn?.removeAttribute("disabled")
+        }
+      })
+
+      loadComments()
+    }
 
     function escapeHtml(s) {
       return String(s).replace(
@@ -64,53 +122,9 @@ layout: base.njk
           }[m])
       )
     }
-
-    async function loadComments() {
-      const res = await fetch(`${API}?slug=${encodeURIComponent(slug)}`)
-      const { items = [] } = await res.json()
-      document.getElementById("comment-list").innerHTML = items
-        .map(
-          (c) => `
-    <li>
-      <strong>${escapeHtml(c.author || "Anonymous")}</strong>
-      <small> — ${new Date(c.created_at).toLocaleString()}</small>
-      <p>${escapeHtml(c.message)}</p>
-    </li>
-  `
-        )
-        .join("")
-    }
-
-    document
-      .getElementById("comment-form")
-      .addEventListener("submit", async (e) => {
-        e.preventDefault()
-        const fd = new FormData(e.currentTarget)
-        const payload = {
-          slug,
-          author: fd.get("author"),
-          message: fd.get("message"),
-        }
-        const res = await fetch(API, {
-          method: "POST",
-          headers: { "content-type": "application/json" },
-          body: JSON.stringify(payload),
-        })
-        if (res.ok) {
-          e.currentTarget.reset()
-          loadComments()
-        } else {
-          const { error } = await res.json().catch(() => ({}))
-          alert(error || "Failed to post comment.")
-        }
-      })
-
-    loadComments()
   </script>
 
- 
-  {% endif %} 
-  {% if date_read %}
+  {% endif %} {% if date_read %}
   <p style="margin-top: 2rem">
     <a href="/books/" class="back-link">← Back to Books</a>
   </p>
