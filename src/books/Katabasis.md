@@ -18,7 +18,6 @@ Laugh: 2
 Cry: 0
 Empathize: 3
 World-Building: 4
-comments: on
 ---
 It is the late 1970s and Alice, a female grad student in Cambridge's department of "analytical magic" goes on a mission in hell where she discovers that much of hell bears a striking resemblance to life in academia.  Most of the book is told by Alice in the form: action followed by an illuminating flashback; and most of the flashbacks are about Alice's painful experiences at Cambridge with Professor Grimes her graduate advisor, the patriarchy in general and her unrequited crush on Peter (who, also a magician, is tagging along in hell). 
 
