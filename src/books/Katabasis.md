@@ -27,7 +27,7 @@ Peter Murdoch and his bird’s-nest hair, scarecrow limbs balanced atop a ricket
 Alice couldn’t stand him.
 </blockquote>
 
-Of course, the trope is that Alice and Peter are in love but too stupid realize it.  And the mission: Professor Grimes was killed while performing a spell with Alice's assistance. Of course, she believes she was responsible for his death: she intends to recover Grime's soul and resurrect him. 
+Of course, the trope is that Alice and Peter are in love but too stupid realize it.  And the mission: recover Professor Grime's soul from hell and resurrect him.  (Because Grimes was killed while performing a spell with Alice's assistance, she believes she was responsible for his death. Also she needs her advisor back.)
 
 The dominant theme of the story is Alice's excruciating experience as a woman in academia walking a tightrope of success under constant judgement from the male establishment. The reader never understands her real motivation; it seems to change different different recollections of Grimes' verbal abuse, his ridiculous slave driving, his sexual predation to the point where she considers suicide; yet at the same time, "she knew what she was getting into and she will keep a stiff upper lip" because Grimes is an academic superstar, her "meal ticket" and she believes that her career will be over without his support. In a nutshell, Alice has strong but very mixed emotions about her academic career and her advisor.   
 
