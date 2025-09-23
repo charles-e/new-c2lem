@@ -6,7 +6,7 @@ src: lvccld
 tags:
   - edifying
   - gay
-img_url: 'https://m.media-amazon.com/images/I/81M7Xp3PkzL._SL1500_.jpg'
+img_url: /images/books/Giovanni's Room.jpg
 permalink: /books/BIP_/Giovanni's_Room/
 layout: book.njk
 publisher: Vintage

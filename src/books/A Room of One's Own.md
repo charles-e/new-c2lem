@@ -13,7 +13,7 @@ tags:
 img_url: /images/books/A Room of One's Own.jpg
 permalink: /books/A_Room_of_Ones_Own/
 layout: book.njk
-pct_progress: 100.0
+pct_progress: 100
 latest_progress: '2025-09-04T14:14:23.465Z'
 date_posted: 2025-09-06T14:14:23.465Z
 ---

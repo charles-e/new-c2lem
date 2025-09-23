@@ -7,7 +7,7 @@ date_started: '2025-09-14T02:03:17.050Z'
 src: lvccld
 tags:
   - horror
-img_url: 'https://m.media-amazon.com/images/I/81+otancnCL._SL1500_.jpg'
+img_url: /images/books/The Buffalo Hunter Hunter.jpg
 permalink: /books/BIP_/The_Buffalo_Hunter_Hunter/
 layout: book.njk
 pct_progress: 65.8
