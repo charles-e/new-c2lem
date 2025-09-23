@@ -550,3 +550,19 @@ html.dark .progress {
   margin: 0.5rem 0 0;
   white-space: pre-wrap;
 }
+
+  .bluesky-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #1DA1F2; /* Bluesky-like blue */
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(29, 161, 242, 0.3);
+    transition: background-color 0.3s ease;
+  }
+
+  .bluesky-link:hover {
+    background-color: #0d8ddb;
+  }

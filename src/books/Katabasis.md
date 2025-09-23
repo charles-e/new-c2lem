@@ -14,6 +14,7 @@ layout: book.njk
 latest_progress: '2025-09-04T12:39:42.556Z'
 date_read: 2025-09-11T12:39:42.556Z
 date_posted: 2025-09-12T12:39:42.556Z
+bsky_link: https://bsky.app/profile/c2lem.com/post/3lzjbvzenbc2f
 Laugh: 2
 Cry: 0
 Empathize: 3

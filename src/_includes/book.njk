@@ -124,7 +124,19 @@ layout: base.njk
     }
   </script>
 
-  {% endif %} {% if date_read %}
+  {% endif %} {% if date_read %} {% if bsky_link %}
+  <!-- Bluesky Comments Link Button -->
+    <a
+      href="{{ bsky_link }}"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="bluesky-link"
+    >
+      Comments on Bluesky
+    </a>
+
+  {% endif %}
+
   <p style="margin-top: 2rem">
     <a href="/books/" class="back-link">← Back to Books</a>
   </p>
