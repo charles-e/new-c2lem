@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The Count of Monte Cristo.jpg
 layout: book.njk
-pct_progress: 7.1
-latest_progress: '2025-09-08T02:48:45.446Z'
+pct_progress: 13.6
+latest_progress: '2025-09-26T01:07:04.000Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -39,3 +39,9 @@ A young and beautiful girl, with hair as black as jet, her eyes as velvety as th
 Suddenly a light passed over his face, a smile played round his mouth, and his lips relaxed."This will do”, said he, “and from this letter, which might have ruined me, I will make my fortune.”
 
 * <span meta="7.1@2025-09-08T02:48:45.446Z"></span> Danglars alone was happy and contented, he had got rid of an enemy and preserved his situation on board the Pharaon; Danglars was one of those men born with a pen behind the ear, and an inkstand in place of a heart. Everything with him was multiplication or subtraction, and he estimated the life of a man as less precious than a figure, when that figure could increase and that life diminish the total of the amount.
+
+* <span meta="13.6@2025-09-26T01:07:04.000Z"></span> 'My son, philosophy, as I understand it, is reducible to no rules
+
+by which it can be learned; it is the amalgamation of all the
+
+sciences, the golden cloud which bears the soul to heaven?
