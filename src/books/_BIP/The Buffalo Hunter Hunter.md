@@ -10,8 +10,8 @@ tags:
 img_url: /images/books/The Buffalo Hunter Hunter.jpg
 permalink: /books/BIP_/The_Buffalo_Hunter_Hunter/
 layout: book.njk
-pct_progress: 65.8
-latest_progress: '2025-09-19T23:04:08.047Z'
+pct_progress: 69.2
+latest_progress: '2025-09-28T17:30:13.743Z'
 ---
 * <span meta="8@2025-09-14T02:05:17.050Z"></span> “Either way, the time for scalping is well behind us,” I said. “This is a new day, is it not?” I lifted my arms, enveloping the whole grand chapel, and the civilized town beyond it.
 “Or it’s a single, long night,” he said, looking the other way from the flickering candle, which I perceived was possibly still causing him slight injury.”
@@ -28,3 +28,5 @@ I walked over, fell to my knees, and pushed that eye shut, held it shut with bot
 
 * <span meta="65.8@2025-09-19T23:04:08.047Z"></span> (I like the concept of this book but I am bored.)
 “No, Golden Calf,” Good Stab corrected. “He cut that Black Robe’s throat, but he saved his book. It was his medicine from there on out. He would burn a handful of pages at the Sun Dance each year, less pages every year, and everyone would sing the words they remembered from that Black Robe.”
+
+* <span meta="69.2@2025-09-28T17:30:13.743Z"></span> (it picked up again) “You don’t understand,” I said pleadingly as if to a higher power, longing to use my hands to gesture with, to make him see, to get him to understand that these were different times, with a different breed of men——the kind necessary to forge a new land, a better country, one that made use of its resources rather than letting them lie fallow.”
