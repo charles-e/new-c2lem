@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The Count of Monte Cristo.jpg
 layout: book.njk
-pct_progress: 13.6
-latest_progress: '2025-09-26T01:07:04.000Z'
+pct_progress: 16
+latest_progress: '2025-09-29T02:47:56.865Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -45,3 +45,5 @@ Suddenly a light passed over his face, a smile played round his mouth, and his l
 by which it can be learned; it is the amalgamation of all the
 
 sciences, the golden cloud which bears the soul to heaven?
+
+* <span meta="16@2025-09-29T02:47:56.865Z"></span> Abbé Faria bites the dust
