@@ -34,8 +34,10 @@ Cooking
 Cool
 Creativity
 Crypto
+Deep Sea
 Depressing
 Discovery
+Drones
 ELI5
 Education
 Emotions
@@ -74,6 +76,7 @@ Math
 Media
 Medicine
 Meditation
+Memento Mori
 Miracles and Wonders
 Modern Life
 Music
@@ -83,6 +86,7 @@ Nature
 Nerd
 Nerdery
 Neurology
+Neuroscience
 Organize
 Organizing
 Painting
@@ -116,6 +120,7 @@ Sci-fi
 Science
 Science (eeerrr Math)
 Security
+Sex
 Skills
 Slow Week
 Smile
