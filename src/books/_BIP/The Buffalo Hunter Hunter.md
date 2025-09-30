@@ -10,8 +10,8 @@ tags:
 img_url: /images/books/The Buffalo Hunter Hunter.jpg
 permalink: /books/BIP_/The_Buffalo_Hunter_Hunter/
 layout: book.njk
-pct_progress: 69.2
-latest_progress: '2025-09-28T17:30:13.743Z'
+pct_progress: 93.6
+latest_progress: '2025-09-30T04:45:39.126Z'
 ---
 * <span meta="8@2025-09-14T02:05:17.050Z"></span> “Either way, the time for scalping is well behind us,” I said. “This is a new day, is it not?” I lifted my arms, enveloping the whole grand chapel, and the civilized town beyond it.
 “Or it’s a single, long night,” he said, looking the other way from the flickering candle, which I perceived was possibly still causing him slight injury.”
@@ -30,3 +30,7 @@ I walked over, fell to my knees, and pushed that eye shut, held it shut with bot
 “No, Golden Calf,” Good Stab corrected. “He cut that Black Robe’s throat, but he saved his book. It was his medicine from there on out. He would burn a handful of pages at the Sun Dance each year, less pages every year, and everyone would sing the words they remembered from that Black Robe.”
 
 * <span meta="69.2@2025-09-28T17:30:13.743Z"></span> (it picked up again) “You don’t understand,” I said pleadingly as if to a higher power, longing to use my hands to gesture with, to make him see, to get him to understand that these were different times, with a different breed of men——the kind necessary to forge a new land, a better country, one that made use of its resources rather than letting them lie fallow.”
+
+* <span meta="85.2@2025-09-30T03:20:28.349Z"></span> “No great loss, there. They were just me trying to figure out if my “greatest”-grandfather was good or evil, wondering if Good Stab was Socrates to Arthur Beaucarne’s Plato, some deep dives into the microfichy waters, and a lot of notes chasing down antique vocabulary—which, I don’t know, this last one seems pretty meritorious to me, and not unfitting for a “Communications” professor.”
+
+* <span meta="93.6@2025-09-30T04:45:39.126Z"></span> “I had neither rifle nor spurs for this expedition, however, and the castoff cavalryman’s uniform I had taken when my New Haven finery turned to rags was no protection from the elements. Yet I had no training, no sea legs for an effort such as this. I was like the man in the play who wakes with donkey ears, and so must bray around hopelessly.
