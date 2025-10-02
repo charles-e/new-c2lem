@@ -12,8 +12,8 @@ layout: book.njk
 publisher: Vintage
 publication: 1956
 pages: 178
-pct_progress: 87.6
-latest_progress: '2025-10-02T22:28:13.841Z'
+pct_progress: 91.2
+latest_progress: '2025-10-02T22:55:16.521Z'
 ---
 * <span meta="30.5@2025-09-22T01:43:17.829Z"></span> “Behind the counter sat one of those absolutely inimitable and indomitable ladies, produced only in the city of Paris, but produced there in great numbers, who would be as outrageous and unsettling in any other city as a mermaid on a mountaintop. All over Paris they sit behind their counters like a mother bird in a nest and brood over the cash register as though it were an egg. 
 
@@ -38,3 +38,5 @@ latest_progress: '2025-10-02T22:28:13.841Z'
 * <span meta="86.5@2025-10-02T22:23:15.680Z"></span> “nd told us, too, in delicious detail, how he had done it: but not why. Why was too black for the newsprint to carry and too deep for Giovanni to tell.”
 
 * <span meta="87.6@2025-10-02T22:28:13.841Z"></span> “Then Guillaume enters and Giovanni tries to smile. They have a drink. Guillaume is precipitate, flabby, and moist, and, with each touch of his hand, Giovanni shrinks further and more furiously away.”
+
+* <span meta="91.2@2025-10-02T22:55:16.521Z"></span> “My lips were cold. I felt nothing on my lips. She kissed me again and I closed my eyes, feeling that strong chains were dragging me to fire. It seemed that my body, next to her warmth, her insistence, under her hands, would never awaken. But when it awakened, I had moved out of it. From a great height, where the air all around me was colder than ice, I watched my body in a stranger’s arms.”
