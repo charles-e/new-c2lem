@@ -13,6 +13,7 @@ layout: book.njk
 date_read: '2025-09-30T04:45:39.126Z'
 latest_progress: '2025-09-30T04:45:39.126Z'
 date_posted: '2025-09-30T04:45:39.126Z'
+bsky_link: https://bsky.app/profile/c2lem.com/post/3m27tegbaak2g
 ---
 
 <blockquote>
