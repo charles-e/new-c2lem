@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The Count of Monte Cristo.jpg
 layout: book.njk
-pct_progress: 16
-latest_progress: '2025-09-29T02:47:56.865Z'
+pct_progress: 19.7
+latest_progress: '2025-10-09T06:36:01.239Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -47,3 +47,7 @@ by which it can be learned; it is the amalgamation of all the
 sciences, the golden cloud which bears the soul to heaven?
 
 * <span meta="16@2025-09-29T02:47:56.865Z"></span> Abbé Faria bites the dust
+
+* <span meta="19.1@2025-10-06T18:50:12.265Z"></span> I did not buy Edmond’s broken ribs nor did I buy that anyone else would have bought that.  But whatever: TS has a new album.
+
+* <span meta="19.7@2025-10-09T06:36:01.239Z"></span> Thus the Genoese, subtle as he was, was duped by Edmond who in his favour had a mild demeanour, nautical skill, and admirable dissimulation.
