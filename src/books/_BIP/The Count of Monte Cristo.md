@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The Count of Monte Cristo.jpg
 layout: book.njk
-pct_progress: 19.7
-latest_progress: '2025-10-09T06:36:01.239Z'
+pct_progress: 22
+latest_progress: '2025-10-11T23:42:53.618Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -51,3 +51,7 @@ sciences, the golden cloud which bears the soul to heaven?
 * <span meta="19.1@2025-10-06T18:50:12.265Z"></span> I did not buy Edmond’s broken ribs nor did I buy that anyone else would have bought that.  But whatever: TS has a new album.
 
 * <span meta="19.7@2025-10-09T06:36:01.239Z"></span> Thus the Genoese, subtle as he was, was duped by Edmond who in his favour had a mild demeanour, nautical skill, and admirable dissimulation.
+
+* <span meta="20.9@2025-10-11T00:29:15.160Z"></span> His naturally sallow complexion had assumed a still further shade of brown from the habit the unfortunate man had acquired of remaining from early morn till latest eve at the threshold of his door, in eager hope that some traveller, either equestrian or pedestrian might bless his eyes, and give him the delight of once more seeing a guest enter his doors. But his patience and his expectations were alike vain. Yet there he stood, day after day, exposed to the rays of a burning sun, with no other protection for his head than a red handkerchief twisted around it in the manner of the Spanish muleteers. This anxious, careworn innkeeper was no other than our old acquaintance, Caderousse
+
+* <span meta="22@2025-10-11T23:42:53.618Z"></span> Dumas makes Caderousse omniscient and its kinda lame
