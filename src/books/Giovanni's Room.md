@@ -14,8 +14,8 @@ publication: 1956
 pages: 178
 pct_progress: 100
 latest_progress: '2025-10-02T22:55:16.521Z'
-date_read:  '2025-10-03T00:00:00.000Z'
-date_posted:  '2025-10-03T00:00:00.000Z'
+date_read: '2025-10-03T00:00:00.000Z'
+date_posted: '2025-10-03T00:00:00.000Z'
 ---
 This was not on my normal literary diet of fantasy and sci-fi.  
 

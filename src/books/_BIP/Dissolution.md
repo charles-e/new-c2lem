@@ -5,7 +5,7 @@ date_started: 2025-10-6
 src: lvccld
 tags:
   - dystopia
-img_url: 'https://m.media-amazon.com/images/I/71OVx54o-oL._SL1500_.jpg'
+img_url: /images/books/Dissolution.jpg
 permalink: /books/BIP_/Dissolution/
 layout: book.njk
 pct_progress: 65.9
