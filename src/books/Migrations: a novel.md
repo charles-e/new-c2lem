@@ -7,7 +7,7 @@ publisher: Flat Iron Books
 published: 2020
 tags:
   - sci-fi
-img_url: '/images/books/Migrations a novel.jpg'
+img_url: '/images/books/Migrations: a novel.jpg'
 permalink: /books/Migrations_a_novel/
 layout: book.njk
 recommendation_src: Julia Twaddle
