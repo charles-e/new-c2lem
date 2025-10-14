@@ -8,8 +8,8 @@ tags:
   - horror
 permalink: /books/BIP_/The_Road/
 layout: book.njk
-pct_progress: '87.5'
-latest_progress: '2025-10-14T03:29:12.379Z'
+pct_progress: 88
+latest_progress: '2025-10-14T18:58:41.038Z'
 img_url: /images/books/The Road.jpg
 ---
 * <span meta="50@2025-10-12T03:06:18.042Z"></span> This story is not graphic but still manages to be emotionally brutal, as I read I feel the same as I did watching 'No Country for Old Men', like Anton Chigurh is gonna show up with his hydraulic hammer any second.  
@@ -17,3 +17,5 @@ img_url: /images/books/The Road.jpg
 * <span meta="55@2025-10-13T16:02:14.827Z"></span> They found a lot of food & etc in a bomb shelter but only half way through the book: my dread increaseth.
 
 * <span meta="87.5@2025-10-14T03:29:12.379Z"></span> They reached the (east I assume) coast and just looted an abandoned yacht
+
+* <span meta="88@2025-10-14T18:58:41.038Z"></span> the kid survived an infection but they just saw a boot print in the sand and I had to take a break
