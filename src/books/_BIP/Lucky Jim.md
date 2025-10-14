@@ -13,7 +13,7 @@ img_url: /images/books/Lucky Jim.jpg
 permalink: /books/BIP_/Lucky_Jim/
 layout: book.njk
 pct_progress: 23.1
-latest_progress: '2025-10-14T03:53:56.220Z'
+latest_progress: '2025-10-14T14:47:03.012Z'
 ---
 Jim Dixon, lecturer in history (stalky & wide; chubby) and his music-obsessed boss Professor Edward (Ned) (neddy) Welch (tall and weedy, lank white hair) 
 
@@ -26,3 +26,5 @@ Jim Dixon, lecturer in history (stalky & wide; chubby) and his music-obsessed bo
 * <span meta="17.5@2025-10-13T20:43:26.494Z"></span> (I don't understand this.) “Oh, in a fortnight or so, I expect,' Bertrand said, then added significantly: 'Miss Callaghan and I have another engagement for next week-end. You'll understand I don't want to miss that.''The week-end after's the Summer Ball at the College.' Margaret cut in quickly, in an attempt, Dixon supposed, to smother the overtones of this last declaration. How could Bertrand possibly bring himself to say things like that in front of one woman he hardly knew and one man he must guess hadn't liked him all that much at a first meeting?”
 
 * <span meta="23.1@2025-10-14T03:53:56.220Z"></span> “DIXON was alive again. Consciousness was upon him before he could get out of the way; not for him the slow, gracious wandering from the halls of sleep, but a summary, forcible ejection. He lay sprawled, too wicked to move, spewed up like a broken spider-crab on the tarry shingle of the morning. The light did him harm, but not as much as looking at things did; he resolved, having done it once, never to move his eyeballs again. ”
+
+* <span meta="23.1@2025-10-14T14:47:03.012Z"></span> “Had he done all this himself? Or had a wayfarer, a burglar, camped out in his room? Or was he the victim of some Horla fond of tobacco? He thought that on the whole he must have done it himself, and wished he hadn't.”
