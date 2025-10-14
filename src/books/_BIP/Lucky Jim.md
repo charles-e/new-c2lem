@@ -12,8 +12,8 @@ tags:
 img_url: /images/books/Lucky Jim.jpg
 permalink: /books/BIP_/Lucky_Jim/
 layout: book.njk
-pct_progress: 17.5
-latest_progress: '2025-10-13T20:43:26.494Z'
+pct_progress: 23.1
+latest_progress: '2025-10-14T03:53:56.220Z'
 ---
 Jim Dixon, lecturer in history (stalky & wide; chubby) and his music-obsessed boss Professor Edward (Ned) (neddy) Welch (tall and weedy, lank white hair) 
 
@@ -24,3 +24,5 @@ Jim Dixon, lecturer in history (stalky & wide; chubby) and his music-obsessed bo
 * <span meta="12.1@2025-10-13T19:58:43.632Z"></span> “There was no reason to suppose that the week-end would contain anything better than the familiar mixture of predicted boredom with unpredicted boredom, but for the moment he was unable to believe this. The acceptance of his article might be the prelude to a run of badly-needed luck. He was going to meet some people who might well prove interesting and amusing. ”
 
 * <span meta="17.5@2025-10-13T20:43:26.494Z"></span> (I don't understand this.) “Oh, in a fortnight or so, I expect,' Bertrand said, then added significantly: 'Miss Callaghan and I have another engagement for next week-end. You'll understand I don't want to miss that.''The week-end after's the Summer Ball at the College.' Margaret cut in quickly, in an attempt, Dixon supposed, to smother the overtones of this last declaration. How could Bertrand possibly bring himself to say things like that in front of one woman he hardly knew and one man he must guess hadn't liked him all that much at a first meeting?”
+
+* <span meta="23.1@2025-10-14T03:53:56.220Z"></span> “DIXON was alive again. Consciousness was upon him before he could get out of the way; not for him the slow, gracious wandering from the halls of sleep, but a summary, forcible ejection. He lay sprawled, too wicked to move, spewed up like a broken spider-crab on the tarry shingle of the morning. The light did him harm, but not as much as looking at things did; he resolved, having done it once, never to move his eyeballs again. ”
