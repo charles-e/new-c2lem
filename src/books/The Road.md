@@ -21,6 +21,11 @@ img_url: /images/books/The Road.jpg
 narrator: 'Stechschulte, Tom'
 
 ---
+
+<blockquote>
+“When he woke in the woods in the dark and the cold of the night he’d reach out to touch the child sleeping beside him. Nights dark beyond darkness and the days more gray each one than what had gone before. Like the onset of some cold glaucoma dimming away the world. His hand rose and fell softly with each precious breath. ”
+</blockquote>
+
 This story is not graphic but still manages to be emotionally brutal, as I read I felt the same as I did watching 'No Country for Old Men', like Anton Chigurh is gonna show up with his hydraulic hammer any second.  I had to stop several times because I had disaster fatigue. And yet, when story ends, though mournful, it leaves the reader with at least some small hope and the sense that whatever problems you might have it could always be worse.
 
 <span class="spoiler">
