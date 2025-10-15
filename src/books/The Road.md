@@ -21,7 +21,7 @@ img_url: /images/books/The Road.jpg
 narrator: 'Stechschulte, Tom'
 
 ---
-This story is not graphic but still manages to be emotionally brutal, as I read I felt the same as I did watching 'No Country for Old Men', like Anton Chigurh is gonna show up with his hydraulic hammer any second.  I had to stop several times because I had disaster fatigue and yet, when story ends, though mournful, it leaves the reader with at least some small hope and the sense that whatever problems you might have it could always be worse.
+This story is not graphic but still manages to be emotionally brutal, as I read I felt the same as I did watching 'No Country for Old Men', like Anton Chigurh is gonna show up with his hydraulic hammer any second.  I had to stop several times because I had disaster fatigue. And yet, when story ends, though mournful, it leaves the reader with at least some small hope and the sense that whatever problems you might have it could always be worse.
 
 <span class="spoiler">
 Its about a dying man and his 9(?) year-old son wandering through post-nuclear-war (now nuclear winter) America: nothing good happens until the end when the man finally passes away and another family group adopts the boy.  
