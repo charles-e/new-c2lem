@@ -10,8 +10,8 @@ img_url: /images/books/How to Read Literature Like a Professor.jpg
 publisher: Harper Perennial
 published: 2024
 layout: book.njk
-pct_progress: 50
-latest_progress: '2025-10-03T01:24:39.953Z'
+pct_progress: 62.8
+latest_progress: '2025-10-20T19:39:23.880Z'
 ---
 * <span meta="16.5@2025-09-07T23:57:37.494Z"></span> (ok - this is a dated reference) "Careful, I’m a big fan of Moose and Squirrel. Still, I take your point. There are lots of sources that don’t sound as good as Shakespeare. Almost all of them, in fact."
 
@@ -20,3 +20,5 @@ latest_progress: '2025-10-03T01:24:39.953Z'
 * <span meta="42.7@2025-09-29T01:53:06.466Z"></span> lots of authors get refed -- Louise Erdich is one
 
 * <span meta="50@2025-10-03T01:24:39.953Z"></span> “Consider, just for a moment, that a disconcertingly large number of writers meet their ends in water. Virginia Woolf. Percy Bysshe Shelley. Ann Quin. Theodore Roethke. John Berryman. Hart Crane. Some walked in, some jumped, others swam out and didn’t come back. ”
+
+* <span meta="62.8@2025-10-20T19:39:23.880Z"></span> “Two and a half millennia ago Sophocles wrote a little play called Oedipus Rex. Tiresias, the blind seer, does indeed know the whole truth about King Oedipus, sees everything, although that knowledge is so painful that he tries to hold it back, and when he does blurt it out, it is in a moment of such anger that no one believes him. ”
