@@ -15,6 +15,7 @@ published: 2025
 latest_progress: '2025-10-10T18:01:39.876Z'
 date_read: '2025-10-16T18:01:39.876Z'
 date_posted: '2025-10-17T18:01:39.876Z'
+bsky_link: 'https://bsky.app/profile/c2lem.com/post/3m3nfayefrk2e'
 ---
 
 The year is 2021, the place is London, Margaret Webb is our 83 year-old protagonist, her husband, Stanley, a once brilliant inventor now seemingly has Alzheimer's and Maggie's life revolves around visiting him in a memory care facility and hoping for the increasingly rare "good days."  On top of that, her adult daughter has not spoken to her in a year(?)
