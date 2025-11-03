@@ -2,7 +2,7 @@
 title: The Magician of Tiger Castle
 author: 'Sachar, Louis'
 date_started: 2025-10-30T14:00:00.000Z
-date_finished: 2025-11-02T14:00:00.000Z
+date_read: 2025-11-02T14:00:00.000Z
 src: lvccld
 pages: 320
 publisher: Ace
@@ -10,7 +10,7 @@ published: 2025
 tags:
   - fantasy
 img_url: /images/books/The Magician of Tiger Castle.jpg
-permalink: /books/The_Magician_of_Tiger_Castle/
+permalink: /books/Magician_of_Tiger_Castle/
 layout: book.njk
 date_posted: 2025-11-01T14:00:00.000Z
 ---
