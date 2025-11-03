@@ -1,7 +1,7 @@
 ---
 title: How to Read Literature Like a Professor
 author: 'Foster, Thomas C.'
-date_started: '2025-09-06T23:57:37.494Z'
+date_started: 2025-09-06T23:57:37.494Z
 src: hoopla
 tags:
   - non-fiction

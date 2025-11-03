@@ -19,7 +19,6 @@ date_posted: '2025-10-15T05:29:32.763Z'
 spoilers: 'yes'
 img_url: /images/books/The Road.jpg
 narrator: 'Stechschulte, Tom'
-
 ---
 
 <blockquote>

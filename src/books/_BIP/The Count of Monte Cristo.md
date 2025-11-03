@@ -1,7 +1,7 @@
 ---
 title: The Count of Monte Cristo
 author: 'Dumas, Alexandre'
-date_started: 2025-08-28T00:00:00.000Z
+date_started: 2025-08-28T12:00:00.000Z
 src: used
 published: 1844
 tags:
