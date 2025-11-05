@@ -7,6 +7,8 @@ tags:
   - edifying
 img_url: '/images/books/What We Can Know: A Novel.jpg'
 permalink: /books/BIP_/What_We_Can_Know/
+pct_progress: 45.4
+latest_progress: 2025-11-03T11:00:00.000Z
 layout: book.njk
 ---
 
@@ -16,3 +18,7 @@ layout: book.njk
 
 “Young people today dismiss the past for not having yet devised the pharmaceuticals they enjoy, though they could never tell you how they work.  As was noted long ago, we are all innocent children in the tall forest of our clever inventions.”
 
+
+“ Until his cognitive decline, history knows nothing of Percy Greene’s faults. A close friend, the trumpeter in the Hotfoots and a doctor, said at Percy’s funeral, ‘Whatever natural substances occasionally surge through our brains to make us delighted and delightful, the endorphins, the serotonin etc, Percy had quantities all and every day to supply a small town. His daily allowance would be for us a lifetime’s high point. Call it virtue or genetic luck, we were privileged to be around him.’ ”
+
+“A fiend had come in the night to take an ice cream scoop to my brain and made off with my darkest emotional flavours, fury, humiliation, self-pity, desolation. If they all came back at once, they would wreck me.”
