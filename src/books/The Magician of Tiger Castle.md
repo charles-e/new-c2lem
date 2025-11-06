@@ -13,6 +13,7 @@ img_url: /images/books/The Magician of Tiger Castle.jpg
 permalink: /books/Magician_of_Tiger_Castle/
 layout: book.njk
 date_posted: 2025-11-01T14:00:00.000Z
+bsky_link: 'https://bsky.app/profile/c2lem.com/post/3m4y2d3lqrs2b'
 ---
 I read this on the basis of my love of the book 'Holes'.  The book had a nice cover that looked unlike a cookie cutter of other recently published books (Is this a legit criterion?  I don't know but it feels like it should be.)  It started out strong, as a story of the princess Tullia marrying the pauper, Pito, in spite of her parent's wishes to have her marry another, awful, prince, with the help of a bumbling but wise magician.  The setting is a European-ish country "Esquaveta" in an alternative earth timeline (sorta like Princess Bride) and somehow, Anatole the wizard, seems to understand entirely too much about the history of technology, but whatever, he's magic. Anyway the princess and the pauper escape in some clever way that leaves Tullia and Pito as royalty and they all live happily ever after.", that's the probably the plot this book was meant to have.
 
