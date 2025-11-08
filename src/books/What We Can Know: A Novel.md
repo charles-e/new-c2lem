@@ -7,6 +7,7 @@ tags:
   - edifying
   - sci-fi
   - academia
+  - mystery
 img_url: '/images/books/What We Can Know: A Novel.jpg'
 permalink: /books/BIP_/What_We_Can_Know/
 pct_progress: 45.4
@@ -31,7 +32,7 @@ Which all sounds pretty anodyne doesn't it?  And does anybody care about poetry?
 
 But there is a great deal to know about the lives of Vivian and Blundy. Vivian comes to Blundy after a previous marriage to Percy who dies from complications of Alzheimer's disease.  That and on Tom's end, research is not as easy as it could be because what was once available from your laptop now requires effort, boat-rides, time to go look at and read.  Somewhere in all that there is a twist that I did not at all see coming.  
 
-Which is my way of saying: YES! read this book.
+Which is my way of saying: YES! read this book.  Come for the exemplary prose, stay for the mystery.
 
 <!-- 
 
