@@ -9,7 +9,7 @@ tags:
   - academia
   - mystery
 img_url: '/images/books/What We Can Know: A Novel.jpg'
-permalink: /books/BIP_/What_We_Can_Know/
+permalink: /books/What_We_Can_Know/
 pct_progress: 45.4
 latest_progress: 2025-11-03T11:00:00.000Z
 date_read: 2025-11-04T11:00:00.000Z
