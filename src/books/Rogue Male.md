@@ -7,7 +7,7 @@ date_posted: 2025-08-19T00:00:00.000Z
 src: lvccld
 tags:
   - Suspense
-img_url: /images/books/Rogue Male.jpg
+img_url: /images/books/Rogue_Male.jpg
 recommendation_src: The Ministry of Time
 permalink: /books/Rogue_Male/
 layout: book.njk

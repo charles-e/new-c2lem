@@ -7,7 +7,7 @@ tags:
 published: 1977
 pages: 169
 series: Patternist
-img_url: /images/books/Mind of My Mind.jpg
+img_url: /images/books/Mind_of_My_Mind.jpg
 permalink: /books/Mind_of_My_Mind/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

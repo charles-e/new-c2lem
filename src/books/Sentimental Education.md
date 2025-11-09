@@ -10,7 +10,7 @@ pages: 366
 published: 1869
 translated_from: French
 publisher: Barnes & Noble Books
-img_url: /images/books/Sentimental Education.jpg
+img_url: /images/books/Sentimental_Education.jpg
 permalink: /books/Sentimental_Education/
 layout: book.njk
 date_posted: 2025-08-08T00:00:00.000Z

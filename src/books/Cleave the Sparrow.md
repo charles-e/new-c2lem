@@ -8,7 +8,7 @@ tags:
   - satire
   - philosophy
   - humor
-img_url: /images/books/Cleave the Sparrow.jpg
+img_url: /images/books/Cleave_the_Sparrow.jpg
 permalink: /books/Cleave_the_Sparrow/
 layout: book.njk
 date_posted: 2025-08-15T00:00:00.000Z

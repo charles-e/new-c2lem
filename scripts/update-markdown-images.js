@@ -11,7 +11,8 @@ const imageBasePath = "/images/books/";
 
 function getLocalImageFilename(bookFileName, originalImgUrl) {
   const ext = path.extname(originalImgUrl) || ".jpg"; // default to .jpg if missing
-  const baseName = bookFileName.replace(/\.md$/, '');
+  const baseName = bookFileName.replace(/\.md$/, '')
+  .replace(/\s+/g, '_').replace(/['"]/g, '');
   return `${baseName}${ext}`;
 }
 

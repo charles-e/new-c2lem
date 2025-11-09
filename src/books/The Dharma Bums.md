@@ -6,7 +6,7 @@ date_read: 2025-01-30T00:00:00.000Z
 tags: 'travel, spirituality, poetry, memoir'
 pages: 119
 published: 1958
-img_url: /images/books/The Dharma Bums.jpg
+img_url: /images/books/The_Dharma_Bums.jpg
 permalink: /books/Dharma_Bums/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

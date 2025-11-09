@@ -7,7 +7,7 @@ tags:
   - scifi
   - space opera
 date_read: 2025-01-09T00:00:00.000Z
-img_url: /images/books/Empire of Silence.jpg
+img_url: /images/books/Empire_of_Silence.jpg
 permalink: /books/Empire_of_Silence/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

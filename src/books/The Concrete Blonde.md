@@ -10,7 +10,7 @@ tags:
   - audio
 series: Harry Bosch
 pages: 248
-img_url: /images/books/The Concrete Blonde.jpg
+img_url: /images/books/The_Concrete_Blonde.jpg
 permalink: /books/Concrete_Blond/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

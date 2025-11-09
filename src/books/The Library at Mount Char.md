@@ -7,7 +7,7 @@ src: Hoopla
 tags:
   - fantasy
   - side-quest
-img_url: /images/books/The Library at Mount Char.jpg
+img_url: /images/books/The_Library_at_Mount_Char.jpg
 permalink: /books/Library_at_Mount_Char/
 layout: book.njk
 publisher: Crown

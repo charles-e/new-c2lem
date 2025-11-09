@@ -7,7 +7,7 @@ tags:
   - mystery
   - thriller
   - espionage
-img_url: /images/books/The Bitter Past.jpg
+img_url: /images/books/The_Bitter_Past.jpg
 publisher: Minotaur Books
 published: 2024
 pages: 305

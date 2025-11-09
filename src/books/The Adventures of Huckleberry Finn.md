@@ -7,7 +7,7 @@ tags:
   - edifying
 date_read: 2024-11-11T00:00:00.000Z
 published: 1885
-img_url: /images/books/The Adventures of Huckleberry Finn.jpg
+img_url: /images/books/The_Adventures_of_Huckleberry_Finn.jpg
 permalink: /books/Huckleberry_Finn/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

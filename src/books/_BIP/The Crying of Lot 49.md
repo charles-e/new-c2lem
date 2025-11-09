@@ -5,9 +5,10 @@ date_started: '2025-11-1Z00:00:00.000Z'
 src: lvccld
 tags:
   - dystopia
-permalink: /books/BIP_/The_Crying_of_Lot_49/
+permalink: /books/BIP_/Crying_of_Lot_49/
 layout: book.njk
 pct_progress: 53.5
+img_url: /images/books/The_Crying_of_Lot_49.jpg
 latest_progress: '2025-11-08T01:19:02.894Z'
 ---
 replace me

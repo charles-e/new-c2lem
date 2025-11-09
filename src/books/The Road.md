@@ -17,7 +17,7 @@ latest_progress: '2025-10-15T03:29:32.763Z'
 date_read: '2025-10-15T03:29:32.763Z'
 date_posted: '2025-10-15T05:29:32.763Z'
 spoilers: 'yes'
-img_url: /images/books/The Road.jpg
+img_url: /images/books/The_Road.jpg
 narrator: 'Stechschulte, Tom'
 ---
 

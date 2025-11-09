@@ -9,7 +9,7 @@ tags:
 pages: 352
 published: 2025
 publisher: G.P. Putnam's Sons
-img_url: /images/books/Old Soul.jpg
+img_url: /images/books/Old_Soul.jpg
 permalink: /books/Old_Soul/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

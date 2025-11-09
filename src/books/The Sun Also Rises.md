@@ -6,7 +6,7 @@ date_read: 2025-02-25T00:00:00.000Z
 tags: edifying
 pages: 247
 published: 1926
-img_url: /images/books/The Sun Also Rises.jpg
+img_url: /images/books/The_Sun_Also_Rises.jpg
 permalink: /books/Sun_Also_Rises/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

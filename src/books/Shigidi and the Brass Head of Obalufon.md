@@ -9,7 +9,7 @@ src: lvccld
 tags:
   - fantasy
   - heist
-img_url: /images/books/Shigidi and the Brass Head of Obalufon.jpg
+img_url: /images/books/Shigidi_and_the_Brass_Head_of_Obalufon.jpg
 permalink: /books/Shigidi Brass Head/
 layout: book.njk
 date_read: '2024-04-15T04:45:39.126Z'

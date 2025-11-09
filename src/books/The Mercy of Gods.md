@@ -11,7 +11,7 @@ tags:
   - space-opera
 publisher: Orbit
 published: 2024
-img_url: /images/books/The Mercy of Gods.jpg
+img_url: /images/books/The_Mercy_of_Gods.jpg
 permalink: /books/Mercy_of_Gods/
 layout: book.njk
 ---

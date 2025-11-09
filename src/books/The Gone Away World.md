@@ -8,7 +8,7 @@ src: lvccld
 tags:
   - fantasy
   - dystopian
-img_url: /images/books/The Gone Away World.jpg
+img_url: /images/books/The_Gone_Away_World.jpg
 permalink: /books/Gone Away World/
 layout: book.njk
 date_read: '2024-08-29T04:45:39.126Z'

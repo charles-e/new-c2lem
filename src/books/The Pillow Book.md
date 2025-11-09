@@ -10,7 +10,7 @@ tags:
   - historical
   - side-quest
   - dnf
-img_url: /images/books/The Pillow Book.jpg
+img_url: /images/books/The_Pillow_Book.jpg
 publisher: Penguin
 published: 2007
 permalink: /books/Pillow_Book/

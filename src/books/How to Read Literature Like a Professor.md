@@ -5,14 +5,20 @@ date_started: 2025-09-06T23:57:37.494Z
 src: hoopla
 tags:
   - non-fiction
+  - edifying
 permalink: /books/BIP_/How_to_Read_Literature_Like_a_Professor/
-img_url: /images/books/How to Read Literature Like a Professor.jpg
+img_url: /images/books/How_to_Read_Literature_Like_a_Professor.jpg
 publisher: Harper Perennial
 published: 2024
 layout: book.njk
 pct_progress: 62.8
+date_read: '2025-11-09T19:39:23.880Z'
+date_posted: '2025-11-09T19:39:23.880Z'
 latest_progress: '2025-10-20T19:39:23.880Z'
 ---
+This book is like a cheat code for people who read but aren't going to go to college and major in literature.  Mr Foster takes you through aspects of literature such as setting, symbols, characters.  It's a nice resource for mapping out your reading list if you are trying to expand your tastes.  I read the book in pieces because the punchline to every chapter it seems is, "if you haven't read much then you won't know that X is a symbol for Jesus (or death or whatever) and you just need to read more".  Anyway, another way to use this book is to simply go through the stories/books he references (which is summarized in an appendix) to see what you may not have read and what looks interesting.  Anyway, this is a handy little book for non-literature-majors. 
+
+<!-- 
 * <span meta="16.5@2025-09-07T23:57:37.494Z"></span> (ok - this is a dated reference) "Careful, I’m a big fan of Moose and Squirrel. Still, I take your point. There are lots of sources that don’t sound as good as Shakespeare. Almost all of them, in fact."
 
 * <span meta="25.4@2025-09-16T04:18:28.775Z"></span> “IT WAS A DARK AND STORMY NIGHT. What, you’ve heard that one? Right, Snoopy. And Charles Schulz had Snoopy write it because it was a cliché, and had been one for a very long time, way back when your favorite beagle decided to become a writer. This one we know: Edward Bulwer-Lytton, celebrated Victorian popular novelist, actually did write, “It was a dark and stormy night.”
@@ -22,3 +28,4 @@ latest_progress: '2025-10-20T19:39:23.880Z'
 * <span meta="50@2025-10-03T01:24:39.953Z"></span> “Consider, just for a moment, that a disconcertingly large number of writers meet their ends in water. Virginia Woolf. Percy Bysshe Shelley. Ann Quin. Theodore Roethke. John Berryman. Hart Crane. Some walked in, some jumped, others swam out and didn’t come back. ”
 
 * <span meta="62.8@2025-10-20T19:39:23.880Z"></span> “Two and a half millennia ago Sophocles wrote a little play called Oedipus Rex. Tiresias, the blind seer, does indeed know the whole truth about King Oedipus, sees everything, although that knowledge is so painful that he tries to hold it back, and when he does blurt it out, it is in a moment of such anger that no one believes him. ”
+-->

@@ -5,7 +5,7 @@ pages: 673
 date_read: 2025-01-14T00:00:00.000Z
 tags:
   - fantasy
-img_url: /images/books/The Bright Sword.jpg
+img_url: /images/books/The_Bright_Sword.jpg
 permalink: /books/Bright_Sword/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

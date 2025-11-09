@@ -11,7 +11,7 @@ tags:
   - dystopia
   - sci-fi
   - romance
-img_url: /images/books/The Ministry of Time.jpg
+img_url: /images/books/The_Ministry_of_Time.jpg
 permalink: /books/Ministry_of_Time/
 layout: book.njk
 date_posted: 2025-07-08T00:00:00.000Z

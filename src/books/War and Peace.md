@@ -7,7 +7,7 @@ tags:
   - romance
   - history
   - edifying
-img_url: /images/books/War and Peace.jpg
+img_url: /images/books/War_and_Peace.jpg
 permalink: /books/War_and_Peace/
 layout: book.njk
 src: used

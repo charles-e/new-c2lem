@@ -9,7 +9,7 @@ publisher: Doubleday
 pages: 175
 published: 1970
 series: The Chronicles of Amber
-img_url: /images/books/Nine Princes in Amber.jpg
+img_url: /images/books/Nine_Princes_in_Amber.jpg
 permalink: /books/Nine_Princes_in_Amber/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

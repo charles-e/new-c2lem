@@ -6,7 +6,7 @@ published: 1980
 tags: fantasy
 series: Patternist
 length: 248 pages
-img_url: /images/books/Wild Seed.jpg
+img_url: /images/books/Wild_Seed.jpg
 permalink: /books/Wild_Seed/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

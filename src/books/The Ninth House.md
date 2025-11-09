@@ -7,7 +7,7 @@ src: lvccld
 tags:
   - fantasy
   - mystery
-img_url: /images/books/The Ninth House.jpg
+img_url: /images/books/The_Ninth_House.jpg
 permalink: /books/Ninth_House/
 layout: book.njk
 date_posted: 2024-10-14T00:00:00.000Z

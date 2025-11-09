@@ -9,7 +9,7 @@ publisher: Ace
 published: 2025
 tags:
   - fantasy
-img_url: /images/books/The Magician of Tiger Castle.jpg
+img_url: /images/books/The_Magician_of_Tiger_Castle.jpg
 permalink: /books/Magician_of_Tiger_Castle/
 layout: book.njk
 date_posted: 2025-11-02T14:00:00.000Z

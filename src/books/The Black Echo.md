@@ -10,7 +10,7 @@ tags:
   - police procedural
 pages: 400
 series: Harry Bosch
-img_url: /images/books/The Black Echo.jpg
+img_url: /images/books/The_Black_Echo.jpg
 permalink: /books/Black_Echo/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

@@ -6,7 +6,7 @@ date_read: 2025-05-27T00:00:00.000Z
 date_posted: 2025-05-29T00:00:00.000Z
 tags:
   - fantasy
-img_url: '/images/books/A Cautious Traveller''s Guide to the Wastelands: A Novel.jpg'
+img_url: '/images/books/A_Cautious_Travellers_Guide_to_the_Wastelands:_A_Novel.jpg'
 source: Kindle Unlimited
 published: 2024
 length: 310

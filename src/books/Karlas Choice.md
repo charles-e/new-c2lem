@@ -11,7 +11,7 @@ hours: 10.6
 published: 2024
 publisher: Penguin Audio
 narrator: 'Beale, Simon Russell'
-img_url: /images/books/Karlas Choice.jpg
+img_url: /images/books/Karlas_Choice.jpg
 permalink: /books/Karlas_Choice/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

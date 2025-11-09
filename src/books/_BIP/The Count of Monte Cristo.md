@@ -9,7 +9,7 @@ tags:
   - romance
   - adventure
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
-img_url: /images/books/The Count of Monte Cristo.jpg
+img_url: /images/books/The_Count_of_Monte_Cristo.jpg
 layout: book.njk
 pct_progress: 24.9
 latest_progress: '2025-10-20T20:13:20.466Z'

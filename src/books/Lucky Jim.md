@@ -10,7 +10,7 @@ tags:
   - humor
   - edifying
   - academia
-img_url: /images/books/Lucky Jim.jpg
+img_url: /images/books/Lucky_Jim.jpg
 permalink: /books/Lucky_Jim/
 layout: book.njk
 date_read: '2025-10-19T21:47:03.012Z'

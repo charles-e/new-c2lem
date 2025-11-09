@@ -43,7 +43,8 @@ async function doFolder(targetFolder) {
     if (data.img_url) {
       const imgUrl = data.img_url;
       if (imgUrl.startsWith("http")){
-        const filename = file.replace(/\.md$/, path.extname(imgUrl)); // keep extension from img
+        const filename = file.replace(/\.md$/, path.extname(imgUrl))
+        .replace(/\s+/g, '_').replace(/['"]/g, '');; // keep extension from img
         const destPath = path.join(outputFolder, filename);
 
         downloads.push({ title: data.title, imgUrl, destPath });

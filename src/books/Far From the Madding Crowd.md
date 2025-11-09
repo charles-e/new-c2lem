@@ -6,7 +6,7 @@ tags:
   - romance
   - edifying
 date_read: 2024-12-08T00:00:00.000Z
-img_url: /images/books/Far From the Madding Crowd.jpg
+img_url: /images/books/Far_From_the_Madding_Crowd.jpg
 permalink: /books/Far_from_the_Madding_Crowd/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

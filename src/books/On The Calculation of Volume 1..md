@@ -7,7 +7,7 @@ tags:
   - fantasy
 translator: 'Haveland, Barbara'
 language: swedish
-img_url: /images/books/On The Calculation of Volume 1..jpg
+img_url: /images/books/On_The_Calculation_of_Volume_1..jpg
 publisher: New Directions
 permalink: /books/Calculation_of_Volume_1/
 layout: book.njk

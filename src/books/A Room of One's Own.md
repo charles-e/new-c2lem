@@ -10,7 +10,7 @@ src: lvccld
 tags:
   - edifying
   - side-quest
-img_url: /images/books/A Room of One's Own.jpg
+img_url: /images/books/A_Room_of_Ones_Own.jpg
 permalink: /books/A_Room_of_Ones_Own/
 layout: book.njk
 pct_progress: 100

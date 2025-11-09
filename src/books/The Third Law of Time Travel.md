@@ -8,7 +8,7 @@ date_read: 2025-04-12T00:00:00.000Z
 publisher: Orbit
 published: 2025
 format: soft-cover
-img_url: /images/books/The Third Law of Time Travel.jpg
+img_url: /images/books/The_Third_Law_of_Time_Travel.jpg
 permalink: /books/Third_Law_of_Time_Travel/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

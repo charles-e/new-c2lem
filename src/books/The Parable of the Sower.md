@@ -7,7 +7,7 @@ tags:
   - sci-fi
   - fantasy
   - young-adult
-img_url: /images/books/The Parable of the Sower.jpg
+img_url: /images/books/The_Parable_of_the_Sower.jpg
 permalink: /books/Parable_of_the_Sower/
 layout: book.njk
 date_posted: 2025-05-12T00:00:00.000Z

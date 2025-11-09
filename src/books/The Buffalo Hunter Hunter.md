@@ -7,7 +7,7 @@ date_started: '2025-09-14T02:03:17.050Z'
 src: lvccld
 tags:
   - horror
-img_url: /images/books/The Buffalo Hunter Hunter.jpg
+img_url: /images/books/The_Buffalo_Hunter_Hunter.jpg
 permalink: /books/The_Buffalo_Hunter_Hunter/
 layout: book.njk
 date_read: '2025-09-30T04:45:39.126Z'

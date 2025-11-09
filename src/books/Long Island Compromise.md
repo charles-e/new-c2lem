@@ -6,7 +6,7 @@ date_read: '2025-06-13T00:00:00.000Z'
 tags:
   - humor
   - jewish
-img_url: /images/books/Long Island Compromise.jpg
+img_url: /images/books/Long_Island_Compromise.jpg
 bs_org: >-
   https://bookshop.org/p/books/long-island-compromise-taffy-brodesser-akner/15537662?ean=9780593133491&next=t
 amz_com: >-

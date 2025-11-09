@@ -5,7 +5,7 @@ date_started: 2025-04-18T00:00:00.000Z
 tags: 'sci-fi, fantasy, humor, thriller'
 date_read: 2025-04-20T00:00:00.000Z
 published: 2025
-img_url: /images/books/When We Were Real.jpg
+img_url: /images/books/When_We_Were_Real.jpg
 publisher: S&S/Saga Press
 pages: 464
 permalink: /books/When_We_Were_Real/

@@ -6,8 +6,8 @@ src: lvccld
 tags:
   - edifying
   - gay
-img_url: /images/books/Giovanni's Room.jpg
-permalink: /books/BIP_/Giovanni's_Room/
+img_url: /images/books/Giovannis_Room.jpg
+permalink: /books/Giovanni's_Room/
 layout: book.njk
 publisher: Vintage
 publication: 1956

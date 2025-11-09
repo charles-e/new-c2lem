@@ -9,7 +9,7 @@ tags:
   - sci-fi
   - fantasy
   - dnf
-img_url: /images/books/Worlds of Exile and Illusion.jpg
+img_url: /images/books/Worlds_of_Exile_and_Illusion.jpg
 permalink: /books/Worlds_of_Exile/
 published: 1966
 publisher: Ace Doubleday

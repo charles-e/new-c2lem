@@ -7,7 +7,7 @@ tags:
   - humor
   - sci-fi
   - fantasy
-img_url: /images/books/Dungeon Crawler Carl.jpg
+img_url: /images/books/Dungeon_Crawler_Carl.jpg
 narrator: 'Hays, Jeff'
 publisher: Dandy House
 published: 2020

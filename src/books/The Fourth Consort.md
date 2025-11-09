@@ -5,7 +5,7 @@ tags: 'scifi, humor'
 date_read: 2025-04-05T00:00:00.000Z
 published: 2025
 pages: 288
-img_url: /images/books/The Fourth Consort.jpg
+img_url: /images/books/The_Fourth_Consort.jpg
 permalink: /books/Fourth_Consort/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

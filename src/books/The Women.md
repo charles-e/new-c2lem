@@ -5,7 +5,7 @@ hours: 14
 tags: 'historical fiction, abandoned, audio'
 date_read: 2025-03-13T00:00:00.000Z
 published: 2024
-img_url: /images/books/The Women.jpg
+img_url: /images/books/The_Women.jpg
 permalink: /books/The_Women/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

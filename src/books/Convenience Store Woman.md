@@ -8,7 +8,7 @@ tags:
   - Japanese
   - humor
   - from_club
-img_url: /images/books/Convenience Store Woman.jpg
+img_url: /images/books/Convenience_Store_Woman.jpg
 permalink: /books/Convenience_Store_Woman/
 layout: book.njk
 recommender: Tracy

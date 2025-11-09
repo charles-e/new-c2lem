@@ -8,7 +8,7 @@ date_read: 2025-04-12T00:00:00.000Z
 publisher: MCD
 published: 2025
 format: soft-cover
-img_url: /images/books/Where the Axe is Buried.jpg
+img_url: /images/books/Where_the_Axe_is_Buried.jpg
 permalink: /books/Where_the_Axe_is_Buried/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

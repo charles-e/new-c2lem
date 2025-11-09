@@ -8,7 +8,7 @@ tags:
   - popular
 date_read: 2024-11-13T00:00:00.000Z
 hours: 13
-img_url: /images/books/Im Starting to Worry About this Black Box of Doom.jpg
+img_url: /images/books/Im_Starting_to_Worry_About_this_Black_Box_of_Doom.jpg
 permalink: /books/Black_Box_of_Doom/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z

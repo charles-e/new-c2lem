@@ -9,7 +9,7 @@ tags:
   - edifying
   - humor
   - side_quest
-img_url: /images/books/The Fraud.jpg
+img_url: /images/books/The_Fraud.jpg
 pages: 449
 permalink: /books/The_Fraud/
 layout: book.njk

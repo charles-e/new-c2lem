@@ -7,7 +7,7 @@ hours: 10.5
 published: 2018
 publisher: Scholastic Audio
 narrator: 'Maslany, Tatiana'
-img_url: /images/books/The Hunger Games.jpg
+img_url: /images/books/The_Hunger_Games.jpg
 permalink: /books/Hunger_Games/
 layout: book.njk
 date_posted: 2025-04-15T00:00:00.000Z
