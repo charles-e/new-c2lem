@@ -1,5 +1,5 @@
 ---
-title: blindsight
+title: Blindsight
 author: 'Watts, Peter'
 publisher: Macmillan
 published: 2008
@@ -12,8 +12,8 @@ tags:
   - sci-fi
   - horror
   - post-apocalypse
-img_url: /images/books/Blindsight.jpeg
-permalink: /books/blindsight/
+img_url: /images/books/Blindsight.jpg
+permalink: /books/Blindsight/
 layout: book.njk
 date_read: '2023-10-09T04:45:39.126Z'
 date_posted: '2023-10-12T04:45:39.126Z'
