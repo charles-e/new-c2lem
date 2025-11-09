@@ -30,7 +30,7 @@ Which all sounds pretty anodyne doesn't it?  And does anybody care about poetry?
 “Chris nodded and said, "Yeah." Poetry had a lowering effect on him. Classical music too. Their cultural weight and solemnity and self-importance oppressed him. He suspected that people were subtly bullied into faking appreciation in order not to appear uneducated fools. Long ago he had proposed this to Harriet. She was so dismissive and irritated that he never mentioned it again. Among the craftsmen and women, marquee erectors and roadies he worked with, string quartets and sonnet sequences never came up.”
 </blockquote>
 
-But there is a great deal to know about the lives of Vivian and Blundy. Vivian comes to Blundy after a previous marriage to Percy who dies from complications of Alzheimer's disease.  That and on Tom's end, research is not as easy as it could be because what was once available from your laptop now requires effort, boat-rides, time to go look at and read.  But, most importantly, somewhere in all that there is a very critical twist that I did not at all see coming.  
+But there is a great deal to know about the lives of Vivian and Francis. Vivian comes to Blundy after a previous marriage to Percy who dies from complications of Alzheimer's disease.  That and on Tom's end, research is not as easy as it could be because what was once available from your laptop now requires effort, boat-rides, time to go look at and read.  But, most importantly, somewhere in all that there is a very critical twist that I did not at all see coming.  
 
 All of the above is my way of saying: YES! Read this book: come for the exemplary prose, stay for the mystery.
 
