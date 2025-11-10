@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The_Count_of_Monte_Cristo.jpg
 layout: book.njk
-pct_progress: 24.9
-latest_progress: '2025-10-20T20:13:20.466Z'
+pct_progress: 26.5
+latest_progress: '2025-11-10T18:31:33.113Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -59,3 +59,5 @@ sciences, the golden cloud which bears the soul to heaven?
 * <span meta="23.7@2025-10-13T17:38:59.155Z"></span> Eddie just bought up Morrel's debts and postponed collections and in the last chapter acquired evidence of Villefort's guilt.
 
 * <span meta="24.9@2025-10-20T20:13:20.466Z"></span> Morrel is saved! I don't get why we had to have Dantes show up twice to make this happen?  (then again, I haven't spent a great deal of brain power contemplating this.) Anyway Eddie says he is done playing secret santa.
+
+* <span meta="26.5@2025-11-10T18:31:33.113Z"></span> When you return to this mundane sphere from your visionary world, you seem to leave a Neapolitan spring for a Lapland winter - to exchange paradise for earth - heaven for hell! Taste the hashish!'
