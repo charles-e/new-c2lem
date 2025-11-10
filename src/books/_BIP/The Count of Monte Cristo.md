@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The_Count_of_Monte_Cristo.jpg
 layout: book.njk
-pct_progress: 26.5
-latest_progress: '2025-11-10T18:31:33.113Z'
+pct_progress: 28.1
+latest_progress: '2025-11-10T18:48:38.566Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -61,3 +61,7 @@ sciences, the golden cloud which bears the soul to heaven?
 * <span meta="24.9@2025-10-20T20:13:20.466Z"></span> Morrel is saved! I don't get why we had to have Dantes show up twice to make this happen?  (then again, I haven't spent a great deal of brain power contemplating this.) Anyway Eddie says he is done playing secret santa.
 
 * <span meta="26.5@2025-11-10T18:31:33.113Z"></span> When you return to this mundane sphere from your visionary world, you seem to leave a Neapolitan spring for a Lapland winter - to exchange paradise for earth - heaven for hell! Taste the hashish!'
+
+* <span meta="26.2@2025-11-10T18:39:16.817Z"></span> 'Well, then, Signor Aladdin, replied the singular Amphitryon,
+'you heard our repast announced; will you now take the trouble to enter the salle-à-manger, your humble servant going first to show the way?
+(The banquet hosted by Amphitryon is famously marked by a mythological twist in which Zeus, disguised as Amphitryon, gives a grand feast in Amphitryon’s likeness while the real Amphitryon is away. When Amphitryon returns home, a dispute arises over who is truly the host—the man physically present or the god who provided the feast. The guests and servants resolve this by deciding that the true host is he who gave the feast, highlighting the importance of hospitality and generosity in ancient culture. This banquet story emphasizes themes of identity, deception, and honor, with the act of hosting being a symbol of social status and control over the household.​)
