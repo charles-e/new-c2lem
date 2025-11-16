@@ -11,7 +11,7 @@ pct_progress: 72.3
 img_url: /images/books/The_Crying_of_Lot_49.jpg
 latest_progress: '2025-11-10T03:59:52.140Z'
 date_read: '2025-11-11Z00:00:00.000Z'
-date_posted: '2025-14-11Z00:00:00.000Z'
+date_posted: '2025-11-14Z00:00:00.000Z'
 
 ---
 
