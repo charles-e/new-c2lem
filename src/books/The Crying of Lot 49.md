@@ -5,6 +5,8 @@ date_started: '2025-11-01Z00:00:00.000Z'
 src: lvccld
 tags:
   - dystopia
+  - edifying
+  - satire
 permalink: /books/Crying_of_Lot_49/
 layout: book.njk
 pct_progress: 72.3
