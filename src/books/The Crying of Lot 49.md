@@ -14,6 +14,7 @@ img_url: /images/books/The_Crying_of_Lot_49.jpg
 latest_progress: '2025-11-10T03:59:52.140Z'
 date_read: '2025-11-11Z00:00:00.000Z'
 date_posted: '2025-11-14Z00:00:00.000Z'
+bsky_link: 'https://bsky.app/profile/c2lem.com/post/3m5toen4zuk2b'
 ---
 I started listening to Pynchon's new novel and I was overwhelmed with turn of the century gangster slang so I decided to give this book a shot as my first Pynchon: I did not really understand this "Modern Classic" novel.  Or maybe I understood enough to think really hard about this book and read it twice looking for meaning.
 
@@ -27,7 +28,7 @@ Before attempting this book it would be helpful to know a few things.  First, th
 
 Oedipa Maas is revealed to be PI's last mistress and is therefore (I assume) super-model-beautiful, she is also a graduate of UC Berkeley so (I assume) fairly bright. And of course she will go to see what's in the will down in "San Narcisso"; which is possibly modeled on Canoga Park where there was a big Rocketdyne (Yoyodyne) factory. 
 
-Some real things:
+Some real things in the book:
 * [Thurn and Taxis postal system](https://en.wikipedia.org/wiki/Thurn-und-Taxis_Post)
 * [Remedios Varo](https://en.wikipedia.org/wiki/Remedios_Varo)
 * [Maxwell's Demon](https://en.wikipedia.org/wiki/Maxwell%27s_demon)
@@ -72,7 +73,7 @@ OM winds up at a gay bar and begs the bartender to explain his post-horn & "IA" 
 BM has gone to Las Vegas to get married.  She calls RD but his mother answers.  She calls Bortz and gets his wife.  She goes to visit Bortz but passes the used bookstore that is burnt down. The neighboring shop owner says its arson.  Bortz says the tristero quote is bogus and there is a pornographic one in the vatican library.  RD has committed suicide by walking into the pacific and the party is a wake for RD.  They watch pornographic slides. OM asks what is Tristero.  (no answer)   She visits MF again but he won't really talk to her, but she discovers the meaning of W.A.S.T.E. 
 <blockquote>“It turned out to be an old American stamp, bearing the device of the muted post horn, belly-up badger, and the motto: WE AWAIT SILENT TRISTERO’S EMPIRE.”
 </blockquote>
-She discovers that every place in SN is in someway owned by PI. GK explains that the tristero migrate to the US before the Civil War to work against WF and Pony Express. By the end of the chapter all the male characters who have confessed a connection to tristero are now either, dead, disappeared or estranged from OM.  A stranger is bidding on PI's stamp collection, lot 49 with all the tristero-related forgeries.  The book ends just as the auction begins
+She discovers that every place in SN is in someway owned by PI. GK explains that the tristero migrate to the US before the Civil War to work against WF and Pony Express. By the end of the chapter all the male characters who have confessed a connection to tristero are now either, dead, disappeared or estranged from OM.  A stranger is bidding on PI's stamp collection, lot 49 with all the tristero-related forgeries.  The book ends just as the auction begins.
 
 <!-- 
 * <span meta="50.9@2025-11-08T00:00:55.728Z"></span> “Oedipa wondered whether, at the end of this (if it were supposed to end), she too might not be left with only compiled memories of clues, announcements, intimations, but never the central truth itself, which must somehow each time be too bright for her memory to hold; which must always blaze out, destroying its own message irreversibly, leaving an overexposed blank when the ordinary world came back. ”
