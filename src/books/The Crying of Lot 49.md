@@ -37,7 +37,7 @@ Some real things in the book:
 
 What is the point of our main character?  To me she is like many 60's/70's female characters who are sexual creatures for men (Oedipa is propositioned by literally every heterosexual man in the book) and yet at the same time they use sexual power to achieve their own goals, in Oedipa's case, trying to research and pin down the tristero while avoiding the *wrong* men.  
 
-And, then again, Pynchon names his main character Oedipa which, since I can't see any particularly incestuous themes in the novel, means that is just a red herring.  And I would say that this, Pynchon just riffing and bullshitting in order to be provocative, is a major "theme" of the novel.
+And, then again, Pynchon names his main character Oedipa which, since I can't see any particularly incestuous themes in the novel, means that this symbolic naming is just a red herring.  And I would say that this, Pynchon just riffing and bullshitting in order to be provocative, is a major "theme" of the novel.
 
 But like I said, I still really don't understand the novel, I read this book for bragging rights and just for credibility, what follows is my attempt at a summary.
 
