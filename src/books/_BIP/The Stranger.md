@@ -1,16 +1,23 @@
 ---
-title: "The Stranger"
-author: "Camus, Albert"
-date_started: 2025-11-16Z00:00:00.000Z
+title: The Stranger
+author: 'Camus, Albert'
+date_started: '2025-11-16Z00:00:00.000Z'
 src: lvccld
-tags: 
- - edifying 
+tags:
+  - edifying
 permalink: /books/BIP_/The_Stranger/
-img_url: 'https://m.media-amazon.com/images/I/617WkdpG8xL._SY466_.jpg'
+img_url: /images/books/The_Stranger.jpg
 layout: book.njk
-published: 1989 (1942 orig)
+published: 1989
+original_date: 1942
 native_language: French
-translator: "Ward, Matthew"
+translator: 'Ward, Matthew'
 publisher: Vintage
+pct_progress: 43.7
+latest_progress: '2025-11-18T00:38:57.050Z'
 ---
 replace me
+
+* <span meta="44.2@2025-11-18T00:36:48.084Z"></span> Talking of Marie, he said: "She's an awfully pretty girl, and what's more, charming."
+
+* <span meta="43.7@2025-11-18T00:38:57.050Z"></span> After a while Marie tugged my arm and said Masson had gone to his place; it must be nearly lunchtime. I rose at once, as I was feeling hungry, but Marie told me I hadn't kissed her once since the e...
