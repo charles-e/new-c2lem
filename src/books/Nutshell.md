@@ -23,7 +23,7 @@ Cybil recommended this after I finished [What We Can Know](../../../books/What_W
 NOW, TO MY FATHER, John Cairncross, a big man, my genome’s other half, whose helical twists of fate concern me greatly. It’s in me alone that my parents forever mingle, sweetly, sourly, along separate sugar-phosphate backbones, the recipe for my essential self. I also blend John and Trudy in my daydreams – like every child of estranged parents, I long to remarry them, this base pair, and so unite my circumstances to my genome.
 </blockquote>
 
-Another novel that features poetry along with dark human behavior, both nestled in clever prose.
+Another novel that features poetry along with dark human behavior, both nestled in clever prose.  Just to be clear, I really enjoyed both this and What We Can Know, so now I will be on the look out for more McEwan.
 
 <!--
 
