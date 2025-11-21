@@ -15,7 +15,7 @@ pct_progress: 88.5
 pages: 224
 latest_progress: '2025-11-18T19:38:24.330Z'
 recommendation_src: Cybil Solyn
-date_posted: '2025-11-18T19:38:24.330Z'
+date_posted: '2025-11-19T19:38:24.330Z'
 ---
 Cybil recommended this after I finished [What We Can Know](../../../books/What_We_Can_Know/).  Our narrator is a fetus whose observations are entirely too canny, acidic and clever while his mother and her lover plot to kill the estranged father.  Now that I think about it this should be narrated by Seth MacFarlane in Stewie's voice.
 
