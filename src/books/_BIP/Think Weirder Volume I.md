@@ -12,8 +12,12 @@ layout: book.njk
 published: 2025
 pct_progress: '90'
 latest_progress: '2025-11-23T01:55:46.910Z'
+publisher: CSF Press
+date_posted: '2025-11-23T00:00:00.000Z'
+date_read: '2025-11-22T00:00:00.000Z'
+
 ---
-This is a fun anthology and these are my favorite stories so far:
+This is a fun anthology and these are my favorite stories:
 * Death and the Gorgon
 * Twenty-Four Hours
 * Nine Billion Turing Tests
