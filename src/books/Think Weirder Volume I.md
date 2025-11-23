@@ -21,4 +21,6 @@ This is a fun anthology and these are my favorite stories:
 * Nine Billion Turing Tests
 * Our Chatbots said, 'I Love you,' Shall We Meet?
 
+<!--
 * <span meta="90@2025-11-23T01:55:46.910Z"></span> Naked except for her pink fluffy robe and slip-on shoes, Dyna stumbled when her own front door shoved her out into the condo building’s fourth-floor hallway. As the door’s lock clicked shut, Dyna realized her home had deceived her.
+-->
