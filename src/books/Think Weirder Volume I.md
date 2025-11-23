@@ -1,7 +1,7 @@
 ---
 title: Think Weirder Volume I
 author: 'Stech, Joe'
-date_started: '2025-11-15Z00:00:00.000Z'
+date_started: '2025-11-15T00:00:00.000Z'
 src: kindle-free
 tags:
   - sci-fi
@@ -10,12 +10,10 @@ img_url: /images/books/Think_Weirder_Volume_I.jpg
 permalink: /books/Think_Weirder_Volume_I/
 layout: book.njk
 published: 2025
-pct_progress: '90'
 latest_progress: '2025-11-23T01:55:46.910Z'
 publisher: CSF Press
 date_posted: '2025-11-22T00:00:00.000Z'
 date_read: '2025-11-21T00:00:00.000Z'
-
 ---
 This is a fun anthology and these are my favorite stories:
 * Death and the Gorgon
