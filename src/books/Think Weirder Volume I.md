@@ -7,7 +7,7 @@ tags:
   - sci-fi
   - anthology
 img_url: /images/books/Think_Weirder_Volume_I.jpg
-permalink: /books/BIP_/Think_Weirder_Volume_I/
+permalink: /books/Think_Weirder_Volume_I/
 layout: book.njk
 published: 2025
 pct_progress: '90'
