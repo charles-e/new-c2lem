@@ -1,0 +1,31 @@
+---
+title: Weekly Newsletter Markdown
+layout: base.njk
+permalink: /newsletter-md/
+---
+
+# Newsletter MD <br/> <br/>
+
+## 🧠 Links
+{% for post in collections.weekliesSorted %}
+  {% if post.date and post.date >= lastSundayNoon %}
+    
+   {{ post.templateContent | safe }}
+  {% endif %}
+{% endfor %}
+
+## 📖 Currently Reading<br/>
+{% for book in collections.allPendingBooks %}
+  - <strong>{{ book.data.title }}</strong> by {{ book.data.author | firstLast }}<br/>
+{% endfor %}
+<br/><br/>
+
+## 📚 Recent Book Commentary 
+<br/>
+{% for book in collections.allBooksSorted %}
+  {% if (book.data.date_posted_ms > lastSundayNoon) %}
+      - <strong>**[https://c2lem.com{{ book.data.permalink}}]({{ book.data.title }})**</strong> by {{ book.data.author | firstLast }}
+  {% endif %}
+{% endfor %}
+
+

@@ -5,7 +5,7 @@ module.exports = {
         todayUnix: () => Math.floor(DateTime.now().toSeconds()),
         lastWeekUnix: () =>
             Math.floor(DateTime.now().minus({ days: 7 }).toSeconds()),
-        lastSundayNoon: () => {
+      lastSundayNoon: () => {
            // let now = DateTime.now().startOf("day");
             let now = DateTime.now();
             console.log(`now = ${now}`)
