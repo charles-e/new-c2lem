@@ -12,6 +12,8 @@ pct_progress: 81.6
 publisher: Ace Books
 published: 1969
 latest_progress: '2025-11-29T17:36:57.376Z'
+date_read: '2025-11-28T00:00:00.000Z'
+date_posted: '2025-11-28T00:00:00.000Z'
 ---
 <blockquote>Amazon says, "A groundbreaking work of science fiction, The Left Hand of Darkness tells the story of a lone human emissary to Winter, an alien world whose inhabitants can choose—and change—their gender. His goal is to facilitate Winter's inclusion in a growing intergalactic civilization. But to do so he must bridge the gulf between his own views and those of the completely dissimilar culture that he encounters."
 </blockquote>
