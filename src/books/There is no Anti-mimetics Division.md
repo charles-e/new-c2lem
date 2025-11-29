@@ -9,7 +9,7 @@ tags:
 img_url: /images/books/There_is_no_Anti-mimetics_Division.jpg
 permalink: /books/BIP_/There_is_no_Anti-mimetics_Division/
 layout: book.njk
-date_read:  '2025-11-20T19:39:23.880Z'
+date_read: '2025-11-20T19:39:23.880Z'
 date_posted: '2025-11-23T19:39:23.880Z'
 publisher: Random House Audio
 published: 2025
