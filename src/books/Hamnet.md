@@ -1,6 +1,6 @@
 ---
 title: Hamnet
-author: "O'Farrell, Maggie"
+author: 'O''Farrell, Maggie'
 date_started: 2024-09-01T00:00:00.000Z
 src: lvccld
 tags:
