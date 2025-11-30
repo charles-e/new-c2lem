@@ -18,12 +18,13 @@ date_posted: '2025-11-28T00:00:00.000Z'
 <blockquote>Amazon says, "A groundbreaking work of science fiction, The Left Hand of Darkness tells the story of a lone human emissary to Winter, an alien world whose inhabitants can choose—and change—their gender. His goal is to facilitate Winter's inclusion in a growing intergalactic civilization. But to do so he must bridge the gulf between his own views and those of the completely dissimilar culture that he encounters."
 </blockquote>
 
-And I have to say that mostly I agree.  There is a good amount of well-crafted prose, the overall theme of the book is the differences between gendered human and Winter's mostly asexual psycholology.
-
+And I have to say I that mostly agree.  There is a good amount of well-crafted prose:
 <blockquote>“I’ll make my report as if I told a story, for I was taught as a child on my homeworld that Truth is a matter of the imagination. The soundest fact may fail or prevail in the style of its telling: like that singular organic jewel of our seas, which grows brighter as one woman wears it and, worn by another, dulls and goes to dust. Facts are no more solid, coherent, round, and real than pearls are. But both are sensitive.”
 </blockquote>
 
-My biggest complaint about the book is that it is dated by its milieu, its premise is that the Ekumen is a very kumbaya-singing star-spanning civilization: it is very much along the lines of the "the federation" from star trek in its very idealistic approach to meeting new civilizations 
+My biggest complaint about the book is that it is dated by its milieu, its premise is that the Ekumen is a very kumbaya-singing star-spanning civilization: it is very much along the lines of the "the federation" from Star Trek with a very idealistic approach to meeting new civilizations.  As a "first contact" book, I would love to see this book written with a protagonist from Ian Bank's Culture. 
+
+The plot is a little melancholy and it slows down.  There are really no fights and the last third of the book is about the two main characters trekking across a giant ice cap over many days and slowly deepening their friendship through the hardship of travel and starvation.  Yet if you have patience it is an integral part of the plot.
 
 * <span meta="72.8@2025-11-29T16:37:06.772Z"></span> “We stowed the wheels, uncapped the sledge-runners, put on our skis, and took off-down, north, onward, into that silent vastness of fire and ice that said in enormous letters of black and white DEATH, DEATH, written right across a continent. The sledge pulled like a feather, and we laughed with joy.”
 
