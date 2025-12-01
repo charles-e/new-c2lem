@@ -2,7 +2,7 @@
 title: The Library at Mount Char
 author: 'Hawkins, Scott'
 date_started: 2025-06-01T00:00:00.000Z
-date_read: '2025-06-031T00:00:00.000Z'
+date_read: '2025-06-03T00:00:00.000Z'
 src: Hoopla
 tags:
   - fantasy
