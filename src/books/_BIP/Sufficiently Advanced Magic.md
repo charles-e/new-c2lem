@@ -17,6 +17,6 @@ published: 2017
 latest_progress: '2025-11-30T17:36:57.376Z'
 narrator: 'Podehl, Nick'
 recommendation_src: Cybil Solyn
-hours: 23 
+hours: 23
 ---
 So far, so okay.
