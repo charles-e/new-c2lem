@@ -18,7 +18,8 @@ series: Culture
 date_read : '2025-12-05T00:00:00.000Z'
 date_posted : '2025-12-06T00:00:00.000Z'
 ---
-This week I was sick and wanted something comfortable to read. Mr Banks Culture Novel's are my favorites and have been for a long time now.  I could not follow the plot of this novel, and when I thought about it, I could not really explain what I love about the Culture novels. So here are my notes.
+
+This week I was sick and wanted something comfortable to read. Mr Banks Culture Novel's are my favorites and have been for a long time now.  I could not follow the plot of this novel, and when I thought about it, I could not really explain what I love about the Culture novels. So here are my notes which elucidate the plot and to some extent justify my enduring affection for these books.
 
 But to a certain extent, this quote sums up my love for these books.
 <blockquote>
@@ -31,8 +32,11 @@ She shook her head. “You’d make a great teenage boy,” she told the avatar.
 “You still think girls get moist when they hear arcane nomenclature. It’s sweet, I suppose.”
 </blockquote>
 
-arcane nomenclature.
+*arcane nomenclature.*
 
+Anyway, needless to say, the rest of this is spoilers.
+
+<span class="spoiler">
 # Plot
 
 <blockquote>
@@ -64,7 +68,9 @@ We’re losing, he thought again. There is a war in heaven and we are losing it.
 
 The war was amongst the Heavens, between the Afterlives, if you wanted to be pedantic about it. And it was over the Hells.
 </blockquote>
+
 The War in Heaven seems to be the "conflict" in this novel but while it serves as the background impetus for lots of action it is never a contest; the only justification for the Hells given is that they have always existed and this is "argued" in chapter 22, but not seriously.  The War in Heaven is a plot device.  The conflict is Lededje revenge on Veppers, but Veppers is a villain, a comical villain who has had his nose bitten off.  There is no empathy for him:
+
 <blockquote>
 "At least people who were natural winners knew how to carry themselves in their pomp, whether their ascendancy had come through the luck of being born rich and powerful or the luck of being born ambitious and capable. Losers who’d made it always let the side down. Veppers was all for arrogance – he possessed the quality in full measure himself, as he’d often been informed – but it had to be deserved, you had to have worked for it. Or at the very least, an ancestor had to have worked for it."
 </blockquote>
@@ -122,3 +128,4 @@ The great torus-shaped mansion of Espersium sat near the centre of the estate of
 * Murderer Class Culture General Offensive Unit (GOU) the oldest model
 * Torturer Class GOU the next model
 * Abominator Class GOU the ultimate model (Falling outside Moral Constraints)
+</spoiler>
