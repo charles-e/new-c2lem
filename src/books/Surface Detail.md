@@ -15,9 +15,9 @@ pages: 656
 publisher: Orbit Books
 published: 2011
 series: Culture
+date_read : '2025-12-05T00:00:00.000Z'
+date_posted : '2025-12-06T00:00:00.000Z'
 ---
-
-* <span meta="10.9@2025-12-01T21:50:04.926Z"></span> As far as other species and civilisations were concerned, it was just another one of those little quirks you always encountered when you discovered a new member of the community, a rough edge that would probably get rubbed off like the rest as the Sichultia gradually found and settled into their place at the great galactic banquet table of pan-species revelry.
 <blockquote>
 “Also, interestingly, this is – maybe – not the first odd thing to happen in this neck of the woods, either. There was an ablationary plume nine days ago not a million klicks away from that rendezvous they were trying to get you to make in the Semsarine Wisp.”
 
@@ -27,6 +27,9 @@ She shook her head. “You’d make a great teenage boy,” she told the avatar.
 
 “You still think girls get moist when they hear arcane nomenclature. It’s sweet, I suppose.”
 </blockquote>
+
+* <span meta="10.9@2025-12-01T21:50:04.926Z"></span> As far as other species and civilisations were concerned, it was just another one of those little quirks you always encountered when you discovered a new member of the community, a rough edge that would probably get rubbed off like the rest as the Sichultia gradually found and settled into their place at the great galactic banquet table of pan-species revelry.
+
 
 # Conflict
 <blockquote>
@@ -39,14 +42,14 @@ The war was amongst the Heavens, between the Afterlives, if you wanted to be ped
 * Joiler Veppers (et al) The Villain owner of Veprine Corporation
 * Lededje Y'breq an intagliate (fancy tattooed) slave (indentured servant) murdered by Veppers
 * Vatueil Mercenary for Anti-Hell
-* Yime Nsokyi Culture Citizen 
+* Yime Nsokyi Culture Citizen, Quietus agent
 * Prin male Pavluvian survivor of Hell
 * Chay mate of Prin, Pavluvian, stuck in Hell 
 * Sensia avatar of "Sense amid madness, wit amidst folly"
 * Himerance avatar of "Me I'm Counting"
 * Demeisen avatar of "Falling outside Moral Constraints"
 * Bettlescroy-Bisspe-Blispin III - Admiral in GFCF navy
-* Auppi Unstril a culture operative (a grunt) fighting the "smatter" outbreak (no immediate ship involvement)
+* Auppi Unstril a culture operative (a Restoria grunt) fighting the "smatter" outbreak (no immediate ship involvement)
 
 # Factions : Tech : Pro/Anti Hell
 * Sichult Enablement : 4/5 : Pro
@@ -75,7 +78,7 @@ The great torus-shaped mansion of Espersium sat near the centre of the estate of
 * Cavern City Vebezua
 * Tsungarial Disk: “Lots of abandoned alien factories no one’s allowed to use … mostly,” the avatar said, nodding. “Anyway, the smatter got into the Disk sometime in the dim and distant and one of our infuriatingly well-meaning Can-we-help? teams has been in there sitting on top of it for probably longer than’s really been necessary – you know; one of those jobs you make sure you never quite finish because you like being where you are?"
 
-* the water maze on the grounds of Espersium where mock naval battles are conducted
+* the water maze on the grounds of Espersium where mock naval battles are conducted.
 
 # Races/Species
 * Pavluvean : "metre-and-half-long quadrupeds with large, round heads from which issued small twin trunks, highly prehensile probosces with little lobes at the tip resembling stubby fingers."
@@ -87,8 +90,10 @@ The great torus-shaped mansion of Espersium sat near the centre of the estate of
 * "Neural Lace" : an implanted device which records and backs up human memory to be transmitted upon near death (so that the wearer is effectively resurrected) This is how Lededje is resurrected.
 * "Confliction" : Virtual war run entirely in computers to resolve conflicts without "real war".
 
-* Murderer Class
-* Torturer Class
+* Murderer Class General Offensive Unit (GOU) the first model
+* Torturer Class GOU the next model
+* Abominator Class GOU the ultimate model (Falling outside Moral Constraints)
+
 # Plot
 <blockquote>
 They both stared at the dark network of threat and promise arrayed before them.
@@ -98,4 +103,13 @@ They both stared at the dark network of threat and promise arrayed before them.
 “Good grief, yes!” Bettlescroy exclaimed. “That’s precisely why we intend to frame the Culture for everything!”
 </blockquote>
 
-Veppers (Veperine Corp) runs a significant part of Hell on computers located under Espersium his ancestral estate.  But he knows that the business will eventually have to close so he decides to have it destroyed and blame it on the Culture.  So this is "inter-galactic arson" (presumably he has tons of insurance.)
+There are three interlinked plots: 
+- Lededje an indentured servant to Veppers is murdered by Veppers.  She unexpectedly is resurrected on a Culture ship and begins her many day journey back to home planet Sichult in order to get revenge.  She eventually finds her way back thanks to the Culture ship Demeisen.  Demeisen gives Lededje a new, highly customizable tattoo as a "disguise" before they are to land on Sichult.  
+
+- Shortly thereafter, Yime Nsokyi a Quietus agent, is assigned to catchup with and contact Lededje because they suspect the Hell war to pop into the real and it will involve Veppers/Sichult.  They think that Lededje will want to contact the ship, "Me I'm Counting" at the Vesperine Wisp on a unfallen Bulbitian.  Something happens there and she is injured but eventually makes it to Sichult.
+
+- Conveniently Veppers is running a scam concurrently: His business runs a significant part of Hell on computers located under Espersium his ancestral estate.  But he knows that the business will eventually have to close so he decides to have it destroyed and blame it on the Culture. He agrees to preserve the hells for the NR and agrees to destroy the hells with the GFCF.  So this is "intergalactic arson" (presumably he has tons of insurance.) and he is double crossing the NR as well as scam/slandering the Culture. Anyway this scheme also involves building a fleet of warships out at the Tsungarial Disk who are to impersonate Culture ships which will carry out the attack on Espersium. 
+
+- This all culminates with both Lededje and Yime Nsokyi receiving last minute evidence of Veppers malfeasance so they show up just in time to catch Veppers in the last half hour before fake fleet is to carry out Nuclear destruction, at his estate removing some art/keepsakes. Yime appears and tells Veppers he's in trouble; Veppers shoots at Yime so she takes off.  But Lededje shows up chase chases Veppers into the water maze and with the help of the tattoo which, is, in fact, alive they kill Veppers by straining / garroting him. And they lived happily ever after.  
+
+Note how nice it is that (originally intagliated) Lededje's revenge on Veppers comes in the form of a tattoo.
