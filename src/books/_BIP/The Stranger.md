@@ -13,11 +13,13 @@ original_date: 1942
 native_language: French
 translator: 'Ward, Matthew'
 publisher: Vintage
-pct_progress: 43.7
-latest_progress: '2025-11-18T00:38:57.050Z'
+pct_progress: 99.9
+latest_progress: '2025-12-01T00:38:57.050Z'
 ---
 replace me
 
 * <span meta="44.2@2025-11-18T00:36:48.084Z"></span> Talking of Marie, he said: "She's an awfully pretty girl, and what's more, charming."
 
 * <span meta="43.7@2025-11-18T00:38:57.050Z"></span> After a while Marie tugged my arm and said Masson had gone to his place; it must be nearly lunchtime. I rose at once, as I was feeling hungry, but Marie told me I hadn't kissed her once since the e...
+
+I don't get this book so I am mulling it over still.
