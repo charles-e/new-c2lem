@@ -13,11 +13,10 @@ pct_progress: 100
 latest_progress: '2025-12-07T22:38:49.024Z'
 publisher: Orbit
 published: 2024
-series: The Pandominion #2
+series: The Pandominion
 pages: 508
 date_read: '2025-12-13T22:38:49.024Z'
 date_posted: '2025-12-13T00:38:49.024Z'
-
 ---
 Meh.  I have read several of his books, the best being, "The Girl With All the Gifts" (and the prequel to this).  Maybe I know all his gimmicks now so that I am immune.  I would call this Zootopia meets Warhammer sorta; its the continuation of a duology about the apocalyptic struggle between two multiversal empires.  
 But it never felt like like the stakes were truly serious or I never committed to this book.  Mr. Carey *can* write though:

@@ -15,8 +15,8 @@ pages: 656
 publisher: Orbit Books
 published: 2011
 series: Culture
-date_read : '2025-12-05T00:00:00.000Z'
-date_posted : '2025-12-06T00:00:00.000Z'
+date_read: '2025-12-05T00:00:00.000Z'
+date_posted: '2025-12-06T00:00:00.000Z'
 ---
 
 This week I was sick and wanted something comfortable to read. Mr Banks Culture Novel's are my favorites and have been for a long time now.  I could not follow the plot of this novel, and when I thought about it, I could not really explain what I love about the Culture novels. So here are my notes which elucidate the plot and to some extent justify my enduring affection for these books.
