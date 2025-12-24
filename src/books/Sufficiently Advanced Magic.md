@@ -18,6 +18,7 @@ narrator: 'Podehl, Nick'
 recommendation_src: Cybil Solyn
 hours: 23
 date_read: '2025-12-22T00:00:00.000Z'
+date_posted: '2025-12-23T00:00:00.000Z'
 ---
 I was looking for a follow up to DCC (better known as Dungeon Crawler Carl) I overheard Cybil recommend this novel as having a world with a well-imagined magic system so I gave it a shot on audible so I could listen to it and fill time with low stakes; that's my excuse anyways.  And it did live up to having a world with a well imagined magic system.  
 
