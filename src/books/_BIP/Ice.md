@@ -1,7 +1,7 @@
 ---
 title: Ice
 author: 'Dukaj, Jacek'
-date_started: '2025-12-23Z00:00:00.000Z'
+date_started: '2025-12-23T00:00:00.000Z'
 src: lvccld
 tags:
   - fantasy
