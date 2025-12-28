@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The_Count_of_Monte_Cristo.jpg
 layout: book.njk
-pct_progress: 28.1
-latest_progress: '2025-11-10T18:48:38.566Z'
+pct_progress: '45'
+latest_progress: '2025-12-28T19:04:08.336Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -65,3 +65,6 @@ sciences, the golden cloud which bears the soul to heaven?
 * <span meta="26.2@2025-11-10T18:39:16.817Z"></span> 'Well, then, Signor Aladdin, replied the singular Amphitryon,
 'you heard our repast announced; will you now take the trouble to enter the salle-à-manger, your humble servant going first to show the way?
 (The banquet hosted by Amphitryon is famously marked by a mythological twist in which Zeus, disguised as Amphitryon, gives a grand feast in Amphitryon’s likeness while the real Amphitryon is away. When Amphitryon returns home, a dispute arises over who is truly the host—the man physically present or the god who provided the feast. The guests and servants resolve this by deciding that the true host is he who gave the feast, highlighting the importance of hospitality and generosity in ancient culture. This banquet story emphasizes themes of identity, deception, and honor, with the act of hosting being a symbol of social status and control over the household.​)
+
+* <span meta="45@2025-12-28T19:04:08.336Z"></span> 'Oh, yes, - yes, I do, sir; it is the pede claudo of the ancients.
+I know all that, for it is with the justice of all countries that I have occupied myself - it is with the criminal procedure of all nations that I have compared natural justice, and I must say, sir, that it is the law of primitive nations; that is, the law of retaliation that I have most frequently found to be according to the law of God.

@@ -9,8 +9,8 @@ tags:
 img_url: /images/books/King_Sorrow.jpg
 permalink: /books/BIP_/King_Sorrow/
 layout: book.njk
-pct_progress: 11.2
-latest_progress: '2025-12-18T05:12:58.797Z'
+pct_progress: 26.9
+latest_progress: '2025-12-28T06:07:57.308Z'
 ---
 replace me
 
@@ -24,3 +24,13 @@ replace me
 
 * <span meta="8.7@2025-12-18T05:12:58.797Z"></span> “ things we’d give anything to take back, but somehow people have decided to love us anyway, and they’re here with us today . . . though we’ve put them through plenty of sorrow . . . and believe me, folks, we aren’t done yet. You haven’t tasted sorrow till you’ve tried prison cafeteria turkey.” This time the laughter was almost raucous. His mother had always been good at this, at finding her way to the words others needed to hear. “You don’t have to be in prison to feel trapped. You don’t have to receive a sentence to feel like you’re serving life. Most of us weren’t free before we were locked up. We were already serving time, the worst kind of time, locked away with our own guilt while doing things that made us hate ourselves. Your own head can be solitary confinement. But here we are now, and it’s Thanksgiving and the people we love are with us still, serving our sentences with us. Counting the days with us. Their love is our parole. Let’s bow our heads and say thanks for them, thanks for our good luck. Because we are loved, prison doesn’t have to be where freedom ends . . . it might be[…]”
 
+
+* <span meta="26.9@2025-12-28T06:07:57.308Z"></span> “What the hell is going on here, Allison?” Robin asked her. “What the hell do you and Van know about this flight that you
+            aren’t saying?”
+         
+         
+         Allie was going to reply, opened her mouth, closed it, then opened it again and said, “How did you have the courage to—be
+            a woman?”
+         
+         
+         Whatever Robin was expecting, it wasn’t that. She drew her head back slightly and then laughed. “I wonder the exact same thing about every woman I meet. Every day.” Her smile faded slightly. “What are you doing? Can you please try to explain?”
