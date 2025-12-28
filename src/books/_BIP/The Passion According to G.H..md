@@ -12,8 +12,8 @@ layout: book.njk
 publisher: Penguin Classics
 published: 2014
 orig_date: 1964
-pct_progress: 26.3
-latest_progress: '2025-12-21T16:35:57.588Z'
+pct_progress: 35
+latest_progress: '2025-12-24T21:54:33.153Z'
 ---
 replace me
 
@@ -24,3 +24,8 @@ replace me
 * <span meta="26.4@2025-12-21T16:20:19.504Z"></span> “From its bulk and slowness, it had to be a very old cockroach. With my archaic horror of cockroaches I’d learned to guess, even from a distance, their ages and dangers; even without ever having really looked a cockroach in the face I knew the ways they existed.”
 
 * <span meta="26.3@2025-12-21T16:35:57.588Z"></span> “Up till then I’d never mastered my own powers—powers I neither understood nor wanted to understand, but the life inside me had hung on to them so that one day at last this unknown and happy and unconscious matter would unclasp what was finally: I! I, whatever that was.”
+
+* <span meta="28.1@2025-12-24T21:18:24.204Z"></span> “And all of a sudden I moaned out loud, this time I heard my moan. Because rising to my surface like pus was my truest matter—and with fright and loathing I was feeling that “I-being” was coming from a source far prior to the human source and, with horror, much greater than the human.”
+
+
+* <span meta="35@2025-12-24T21:54:33.153Z"></span> “To build a possible soul—a soul whose head does not devour its own tail—the law commands us to keep only to what is disguisedly alive. And the law commands that, whoever eats of the unclean, must do so unawares. Since whoever eats of the unclean knowing that it is unclean—will also know that the unclean is not unclean. Is that it?”
