@@ -5,7 +5,7 @@ pages: 262
 tags:
   - romance
   - edifying
-date_started: 2024-01-08T00:00:00.000Z
+date_started: 2024-12-08T00:00:00.000Z
 date_read: 2024-12-08T00:00:00.000Z
 img_url: /images/books/Far_From_the_Madding_Crowd.jpg
 permalink: /books/Far_from_the_Madding_Crowd/
