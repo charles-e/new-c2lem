@@ -1,6 +1,7 @@
 ---
 title: The Hunger Games
 author: 'Collins, Suzanne'
+date_started: 2025-03-01T00:00:00.000Z
 date_read: 2025-03-16T00:00:00.000Z
 tags: 'young adult, dystopian, post-apocalyptic, adventure, audio'
 hours: 10.5
