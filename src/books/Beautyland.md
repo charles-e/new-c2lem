@@ -5,6 +5,7 @@ pages: 545
 tags:
   - magic-realism
   - fantasy
+date_started: 2025-02-10T00:00:00.000Z
 date_read: 2025-02-20T00:00:00.000Z
 img_url: /images/books/Beautyland.jpg
 permalink: /books/Beautyland/
