@@ -2,6 +2,7 @@
 title: Yellowface
 author: 'Kuang, R.F.'
 date_read: 2025-03-21T00:00:00.000Z
+date_started: 2025-03-15T00:00:00.000Z
 tags: 'satire, audio'
 hours: 8.6
 publisher: William Morrow
