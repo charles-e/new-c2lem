@@ -1,7 +1,8 @@
 ---
 title: The Stranger
 author: 'Camus, Albert'
-date_started: '2025-11-16Z00:00:00.000Z'
+date_started: '2025-11-16T00:00:00.000Z'
+date_read: '2025-11-25T00:00:00.000Z'
 src: lvccld
 tags:
   - edifying
@@ -15,6 +16,7 @@ translator: 'Ward, Matthew'
 publisher: Vintage
 pct_progress: 99.9
 latest_progress: '2025-12-01T00:38:57.050Z'
+date_posted: '2025-12-27Z00:00:00.000Z'
 ---
 replace me
 
