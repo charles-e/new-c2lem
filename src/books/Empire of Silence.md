@@ -6,6 +6,7 @@ pages: 545
 tags:
   - scifi
   - space opera
+date_started: 2025-01-01T00:00:00.000Z
 date_read: 2025-01-09T00:00:00.000Z
 img_url: /images/books/Empire_of_Silence.jpg
 permalink: /books/Empire_of_Silence/

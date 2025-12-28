@@ -1,6 +1,7 @@
 ---
 title: Martyr!
 author: 'Akbar, Kaveh'
+date_started: 2025-02-25T00:00:00.000Z
 date_read: 2025-03-11T00:00:00.000Z
 published: 2024
 tags:
