@@ -12,8 +12,8 @@ layout: book.njk
 publisher: Penguin Classics
 published: 2014
 orig_date: 1964
-pct_progress: 35
-latest_progress: '2025-12-24T21:54:33.153Z'
+pct_progress: 56.1
+latest_progress: '2025-12-31T22:05:42.124Z'
 ---
 replace me
 
@@ -29,3 +29,8 @@ replace me
 
 
 * <span meta="35@2025-12-24T21:54:33.153Z"></span> “To build a possible soul—a soul whose head does not devour its own tail—the law commands us to keep only to what is disguisedly alive. And the law commands that, whoever eats of the unclean, must do so unawares. Since whoever eats of the unclean knowing that it is unclean—will also know that the unclean is not unclean. Is that it?”
+
+* <span meta="42.1@2025-12-29T15:21:30.642Z"></span> “ts two eyes were alive like two ovaries. It was looking at me with the blind fertility of its gaze. It was fertilizing my dead fertility. Would its eyes be salty? If I touched them—since I was gradually getting more and more unclean—if I touched them with my mouth, would they taste salty?”
+
+* <span meta="56.1@2025-12-31T22:05:42.124Z"></span> 
+“The joy of getting lost is a Sabbath joy. Getting lost is a dangerous finding. I was experiencing in that desert the fire of things: and it was a neutral fire. I was living from the tessitura of which things are made. And it was a hell, that place, because in that world where I was living neither compassion nor hope exists.”
