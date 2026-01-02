@@ -13,7 +13,7 @@ publisher: Penguin Classics
 published: 2014
 orig_date: 1964
 pct_progress: 56.1
-latest_progress: '2025-12-31T22:05:42.124Z'
+latest_progress: '2026-01-02T21:15:32.993Z'
 ---
 replace me
 
@@ -34,3 +34,5 @@ replace me
 
 * <span meta="56.1@2025-12-31T22:05:42.124Z"></span> 
 “The joy of getting lost is a Sabbath joy. Getting lost is a dangerous finding. I was experiencing in that desert the fire of things: and it was a neutral fire. I was living from the tessitura of which things are made. And it was a hell, that place, because in that world where I was living neither compassion nor hope exists.”
+
+* <span meta="56.1@2026-01-02T21:15:32.993Z"></span> “Sleep with me awake, and only thus can you know of my great sleep and know what is the living desert.”
