@@ -12,8 +12,8 @@ layout: book.njk
 publisher: Penguin Classics
 published: 2014
 orig_date: 1964
-pct_progress: 56.1
-latest_progress: '2026-01-02T21:15:32.993Z'
+pct_progress: 70
+latest_progress: '2026-01-03T04:23:37.924Z'
 ---
 replace me
 
@@ -36,3 +36,9 @@ replace me
 “The joy of getting lost is a Sabbath joy. Getting lost is a dangerous finding. I was experiencing in that desert the fire of things: and it was a neutral fire. I was living from the tessitura of which things are made. And it was a hell, that place, because in that world where I was living neither compassion nor hope exists.”
 
 * <span meta="56.1@2026-01-02T21:15:32.993Z"></span> “Sleep with me awake, and only thus can you know of my great sleep and know what is the living desert.”
+
+* <span meta="69.3@2026-01-03T04:19:53.845Z"></span> “From that country of rats and tarantulas and roaches, my love, where enjoyment drips in fat drops of blood.
+Only the mercy of the God could yank me out of that terrible indifferent joy in which I was bathing, complete.
+For I was exulting. I was coming to know the violence of the happy dark—I was happy as a demon, hell is my maximum.”
+
+* <span meta="70@2026-01-03T04:23:37.924Z"></span> “I shall never rest again: I stole the hunting horse from the Sabbath king. If I fall asleep for an instant, the echo of a whinny wakes me. And it is useless not to go. In the dark of night the panting gives me goose bumps. I pretend to sleep but in the silence the steed breathes. It says nothing but it breathes, waits and breathes.”
