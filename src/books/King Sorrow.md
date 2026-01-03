@@ -2,18 +2,26 @@
 title: King Sorrow
 author: 'Hill, Joe'
 date_started: '2025-12-16Z00:00:00.000Z'
+date_read: '2026-01-01Z00:00:00.000Z'
 src: lvccld
 tags:
   - mystery
-  - horror
+  - occult
+  - thriller
 img_url: /images/books/King_Sorrow.jpg
 permalink: /books/BIP_/King_Sorrow/
 layout: book.njk
 pct_progress: 26.9
 latest_progress: '2025-12-28T06:07:57.308Z'
+date_posted: '2026-01-02Z00:00:00.000Z'
 ---
-replace me
+A group of mostly 20 year old  adults at a New England college decide to help their less privileged friend who is being blackmailed by a couple of drug dealing thugs.  And of course their "help" turns out to be an occult summoning (and ritual binding) of a dragon.  They agree that in return for killing the blackmailers on their behalf they will provide a new target for the dragon (who the kids named "King Sorrow") to kill every easter.  The rest of the book concerns how the group ages from easter to easter and the ramifications of the dragon killings.
 
+The narrative starts in 1989 and does not complete until 2022. The characters are mostly believable and take some interesting character journeys (including dying.)  Likewise the narrative takes you through brief sketches of pop culture.  So overall you have long term soap opera with likeable characters, something for everybody and you just want to understand how the kids will somehow get free of the curse they unleashed. 
+
+Fun read.
+
+<!-- 
 * <span meta="2.9@2025-12-17T18:20:03.034Z"></span> “At Crane’s request, the book had been bound in his own tanned and dried skin after he was hanged. There were only five other volumes encased in human hide in all of New England: two at Harvard, one in the Boston Athenaeum, one at Dartmouth, one at UMO. Arthur, who loved a good word when he came across one—he chewed on them like caramels—even knew the formal term for such books, anthropodermic bibliopegy, language both scientific and somehow vaguely dirty, as if it described a perversion instead of an object.”
 
 * <span meta="19.9@2025-12-17T18:54:58.986Z"></span> “A team of researchers in Toronto in the 1970s got together to invent a ghost. They made up a character, Philip Aylesford,
@@ -34,3 +42,5 @@ replace me
          
          
          Whatever Robin was expecting, it wasn’t that. She drew her head back slightly and then laughed. “I wonder the exact same thing about every woman I meet. Every day.” Her smile faded slightly. “What are you doing? Can you please try to explain?”
+
+-->
