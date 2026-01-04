@@ -1,6 +1,8 @@
 ---
 title: The Passion According to G.H.
 author: 'Lisander, Clarice'
+translator: 'Novey, Idra'
+language: portuguese
 date_started: '2025-12-14Z00:00:00.000Z'
 src: lvccld
 img_url: /images/books/The_Passion_According_to_G.H..jpg
@@ -12,11 +14,28 @@ layout: book.njk
 publisher: Penguin Classics
 published: 2014
 orig_date: 1964
-pct_progress: 70
-latest_progress: '2026-01-03T04:23:37.924Z'
+pct_progress: 72.1
+latest_progress: '2026-01-03T04:54:14.855Z'
+date_read: '2026-01-03T04:54:14.855Z'
+date_posted: '2026-01-03T04:54:14.855Z'
 ---
-replace me
+I pushed today to finish this thing.  And having finished, I have to wonder, why did I finish this book?  
 
+<blockquote>
+“I was seeing something that would only make sense later—I mean, something that only later would profoundly not make sense. Only later would I understand: what seems like a lack of meaning—that’s the meaning. Every moment of “lack of meaning” is precisely the frightening certainty that that’s exactly what it means, and that not only can I not reach it, I don’t want to because I have no guarantees. The lack of meaning would only overwhelm me later. Could realizing the lack of meaning have always been my negative way of sensing the meaning? it had been my way of participating.”
+</blockquote>
+
+That quote is very representative of all the prose in this story(?) and, additionally explains perhaps the overall meaning of the text.  Or it doesn't.
+
+The overall narrative is by and about the protagonist G.H, a self-made, independent, wealthy sculptor who lives in the penthouse of an (I assume) Rio de Janiero skyscraper.  The day after her latest maid quits G.H. investigates the maid's room and discovers that the maid (apparently) drew on the wall behind the door a bas-relief floor to ceiling drawing of G.H. and a man. Though not stated specifically, I assume the image was not flattering. 
+
+G.H. then starts poking around looking for further damage and in that process opens an armoire only to discover a cockroach which starts crawling to the front of the cabinet.  G.H. freaks out, impulsively slamming the cabinet door, which then crushes the cockroach leaving its head and eyes half emerged.  And then some white pus(?) emerges from the bug's broken carapace and G.H. spends a significant amount of verbiage debating on whether or not she needs to eat the white goo.  She also passes out at one point.  Later on, she does eat the white goo then she spits out the white goo.
+
+My takeaway is that the entire book is cryptic with each chapter a self contradictory screed.  G.H. comes off as petty and mean.  I have the feeling that there ought to be some intertextual communication between this text and "The Metamorphosis"... if only I could explain it.
+
+The biggest benefit to me reading this book is that it gives me a writing style that I would love to be able to mimic, so I have an exercise for myself.  
+
+<!-- 
 * <span meta="19.3@2025-12-17T18:12:51.144Z"></span> “I was seeing something that would only make sense later—I mean, something that only later would profoundly not make sense. Only later would I understand: what seems like a lack of meaning—that’s the meaning. Every moment of “lack of meaning” is precisely the frightening certainty that that’s exactly what it means, and that not only can I not reach it, I don’t want to because I have no guarantees. The lack of meaning would only overwhelm me later. Could realizing the lack of meaning have always been my negative way of sensing the meaning? it had been my way of participating.”
 
 * <span meta="20.7@2025-12-18T14:58:37.274Z"></span> “From the doorway I was now seeing a room that had a calm and empty order. In my fresh, damp and cozy home, the maid without telling me had opened a dry emptiness. Now it was an entirely clean and vibrant room as in an insane asylum from which dangerous objects have been removed.”
@@ -42,3 +61,7 @@ Only the mercy of the God could yank me out of that terrible indifferent joy in 
 For I was exulting. I was coming to know the violence of the happy dark—I was happy as a demon, hell is my maximum.”
 
 * <span meta="70@2026-01-03T04:23:37.924Z"></span> “I shall never rest again: I stole the hunting horse from the Sabbath king. If I fall asleep for an instant, the echo of a whinny wakes me. And it is useless not to go. In the dark of night the panting gives me goose bumps. I pretend to sleep but in the silence the steed breathes. It says nothing but it breathes, waits and breathes.”
+
+* <span meta="72.1@2026-01-03T04:54:14.855Z"></span> “But now, that I knew that my joy had been suffering, I was wondering if I was fleeing toward a God because I couldn’t stand my humanity. Because I needed someone who wasn’t petty like me, someone who was so much wider than I in order to allow my misfortune without even using pity and solace—someone who was, who was! and not, like me, an accuser of nature, not like me, a person astonished by the power of my own hates and loves.”
+
+-->

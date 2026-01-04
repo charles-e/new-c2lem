@@ -19,7 +19,7 @@ A group of mostly 20 year old  adults at a New England college decide to help th
 
 The narrative starts in 1989 and does not complete until 2022. The characters are mostly believable and take some interesting character journeys (including dying.)  Likewise the narrative takes you through brief sketches of pop culture.  So overall you have long term soap opera with likeable characters, something for everybody and you just want to understand how the kids will somehow get free of the curse they unleashed. 
 
-Fun read.
+Fun read.  I enjoyed especially the explanation of origins of "internet trolls".
 
 <!-- 
 * <span meta="2.9@2025-12-17T18:20:03.034Z"></span> “At Crane’s request, the book had been bound in his own tanned and dried skin after he was hanged. There were only five other volumes encased in human hide in all of New England: two at Harvard, one in the Boston Athenaeum, one at Dartmouth, one at UMO. Arthur, who loved a good word when he came across one—he chewed on them like caramels—even knew the formal term for such books, anthropodermic bibliopegy, language both scientific and somehow vaguely dirty, as if it described a perversion instead of an object.”
