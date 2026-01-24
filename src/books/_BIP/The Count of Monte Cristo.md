@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The_Count_of_Monte_Cristo.jpg
 layout: book.njk
-pct_progress: '45'
-latest_progress: '2025-12-28T19:04:08.336Z'
+pct_progress: 57.4
+latest_progress: '2026-01-24T03:36:22.016Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -68,3 +68,7 @@ sciences, the golden cloud which bears the soul to heaven?
 
 * <span meta="45@2025-12-28T19:04:08.336Z"></span> 'Oh, yes, - yes, I do, sir; it is the pede claudo of the ancients.
 I know all that, for it is with the justice of all countries that I have occupied myself - it is with the criminal procedure of all nations that I have compared natural justice, and I must say, sir, that it is the law of primitive nations; that is, the law of retaliation that I have most frequently found to be according to the law of God.
+
+* <span meta="57.4@2026-01-24T03:36:22.016Z"></span> 'I have just made a discovery for twenty-five thousand francs, for which I would have paid a hundred thousand
+'What have you discovered?' asked Morrel.
+'T have just discovered the method of ridding a gardener of the dormice that eat his peaches.?

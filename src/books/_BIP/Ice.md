@@ -7,8 +7,8 @@ tags:
   - fantasy
 permalink: /books/BIP_/Ice/
 layout: book.njk
-pct_progress: '6'
-latest_progress: '2026-01-18T19:17:37.145Z'
+pct_progress: 13.1
+latest_progress: '2026-01-23T19:46:46.961Z'
 img_url: /images/books/Ice.jpg
 ---
 I started this as an audiobook and 4 hours(?) in I decided I needed to read (electronically) because of a) Many Russian names with patronymics and b) many Russian early twentieth century political terms.  But, otherwise, I am enjoying. 
@@ -38,3 +38,11 @@ I started this as an audiobook and 4 hours(?) in I decided I needed to read (ele
 * <span meta="4@2026-01-18T06:05:52.681Z"></span> Father. Because we saw him so infrequently, once every few months, I had to remember my image of him all the more vividly. Had he never appeared at all, deprived of body, face, voice and characteristic features, would he have been any less real? Existence is not a necessary attribute of a good father.
 
 * <span meta="6@2026-01-18T19:17:37.145Z"></span> people – no, not people, but human-objects – are subject to an infinitely superior being, whilst that being shapes their reality at will according to his whimsical caprices and fleeting desires, in no way explaining anything, because these things too are not for explaining.
+
+* <span meta="7@2026-01-23T14:57:16.231Z"></span> Those people who broke in… If they know not the key to the code – what are the chances they’ll break it whilst still on the Trans-Siberian Express? Had they brought a specialist with them for the purpose? Doubtful. Smack the lips under the moustache. And hence: who will be first? Mind against mind.
+
+Dukaj, Jacek. Ice (pp. 125-126). (Function). Kindle Edition. 
+
+* <span meta="13.1@2026-01-23T19:46:46.961Z"></span> ‘As God is my witness, Jelena, the day before yesterday, on Saturday, was the first time I set eyes on Prince Blutsky; of Russian politics I know nothing at all, and I’m about as suited to street brawls as Frau Blutfeld is to the ballet! Oh, my hands are still trembling. Some drunken brigands attacked us, Mr Fessar can testify to it, local hoodlums, it was a miracle that the prince’s men were nearby, otherwise I’d be riding in my coffin, well why are you making such eyes!’
+
+Dukaj, Jacek. Ice (p. 225). (Function). Kindle Edition. 
