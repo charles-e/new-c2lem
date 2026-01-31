@@ -7,8 +7,8 @@ tags:
   - fantasy
 permalink: /books/BIP_/Ice/
 layout: book.njk
-pct_progress: 13.1
-latest_progress: '2026-01-23T19:46:46.961Z'
+pct_progress: '39'
+latest_progress: '2026-01-28T19:27:56.723Z'
 img_url: /images/books/Ice.jpg
 ---
 I started this as an audiobook and 4 hours(?) in I decided I needed to read (electronically) because of a) Many Russian names with patronymics and b) many Russian early twentieth century political terms.  But, otherwise, I am enjoying. 
@@ -46,3 +46,13 @@ Dukaj, Jacek. Ice (pp. 125-126). (Function). Kindle Edition.
 * <span meta="13.1@2026-01-23T19:46:46.961Z"></span> ‘As God is my witness, Jelena, the day before yesterday, on Saturday, was the first time I set eyes on Prince Blutsky; of Russian politics I know nothing at all, and I’m about as suited to street brawls as Frau Blutfeld is to the ballet! Oh, my hands are still trembling. Some drunken brigands attacked us, Mr Fessar can testify to it, local hoodlums, it was a miracle that the prince’s men were nearby, otherwise I’d be riding in my coffin, well why are you making such eyes!’
 
 Dukaj, Jacek. Ice (p. 225). (Function). Kindle Edition. 
+
+* <span meta="30@2026-01-26T20:36:47.881Z"></span> Pure whiteness flapped in the background: wind had blown out the curtains in the Deluxe carriage windows. It would fit the Gallic painters, one of those impressionists of the Mediterranean sun who blurs the contours of limestone belfries, olive groves, sailing boats on the horizon. A small painting, a rectangle ten inches by seven, yellow, green, azure and black (black onyx to portray the coldiron of the steam engine). And its title: Summer in the Taiga. Or: The Taiga in Summer. Surrounded by a thick, unwieldy dark-wood frame. Vacationers, Asia and Engine. Engineer White-Gessling watched the passengers hiving off into the forest with unwholesome fascination. ‘But bears really do live here.’ ‘You don’t say?’ ‘And God knows what other wild beasts. They’ve all gone crazy!’
+
+Dukaj, Jacek. Ice (pp. 524-525). (Function). Kindle Edition. 
+
+* <span meta="30@2026-01-26T21:39:23.292Z"></span> ‘The experience of fatherhood, Benedykt, the experience of fatherhood – that a man becomes a father – cannot be compared to the experience of motherhood. A mother becomes a mother gradually, in a process lasting many months, a woman grows into the idea and role as the child grows inside her. A father, on the other hand, becomes a father all of a sudden, in the space of a day, an hour, a single moment. It drops on him like a sharp guillotine-blade separating the time of non-fatherhood from the time offatherhood. Only when he takes the child in his arms for the first time does he “believe” in its reality. Or, worse still, when he learns some day: “You have a son”, “You have a daughter”. Without the intermediary stages. For men, there is no state of blessedness. No male pregnancy. Men experience no fatherhood in their own bodies. It’s impossible to prepare oneself.’
+
+* <span meta="39@2026-01-28T19:27:56.723Z"></span> Japanese. Since for the time being no Siberian account had percolated to Europe and no one knew the real causes of the empyrean phenomena.
+
+Dukaj, Jacek. Ice (p. 666). (Function). Kindle Edition. 

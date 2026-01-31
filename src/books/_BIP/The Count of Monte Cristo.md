@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The_Count_of_Monte_Cristo.jpg
 layout: book.njk
-pct_progress: 57.4
-latest_progress: '2026-01-24T03:36:22.016Z'
+pct_progress: '39'
+latest_progress: '2026-01-28T19:36:42.096Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -72,3 +72,8 @@ I know all that, for it is with the justice of all countries that I have occupie
 * <span meta="57.4@2026-01-24T03:36:22.016Z"></span> 'I have just made a discovery for twenty-five thousand francs, for which I would have paid a hundred thousand
 'What have you discovered?' asked Morrel.
 'T have just discovered the method of ridding a gardener of the dormice that eat his peaches.?
+
+* <span meta="39@2026-01-28T19:36:42.096Z"></span> there, ahead, above the tangle of railway tracks, hovered a radiant Fata Morgana, a kaleidoscopic coil of suns, rainbows, fires, angelic lights.
+
+Dukaj, Jacek. Ice (p. 670). (Function). Kindle Edition. 
+
