@@ -22,7 +22,7 @@ date_posted: '2026-01-30T00:00:00.000Z'
 The long afternoons she spent browsing through dictionary and thesaurus made for constructions that were inept, but hauntingly so: the coins a villain concealed in his pocket were “esoteric,” a hoodlum caught stealing a car wept in “shameless auto-exculpation,” the heroine on her thoroughbred stallion made a “cursory” journey through the night, the king’s furrowed brow was the “hieroglyph” of his displeasure.
 </blockquote>
 
-I read this because I was looking for a "car" (audio) book and it was on sale through audible for a fifty cents. (Note, not that much a bargain as I could have put this book on hold at the library and gotten it in a couple weeks - damn those clever marketing emails.)  I had already read a couple of his books and I had a pretty strong clue as to what I would experience, that is, dozens of collectible crafted passages and at some point, a twist that would make my stomach sink.
+I read this because I was looking for a "car" (audio) book and it was on sale through audible for a fifty cents. (Note, not that much a bargain as I could have put this book on hold at the library and gotten it in a couple weeks - damn those clever marketing emails.)  I had already read a couple of McEwan's books and I had a pretty strong idea as to what I would experience, that is, dozens of collectible crafted passages and at some point, a twist that would make my stomach sink.
 
 The setting is a hot day in July, late 30's england, a manor house not too different than from 'Downton Abbey'. The book tells the story of one seemingly simple and then suddenly very traumatic day in the lives of the Tallises and then the aftermath. 
 
