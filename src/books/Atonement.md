@@ -24,7 +24,7 @@ The long afternoons she spent browsing through dictionary and thesaurus made for
 
 I read this because I was looking for a "car" (audio) book and it was on sale through audible for fifty cents. (Note, not that much a bargain as I could have put this book on hold at the library and gotten it in a couple weeks - damn those clever marketing emails.)  I had already read a couple of McEwan's books and I had a pretty strong idea as to what I would experience, that is, dozens of collectible crafted passages and at some point, a twist that would make my stomach sink.
 
-The setting is a hot day in July, late 30's england, a manor house not too different than from 'Downton Abbey'. The book tells the story of one seemingly simple and then suddenly very traumatic day in the lives of the Tallises and then the aftermath. 
+The setting is a hot day in July, late 30's england, a manor house not too different than from 'Downton Abbey'. The book tells the story of one seemingly simple then suddenly very traumatic day in the lives of the Tallises and then the aftermath. 
 
 Our main characters are Briony Tallis is a 12-year-old very precocious writer who is going to put on a play she has written.  Cecilia is Briony's older sister who is back from her first year at college.  Robby Turner is also back from his first three years at Cambridge where he is doing extremely well such that he wants to study medicine. Robby is the son of the Tallis's cleaning woman whose father left when when he was a small child, Mr Tallis has chosen to sponsor Robby's education in spite of class differences.
 
