@@ -31,6 +31,7 @@ This story works because the personalities of Halyard and Resaint are entirely p
 <blockquote>
 Leftists sometimes asserted that within a capitalist framework there could never be a solution to the extinction crisis that was untainted by profiteering and abuse, because the free market was like some malevolent AI, infinitely more devious than the humans who thought they could constrain it; but Resaint’s own proposal was simply that each of the hundred thousand wealthiest individuals on earth should be randomly assigned a vulnerable species and then informed that if their assigned species were ever to go extinct they would be executed by hanging.
 </blockquote>
+
 <!-- 
 * <span meta="19@2026-02-02T17:21:13.432Z"></span> We had pawned those animals, intending to buy them back one day when things were a bit less stretched, and now the pawn shop had burned to the ground with all the animals inside. 
 
@@ -49,4 +50,5 @@ Beauman, Ned. Venomous Lumpsucker (p. 271). (Function). Kindle Edition.
 * <span meta="62@2026-02-05T02:17:10.599Z"></span> Leftists sometimes asserted that within a capitalist framework there could never be a solution to the extinction crisis that was untainted by profiteering and abuse, because the free market was like some malevolent AI, infinitely more devious than the humans who thought they could constrain it; but Resaint’s own proposal was simply that each of the hundred thousand wealthiest individuals on earth should be randomly assigned a vulnerable species and then informed that if their assigned species were ever to go extinct they would be executed by hanging.
 
 Beauman, Ned. Venomous Lumpsucker (pp. 200-201). (Function). Kindle Edition. 
+
 -->
