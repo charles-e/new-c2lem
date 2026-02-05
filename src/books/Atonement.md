@@ -16,7 +16,6 @@ publisher: Recorded Books (Random House)
 pct_progress: 2.1
 latest_progress: '2026-01-23T02:47:10.240Z'
 date_posted: '2026-01-30T00:00:00.000Z'
-
 ---
 <blockquote>
 The long afternoons she spent browsing through dictionary and thesaurus made for constructions that were inept, but hauntingly so: the coins a villain concealed in his pocket were “esoteric,” a hoodlum caught stealing a car wept in “shameless auto-exculpation,” the heroine on her thoroughbred stallion made a “cursory” journey through the night, the king’s furrowed brow was the “hieroglyph” of his displeasure.
