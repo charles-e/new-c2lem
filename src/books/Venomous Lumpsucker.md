@@ -28,6 +28,9 @@ Our two protagonists are Karin Resaint, a biologist who evaluates species for po
 
 This story works because the personalities of Halyard and Resaint are entirely plausible, with Resaint as rational to the point of seeming autism, fatalistic but functional while Halyard is completely amoral but also just a normal guy who didn't do anything millions of tax-cheats haven't done but got unlucky. As well, the writing is funny because Mr. Beauman creates plausible but ridiculous situations for our characters to navigate (sorry I can't just quote things - too long) Lastly, this being science fiction, those situations often revolve around science and technology being used in unconventional, amusing ways.  
 
+<blockquote>
+Leftists sometimes asserted that within a capitalist framework there could never be a solution to the extinction crisis that was untainted by profiteering and abuse, because the free market was like some malevolent AI, infinitely more devious than the humans who thought they could constrain it; but Resaint’s own proposal was simply that each of the hundred thousand wealthiest individuals on earth should be randomly assigned a vulnerable species and then informed that if their assigned species were ever to go extinct they would be executed by hanging.
+</blockquote>
 <!-- 
 * <span meta="19@2026-02-02T17:21:13.432Z"></span> We had pawned those animals, intending to buy them back one day when things were a bit less stretched, and now the pawn shop had burned to the ground with all the animals inside. 
 
@@ -42,7 +45,8 @@ Beauman, Ned. Venomous Lumpsucker (pp. 80-81). (Function). Kindle Edition.
 * <span meta="83@2026-02-04T04:27:49.188Z"></span> But now she felt that a human being should find as much torture and paradox in their relationship with animals as the most overwrought Catholic found in their relationship with God (the other great tolerator of one-sided conversations).
 
 Beauman, Ned. Venomous Lumpsucker (p. 271). (Function). Kindle Edition. 
--->
+
 * <span meta="62@2026-02-05T02:17:10.599Z"></span> Leftists sometimes asserted that within a capitalist framework there could never be a solution to the extinction crisis that was untainted by profiteering and abuse, because the free market was like some malevolent AI, infinitely more devious than the humans who thought they could constrain it; but Resaint’s own proposal was simply that each of the hundred thousand wealthiest individuals on earth should be randomly assigned a vulnerable species and then informed that if their assigned species were ever to go extinct they would be executed by hanging.
 
 Beauman, Ned. Venomous Lumpsucker (pp. 200-201). (Function). Kindle Edition. 
+-->
