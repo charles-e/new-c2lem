@@ -11,7 +11,9 @@ img_url: /images/books/Venomous_Lumpsucker.jpg
 permalink: /books/Venomous_Lumpsucker/
 layout: book.njk
 pct_progress: '83'
-latest_progress: '2026-02-04T04:27:49.188Z'
+pages: 337
+recommendation_src: Ancillary Review
+date_read: '2026-02-04T04:27:49.188Z'
 date_posted: '2026-02-05T00:00:00.000Z'
 ---
 <blockquote>
