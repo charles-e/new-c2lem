@@ -21,6 +21,6 @@ Someday, I would like to write a book that isn't about Rick Chambers or Astarte.
 But I've never experienced any of those things myself. All I know is monsters.
 </blockquote>
 
-This is an anthology of stories by Theodora Goss and the first story, which seems suspiciously like the best one, is "The Mad Scientist's Daughter". The story is about the lives of the female children of literary mad scientists (Frankenstein, Dr Jekyll, Dr Moreau etc) who get together and rent a house then they live their lives, knitting, having tea, doing charity work, whatever, happily ever after.  Does that sound entirely calm and cozy?  I hope so.  
+This is an anthology of stories by Theodora Goss and the first story, which seems suspiciously like the best one, is "The Mad Scientist's Daughter". The story is about the female children of literary mad scientists (Frankenstein, Dr Jekyll, Dr Moreau etc) who get together and rent a house then they live their lives, knitting, having tea, doing charity work, whatever, happily ever after.  Does that sound entirely calm and cozy?  I hope so.  
 
 I read most of the stories and found them all entirely well crafted and generally enjoyable if not entirely riveting.  If you want riveting, then read [Exhalation by Ted Chiang](/books/Exhalation).  
