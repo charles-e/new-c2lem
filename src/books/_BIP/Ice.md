@@ -7,8 +7,8 @@ tags:
   - fantasy
 permalink: /books/BIP_/Ice/
 layout: book.njk
-pct_progress: '49'
-latest_progress: '2026-02-03T21:57:12.863Z'
+pct_progress: '52'
+latest_progress: '2026-02-07T22:57:42.592Z'
 img_url: /images/books/Ice.jpg
 ---
 I started this as an audiobook and 4 hours(?) in I decided I needed to read (electronically) because of a) Many Russian names with patronymics and b) many Russian early twentieth century political terms.  But, otherwise, I am enjoying. 
@@ -60,3 +60,7 @@ Dukaj, Jacek. Ice (p. 666). (Function). Kindle Edition.
 * <span meta="49@2026-02-03T21:57:12.863Z"></span> Everything else has caved in, been watered down, surrendered – yet here a single barb sticks out and stabs to the side. So, the world’s weight makes for that barb: to break it, rip it out, destroy it. There exist such human barbs – didn’t you know, Benedykt? That they stab. That they always stab everyone. Such toughguts may be sincerely admired and sincerely loved, but they cannot in any way be lived with.’
 
 Dukaj, Jacek. Ice (p. 839). (Function). Kindle Edition. 
+
+* <span meta="52@2026-02-07T22:57:42.592Z"></span> ‘You are who you are, think what you think, feel what you feel. But if you’re to go beyond, if you’re to conduct thought that no one has ever conducted before – like a pendulum nudged from its state of rest – you have to knock yourself out of yourself. Be at the same time both yourself and someone other than yourself.’
+
+Dukaj, Jacek. Ice (p. 888). (Function). Kindle Edition. 
