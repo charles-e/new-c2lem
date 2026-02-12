@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The_Count_of_Monte_Cristo.jpg
 layout: book.njk
-pct_progress: '39'
-latest_progress: '2026-01-28T19:36:42.096Z'
+pct_progress: 72.5
+latest_progress: '2026-02-12T20:24:53.436Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
@@ -77,3 +77,5 @@ I know all that, for it is with the justice of all countries that I have occupie
 
 Dukaj, Jacek. Ice (p. 670). (Function). Kindle Edition. 
 
+
+* <span meta="72.5@2026-02-12T20:24:53.436Z"></span> Morrel advanced with a firm, manly tread, and poor Barrois followed him, as he best might. Morrel was only thirty-one, Barrois was sixty years of age; Morrel was deeply in love, and Barrois was dying of heat and exertion. These two men, thus opposed in age and interests, resembled two parts of a triangle, presenting the extremes of separation, yet possessing their point of union. This point of union was Noirtier, and it was he who had just sent for Morrel with the request that he would Waste no time in coming to him, - a command which Morrel obeyed to the letter, to the great discomfiture of Barrois.
