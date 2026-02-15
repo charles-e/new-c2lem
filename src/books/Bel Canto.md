@@ -24,9 +24,7 @@ L’amour est un oiseau rebelle que nul ne peut apprivoiser, et c’est bien en 
 
 Love is a rebellious bird that no one can tame, and it is quite in vain that one calls to it, if it chooses to refuse.
 </blockquote>
- -- Carmen
-
-I can almost read the above (the french) (from the opera Carmen) thanks to Duolingo. :-)
+I can almost read the french part (from the opera Carmen) thanks to Duolingo. :-)
 
 I picked this up out of my TBR as a break from two loooooong novels that I needed a break from.  Its an oldie but a goody.  Amazing writing and very difficult to choose just one pull quote. 
  
