@@ -26,7 +26,7 @@ Love is a rebellious bird that no one can tame, and it is quite in vain that one
 </blockquote>
 I can almost read the french part (from the opera Carmen) thanks to Duolingo. :-)
 
-I picked this up out of my TBR as a break from two loooooong novels that I needed a break from.  Its an oldie but a goody.  Amazing writing and very difficult to choose just one pull quote. 
+I picked this up out of my TBR as a break from two good but loooooong novels.  Its an oldie but a goody.  Amazing writing and very difficult to choose just one pull quote. 
  
 Set in an unnamed South American country (Peru maybe?), a diplomatic dinner party is held with the entertainment provided by a world famous opera soprano singer Roxanne Coss.  During her performance the venue is invaded by terrorists who then hold everybody hostage.  After a couple days most of the women and servants are freed so that there only remain fifty-ish men, and the singer who stays to care for her male accompanist. The negotiations with the government drag on for more than four months.  During that time intense relationships form between the hostages, Roxanne and even their captors.  The, story told in third person, shifts narration to follow multiple characters but the main POV is that of Gen the polyglot translator. The stories of the relationships are very engrossing but you begin to be aware that all the relationships will (and must) come to a sudden inevitable end as do all hostage dramas.
 
