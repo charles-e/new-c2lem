@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/The_Count_of_Monte_Cristo/
 img_url: /images/books/The_Count_of_Monte_Cristo.jpg
 layout: book.njk
-pct_progress: 72.5
-latest_progress: '2026-02-12T20:24:53.436Z'
+pct_progress: 99
+latest_progress: '2026-02-21T20:24:53.436Z'
 ---
 ** Characters:
 - Edmond Dantès - our hero
