@@ -7,8 +7,8 @@ tags:
   - fantasy
 permalink: /books/BIP_/Ice/
 layout: book.njk
-pct_progress: '52'
-latest_progress: '2026-02-07T22:57:42.592Z'
+pct_progress: '62'
+latest_progress: '2026-02-22T05:59:42.581Z'
 img_url: /images/books/Ice.jpg
 ---
 I started this as an audiobook and 4 hours(?) in I decided I needed to read (electronically) because of a) Many Russian names with patronymics and b) many Russian early twentieth century political terms.  But, otherwise, I am enjoying. 
@@ -64,3 +64,5 @@ Dukaj, Jacek. Ice (p. 839). (Function). Kindle Edition.
 * <span meta="52@2026-02-07T22:57:42.592Z"></span> ‘You are who you are, think what you think, feel what you feel. But if you’re to go beyond, if you’re to conduct thought that no one has ever conducted before – like a pendulum nudged from its state of rest – you have to knock yourself out of yourself. Be at the same time both yourself and someone other than yourself.’
 
 Dukaj, Jacek. Ice (p. 888). (Function). Kindle Edition. 
+
+* <span meta="62@2026-02-22T05:59:42.581Z"></span> Drawn by eight reindeer, in a tall coldiron sleigh on spidery runners, in black fur coat and sable shapka, in frostoglaze goggles covering his eyes and half his face and brimming with sky and snow and Sun and every colour of the rainbow, in a flickering penumbra, leaving tarry afterimages in his wake, with his white hand on the handle of the murch battery, in a cloud of carbon vapour – Nikola Tesla rides over the congealed ice of the Angara to the site of gleissocide, to the foot of the three-storey teslectric machine.
