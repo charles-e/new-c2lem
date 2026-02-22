@@ -11,6 +11,9 @@ img_url: '/images/books/Boxer,_Beetle.jpg'
 permalink: '/books/Boxer,_Beetle/'
 layout: book.njk
 pct_progress: 66.1
+length: 272
+publisher: sceptre
+published: 2011
 date_read: '2026-02-17T00:00:00.000Z'
 date_posted: '2026-02-21T00:00:00.000Z'
 ---
