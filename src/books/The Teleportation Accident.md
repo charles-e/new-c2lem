@@ -1,6 +1,6 @@
 ---
 title: The Teleportation Accident
-author: 'Beaumont, Ned'
+author: 'Beauman, Ned'
 date_started: '2026-02-14T00:00:00.000Z'
 src: lvccld
 tags:
