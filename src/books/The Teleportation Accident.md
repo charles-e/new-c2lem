@@ -21,7 +21,7 @@ date_posted: '2026-02-21T00:00:00.000Z'
 ---
 <blockquote>
 Woodkin's diction was so gracefully servile that it didn't sound like he was speaking out loud so much as just drawing your attention to a particular combination of semantic units that he wondered if you might find appealing.
-<blockquote>
+</blockquote>
 
 I am on a Ned Beauman jag because I enjoyed Lumpfish so much that I had to try out his other published works.   
 
