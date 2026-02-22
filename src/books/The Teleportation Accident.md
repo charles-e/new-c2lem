@@ -12,7 +12,7 @@ permalink: /books/Teleportation_Accident/
 layout: book.njk
 pct_progress: '90'
 latest_progress: '2026-02-16T17:24:31.306Z'
-date_published: '2026-02-17T17:24:31.306Z'
+date_posted: '2026-02-21T17:24:31.306Z'
 ---
 <blockquote>
 Woodkin's diction was so gracefully servile that it didn't sound like he was speaking out loud so much as just drawing your attention to a particular combination of semantic units that he wondered if you might find appealing.
