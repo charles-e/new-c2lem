@@ -1,6 +1,6 @@
 ---
 title: 'Boxer, Beetle'
-author: 'Bauman, Ned'
+author: 'Beauman, Ned'
 date_started: '2026-02-16T00:00:00.000Z'
 src: used
 tags:
