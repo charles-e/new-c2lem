@@ -17,7 +17,7 @@ pct_progress: '90'
 latest_progress: '2026-02-16T17:24:31.306Z'
 date_read: '2026-02-16T17:24:31.306Z'
 date_posted: '2026-02-21T00:00:00.000Z'
-
+bsky_link: 'https://bsky.app/profile/c2lem.com/post/3mfmj5uh5lc2v'
 ---
 <blockquote>
 Woodkin's diction was so gracefully servile that it didn't sound like he was speaking out loud so much as just drawing your attention to a particular combination of semantic units that he wondered if you might find appealing.
