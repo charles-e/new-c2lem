@@ -7,8 +7,8 @@ tags:
   - fantasy
 permalink: /books/BIP_/Ice/
 layout: book.njk
-pct_progress: '63'
-latest_progress: '2026-02-23T15:24:43.854Z'
+pct_progress: '71'
+latest_progress: '2026-03-01T22:40:48.778Z'
 img_url: /images/books/Ice.jpg
 ---
 I started this as an audiobook and 4 hours(?) in I decided I needed to read (electronically) because of a) Many Russian names with patronymics and b) many Russian early twentieth century political terms.  But, otherwise, I am enjoying. 
@@ -70,3 +70,5 @@ Dukaj, Jacek. Ice (p. 888). (Function). Kindle Edition.
 * <span meta="63@2026-02-23T15:24:43.854Z"></span> Is he really so naïve? Glance into the clear bright eyes under brows resembling clumps of thistle. He blinked not, staring candidly.
 
 Dukaj, Jacek. Ice (p. 1074). (Function). Kindle Edition. 
+
+* <span meta="71@2026-03-01T22:40:48.778Z"></span> ‘Au contraire. Can everything about the world outside of man really be explained in terms of simple Newtonian or clockmaker’s mechanics? Had you, Director, read anything of the works of Planck, Einstein and Gross, then you would know, sir, that it can’t. And yet this does not take morec-moclec-molecular physics out of the realm of number, does not take it into the realm of literature and poetry. Why should the human mind not be treated with similar rigour? Eh? You will see, sir, how someday a mathematics of the soul will arise in accordance with the electricity of the brain and of effects as yet unmeasurable by us, which will describe human character in a table system worthy of Mendeleyeff.’ Catch the breath. ‘Or you won’t see. If we live to see it.’ Pour another Scotch. ‘Or if we be resurrected.’
