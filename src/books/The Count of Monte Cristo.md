@@ -31,7 +31,7 @@ His actual revenge methods are relatively indirect, with Danglar's downfall the 
 
 On the other hand, the count's most important and guilty victim Villeforte's demise is also non fatal: he goes insane, but his insanity is the result of his wife being a serial murderer (poisoner) and the revelation that he has a bastard son, Benedetto who is a criminal on trial for murder.  Now, Dantes did *find* Benedetto, set him up with a false noble identity (Cavalcanti) and give him a very handsome, though temporary, salary with the intent of getting him married to Danglar's daughter Eugenie.  But the Count did not engineer Benedetto's murder and resultant appearance before before Villeforte, nor did he arrange Madame Villeforte to be a serial killer.  This is all *deux ex machina* Dumas, but hey, I'm sure it made the readers happy. 
 
-In keeping with my tradition, here is a nice pull quote:
+Yes, I am skipping over Dantes crisis over the morality of his revenge and probably ten other important points, but I am done.  Anyway, in keeping with my tradition, here is a nice pull quote:
 <blockquote>
 Morrel advanced with a firm, manly tread, and poor Barrois followed him, as he best might. Morrel was only thirty-one, Barrois was sixty years of age; Morrel was deeply in love, and Barrois was dying of heat and exertion. These two men, thus opposed in age and interests, resembled two parts of a triangle, presenting the extremes of separation, yet possessing their point of union. This point of union was Noirtier, and it was he who had just sent for Morrel with the request that he would Waste no time in coming to him, - a command which Morrel obeyed to the letter, to the great discomfiture of Barrois.
 </blockquote>
