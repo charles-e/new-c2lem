@@ -13,7 +13,30 @@ img_url: /images/books/The_Count_of_Monte_Cristo.jpg
 layout: book.njk
 pct_progress: 99
 latest_progress: '2026-02-21T20:24:53.436Z'
+date_read: '2026-02-21T20:24:53.436Z'
+date_posted: '2026-02-28T20:24:53.436Z'
+
 ---
+Last week I saw a tiktok where a young woman breathlessly described this book as "swashbuckling" (or was it "adventurous"?) and all I could think was that she watched the Guy Ritchie movie and assumed that it had *some bearing* on what happened in the book.  And actually having read the book cover to cover (mostly) I can say that the best thing about reading the book is having the right to say to that tiktok influencer, "I have read the book and you have no idea what the fuck you are talking about!".  And also it gives me the ability to watch three or four different movie-adaptations and commiserate with the poor screen writers choices about what to cut/streamline in the shambling mound of spaghetti that is the plot of this novel.
+
+Having said that, and feeling much better I gotta give Dumas credit because he wrote that thing to be released a chapter at a time every week or two and there aren't any gigantic plot holes (that I know of. please don't flame me.).  On the other hand I have to say that the book is slow, verbose as well as hard to follow at points, which, now living in the time of rampant AI, isn't a problem because you can just ask, "what did I just read?", and get instant gratification.  Overall the prose in this book is just ok though a few passages, at certain critical junctures are striking.
+
+I am not a historian of fiction so I can't tell you if this is the first revenge thriller *ever*, but the best movie analogue I thought of is Mission Impossible, because a big feature of the plot is that Dantes disguises himself in order to use the Abbée Busoni and Lord Wilmore as his alter egos.  
+
+This book has lots of what I assume is "wealth/power porn" where Dumas name-drops the painter of the paintings on the walls, the manufacturer of vases on the tables, the lineage of a horse, where the fish came from, etc, the same way current writers tell you exactly what model of Porsche the hero is driving.  And the Count never goes anywhere at normal speed, and instead arranges horse relays, has a yacht waiting for him, etc so that his travel takes hours when normally it might be days (for not rich people).  I think contemporaneous male readers of his story appreciated this, while the 19th century brand-placement goes over a modern readers head.
+
+And going back to my earlier point about this not being a "swashbuckling" novel, it isn't swashbuckling "on screen" by the Count, but, his servants act, in, at times, swashbuckling and/or gallant ways on his behalf, for example when Ali stops the runaway horse for Mrs Villefort.  And then there are his bandit friends in Italy and Haydée his beautiful greek slave girl.  He has a lot of really nice swashbuckling acquaintances and props, but the Count never actually breaks out a rapier (though he does practice with a very expensive flintlock).
+
+His actual revenge methods are relatively indirect, with Danglar's downfall the most directly caused by the Count. In particular you see the Count commit wire (telegraph) fraud (in one of the most amusing chapters) in order to harm Danglar's investments. And then, when Danglars flees his bank failure in France, the Count's italian bandit friends capture and extort from him to enact vengeance, Danglars remains alive though poor at the end of the book.
+
+On the other hand, the count's most important and guilty victim Villeforte's demise is also non fatal: he goes insane, but his insanity is the result of his wife being a serial murderer (poisoner) and the revelation that he has a bastard son, Benedetto who is a criminal on trial for murder.  Now, Dantes did *find* Benedetto, set him up with a false noble identity (Cavalcanti) and give him a very handsome, though temporary, salary with the intent of getting him married to Danglar's daughter Eugenie.  But the Count did not engineer Benedetto's murder and resultant appearance before before Villeforte, nor did he arrange Madame Villeforte to be a serial killer.  This is all, deux ex machina Dumas. 
+
+In keeping with my tradition, here is a nice pull quote:
+<blockquote>
+Morrel advanced with a firm, manly tread, and poor Barrois followed him, as he best might. Morrel was only thirty-one, Barrois was sixty years of age; Morrel was deeply in love, and Barrois was dying of heat and exertion. These two men, thus opposed in age and interests, resembled two parts of a triangle, presenting the extremes of separation, yet possessing their point of union. This point of union was Noirtier, and it was he who had just sent for Morrel with the request that he would Waste no time in coming to him, - a command which Morrel obeyed to the letter, to the great discomfiture of Barrois.
+</blockquote>
+<!-- 
+
 ** Characters:
 - Edmond Dantès - our hero
 - Old Dantès - Edmond's Father
@@ -79,3 +102,5 @@ Dukaj, Jacek. Ice (p. 670). (Function). Kindle Edition.
 
 
 * <span meta="72.5@2026-02-12T20:24:53.436Z"></span> Morrel advanced with a firm, manly tread, and poor Barrois followed him, as he best might. Morrel was only thirty-one, Barrois was sixty years of age; Morrel was deeply in love, and Barrois was dying of heat and exertion. These two men, thus opposed in age and interests, resembled two parts of a triangle, presenting the extremes of separation, yet possessing their point of union. This point of union was Noirtier, and it was he who had just sent for Morrel with the request that he would Waste no time in coming to him, - a command which Morrel obeyed to the letter, to the great discomfiture of Barrois.
+
+-->
