@@ -15,7 +15,7 @@ pct_progress: 99
 latest_progress: '2026-02-21T20:24:53.436Z'
 date_read: '2026-02-21T20:24:53.436Z'
 date_posted: '2026-02-28T20:24:53.436Z'
-
+bsky_link: 'https://bsky.app/profile/c2lem.com/post/3mfxuxoccg22b'
 ---
 Last week I saw a tiktok where a young woman breathlessly described this book as "swashbuckling" (or was it "adventurous"?) and all I could think was that she watched the Guy Ritchie movie and assumed that it had *some bearing* on what happened in the book.  And actually having read the book cover to cover (mostly) I can say that the best thing about reading the book is having the right to say to that tiktok influencer, "I have read the book and you have no idea what the fuck you are talking about!".  And also it gives me the ability to watch three or four different movie-adaptations and commiserate with the poor screen writers choices about what to cut/streamline in the shambling mound of spaghetti that is the plot of this novel.
 
