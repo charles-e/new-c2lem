@@ -8,11 +8,10 @@ tags:
   - best-seller
 permalink: /books/BIP_/Razorblade_Tears/
 layout: book.njk
-img_url: "https://m.media-amazon.com/images/I/91Jgn+GqiYL._SL1500_.jpg"
+img_url: /images/books/Razorblade_Tears.jpg
 latest_progress: '2026-03-05T14:59:55.915Z'
 date_read: '2026-03-05T14:59:55.915Z'
 date_posted: '2026-03-05T14:59:55.915Z'
-
 ---
 This was a distraction from the longish books I will be reading for a least a couple more weeks.  Ike and Buddy Lee are the mourning fathers of married couple, their sons, victims of a vicious, unsolved murder.  Ike, if he was cast in a movie would be played by Issac Hayes or maybe Ving Rhames, Buddy Lee would be played by Sam Eliot (as noted twice in the book's dialog ) The boys are both very old school: homophobic ex-gang member Ike, and racist, ex-moonshiner Buddy Lee. They have an odd-couple partnership, where they must both overcome their atavistic impulses to succeed in the investigation of their son's murders. Of course the murderers are members of a bike gang... this book is just over 300 pages and it has a happy (ish - I mean you know from the jump that Buddy Lee must die) ending.
 

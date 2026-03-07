@@ -5,7 +5,7 @@ date_started: '2026-02-22Z00:00:00.000Z'
 src: lvccld
 tags:
   - null
-img_url: 'https://m.media-amazon.com/images/I/41+ng3vWPVL.jpg'
+img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/BIP_/Vanity_Fair/
 layout: book.njk
 pct_progress: 14.6
