@@ -8,7 +8,7 @@ tags:
   - best-seller
 permalink: /books/BIP_/Razorblade_Tears/
 layout: book.njk
-img_url: https://m.media-amazon.com/images/I/91Jgn+GqiYL._SL1500_.jpg
+img_url: "https://m.media-amazon.com/images/I/91Jgn+GqiYL._SL1500_.jpg"
 latest_progress: '2026-03-05T14:59:55.915Z'
 date_read: '2026-03-05T14:59:55.915Z'
 date_posted: '2026-03-05T14:59:55.915Z'
