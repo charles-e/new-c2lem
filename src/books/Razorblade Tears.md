@@ -1,7 +1,7 @@
 ---
 title: Razorblade Tears
 author: 'Cosby, SA'
-date_started: '2026-03-3Z00:00:00.000Z'
+date_started: '2026-03-3T00:00:00.000Z'
 src: kindle-free
 tags:
   - thriller
