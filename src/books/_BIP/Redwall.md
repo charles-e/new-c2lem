@@ -1,15 +1,16 @@
 ---
-title: Vanity Fair
-author: 'Thackeray, William'
-date_started: '2026-02-22Z00:00:00.000Z'
+title: Redwall
+author: 'Jacques, Brian'
+date_started: '2026-03-10Z00:00:00.000Z'
 src: lvccld
 tags:
-  - edifying
-img_url: /images/books/Vanity_Fair.jpg
-permalink: /books/BIP_/Vanity_Fair/
+  - fantasy
+  - young adult
+img_url: /images/books/Redwall.jpg
+permalink: /books/BIP_/Redwall/
 layout: book.njk
-pct_progress: 14.6
-latest_progress: '2026-03-02T00:46:22.168Z'
+pct_progress: 55.5
+latest_progress: '2026-03-14T00:46:22.168Z'
 ---
 replace me
 
