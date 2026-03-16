@@ -13,7 +13,7 @@ layout: book.njk
 pct_progress: 55.5
 pages: 330
 latest_progress: '2026-03-14T00:46:22.168Z'
-date_quit : '2026-03-14T00:46:22.168Z'
+date_quit: '2026-03-14T00:46:22.168Z'
 date_read: '2026-03-14T00:46:22.168Z'
 date_posted: '2026-03-15T00:46:22.168Z'
 ---
