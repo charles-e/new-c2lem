@@ -7,8 +7,8 @@ tags:
   - fantasy
 permalink: /books/BIP_/Ice/
 layout: book.njk
-pct_progress: '71'
-latest_progress: '2026-03-01T22:40:48.778Z'
+pct_progress: '86'
+latest_progress: '2026-03-28T18:40:48.778Z'
 img_url: /images/books/Ice.jpg
 ---
 I started this as an audiobook and 4 hours(?) in I decided I needed to read (electronically) because of a) Many Russian names with patronymics and b) many Russian early twentieth century political terms.  But, otherwise, I am enjoying. 
@@ -74,3 +74,5 @@ Dukaj, Jacek. Ice (p. 1074). (Function). Kindle Edition.
 * <span meta="71@2026-03-01T22:40:48.778Z"></span> ‘Au contraire. Can everything about the world outside of man really be explained in terms of simple Newtonian or clockmaker’s mechanics? Had you, Director, read anything of the works of Planck, Einstein and Gross, then you would know, sir, that it can’t. And yet this does not take morec-moclec-molecular physics out of the realm of number, does not take it into the realm of literature and poetry. Why should the human mind not be treated with similar rigour? Eh? You will see, sir, how someday a mathematics of the soul will arise in accordance with the electricity of the brain and of effects as yet unmeasurable by us, which will describe human character in a table system worthy of Mendeleyeff.’ Catch the breath. ‘Or you won’t see. If we live to see it.’ Pour another Scotch. ‘Or if we be resurrected.’
 
 * <span meta="81@2026-03-14T22:40:48.778Z"></span>A murchometer is in the form of a rod ending in a dangling bow-shaped pendulum. Its method of usage is similar to that of rotary thermometers: you have to stand in an open space and spin the dangler. The rod is thick, with a coldiron ‘bulb’ under the bow – a small teslectric generator is located there with output set in advance and composition ensuring a standard structure constant, Q. The murchometer measures the pressure of the teslectric flow, Uw, released along the rod into the air. Since we know the specific absorbencies Q1 and Q2 (that is, of the constant of air), know the capacity of the generator as well as the pressure itself – then it’s easy to calculate the final component of the equation: the intensity of the surrounding teslectric field. The lower the pressure on the murchometer, the less the difference in potentials. In the courtyard of the Physical Laboratory of the Imperial Academy of Sciences, on a day of calm skies, Tesla would read off the scale etched on the rod, one hundred and twenty point five mirks.
+
+* <span meta="86@2026-03-28T18:40:48.778Z"></span>Before I’d managed to come to my senses over this ruffianly disaster, another rider coming from Kezhma loomed on the road. I dropped behind the terrified squealing steed and began screaming louder still for help in Martsyn’s name. The rider drew near and stopped. I snatched the rifle from under the saddle and shot the man below the chin. Thus, I obtained a saddle horse, two guns and enough provisions for a week.
