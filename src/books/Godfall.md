@@ -13,7 +13,7 @@ published: 2023
 layout: book.njk
 pct_progress: '100'
 latest_progress: '2026-03-16T12:40:48.778Z'
-date_read : '2026-03-17T12:40:48.778Z'
+date_read: '2026-03-17T12:40:48.778Z'
 img_url: /images/books/Godfall.jpg
 date_posted: '2026-03-18T00:00:48.778Z'
 recommendation_src: tiktok
