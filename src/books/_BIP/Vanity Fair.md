@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/BIP_/Vanity_Fair/
 layout: book.njk
-pct_progress: 14.6
-latest_progress: '2026-03-02T00:46:22.168Z'
+pct_progress: 28.2
+latest_progress: '2026-03-28T18:46:22.168Z'
 ---
 replace me
 
