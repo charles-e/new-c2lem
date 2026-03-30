@@ -4,6 +4,7 @@ AI (not)
 AI (yet again)
 AI Stuff
 AI, Mac
+Abundance
 Aging
 Algorithms
 Animals
@@ -16,6 +17,7 @@ Awesome
 Baking/TV
 Batteries
 Biology
+Biotechnology
 Black Studies
 Blockchain
 Blog
@@ -27,7 +29,10 @@ COVID
 Candy
 Cars
 Cartoons
+Catalog
+Chemistry
 Clever
+Clothing
 Coding
 Coffee
 Computing
@@ -43,7 +48,11 @@ Drones
 ELI5
 Education
 Emotions
+Employment
+Energy
+Enshittification
 Etymology
+Evolution
 Ewwww
 Extreme
 Extreme Emotions
@@ -52,6 +61,7 @@ Farewell
 Food
 From My Brother-In-Law
 Fun
+Funny
 Gadgets
 Games
 Greedy Corporations
@@ -64,6 +74,7 @@ History
 Home Economics
 Imagination
 Innovation
+Intelligence
 Internet
 Internet Greybeard Stuff
 Interstellar
@@ -71,6 +82,7 @@ Investing
 Language
 Las Vegas, Nerd
 Life
+Literature
 Long Read
 Mac
 MacOS
@@ -82,6 +94,7 @@ Meditation
 Memento Mori
 Miracles and Wonders
 Modern Life
+Movies
 Music
 Mythology
 Mythos
@@ -96,20 +109,26 @@ Painting
 Paranoia
 Peace, Love &amp; Understanding
 Philosophy
+Photography
+Plants
 Pleasant
 Poetry
 Politics
 Politics (Kinda)
 Politics: Make of it what you will
 Pretty Colors
+Productivity
+Progress
 Psychic Stuff
 Punctuation
+Puzzles
 Quakers
 Quakers!
 Ran-do
 Random
 Rare Earths
 Rat Holes
+Real Estate
 Real Intelligence
 Recipe
 Religion
@@ -125,6 +144,8 @@ Sci-fi
 Science
 Science (eeerrr Math)
 Security
+Sensation
+Senses
 Sex
 Skills
 Slow Week
@@ -140,11 +161,15 @@ Tech
 The Eighties
 The Forest Jar
 Things I want
+To Be Read
+Today I Learned
 Transportation
 UI
 Useful
+Venn Diagrams
 WTF?
 Water
+Weird Places
 Who Knew?
 Wildlife
 Wisdom
