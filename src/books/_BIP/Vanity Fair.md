@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/BIP_/Vanity_Fair/
 layout: book.njk
-pct_progress: 28.4
-latest_progress: '2026-03-30T04:57:57.830Z'
+pct_progress: 30.6
+latest_progress: '2026-04-01T16:27:48.100Z'
 ---
 replace me
 
@@ -21,3 +21,5 @@ replace me
 This, dear friends and companions, is my amiable object—to walk with you through the Fair, to examine the shops and the shows there; and that we should all come home after the flare, and the noise, and the gaiety, and be perfectly miserable in private.
 
 * <span meta="28.4@2026-03-30T04:57:57.830Z"></span> “ There ought to be a law in Vanity Fair ordering the destruction of every written document (except receipted tradesmen‘s bills) after a certain brief and proper interval. Those quacks and misanthropes who advertise indelible Japan ink, should be made to perish along with their wicked discoveries. The best ink for Vanity Fair use would be one that faded utterly in a couple of days, and left the paper clean and blank, so that you might write on it to somebody else.”
+
+* <span meta="30.6@2026-04-01T16:27:48.100Z"></span> Some few sneered at him and hated him. Some, like Dobbin, fanatically admired him. And his whiskers had begun to do their work, and to curl themselves round the affections of Miss Swartz.
