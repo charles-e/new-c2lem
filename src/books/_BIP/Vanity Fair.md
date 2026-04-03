@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/BIP_/Vanity_Fair/
 layout: book.njk
-pct_progress: 30.6
-latest_progress: '2026-04-01T16:27:48.100Z'
+pct_progress: 31.8
+latest_progress: '2026-04-01T16:47:32.056Z'
 ---
 * <span meta="1@2026-02-24T04:30:19.401Z"></span> “All the world used her ill, said this young misanthropist, and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get. The world is a looking-glass, and gives back to every man the reflection of his own face. Frown at it, and it will in turn look sourly upon you; laugh at it and with it, and it is a jolly kind companion; and so let all young persons take their choice.”
 
@@ -21,3 +21,5 @@ This, dear friends and companions, is my amiable object—to walk with you throu
 * <span meta="28.4@2026-03-30T04:57:57.830Z"></span> “ There ought to be a law in Vanity Fair ordering the destruction of every written document (except receipted tradesmen‘s bills) after a certain brief and proper interval. Those quacks and misanthropes who advertise indelible Japan ink, should be made to perish along with their wicked discoveries. The best ink for Vanity Fair use would be one that faded utterly in a couple of days, and left the paper clean and blank, so that you might write on it to somebody else.”
 
 * <span meta="30.6@2026-04-01T16:27:48.100Z"></span> Some few sneered at him and hated him. Some, like Dobbin, fanatically admired him. And his whiskers had begun to do their work, and to curl themselves round the affections of Miss Swartz.
+
+* <span meta="31.8@2026-04-01T16:47:32.056Z"></span> The following is why VF is not on reading lists.  ‘Marry that mulatto woman?‘ George said, pulling up his shirt-collars. ‘I don‘t like the colour, sir. Ask the black that sweeps opposite Fleet Market, sir. I‘m not going to marry a Hottentot Venus.‘
