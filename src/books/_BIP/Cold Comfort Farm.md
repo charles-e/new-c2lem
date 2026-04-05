@@ -16,5 +16,3 @@ replace me
 * <span meta="1@2026-04-05T15:23:50.116Z"></span> Flora inherited, however, from her father a strong will and from her mother a slender ankle. The one had not been impaired by always having her own way nor the other by the violent athletic sports in which she had been compelled to take part, but she realized that neither was adequate as an equipment for earning her keep.
 
 * <span meta="12@2026-04-05T15:33:53.908Z"></span> A lowering, moist, steamy light, almost like that which gleams below the eyelids of a man in fever, filled the cowshed.
-
-Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 35). (Function). Kindle Edition. 
