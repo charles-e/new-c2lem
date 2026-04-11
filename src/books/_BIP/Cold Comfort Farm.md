@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Cold_Comfort_Farm.jpg
 permalink: /books/BIP_/Cold_Comfort_Farm/
 layout: book.njk
-pct_progress: '60'
-latest_progress: '2026-04-10T03:26:36.036Z'
+pct_progress: '70'
+latest_progress: '2026-04-11T04:32:25.417Z'
 ---
 replace me
 
@@ -20,3 +20,19 @@ replace me
 * <span meta="60@2026-04-10T03:26:36.036Z"></span> Perhaps something, some pregnant quality, in the mildly restless air of the spring evening, had infused itself into the room where old Mrs Starkadder sat before the huge bed of glowing cinders in the grate. For she struck suddenly, fiercely, upon the little bell that stood ever at her elbow (at least, it was at her elbow whenever she sat in that particular chair).
 
 Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 150). (Function). Kindle Edition. 
+
+* <span meta="63@2026-04-11T04:06:29.853Z"></span> Just as no human creature who has eyes to see can deny the beauty of an almond-tree in full flower, no human eyes could deny beauty to Elfine. The slow descent of this young girl down the staircase was like the descent of a sunlit cloud down the breast of a mountain. Her candid beauty, set off by the snowy-silver folds of her simple dress, refreshed the dancers who stood silently looking up at her as the sight of a cluster of flowers or a moonlit expanse of sea refreshes the eyes.
+
+Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 157). (Function). Kindle Edition. 
+
+* <span meta="67@2026-04-11T04:19:45.874Z"></span> The lights in the windows had a leering, waiting look, like that on the faces of old pimps who sit in the cafés of Holborn Viaduct, plying their casual bartery. A thin wind snivelled among the rotting stacks of Cold Comfort, spreading itself in a sheet of flowing sound across the mossed tiles. Darkness whined with the soundless urge of growth in the hedges, but that did not help any.
+
+Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (pp. 168-169). (Function). Kindle Edition. 
+
+* <span meta="67@2026-04-11T04:21:29.989Z"></span> And she knocked at the door. The silence which swayed softly out from within to meet them was a tangible thing. It had plangency. It moulded and compelled. It imposed and awed.
+
+Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 169). (Function). Kindle Edition. 
+
+* <span meta="70@2026-04-11T04:32:25.417Z"></span> Urk was chalk-white. A trail of blood drooled down his chin. His eyes were pools of pain, in which his bruised thoughts darted and fed like tortured fish. He was laughing insanely, noiselessly. Meriam shrank back from him, livid with fear.
+
+Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 175). (Function). Kindle Edition. 
