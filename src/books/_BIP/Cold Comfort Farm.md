@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Cold_Comfort_Farm.jpg
 permalink: /books/BIP_/Cold_Comfort_Farm/
 layout: book.njk
-pct_progress: '70'
-latest_progress: '2026-04-11T04:32:25.417Z'
+pct_progress: '94'
+latest_progress: '2026-04-11T19:07:33.377Z'
 ---
 replace me
 
@@ -36,3 +36,19 @@ Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 169). (Function
 * <span meta="70@2026-04-11T04:32:25.417Z"></span> Urk was chalk-white. A trail of blood drooled down his chin. His eyes were pools of pain, in which his bruised thoughts darted and fed like tortured fish. He was laughing insanely, noiselessly. Meriam shrank back from him, livid with fear.
 
 Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 175). (Function). Kindle Edition. 
+
+* <span meta="77@2026-04-11T15:23:35.491Z"></span> ***At the farm, life burgeoned and was quick. A thick, shameless cooing was laid down, stroke on stroke, through the warm air from the throats of the wood-pigeons until the very atmosphere seemed covered with a rich patina of love.
+
+Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 193). (Function). Kindle Edition. 
+
+* <span meta="80@2026-04-11T16:38:05.779Z"></span> Her blank eyes burrowed through the foetid air between herself and her visitor. They were without content; hollow pools of meaninglessness. They were not eyes but voids sunk between two jutting pent-houses of bone and two bloodless hummocks of cheek. They suspended two raw rods of grief before their own immobility, like frozen fountains in a bright wintry air; and on these rods the fluttering rags of a futile grief were hung.
+
+Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 199). (Function). Kindle Edition. 
+
+* <span meta="81@2026-04-11T17:12:06.973Z"></span> The farmhouse itself no longer looked like a beast about to spring. (Not that it ever had, to her, for she was not in the habit of thinking that things looked exactly like other things which were as different from them in appearance as it was possible to be.) But it had looked dirty and miserable and depressing, and when Mr Mybug had once remarked that it looked like a beast about to spring, Flora had simply not had the heart to contradict him.
+
+Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 203). (Function). Kindle Edition. 
+
+* <span meta="94@2026-04-11T19:07:33.377Z"></span> ‘Shall I be allowed to interfere with yours?’ she asked. Like all really strong-minded women, on whom everybody flops, she adored being bossed about. It was so restful.
+
+Gibbons, Stella. Cold Comfort Farm (Penguin Modern Classics) (p. 232). (Function). Kindle Edition. 
