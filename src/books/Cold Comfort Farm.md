@@ -16,6 +16,7 @@ pct_progress: '94'
 latest_progress: '2026-04-11T19:07:33.377Z'
 date_read: '2026-04-11T19:07:33.377Z'
 date_posted: '2026-04-11T19:07:33.377Z'
+bsky_link: https://bsky.app/profile/c2lem.com/post/3mjcq3u24bc2j
 ---
 <blockquote>
 Flora inherited, however, from her father a strong will and from her mother a slender ankle. The one had not been impaired by always having her own way nor the other by the violent athletic sports in which she had been compelled to take part, but she realized that neither was adequate as an equipment for earning her keep.
