@@ -6,9 +6,12 @@ src: lvccld
 tags:
   - fantasy
 permalink: /books/BIP_/Ice/
+pages: 1200
+publisher: Head of Zeus AdAstra
+published: 2025
 layout: book.njk
-pct_progress: '91'
-latest_progress: '2026-04-10T03:19:03.724Z'
+pct_progress: '92'
+latest_progress: '2026-04-13T02:24:14.581Z'
 img_url: /images/books/Ice.jpg
 ---
 I started this as an audiobook and 4 hours(?) in I decided I needed to read (electronically) because of a) Many Russian names with patronymics and b) many Russian early twentieth century political terms.  But, otherwise, I am enjoying. 
@@ -80,3 +83,7 @@ Dukaj, Jacek. Ice (p. 1074). (Function). Kindle Edition.
 * <span meta="91@2026-04-10T03:19:03.724Z"></span> ‘The future exists not,’ I repeated slowly. ‘I can make of it whatever I will.’ I clenched my half-fist. ‘All my plans from before the Thaw melted into mud. Then I fashioned for myself new dreams. But if you’re envisaging some Machiavellian plot… All I do is separate truth from lies.’
 
 Dukaj, Jacek. Ice (p. 1556). (Function). Kindle Edition. 
+
+* <span meta="92@2026-04-13T02:24:14.581Z"></span> ‘Yes, Sasha, we are waves on the surface of the ocean, the frost pattern on the windowpane. Whether someone exists, or it only seems to him that he exists… In the Ice, he is an indestructible, eternally persisting being – like a number, a mathematical theorem or syllogism. But is a number alive? Does it change from second to second? Whilst every individual life is this: change, negation of one’s own self from a moment ago, meaning a Lie. Believe me: a man on the Ways of the Mammoths lives not. He returns to life afterwards. Is put together
+
+Dukaj, Jacek. Ice (p. 1573). (Function). Kindle Edition. 
