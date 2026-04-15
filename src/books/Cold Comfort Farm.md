@@ -24,7 +24,7 @@ Flora inherited, however, from her father a strong will and from her mother a sl
 
 A strong-willed, self-confident, 19-yo socialite Flora Poste, in the aftermath of losing her parents, having no large inheritance decides that she will find a relative to live with and, "When I have found a relative who is willing to have me, I shall take him or her in hand, and alter his or her character and mode of living to suit my own taste. Then, when it pleases me, I shall marry."
 
-She receives a positive response from a farm in Sussex where live the Starkadders, "We are not like other folk, maybe, but there have always been Starkadders at Cold Comfort, and we will do our best to welcome Robert Poste’s child.", and that farm becomes her home.
+She receives a positive response from a farm in Sussex where live the Starkadders, "We are not like other folk, maybe, but there have always been Starkadders at Cold Comfort, and we will do our best to welcome Robert Poste’s child.", and that farm soon becomes her home.
 
 The rest of the book describes life on the farm and the many odd characters who live there, including  cousin Urk who raises water-voles, the cows, Feckless, Aimless, Graceless and Pointless and, most importantly, crazy aunt Ada Doom who never leaves her room yet somehow controls the farm. And as promised, clever, resourceful, relentless Flora remolds the lives of the inhabitants of the farm to an eventual happy ending.
 
