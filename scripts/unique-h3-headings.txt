@@ -36,6 +36,7 @@ Clothing
 Coding
 Coffee
 Computing
+Construction
 Cooking
 Cool
 Creativity
@@ -43,6 +44,7 @@ Crypto
 Deep Sea
 Democracy
 Depressing
+Disaster
 Discovery
 Drones
 ELI5
