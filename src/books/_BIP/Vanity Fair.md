@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/BIP_/Vanity_Fair/
 layout: book.njk
-pct_progress: 59.9
-latest_progress: '2026-04-19T20:17:01.886Z'
+pct_progress: 61.8
+latest_progress: '2026-04-19T21:21:16.888Z'
 ---
 * <span meta="1@2026-02-24T04:30:19.401Z"></span> “All the world used her ill, said this young misanthropist, and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get. The world is a looking-glass, and gives back to every man the reflection of his own face. Frown at it, and it will in turn look sourly upon you; laugh at it and with it, and it is a jolly kind companion; and so let all young persons take their choice.”
 
@@ -35,3 +35,5 @@ This, dear friends and companions, is my amiable object—to walk with you throu
 * <span meta="59.1@2026-04-19T03:45:06.945Z"></span> “Considerable time has elapsed since we have seen our respectable friend, old Mr. Osborne of Russell Square. He has not been the happiest of mortals since last we met him. Events have occurred which have not improved his temper, and in more instances than one he has not been allowed to have his own way. ”
 
 * <span meta="59.9@2026-04-19T20:17:01.886Z"></span> “The sentries of all arms salute her wherever she makes her appearance: and she touches her hat gravely to their salutation. Lady O‘Dowd is one of the greatest ladies in the Presidency of Madras—her quarrel with Lady Smith, wife of Sir Minos Smith the puisne judge, is still remembered by some at Madras, when the colonel‘s lady snapped her fingers in the judge‘s lady‘s face, and said she‘d never walk behind ever a beggarly civilian.”
+
+* <span meta="61.8@2026-04-19T21:21:16.888Z"></span> “His mother came out and struck him violently a couple of boxes on the ear. He heard a laugh from the marquis in the inner room (who was amused by this free and artless exhibition of Becky‘s temper), and fled down below to his friends of the kitchen, bursting in an agony of grief.”
