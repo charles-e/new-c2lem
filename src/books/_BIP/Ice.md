@@ -10,8 +10,8 @@ pages: 1200
 publisher: Head of Zeus AdAstra
 published: 2025
 layout: book.njk
-pct_progress: '95'
-latest_progress: '2026-04-19T03:43:54.079Z'
+pct_progress: '96'
+latest_progress: '2026-04-19T18:45:40.570Z'
 img_url: /images/books/Ice.jpg
 ---
 I started this as an audiobook and 4 hours(?) in I decided I needed to read (electronically) because of a) Many Russian names with patronymics and b) many Russian early twentieth century political terms.  But, otherwise, I am enjoying. 
@@ -91,3 +91,7 @@ Dukaj, Jacek. Ice (p. 1573). (Function). Kindle Edition.
 * <span meta="95@2026-04-19T03:43:54.079Z"></span> ‘Aleksandr Aleksandrovitch, but what about your Kingdom of Darkness? Do you no longer want to witness the triumphal return of the Ice? What about your dreams, your great visions which you told me about friend to friend? I was to sit at your side. Things have swung around. Eh?’
 
 Dukaj, Jacek. Ice (p. 1625). (Function). Kindle Edition. 
+
+* <span meta="96@2026-04-19T18:45:40.570Z"></span> In the meantime, rain had been pouring harder still; thick clouds had sealed the night sky over Irkutsk and the city was blotted out by shadows deeper than shadow: a single dark stain, a smeary daub, blackness sprawling into an oily neither-this-nor-that.
+
+Dukaj, Jacek. Ice (pp. 1636-1637). (Function). Kindle Edition. 
