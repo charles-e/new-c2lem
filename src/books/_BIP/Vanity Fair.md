@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/BIP_/Vanity_Fair/
 layout: book.njk
-pct_progress: 51.9
-latest_progress: '2026-04-16T02:14:55.309Z'
+pct_progress: 59.1
+latest_progress: '2026-04-19T03:45:06.945Z'
 ---
 * <span meta="1@2026-02-24T04:30:19.401Z"></span> “All the world used her ill, said this young misanthropist, and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get. The world is a looking-glass, and gives back to every man the reflection of his own face. Frown at it, and it will in turn look sourly upon you; laugh at it and with it, and it is a jolly kind companion; and so let all young persons take their choice.”
 
@@ -31,3 +31,5 @@ This, dear friends and companions, is my amiable object—to walk with you throu
 * <span meta="41.5@2026-04-13T14:50:08.948Z"></span> “We do not claim to rank among the military novelists. Our place is with the non-combatants. When the decks are cleared for action we go below and wait meekly. We should only be in the way of the manoeuvres that the gallant fellows are performing overhead. We shall go no farther with the—th than to the city gate: and, leaving Major O‘Dowd to his duty, come back to the major‘s wife, and the ladies and the baggage.”
 
 * <span meta="51.9@2026-04-16T02:14:55.309Z"></span> “In the first place, and as a matter of the greatest necessity, we are bound to describe how a house may be got for nothing a year. These mansions are to be had either unfurnished, where, if you have credit with Messrs. Gillows or Bantings, you can get them splendidly montées and decorated entirely according to your own fancy; or they are to be let furnished ; a less troublesome and complicated arrangement to most parties. It was so that Crawley and his wife preferred to hire their house.”
+
+* <span meta="59.1@2026-04-19T03:45:06.945Z"></span> “Considerable time has elapsed since we have seen our respectable friend, old Mr. Osborne of Russell Square. He has not been the happiest of mortals since last we met him. Events have occurred which have not improved his temper, and in more instances than one he has not been allowed to have his own way. ”

@@ -10,8 +10,8 @@ pages: 1200
 publisher: Head of Zeus AdAstra
 published: 2025
 layout: book.njk
-pct_progress: '92'
-latest_progress: '2026-04-13T02:24:14.581Z'
+pct_progress: '95'
+latest_progress: '2026-04-19T03:43:54.079Z'
 img_url: /images/books/Ice.jpg
 ---
 I started this as an audiobook and 4 hours(?) in I decided I needed to read (electronically) because of a) Many Russian names with patronymics and b) many Russian early twentieth century political terms.  But, otherwise, I am enjoying. 
@@ -87,3 +87,7 @@ Dukaj, Jacek. Ice (p. 1556). (Function). Kindle Edition.
 * <span meta="92@2026-04-13T02:24:14.581Z"></span> ‘Yes, Sasha, we are waves on the surface of the ocean, the frost pattern on the windowpane. Whether someone exists, or it only seems to him that he exists… In the Ice, he is an indestructible, eternally persisting being – like a number, a mathematical theorem or syllogism. But is a number alive? Does it change from second to second? Whilst every individual life is this: change, negation of one’s own self from a moment ago, meaning a Lie. Believe me: a man on the Ways of the Mammoths lives not. He returns to life afterwards. Is put together
 
 Dukaj, Jacek. Ice (p. 1573). (Function). Kindle Edition. 
+
+* <span meta="95@2026-04-19T03:43:54.079Z"></span> ‘Aleksandr Aleksandrovitch, but what about your Kingdom of Darkness? Do you no longer want to witness the triumphal return of the Ice? What about your dreams, your great visions which you told me about friend to friend? I was to sit at your side. Things have swung around. Eh?’
+
+Dukaj, Jacek. Ice (p. 1625). (Function). Kindle Edition. 
