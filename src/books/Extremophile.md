@@ -16,7 +16,6 @@ pct_progress: 97.9
 latest_progress: '2026-04-04T22:28:36.498Z'
 date_read: '2026-04-04T23:28:36.498Z'
 date_posted: '2026-04-04T23:28:36.498Z'
-
 ---
 <blockquote>
 “No laws on corpo land, they can do what they need to do to protect their IP – that kind of enhanced freedom is the kind of incentive the government offer to try and bring the corpos here. Come to England, they say. Where you can do what you like in the darkness, as long as you bring profits in the light.”

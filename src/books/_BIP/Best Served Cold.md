@@ -7,7 +7,7 @@ tags:
   - adventure
   - fantasy
   - audio
-img_url: 'https://m.media-amazon.com/images/I/91rLh7YYyxL._SL1500_.jpg'
+img_url: /images/books/Best_Served_Cold.jpg
 permalink: /books/BIP_/Best_Served_Cold/
 layout: book.njk
 publisher: Orbit
