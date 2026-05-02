@@ -1,15 +1,18 @@
 ---
-title: "Operation Bounce House"
-author: "Dinniman, Matt"
+title: Operation Bounce House
+author: 'Dinniman, Matt'
 date_started: 2026-04-24T00:00:00.000Z
 src: audible
-tags: 
- - sci-fi 
- - lit-rpg
- - audio
+tags:
+  - sci-fi
+  - lit-rpg
+  - audio
 permalink: /books/BIP_/Operation_Bounce_House/
-Narrator: Travis Baldree, Jeff Hays
+narrator: 'Travis Baldree, Jeff Hays'
+publisher: audible
+published: 2026
 hours: 11
+img_url: /images/books/Operation_Bounce_House.jpg
 date_read: 2026-04-26T00:00:00.000Z
 date_posted: 2026-05-01T00:00:00.000Z
 layout: book.njk
