@@ -7,7 +7,7 @@ tags:
   - sci-fi
   - lit-rpg
   - audio
-permalink: /books/BIP_/Operation_Bounce_House/
+permalink: /books/Operation_Bounce_House/
 narrator: 'Travis Baldree, Jeff Hays'
 publisher: Penguin Audio
 published: 2026
