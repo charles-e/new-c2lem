@@ -9,7 +9,7 @@ tags:
   - audio
 permalink: /books/BIP_/Operation_Bounce_House/
 narrator: 'Travis Baldree, Jeff Hays'
-publisher: audible
+publisher: Penguin Audio
 published: 2026
 hours: 11
 img_url: /images/books/Operation_Bounce_House.jpg
