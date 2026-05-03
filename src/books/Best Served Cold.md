@@ -11,7 +11,7 @@ img_url: /images/books/Best_Served_Cold.jpg
 permalink: /books/Best_Served_Cold/
 layout: book.njk
 publisher: Orbit
-series: World of the First Law #1
+series: World of the First Law
 published: 2009
 pct_progress: '42'
 latest_progress: '2026-04-19T03:46:31.279Z'
