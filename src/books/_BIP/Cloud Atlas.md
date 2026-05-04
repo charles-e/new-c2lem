@@ -9,8 +9,8 @@ tags:
   - fantasy
 permalink: /books/BIP_/Cloud_Atlas/
 layout: book.njk
-pct_progress: '28'
-latest_progress: '2026-04-26T03:24:08.535Z'
+pct_progress: '44'
+latest_progress: '2026-05-04T00:53:26.666Z'
 ---
 replace me
 
@@ -19,3 +19,7 @@ replace me
 * <span meta="28@2026-04-26T03:24:08.535Z"></span> A trio of teenettes, dressed like Prostitute Barbie, approached, drift-netting the width of the pavement. I stepped into the road to avoid collision. But as we drew level they tore wrappers off their lurid ice lollies and just dropped them.
 
 Mitchell, David. Cloud Atlas (20th Anniversary Edition): A Novel (p. 145). (Function). Kindle Edition. 
+
+* <span meta="44@2026-05-04T00:53:26.666Z"></span> I asked him to tell me how it feels to be in a family. The postgrad smiled and frowned at the same time. “A necessary drag,” he confided. “Mum’s hobby is collecting minor ailments and drugs to cure them. Dad works at the Ministry of Statistics and sleeps in front of 3-D with his head in a bucket.” Both parents were random conceptions, he confessed, who sold a second child quota to get Hae-Joo genomed properly. This let him aim for his cherished career: to be a Unanimityman had been his ambition since the disneys of his boyhood. Kicking down doors for money looked like a fine life.
+
+Mitchell, David. Cloud Atlas (20th Anniversary Edition): A Novel (pp. 227-228). (Function). Kindle Edition. 
