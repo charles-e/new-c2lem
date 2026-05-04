@@ -17,6 +17,7 @@ pct_progress: '42'
 latest_progress: '2026-04-19T03:46:31.279Z'
 date_read: '2026-04-23T03:46:31.279Z'
 date_posted: '2026-05-02T03:46:31.279Z'
+bsky_link: https://bsky.app/profile/c2lem.com/post/3ml2mlco4zs2u
 ---
 
 Monza Murcatto, Captain of the Thousand Swords mercenaries and her brother Beno, are (almost) assassinated by their longtime employer and supposed sponsor, Grand Duke Orzo (with five accomplices).  Monza survives with brutal scars, a ruined right hand and the rest of the book is about her revenge mission to assassinate all six of her assassins.  Along the way Monza collects her own accomplices: Caul Shivers a tall, rugged warrior from the north who wants to leave behind violence to become "a better man", Cosca, the very charismatic, very garrulous previous captain of of the Thousand Swords, now an alcoholic; Friendly, an institutionalized, counting-obsessed (autistic), simple, powerful, violent yet preternaturally calm man, Morveer a professional poisoner, short, ugly, amoral, pedantic and self obsessed.  
