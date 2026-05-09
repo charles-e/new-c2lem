@@ -12,7 +12,8 @@ img_url: /images/books/In_the_Woods.jpg
 permalink: /books/BIP_/In_the_Woods/
 layout: book.njk
 pct_progress: 60
-latest_progress: '2026-05-03T03:14:34.835Z'
+date_read : '2026-05-03T03:14:34.835Z'
+date_posted : '2026-05-09T03:14:34.835Z'
 ---
 <blockquote>
 This is my job, and you don’t go into it—or, if you do, you don’t last—  without some natural affinity for its priorities and demands. What I am telling you, before you begin my story, is this—two things: I crave truth. And I lie.
