@@ -9,7 +9,7 @@ tags:
   - audio
 hours: 20
 img_url: /images/books/In_the_Woods.jpg
-permalink: /books/BIP_/In_the_Woods/
+permalink: /books/In_the_Woods/
 layout: book.njk
 pct_progress: 60
 date_read : '2026-05-03T03:14:34.835Z'
