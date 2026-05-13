@@ -1,7 +1,7 @@
 ---
 title: Cloud Atlas
 author: 'Mitchell, David'
-date_started: '2026-04-19Z00:00:00.000Z'
+date_started: '2026-04-19T00:00:00.000Z'
 src: lvccld
 img_url: /images/books/Cloud_Atlas.jpg
 tags:
@@ -10,6 +10,9 @@ tags:
 permalink: /books/Cloud_Atlas/
 layout: book.njk
 pct_progress: '46'
+pages: 525
+published: 2004
+publisher: Random House
 latest_progress: '2026-05-04T02:36:32.338Z'
 date_read: '2026-05-10T02:36:32.338Z'
 date_posted: '2026-05-13T02:36:32.338Z'
