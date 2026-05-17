@@ -3,6 +3,7 @@ title: Rebecca
 author: 'Du Maurier, Daphne'
 date_started: '2026-05-15Z00:00:00.000Z'
 src: lvccld
+img_url: /images/books/Rebecca.jpg
 tags:
   - suspence
   - romance

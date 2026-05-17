@@ -6,7 +6,7 @@ src: audible
 tags:
   - fantasy
   - romance
-img_url: 'https://m.media-amazon.com/images/I/81zdFN7m+JL._SL1500_.jpg'
+img_url: /images/books/Assistant_to_the_Villain.jpg
 permalink: /books/BIP_/Assistant_to_the_Villain/
 layout: book.njk
 pct_progress: 10.8
