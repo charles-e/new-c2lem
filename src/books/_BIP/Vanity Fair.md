@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/BIP_/Vanity_Fair/
 layout: book.njk
-pct_progress: 67.8
-latest_progress: '2026-05-13T16:08:29.209Z'
+pct_progress: 72.1
+latest_progress: '2026-05-17T04:54:36.750Z'
 ---
 * <span meta="1@2026-02-24T04:30:19.401Z"></span> “All the world used her ill, said this young misanthropist, and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get. The world is a looking-glass, and gives back to every man the reflection of his own face. Frown at it, and it will in turn look sourly upon you; laugh at it and with it, and it is a jolly kind companion; and so let all young persons take their choice.”
 
@@ -39,3 +39,5 @@ This, dear friends and companions, is my amiable object—to walk with you throu
 * <span meta="61.8@2026-04-19T21:21:16.888Z"></span> “His mother came out and struck him violently a couple of boxes on the ear. He heard a laugh from the marquis in the inner room (who was amused by this free and artless exhibition of Becky‘s temper), and fled down below to his friends of the kitchen, bursting in an agony of grief.”
 
 * <span meta="67.8@2026-05-13T16:08:29.209Z"></span> This house?‘ He broke out with a laugh. ‘Who is the master of it? and what is it? This Temple of Virtue belongs to me. And if I invite all Newgate or all Bedlamoq here, by—, they shall be welcome.‘
+
+* <span meta="72.1@2026-05-17T04:54:36.750Z"></span> “He did not know how fond he was of the child until it became necessary to let him go away, When he was gone, he felt more sad and downcast than he cared to own—far sadder than the boy himself, who was happy enough to enter a new career, and find companions of his own age. ”
