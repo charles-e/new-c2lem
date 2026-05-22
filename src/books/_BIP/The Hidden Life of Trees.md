@@ -6,6 +6,10 @@ src: lvccld
 tags:
   - science
 permalink: /books/BIP_/The_Hidden_Life_of_Trees/
+publisher: Greystone Books
+published: 2016
+pages: 289
+recommendation_src: bro-in-law
 img_url: /images/books/The_Hidden_Life_of_Trees.jpg
 layout: book.njk
 ---
