@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/BIP_/Vanity_Fair/
 layout: book.njk
-pct_progress: 72.1
-latest_progress: '2026-05-17T04:54:36.750Z'
+pct_progress: 82.2
+latest_progress: '2026-05-22T14:02:06.523Z'
 ---
 * <span meta="1@2026-02-24T04:30:19.401Z"></span> “All the world used her ill, said this young misanthropist, and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get. The world is a looking-glass, and gives back to every man the reflection of his own face. Frown at it, and it will in turn look sourly upon you; laugh at it and with it, and it is a jolly kind companion; and so let all young persons take their choice.”
 
@@ -41,3 +41,11 @@ This, dear friends and companions, is my amiable object—to walk with you throu
 * <span meta="67.8@2026-05-13T16:08:29.209Z"></span> This house?‘ He broke out with a laugh. ‘Who is the master of it? and what is it? This Temple of Virtue belongs to me. And if I invite all Newgate or all Bedlamoq here, by—, they shall be welcome.‘
 
 * <span meta="72.1@2026-05-17T04:54:36.750Z"></span> “He did not know how fond he was of the child until it became necessary to let him go away, When he was gone, he felt more sad and downcast than he cared to own—far sadder than the boy himself, who was happy enough to enter a new career, and find companions of his own age. ”
+
+* <span meta="77.5@2026-05-20T18:38:03.293Z"></span> “The Rev. Mr. Veal used to compliment Georgy upon it personally, warning him that he was destined for a high station; that it became him to prepare, by sedulity and docility in youth, for the lofty duties to which he would be called in mature age; that obedience in the child was the best preparation for command in the man; and that he therefore begged George would not bring toffy into the school, and ruin the health of the Masters Bangles, who had everything they wanted at the elegant and abundant table of Mrs. Veal.”
+
+* <span meta="78.2@2026-05-20T21:48:17.578Z"></span> “O you poor women! O you poor secret martyrs and victims, whose life is a torture, who are stretched on racks in your bedrooms, and who lay your heads down on the block daily at the drawing-room table; every man who watches your pains, or peers into those dark places where the torture is administered to you, must pity you—and—and thank God that he has a beard. ”
+
+* <span meta="78.4@2026-05-20T22:20:52.399Z"></span> Think, what right have you to be scornful, whose virtue is a deficiency of temptation, whose success may be a chance, whose rank may be an ancestor‘s accident, whose prosperity is very likely a satire.
+
+* <span meta="82.2@2026-05-22T14:02:06.523Z"></span> Joseph Sedley then led a life of dignified otiosity such as became a person of his eminence.
