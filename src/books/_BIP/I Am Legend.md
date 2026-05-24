@@ -6,7 +6,7 @@ src: lvccld
 tags:
   - sci-fi
   - horror
-img_url: 'https://m.media-amazon.com/images/I/61SKTLhNQkL._SL1500_.jpg'
+img_url: /images/books/I_Am_Legend.jpg
 permalink: /books/BIP_/I_Am_Legend/
 layout: book.njk
 pct_progress: 15.9
