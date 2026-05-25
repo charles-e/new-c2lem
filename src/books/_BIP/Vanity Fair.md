@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/BIP_/Vanity_Fair/
 layout: book.njk
-pct_progress: 82.6
-latest_progress: '2026-05-22T14:14:02.825Z'
+pct_progress: '100'
+latest_progress: '2026-05-25T22:22:09.227Z'
 ---
 * <span meta="1@2026-02-24T04:30:19.401Z"></span> “All the world used her ill, said this young misanthropist, and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get. The world is a looking-glass, and gives back to every man the reflection of his own face. Frown at it, and it will in turn look sourly upon you; laugh at it and with it, and it is a jolly kind companion; and so let all young persons take their choice.”
 
@@ -51,3 +51,5 @@ This, dear friends and companions, is my amiable object—to walk with you throu
 * <span meta="82.2@2026-05-22T14:02:06.523Z"></span> Joseph Sedley then led a life of dignified otiosity such as became a person of his eminence.
 
 * <span meta="82.6@2026-05-22T14:14:02.825Z"></span> “We are not long in using ourselves to changes in life. That carriage came round to Gillespie Street every day; that buttony boy sprang up and down from the box with Emmy‘s and Jos‘s visiting cards; at stated hours Emmy and the carriage went for Jos to the club, and took him an airing; or, putting old Sedley into the vehicle, she drove the old man round the Regent‘s Park.”
+
+* <span meta="100@2026-05-25T22:22:09.227Z"></span> Ah! vanitas vanitatum!wh Which of us is happy in this world? Which of us has his desire? or, having it, is satisfied?—Come, children, let us shut up the box and the puppets, for our play is played out.
