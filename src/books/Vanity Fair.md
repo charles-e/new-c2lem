@@ -1,16 +1,28 @@
 ---
 title: Vanity Fair
 author: 'Thackeray, William'
-date_started: '2026-02-22Z00:00:00.000Z'
+date_started: '2026-02-22T00:00:00.000Z'
 src: lvccld
 tags:
   - edifying
 img_url: /images/books/Vanity_Fair.jpg
-permalink: /books/BIP_/Vanity_Fair/
+permalink: /books/Vanity_Fair/
 layout: book.njk
+pages: 728
 pct_progress: '100'
+publisher: Rinehart and Co.
+published: 1958
 latest_progress: '2026-05-25T22:22:09.227Z'
+date_read: '2026-05-25T22:22:09.227Z'
+date_posted: '2026-05-26T22:22:09.227Z'
 ---
+This has been the longest and yet still most entertaining book I have read since starting this blog.  
+It tells the contrasting stories of bad girl Rebecca 'Becky' Sharp and good girl Amelia Sedley from the time they leave their girl's school until near middle age. The first memorable scene in the story is when the girls are together in the carriage leaving the school and they have both been given a "dixionary" as a parting gift, but Becky sharp, before the journey begins, vehemently heaves her gift out of the vehicle and back into the school's garden and when asked by Amelia about this gesture, replies:
+<blockquote>
+“I hate the whole house,’ continued Miss Sharp, in a fury. ‘I hope I may never set eyes on it again. I wish it were in the bottom of the Thames, I do; and if Miss Pinkerton were there, I wouldn’t pick her out, that I wouldn’t. Oh, how I should like to see her floating in the water yonder, turban and all, with her train streaming after her, and her nose like the beak of a wherry (a small boat).
+</blockquote>
+
+<!--
 * <span meta="1@2026-02-24T04:30:19.401Z"></span> “All the world used her ill, said this young misanthropist, and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get. The world is a looking-glass, and gives back to every man the reflection of his own face. Frown at it, and it will in turn look sourly upon you; laugh at it and with it, and it is a jolly kind companion; and so let all young persons take their choice.”
 
 * <span meta="14.6@2026-03-02T00:46:22.168Z"></span> “As the only endowments with which Nature had gifted Lady Crawley were those of pink cheeks and a white skin, and as she had no sort of character, nor talents, nor opinions, nor occupations, nor amusements, nor that vigour of soul and ferocity of temper which often falls to the lot of entirely foolish women, her hold upon Sir Pitt‘s affections was not very great. Her roses faded out of her cheeks, and the pretty freshness left her figure after the birth of a couple of children, and she became a mere machine in her husband‘s house, of no more use than the late Lady Crawley‘s grand piano.”
@@ -53,3 +65,5 @@ This, dear friends and companions, is my amiable object—to walk with you throu
 * <span meta="82.6@2026-05-22T14:14:02.825Z"></span> “We are not long in using ourselves to changes in life. That carriage came round to Gillespie Street every day; that buttony boy sprang up and down from the box with Emmy‘s and Jos‘s visiting cards; at stated hours Emmy and the carriage went for Jos to the club, and took him an airing; or, putting old Sedley into the vehicle, she drove the old man round the Regent‘s Park.”
 
 * <span meta="100@2026-05-25T22:22:09.227Z"></span> Ah! vanitas vanitatum!wh Which of us is happy in this world? Which of us has his desire? or, having it, is satisfied?—Come, children, let us shut up the box and the puppets, for our play is played out.
+
+-->
