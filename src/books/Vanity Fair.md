@@ -5,6 +5,7 @@ date_started: '2026-02-22T00:00:00.000Z'
 src: lvccld
 tags:
   - edifying
+  - humor
 img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/Vanity_Fair/
 layout: book.njk
@@ -16,7 +17,7 @@ latest_progress: '2026-05-25T22:22:09.227Z'
 date_read: '2026-05-25T22:22:09.227Z'
 date_posted: '2026-05-26T22:22:09.227Z'
 ---
-This has been the longest and yet still most entertaining book I have read since starting this blog and yet I never see/read mention of it in any of my various social media - this is a shame.  It tells the contrasting stories of bad girl Rebecca 'Becky' Sharp and good girl Amelia Sedley from the time they leave their girl's school until near middle age. The first memorable scene in the story is when the girls are together in the carriage leaving the school and they have both been given a "dixionary" as a parting gift, but Becky sharp, before the journey begins, vehemently heaves her gift out of the vehicle and back into the school's garden and when asked by Amelia about this gesture, replies:
+This has been the longest and yet still most entertaining book I have read since starting this blog and yet I never see/read mention of it in any of my various social media - this is a shame.  It tells the contrasting stories of bad girl Rebecca 'Becky' Sharp and good girl Amelia Sedley from the time they leave their girl's school until near middle age. The first memorable scene in the story is when the girls are together in the carriage leaving their boarding school and they have both been given a "dixionary" as a parting gift, but Becky, before the journey begins, vehemently heaves her gift out of the vehicle and back into the school's garden and when asked by Amelia about this gesture, replies:
 <blockquote>
 “I hate the whole house,’ continued Miss Sharp, in a fury. ‘I hope I may never set eyes on it again. I wish it were in the bottom of the Thames, I do; and if Miss Pinkerton were there, I wouldn’t pick her out, that I wouldn’t. Oh, how I should like to see her floating in the water yonder, turban and all, with her train streaming after her, and her nose like the beak of a wherry (a small boat).
 </blockquote>
@@ -24,7 +25,13 @@ Amelia as I said is a good girl, the child of a wealthy businessman (who paid fo
 
 This is a long soap opera focused on the two women and their social obstructions, Becky with her low status parents, Amelia is brought down early in the novel when her father goes bankrupt and his business never recovers. Both of our main characters get married to army officers, both marriages are rejected by parents, the husbands both participate in the Battle of Waterloo, and both women later have sons.  The differences in the fates of our characters is their response to their different challenges, Becky never stops hustling trying to climb the slippery pole of social status whereas Amelia exercises "saintly" restraint, patience in accepting her ostracism after her father's downfall.  
 
-While the book focuses on the two women, the humor in the book is found in the many other characters whom the women relate to as they swim through society.  
+While the book focuses on the two women, there is just a ton of humor in the book.  For example the anonymous, omniscient narrator is catty and constantly judges the action:
+<blockquote>
+There ought to be a law in Vanity Fair ordering the destruction of every written document (except receipted tradesmen‘s bills) after a certain brief and proper interval. Those quacks and misanthropes who advertise indelible Japan ink, should be made to perish along with their wicked discoveries. The best ink for Vanity Fair use would be one that faded utterly in a couple of days, and left the paper clean and blank, so that you might write on it to somebody else.
+</blockquote>
+Or very frequently, the names of various inconsequential nobles are silly or ridiculous, my favorite (or at least most memorable) of many is "Sir Huddlestone Fuddlestone" who, apparently, has a Fuddlestone fox hunt annually. And lastly, though most difficult to explain concisely, are simply various recurring characters who have distinctly mockable characteristics, such as Lady Southdown who always has strong opinions about various medical and/or spiritual practices but every time she pops up in the story those opinions have changed. Or Amelia's brother Joseph Sedley who is fat, vain, shy, timid and quite proud of himself.
+
+Finally, and for the record, Becky Sharp is absolutely the most fun character, who, though incorrigible, I found I could not help rooting for and when the action left her (as it had to in order to follow virtuous Amelia) I found myself skimming in anticipation of getting back to Becky.  
 
 <!--
 * <span meta="1@2026-02-24T04:30:19.401Z"></span> “All the world used her ill, said this young misanthropist, and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get. The world is a looking-glass, and gives back to every man the reflection of his own face. Frown at it, and it will in turn look sourly upon you; laugh at it and with it, and it is a jolly kind companion; and so let all young persons take their choice.”
