@@ -34,6 +34,8 @@ Next thing he spots a young woman Ruth somehow out in the daylight and has to fi
 
 She even leaves a sample of the drug as proof.  Some months later, the post-vampires come for Neville who couldn't bring himself to leave.  The book ends with Neville having realized that he is a monster, a boogey man, from the post-vampire point of view or to quote him, "I Am Legend", which he will be since he is about to die.  The End. 
 
+Also, "I Am Legend" seems like a big leap to me in summarizing Neville's situation, I really think Matheson had that quote in his head the way Jules in Pulp Fiction had Ezekiel and he just needed a place to use it.    
+
 I find it amazing that this very, very flawed novel got turned into three semi-crappy movies and inspired many others.  But hey, I love the movie Blade Runner and it has a similarly flawed book as inspiration. 
 </span>
 
