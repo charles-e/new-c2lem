@@ -128,4 +128,4 @@ The great torus-shaped mansion of Espersium sat near the centre of the estate of
 * Murderer Class Culture General Offensive Unit (GOU) the oldest model
 * Torturer Class GOU the next model
 * Abominator Class GOU the ultimate model (Falling outside Moral Constraints)
-</spoiler>
+</span>

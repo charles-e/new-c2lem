@@ -51,4 +51,4 @@ Though what are these characters, Mrs Whatsit, Mrs Who, and Mrs Which  supposed 
 
 And what really is this book about?  On one level its about how conformity to society oppresses the smart people. (Meg's conflict with the teachers and other students in the school, the town.) But of course as the story progresses its about Christianity vs Totalitarianism (absolute conformity in Camazotz) because what else would a children's book written at the height of the Cold War be about?   I wonder how or if that comes across in the movie?
 
-Now the book is still in print, and though yes, dated and corny, it still has a great deal of charm. I imagine the film rights had to be pretty cheap for Disney to cast the movie with strong brown women bringing the story to the current generation (maybe).  I will have to watch the movie and find out for myself. mes
+Now the book is still in print, and though yes, dated and corny, it still has a great deal of charm. I imagine the film rights had to be pretty cheap for Disney to cast the movie with strong brown women bringing the story to the current generation (maybe).  I will have to watch the movie and find out for myself. 
