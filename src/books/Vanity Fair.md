@@ -6,6 +6,7 @@ src: lvccld
 tags:
   - edifying
   - humor
+  - satire
 img_url: /images/books/Vanity_Fair.jpg
 permalink: /books/Vanity_Fair/
 layout: book.njk
