@@ -7,7 +7,7 @@ tags:
   - sci-fi
   - horror
 img_url: /images/books/I_Am_Legend.jpg
-permalink: /books/BIP_/I_Am_Legend/
+permalink: /books/I_Am_Legend/
 layout: book.njk
 pct_progress: 100
 spoilers: 'on'
