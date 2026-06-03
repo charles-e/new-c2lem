@@ -7,14 +7,19 @@ img_url: /images/books/Rebecca.jpg
 tags:
   - suspence
   - romance
+  - thriller
 permalink: /books/Rebecca/
 layout: book.njk
 pct_progress: 55.5
+recommendation_src: book club
 latest_progress: '2026-05-30T23:39:07.118Z'
 date_read: '2026-06-03T23:39:07.118Z'
 date_posted: '2026-06-03T23:39:07.118Z'
 ---
- 
+
+My bookclub buddies, several of them have read this book and recommended it so I duly went about reading it. Now having finished this book I have nothing profound to say about it.  Plot summary: young, middle class, pretty (enough) un-named servant in training, after a whirlwind Monte Carlo romance is married to a wealthy english, middle-aged estate owner, widower Maxim De Winter.  Married, at the named estate she discovers that the dead wife, Rebecca, still looms large over all aspects of the couple's living arrangements and the new wife feels inadequate to her new life-style and responsibilities.   The landscape of the estate, the weather, the flowers, the cuisine and tea service are all recurring presences in the novel.  The tension peaks at the "fancy ball" when our protagonist is tricked into wearing one of Rebecca's outfits and she thinks its the end of her marriage.  Then Rebecca's boat is discovered in the ocean with Rebecca still in the cabin. Shortly after Max admits to having murdered Rebecca and to have scuttled the boat. Now the novel shifts from Rebecca  almost-ghost-story to being one of suspense: will Maxim's murder be found out?  It was a fine story but too slow for me and its just too obvious that story would not exist without the arbitrary discovery of Rebecca's sail boat.  Its satisfying the way that cousin Favell's blackmail falls apart, I guess I can appreciate the craft went into last third of the book.  Anyway, that's my mealymouthed opinion for now.
+
+<!--
 Mrs Van Hopper - her first employer
 Maxim De Winter - the husband
 Mrs Danvers - house mistress/manager
@@ -25,7 +30,7 @@ Giles Lacey - Beatrice's husband
 Robert - the footman
 
 Besides being a romance (and I am told) a ghost story this book seems all about flowers, clothes and tea time.  
-Chapter One is all told of memories from Manderley starting from having dreamed of it.  I think they are someplace in france since they have view of vineyards. Chapter two talks about how she gets along with Max and contrasts that to Mrs Van Hopper which transitions to her first encounter with Max De Winter...
+Chapter One is all told of memories from Manderley starting from having dreamed of it.  I think they are someplace in France since they have view of vineyards. Chapter two talks about how she gets along with Max and contrasts that to Mrs Van Hopper which transitions to her first encounter with Max De Winter...
 
 Our protagonist narrator is anonymous.  She meets Maxim De Winter in Monte Carlo and hang out while Mrs Van Hopper is sick.  When Van Hopper decides to take them to New York, Max asks her to marry him and they honeymoon in Italy.  
 
@@ -43,12 +48,12 @@ She finds Rebecca's bedroom, pokes and prods and then Mrs Danvers catches her.  
 She goes with Beatrice to meet Gramma and Gramma wants to see Rebecca - very awkward. Comes home to find that Max is back.  She overhears Max chastising Mrs Danvers for having Jack F. in the house.
 
 Next thing is a later Sunday (a month, two months?) when they are entertaining visitors to Manderley that brings up the "fancy dress ball".  They agree to have the event.  Max doesn't have to dress up but the narrator says that her outfit will be a secret.  She is mad because she feels as though Max is patronizing her.  
+<!-- 
+* <span meta="10.8@2026-05-16T17:15:22.932Z"></span> “Later her friends would come in for a drink, which I must mix for them, hating my task, shy and ill-at-ease in my corner hemmed in by their parrot chatter, and I would be a whipping-boy again, blushing for her when, excited by her little crowd, she must sit up in bed and talk too loudly, laugh too long, reach to the portable gramophone and start a record, shrugging her large shoulders to the tune.”
 
-* <span meta="10.8@2026-05-16T17:15:22.932Z"></span> “ Later her friends would come in for a drink, which I must mix for them, hating my task, shy and ill-at-ease in my corner hemmed in by their parrot chatter, and I would be a whipping-boy again, blushing for her when, excited by her little crowd, she must sit up in bed and talk too loudly, laugh too long, reach to the portable gramophone and start a record, shrugging her large shoulders to the tune.”
+* <span meta="15.1@2026-05-17T04:48:57.436Z"></span> “It was foolish to go on having that pain in the pit of my stomach when I was so happy. Nerves of course. Waiting like this; the doctor's anteroom. It would have been better, after all, more natural surely to have gone into the sitting-room hand in hand, laughing, smiling at one another and for him to say 'We're going to be married, we're very much in love.”
 
-* <span meta="15.1@2026-05-17T04:48:57.436Z"></span> “It was foolish to go on having that pain in the pit of my stomach when I was so happy. Nerves of course. Waiting like this; the doctor's ante- room. It would have been better, after all, more natural surely to have gone into the sitting-room hand in hand, laughing, smiling at one another and for him to say 'We're going to be married, we're very much in love.”
-
-* <span meta="17.9@2026-05-17T20:16:49.923Z"></span>        It was an ancient mossy smell, the smell of a silent church where services are seldom held, where rusty lichen grows upon the stones and ivy tendrils creep to the very windows. A room for peace, a room for meditation.
+* <span meta="17.9@2026-05-17T20:16:49.923Z"></span>It was an ancient mossy smell, the smell of a silent church where services are seldom held, where rusty lichen grows upon the stones and ivy tendrils creep to the very windows. A room for peace, a room for meditation.
 
 * <span meta="28.5@2026-05-23T22:45:09.586Z"></span> “There were no dark trees here, no tangled undergrowth, but on either side of the narrow path stood azaleas and rhododendrons, not blood-coloured like the giants in the drive, but salmon, white, and gold, things of beauty and of grace, drooping their lovely, delicate heads in the soft summer rain.”
 
@@ -57,3 +62,5 @@ Next thing is a later Sunday (a month, two months?) when they are entertaining v
 * <span meta="45.3@2026-05-30T23:35:46.680Z"></span>  We stood there by the door, staring at one another. I could not take my eyes away from hers. How dark and sombre they were in the white skull's face of hers, how malevolent, how full of hatred.
 
 * <span meta="55.5@2026-05-30T23:39:07.118Z"></span>   The old austerity had gone. Manderley had come alive in a fashion I would not have believed possible. It was not the still quiet Manderley I knew. There was a certain significance about it now that had not been before. A reckless air, rather triumphant, rather pleasing. 
+
+-->
