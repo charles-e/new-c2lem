@@ -1,16 +1,18 @@
 ---
 title: Rebecca
 author: 'Du Maurier, Daphne'
-date_started: '2026-05-15Z00:00:00.000Z'
+date_started: '2026-05-10T0:00:00.000Z'
 src: lvccld
 img_url: /images/books/Rebecca.jpg
 tags:
   - suspence
   - romance
-permalink: /books/BIP_/Rebecca/
+permalink: /books/Rebecca/
 layout: book.njk
 pct_progress: 55.5
 latest_progress: '2026-05-30T23:39:07.118Z'
+date_read: '2026-06-03T23:39:07.118Z'
+date_posted: '2026-06-03T23:39:07.118Z'
 ---
  
 Mrs Van Hopper - her first employer
