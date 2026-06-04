@@ -5,7 +5,7 @@ date_started: '2026-05-27T00:00:00.000Z'
 src: lvccld
 tags:
   - Crime
-permalink: /books/BIP_/Galveston/
+permalink: /books/Galveston/
 layout: book.njk
 pct_progress: 63.6
 latest_progress: '2026-05-28T21:05:54.476Z'
