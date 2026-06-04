@@ -14,6 +14,7 @@ date_posted: '2026-06-03T04:45:39.126Z'
 pages: 272
 published: 2010
 publisher: Scribner
+img_url: /images/books/Galveston.jpg
 ---
 <blockquote>
 I’d walked into the bar first, but the tinsel around the bottle island looked too gaudy and the slope-eye of the waitress came out of the shadows like an anglerfish materializing from the darkest part of the ocean. 

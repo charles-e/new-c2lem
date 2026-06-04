@@ -18,7 +18,6 @@ latest_progress: '2026-05-25T22:22:09.227Z'
 date_read: '2026-05-25T22:22:09.227Z'
 date_posted: '2026-05-26T22:22:09.227Z'
 bsky_link: 'https://bsky.app/profile/c2lem.com/post/3mmuanghv7c2z'
-
 ---
 This has been one of the longest and yet still very highly entertaining book I have read since starting this blog and yet I never see/read mention of it in any of my various social media - this is a shame.  It tells the contrasting stories of bad girl Rebecca 'Becky' Sharp and good girl Amelia Sedley from the time they leave their girl's school until near middle age. The first memorable scene in the story is when the girls are together in the carriage leaving their boarding school and they have both been given a "dixionary" as a parting gift, but Becky, before the journey begins, vehemently heaves her book out of the vehicle and back into the school's garden -- asked by Amelia about this gesture, she replies in part:
 <blockquote>
