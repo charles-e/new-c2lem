@@ -1,7 +1,7 @@
 ---
 title: Galveston
 author: 'Pizzolatto, Nick'
-date_started: '2026-05-27Z00:00:00.000Z'
+date_started: '2026-05-27T00:00:00.000Z'
 src: lvccld
 tags:
   - Crime
