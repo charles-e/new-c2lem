@@ -24,7 +24,7 @@ My several of my book club buddies have recommended this book, so I duly went ab
 
 The tension peaks at the "fancy ball" when our protagonist is tricked into wearing one of Rebecca's outfits, horrifying Maxim, and she wonders if the incident will end her marriage.  Then Rebecca's boat is unexpectedly discovered with Rebecca still in the cabin. Shortly after, Max to explain the dress incident, admits to his new wife to murdering Rebecca and to having scuttled her boat. Now the novel shifts gears from Rebecca almost-ghost-story to being one of suspense: will Maxim's murder be found out?  It was a fine story but too slow for me and its just too obvious that story would not exist without the arbitrary discovery of Rebecca's sail boat.   I guess I can appreciate the craft went into last third of the book when incestuous cousin Favell's blackmail attempt falls apart. 
 
-The story's prose, especially the descriptions of the estate's landscape, the weather, the flowers, the cuisine and tea service are all pleasant recurring presences in the novel.  Its funny to me that this is exactly the sort of book that [Cold Comfort Farm](/books/Cold_Comfort_Farm) is satirizing.  Anyway, that's my mealymouthed opinion for now.
+The story's prose, especially the descriptions of the estate's landscape, the weather, the flowers, the cuisine and tea service are all pleasant recurring presences in the novel.  It occurs to me that this is exactly the sort of prose that [Cold Comfort Farm](/books/Cold_Comfort_Farm) is satirizing.  Anyway, that's my mealymouthed opinion for now.
 
 
 
