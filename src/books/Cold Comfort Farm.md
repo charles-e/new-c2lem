@@ -8,7 +8,7 @@ tags:
   - edifying
   - sci-fi
 img_url: /images/books/Cold_Comfort_Farm.jpg
-permalink: /books/BIP_/Cold_Comfort_Farm/
+permalink: /books/Cold_Comfort_Farm/
 layout: book.njk
 publisher: Penguin Modern Classics
 published: 2020 (1932)

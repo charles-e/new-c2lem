@@ -16,8 +16,17 @@ latest_progress: '2026-05-30T23:39:07.118Z'
 date_read: '2026-06-03T23:39:07.118Z'
 date_posted: '2026-06-03T23:39:07.118Z'
 ---
+<blockquote>
+Moonlight can play odd tricks upon the fancy, even upon a dreamer's fancy. As I stood there, hushed and still, I could swear that the house was not an empty shell but lived and breathed as it had lived before.
+</blockquote>
 
-My bookclub buddies, several of them have read this book and recommended it so I duly went about reading it. Now having finished this book I have nothing profound to say about it.  Plot summary: young, middle class, pretty (enough) un-named servant in training, after a whirlwind Monte Carlo romance is married to a wealthy english, middle-aged estate owner, widower Maxim De Winter.  Married, at the named estate she discovers that the dead wife, Rebecca, still looms large over all aspects of the couple's living arrangements and the new wife feels inadequate to her new life-style and responsibilities.   The landscape of the estate, the weather, the flowers, the cuisine and tea service are all recurring presences in the novel.  The tension peaks at the "fancy ball" when our protagonist is tricked into wearing one of Rebecca's outfits and she thinks its the end of her marriage.  Then Rebecca's boat is discovered in the ocean with Rebecca still in the cabin. Shortly after Max admits to having murdered Rebecca and to have scuttled the boat. Now the novel shifts from Rebecca  almost-ghost-story to being one of suspense: will Maxim's murder be found out?  It was a fine story but too slow for me and its just too obvious that story would not exist without the arbitrary discovery of Rebecca's sail boat.  Its satisfying the way that cousin Favell's blackmail falls apart, I guess I can appreciate the craft went into last third of the book.  Anyway, that's my mealymouthed opinion for now.
+My several of my book club buddies have recommended this book, so I duly went about reading it; now having finished this book I have nothing profound to say about it.  Plot summary: young, middle class, pretty (enough) un-named servant in training, after a whirlwind Monte Carlo romance is married to a wealthy, english, middle-aged estate owner, widower Maxim De Winter.  Married, at the named estate, the (never-named protagonist) new wife discovers that the dead wife, Rebecca, who died in a boating accident, still looms large over all aspects of the couple's living arrangements so that the new wife feels inadequate to her new life-style and responsibilities.  
+
+The tension peaks at the "fancy ball" when our protagonist is tricked into wearing one of Rebecca's outfits and she thinks its the end of her marriage.  Then Rebecca's boat is unexpectedly discovered with Rebecca still in the cabin. Shortly after, Max admits to his new wife to murdering Rebecca and to having scuttled her boat. Now the novel shifts from Rebecca almost-ghost-story to being one of suspense: will Maxim's murder be found out?  It was a fine story but too slow for me and its just too obvious that story would not exist without the arbitrary discovery of Rebecca's sail boat.   I guess I can appreciate the craft went into last third of the book when incestuous cousin Favell's blackmail attempt falls apart. 
+
+The story's prose, especially the descriptions of the estate's landscape, the weather, the flowers, the cuisine and tea service are all pleasant recurring presences in the novel.  Its funny to me that this is exactly the sort of book that [Cold Comfort Farm](/books/Cold_Comfort_Farm) is satirizing.  Anyway, that's my mealymouthed opinion for now.
+
+
 
 <!--
 Mrs Van Hopper - her first employer
