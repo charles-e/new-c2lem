@@ -1,7 +1,7 @@
 ---
 title: Rebecca
 author: 'Du Maurier, Daphne'
-date_started: '2026-05-10T0:00:00.000Z'
+date_started: '2026-05-10T00:00:00.000Z'
 src: lvccld
 img_url: /images/books/Rebecca.jpg
 tags:
