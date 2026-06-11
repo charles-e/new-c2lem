@@ -5,8 +5,11 @@ date_started: '2026-06-3Z00:00:00.000Z'
 src: lvccld
 tags:
   - edifying
+  - family
 img_url: /images/books/East_of_Eden.jpg
 permalink: /books/BIP_/East_of_Eden/
+published: 1952
+publisher: Viking
 layout: book.njk
 pct_progress: 27
 latest_progress: '2026-06-11T05:29:43.283Z'
