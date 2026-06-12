@@ -11,8 +11,8 @@ permalink: /books/BIP_/East_of_Eden/
 published: 1952
 publisher: Viking
 layout: book.njk
-pct_progress: 27
-latest_progress: '2026-06-11T05:29:43.283Z'
+pct_progress: 27.9
+latest_progress: '2026-06-12T20:24:21.781Z'
 ---
 replace me
 
@@ -25,3 +25,7 @@ replace me
 * <span meta="25.7@2026-06-11T04:34:11.983Z"></span> Olive had not her father’s brilliance, but she did have a sense of fun, together with her mother’s strong and undeviating will. What light and beauty could be forced down the throats of her reluctant pupils, she forced.
 
 * <span meta="27@2026-06-11T05:29:43.283Z"></span> “He was not alone in his preoccupation with the future. The whole valley, the whole West was that way. It was a time when the past had lost its sweetness and its sap. You’d go a good long road before you’d find a man, and he very old, who wished to bring back a golden past. Men were notched and comfortable in the present, hard and unfruitful as it was, but only as a doorstep into a fantastic future. Rarely did two men meet, or three stand in a bar, or a dozen gnaw tough venison in camp, that the valley’s future, paralyzing in its grandeur, did not come up, not as conjecture but as a certainty.”
+
+* <span meta="27.6@2026-06-12T20:14:14.947Z"></span> “Her eyes inspected him and her inspection could not penetrate the dark brown of his eyes. He made her uneasy. Cathy had always been able to shovel into the mind of any man and dig up his impulses and his desires. But Lee’s brain gave and repelled like rubber. His face was lean and pleasant, his forehead broad, firm, and sensitive, and his lips curled in a perpetual smile. His long black glossy braided queue, tied at the bottom with a narrow piece of black silk, hung over his shoulder and moved rhythmically against his chest. When he did violent work he curled his queue on top of his head. He wore narrow cotton trousers, black heelless slippers, and a frogged Chinese smock. Whenever he could he hid his hands in his sleeves as though he were afraid for them, as most Chinese did in that day.“I bling litta table,” he said, bowed slightly, and shuffled away.”
+
+* <span meta="27.9@2026-06-12T20:24:21.781Z"></span> “Lee grinned. “Me talkee Chinese talk,” he said.“Well, I guess you have your reasons. And it’s not my affair. I hope you’ll forgive me if I don’t believe it, Lee.”Lee looked at him and the brown eyes under their rounded upper lids seemed to open and deepen until they weren’t foreign any more, but man’s eyes, warm with understanding. Lee chuckled. “It’s more than a convenience,” he said. “It’s even more than self-protection. Mostly we have to use it to be understood at all.”
