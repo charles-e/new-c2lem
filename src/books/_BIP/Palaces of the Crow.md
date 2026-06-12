@@ -13,9 +13,13 @@ published: 2026
 img_url: /images/books/Palaces_of_the_Crow.jpg
 permalink: /books/BIP_/Palaces_of_the_Crow/
 layout: book.njk
-pct_progress: '0'
-latest_progress: '2026-06-11T17:40:49.968Z'
+pct_progress: '31'
+latest_progress: '2026-06-12T20:31:07.927Z'
 ---
 replace me
 
 * <span meta="0@2026-06-11T17:40:49.968Z"></span> He always hopped up on the table to pace back and forth in front of her, demonstrating what a good-looking bird he was, black wings folded over his pearl-gray back, his black tail swishing from side to side like the coattails of a Vilnius gentleman with arms folded behind him, out for a stroll in his new frock coat. Neriya had named him Buster in honor of Buster Keaton.
+
+* <span meta="31@2026-06-12T20:31:07.927Z"></span> “Speaking of werewolves—do you know why our ancestors were once so frightened of them?” “No.” “My grandfather told me the secret: It is not because they are men who turn into wolves. It is because they are wolves who turn into men.”
+
+Nayler, Ray. Palaces of the Crow: A Novel (p. 124). (Function). Kindle Edition. 
