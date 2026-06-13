@@ -13,8 +13,8 @@ published: 2026
 img_url: /images/books/Palaces_of_the_Crow.jpg
 permalink: /books/BIP_/Palaces_of_the_Crow/
 layout: book.njk
-pct_progress: 71.2
-latest_progress: '2026-06-13T15:31:46.025Z'
+pct_progress: 73.9
+latest_progress: '2026-06-13T22:30:39.672Z'
 ---
 replace me
 
@@ -27,3 +27,7 @@ Nayler, Ray. Palaces of the Crow: A Novel (p. 124). (Function). Kindle Edition.
 * <span meta="71.2@2026-06-13T15:31:46.025Z"></span> Kezia read now, as well as Neriya ever had, in Russian and in Yiddish. But what had he learned? Kezia had learned to read from Neriya. Kezia and Neriya had learned to hunt from him, and were as good as he was. But what had he learned from them? Very little. A door had closed in him, years ago. It felt like it would never open again.
 
 Nayler, Ray. Palaces of the Crow: A Novel (p. 268). (Function). Kindle Edition. 
+
+* <span meta="73.9@2026-06-13T22:30:39.672Z"></span> She had heard, once, on a train, a conversation between strangers. One of them was telling the other that, in fact, nobody believed in God. Not a single priest, not a single member of the flock. All of the so-called faithful were only pretending to believe. Most were not charlatans. No. They pretended not out of some desire to lie but out of love. They wanted other people to have faith in something. They wanted others to have something to cling to, though they themselves had nothing. Even Jesus himself, the stranger said. He never believed he was the son of God. He died on the cross to give us hope. He died knowing we were, every one of us, alone in the universe. He did not want to infect others with his loneliness—and so he pretended to have a father who loved him. A father who could save him.
+
+Nayler, Ray. Palaces of the Crow: A Novel (p. 277). (Function). Kindle Edition. 
