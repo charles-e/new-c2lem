@@ -17,7 +17,7 @@ pct_progress: 100.0
 latest_progress: '2026-06-13T22:42:20.769Z'
 date_read: '2026-06-13T24:59:59.9999Z'
 ---
-Lithuania in 1942 four young adult refugees flee to the forest.  They are aided in survival by a giant flock of crows.  Neriya a Jewish girl from Vilnius, Kezia a Roma (gypsy) girl, Czeslaw a descendant of Poles exiled to Siberia and Red Army deserter. Innokenty mute, a young boy.
+Lithuania 1942: four young adult refugees flee to the forest first from pogroms, then (deeper into the forest) from retreating Germans then (even more deeply) from the communists trying to sweep all the atrocities (to which the kids are witnesses) under the historical rug.  The kids are aided in survival by a giant flock of crows. The story, in parallel, follows the survival of the kids, their eventual lives in the postwar soviet empire and, in a science-fictional plot arc, the "civilization" of the crows who aid the kids.  
 
 * <span meta="0@2026-06-11T17:40:49.968Z"></span> He always hopped up on the table to pace back and forth in front of her, demonstrating what a good-looking bird he was, black wings folded over his pearl-gray back, his black tail swishing from side to side like the coattails of a Vilnius gentleman with arms folded behind him, out for a stroll in his new frock coat. Neriya had named him Buster in honor of Buster Keaton.
 
