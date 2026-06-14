@@ -18,8 +18,12 @@ latest_progress: '2026-06-13T22:42:20.769Z'
 date_read: '2026-06-13T23:59:59.9999Z'
 date_posted: '2026-06-13T23:59:59.9999Z'
 ---
-Lithuania 1942: four young adult refugees flee to the forest first from pogroms, then (deeper into the forest) from retreating Germans then (even more deeply) from the communists trying to sweep all the atrocities (to which the kids are witnesses) under the historical rug.  The kids are aided in survival by a giant flock of crows. The story, in parallel, follows the survival of the kids, their eventual lives in the postwar soviet empire and, in a science-fictional plot arc, the "civilization" of the crows who aid the kids.  
+<blockquote>
+ He always hopped up on the table to pace back and forth in front of her, demonstrating what a good-looking bird he was, black wings folded over his pearl-gray back, his black tail swishing from side to side like the coattails of a Vilnius gentleman with arms folded behind him, out for a stroll in his new frock coat. Neriya had named him Buster in honor of Buster Keaton.
+</blockquote>
 
+Lithuania 1942: four young adult refugees flee to the forest first from pogroms, then (deeper into the forest) from retreating Germans then (even more deeply) from the communists trying to sweep all the atrocities (to which the kids are victims and witnesses) under the historical rug.  The kids are aided in survival by a giant flock of crows. The story, in parallel, follows the survival of the kids, their eventual lives in the postwar soviet empire and, in a science-fictional plot arc, the "civilization" of the crows who aid the kids.  
+<!-- 
 * <span meta="0@2026-06-11T17:40:49.968Z"></span> He always hopped up on the table to pace back and forth in front of her, demonstrating what a good-looking bird he was, black wings folded over his pearl-gray back, his black tail swishing from side to side like the coattails of a Vilnius gentleman with arms folded behind him, out for a stroll in his new frock coat. Neriya had named him Buster in honor of Buster Keaton.
 
 * <span meta="31@2026-06-12T20:31:07.927Z"></span> “Speaking of werewolves—do you know why our ancestors were once so frightened of them?” “No.” “My grandfather told me the secret: It is not because they are men who turn into wolves. It is because they are wolves who turn into men.”
@@ -37,3 +41,4 @@ Nayler, Ray. Palaces of the Crow: A Novel (p. 277). (Function). Kindle Edition.
 * <span meta="71.8@2026-06-13T22:42:20.769Z"></span> “Why not? Isn’t that good enough? The stray dog doesn’t complain.” “I have always felt,” Czesław said, “that there was a deeper reason.” “There has never been a deeper reason necessary for cruelty. Why would a deeper reason be necessary for kindness?”
 
 Nayler, Ray. Palaces of the Crow: A Novel (pp. 290-291). (Function). Kindle Edition. 
+-->
