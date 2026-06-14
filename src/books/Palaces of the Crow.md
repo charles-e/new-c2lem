@@ -16,6 +16,7 @@ layout: book.njk
 pct_progress: 100.0
 latest_progress: '2026-06-13T22:42:20.769Z'
 date_read: '2026-06-13T24:59:59.9999Z'
+date_posted: '2026-06-13T24:59:59.9999Z'
 ---
 Lithuania 1942: four young adult refugees flee to the forest first from pogroms, then (deeper into the forest) from retreating Germans then (even more deeply) from the communists trying to sweep all the atrocities (to which the kids are witnesses) under the historical rug.  The kids are aided in survival by a giant flock of crows. The story, in parallel, follows the survival of the kids, their eventual lives in the postwar soviet empire and, in a science-fictional plot arc, the "civilization" of the crows who aid the kids.  
 
