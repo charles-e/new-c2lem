@@ -11,8 +11,8 @@ permalink: /books/BIP_/East_of_Eden/
 published: 1952
 publisher: Viking
 layout: book.njk
-pct_progress: 28.8
-latest_progress: '2026-06-15T00:03:14.767Z'
+pct_progress: 30.1
+latest_progress: '2026-06-15T18:19:44.446Z'
 ---
 replace me
 
@@ -32,3 +32,5 @@ replace me
 
 * <span meta="28.8@2026-06-15T00:03:14.767Z"></span>“I have the money. I want the wells. Look, Mr. Hamilton—”
 “ ‘Samuel’ would be easier.”“Look, Samuel, I mean to make a garden of my land. Remember my name is Adam. So far I’ve had no Eden, let alone been driven out.”
+
+* <span meta="30.1@2026-06-15T18:19:44.446Z"></span> “Cathy spoke very quietly. “Adam, I didn’t want to come here. I am not going to stay here. As soon as I can I will go away.”“Oh, nonsense.” He laughed. “You’re like a child away from home for the first time. You’ll love it once you get used to it and the baby is born. You know, when I first went away to the army I thought I was going to die of homesickness. But I got over it. We all get over it. So don’t say silly things like that.”
