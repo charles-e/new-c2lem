@@ -30,4 +30,5 @@ replace me
 
 * <span meta="27.9@2026-06-12T20:24:21.781Z"></span> “Lee grinned. “Me talkee Chinese talk,” he said.“Well, I guess you have your reasons. And it’s not my affair. I hope you’ll forgive me if I don’t believe it, Lee.”Lee looked at him and the brown eyes under their rounded upper lids seemed to open and deepen until they weren’t foreign any more, but man’s eyes, warm with understanding. Lee chuckled. “It’s more than a convenience,” he said. “It’s even more than self-protection. Mostly we have to use it to be understood at all.”
 
-* <span meta="28.8@2026-06-15T00:03:14.767Z"></span> “Tell me about your stick,” Adam said. “How does it work?”Samuel stroked the fork now tied to his saddle strings. “I don’t really believe in it save that it works.” He smiled at Adam. “Maybe it’s this way. Maybe I know where the water is, feel it in my skin. Some people have a gift in this direction or that. Suppose—well, call it humility, or a deep disbelief in myself, forced me to do a magic to bring up to the surface the thing I know anyway. Does that make any sense to you?”
+* <span meta="28.8@2026-06-15T00:03:14.767Z"></span>“I have the money. I want the wells. Look, Mr. Hamilton—”
+“ ‘Samuel’ would be easier.”“Look, Samuel, I mean to make a garden of my land. Remember my name is Adam. So far I’ve had no Eden, let alone been driven out.”
