@@ -11,8 +11,8 @@ permalink: /books/BIP_/East_of_Eden/
 published: 1952
 publisher: Viking
 layout: book.njk
-pct_progress: 27.9
-latest_progress: '2026-06-12T20:24:21.781Z'
+pct_progress: 28.8
+latest_progress: '2026-06-15T00:03:14.767Z'
 ---
 replace me
 
@@ -29,3 +29,5 @@ replace me
 * <span meta="27.6@2026-06-12T20:14:14.947Z"></span> “Her eyes inspected him and her inspection could not penetrate the dark brown of his eyes. He made her uneasy. Cathy had always been able to shovel into the mind of any man and dig up his impulses and his desires. But Lee’s brain gave and repelled like rubber. His face was lean and pleasant, his forehead broad, firm, and sensitive, and his lips curled in a perpetual smile. His long black glossy braided queue, tied at the bottom with a narrow piece of black silk, hung over his shoulder and moved rhythmically against his chest. When he did violent work he curled his queue on top of his head. He wore narrow cotton trousers, black heelless slippers, and a frogged Chinese smock. Whenever he could he hid his hands in his sleeves as though he were afraid for them, as most Chinese did in that day.“I bling litta table,” he said, bowed slightly, and shuffled away.”
 
 * <span meta="27.9@2026-06-12T20:24:21.781Z"></span> “Lee grinned. “Me talkee Chinese talk,” he said.“Well, I guess you have your reasons. And it’s not my affair. I hope you’ll forgive me if I don’t believe it, Lee.”Lee looked at him and the brown eyes under their rounded upper lids seemed to open and deepen until they weren’t foreign any more, but man’s eyes, warm with understanding. Lee chuckled. “It’s more than a convenience,” he said. “It’s even more than self-protection. Mostly we have to use it to be understood at all.”
+
+* <span meta="28.8@2026-06-15T00:03:14.767Z"></span> “Tell me about your stick,” Adam said. “How does it work?”Samuel stroked the fork now tied to his saddle strings. “I don’t really believe in it save that it works.” He smiled at Adam. “Maybe it’s this way. Maybe I know where the water is, feel it in my skin. Some people have a gift in this direction or that. Suppose—well, call it humility, or a deep disbelief in myself, forced me to do a magic to bring up to the surface the thing I know anyway. Does that make any sense to you?”
