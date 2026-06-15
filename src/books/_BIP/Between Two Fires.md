@@ -10,8 +10,8 @@ tags:
 img_url: /images/books/Between_Two_Fires.jpg
 permalink: /books/BIP_/Between_Two_Fires/
 layout: book.njk
-pct_progress: 59.6
-latest_progress: '2026-06-14T23:54:45.297Z'
+pct_progress: 68.8
+latest_progress: '2026-06-15T17:09:59.332Z'
 ---
 The story begins during the black death in France, in the aftermath of Crécy, Thomas, a fallen, turned-brigand knight bonds with a prepubescent girl and possible saint. The narrative feels like it was stitched together from several short stories of medieval violence such that it reminds me of both the Arya/Hound GOT plot as well as many plots of the Witcher (and Thomas would look more like Geralt than the Hound).  It's damned entertaining.
 
@@ -31,3 +31,5 @@ It had already begun devouring Avignon, where it was said the pope heard audienc
 
 * <span meta="59.6@2026-06-14T23:54:45.297Z"></span> “About that,” Thomas said. “What have we done to make God so mad at us? What have we done that our fathers and their fathers did not do?”
 “They were punished, too. The year I was born, the famine near made my mother’s milk dry.”
+
+* <span meta="68.8@2026-06-15T17:09:59.332Z"></span> “He fell asleep watching for her, then eased seamlessly into a dream about her walking down this very road; she had a basket of wildflowers, and she scattered them as she went. He felt as proud as a father when he saw what she was doing. It was brilliant of her to think of strewing wildflowers behind her; he smiled in his sleep. He would be able to find her now.”
