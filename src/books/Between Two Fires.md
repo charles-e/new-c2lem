@@ -15,6 +15,12 @@ latest_progress: '2026-06-15T17:09:59.332Z'
 date_read: '2026-06-17T17:09:59.332Z'
 date_posted: '2026-06-18T17:09:59.332Z'
 ---
+<blockquote>
+“You look lost,” she said to them.
+
+The priest looked first at her greasy blue stockings, then up at her tangled hair, and finally at her face. She had the look of a wary mastiff. She also had a moustache that might have better suited a thirteen-year-old boy.
+</blockquote>
+
 The story begins during the black death in France, in the aftermath of Crécy (so a few years after 1346), Thomas, a fallen, turned-brigand knight bonds with newly orphaned Delphine, a prepubescent girl and possible saint. The narrative feels like it was stitched together from several short stories of medieval violence such that it reminds me of both the Arya/Hound GOT plot as well as many plots of the Witcher (and Thomas would look more like Geralt than the Hound).  The story morphs into a medieval apocalypse with Thomas and Delphine encountering demons and devils while keeping faith in an apparently absent God. It's damned entertaining.
 
 
