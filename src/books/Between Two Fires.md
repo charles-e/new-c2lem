@@ -8,7 +8,7 @@ tags:
   - fantasy
   - grimdark
 img_url: /images/books/Between_Two_Fires.jpg
-permalink: /books/BIP_/Between_Two_Fires/
+permalink: /books/Between_Two_Fires/
 layout: book.njk
 pct_progress: 68.8
 latest_progress: '2026-06-15T17:09:59.332Z'
