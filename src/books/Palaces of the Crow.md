@@ -13,7 +13,7 @@ published: 2026
 img_url: /images/books/Palaces_of_the_Crow.jpg
 permalink: /books/Palaces_of_the_Crow/
 layout: book.njk
-pct_progress: 100.0
+pct_progress: 100
 latest_progress: '2026-06-13T22:42:20.769Z'
 date_read: '2026-06-13T23:59:59.9999Z'
 date_posted: '2026-06-13T23:59:59.9999Z'

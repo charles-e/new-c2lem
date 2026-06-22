@@ -5,7 +5,7 @@ date_started: '2026-06-10Z00:00:00.000Z'
 src: lvccld
 tags:
   - dystopia
-img_url: 'https://m.media-amazon.com/images/I/51BWKsvlhyL._SY445_SX342_QL70_FMwebp_.jpg'
+img_url: /images/books/make_me_better.jpg
 permalink: /books/BIP_/make_me_better/
 layout: book.njk
 pct_progress: 17.6
