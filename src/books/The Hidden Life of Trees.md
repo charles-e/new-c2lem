@@ -5,7 +5,7 @@ date_started: '2026-05-20Z00:00:00.000Z'
 src: lvccld
 tags:
   - science
-permalink: /books/BIP_/Hidden_Life_of_Trees/
+permalink: /books/Hidden_Life_of_Trees/
 publisher: Greystone Books
 published: 2016
 pages: 289
