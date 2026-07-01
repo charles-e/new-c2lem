@@ -16,7 +16,6 @@ pct_progress: 45.1
 latest_progress: '2026-06-19T03:45:57.099Z'
 date_read: '2026-06-19T03:45:57.099Z'
 date_posted: '2026-06-29T03:45:57.099Z'
-
 ---
 A very readable book about trees with short interesting chapters for an ecology/biology layperson.  The book was published 10 years ago and I have since seen articles about how trees with their associated fungal networks function as giant cooperative herds with much more intelligence that we naively credit them.
 <!-- 

@@ -15,7 +15,7 @@ published: 2026
 pct_progress: 79.7
 latest_progress: '2026-06-25T21:34:36.525Z'
 date_read: '2026-06-25T21:34:36.525Z'
-date_posted : '2026-06-26T21:34:36.525Z'
+date_posted: '2026-06-26T21:34:36.525Z'
 ---
 <blockquote>
 Perhaps it was the part of her that could summon the bitter taste of maror that knew: the telling held the answers, or if not answers, then some kind of ease. She remembered far more than she'd realized: folktales and creation myths and superstitious legends. And in the telling-to Babylon, to herself-she began to feel a new calm.
