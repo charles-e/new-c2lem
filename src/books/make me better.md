@@ -17,7 +17,8 @@ date_posted: '2026-07-01T17:20:23.851Z'
  "Missed you too," Adelaide breathed.
 The two of them settled into their old places on the steps. Easy sprawled out from the top step like someone had tripped and spilled her down the front steps of the Old House; Adelaide perched on the bottom step and leaned forward, the bulk of her belly parked between her spread knees. They talked on that porch for a long time as people bustled around at the chapel next door.
 </blockquote>
-I read this on the strength of [The Echo Wife](/books/Echo_Wife/) which I loved.  This novel moved a little slowly
+
+I read this on the strength of ["The Echo Wife"](/books/Echo_Wife/) a book I loved, but this one while OK, is not my favorite. The creepiness you expect from Gailey is in this story but overall it moved a little slowly for me.
 
 <!-- 
 
