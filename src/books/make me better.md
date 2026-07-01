@@ -5,6 +5,7 @@ date_started: '2026-06-10Z00:00:00.000Z'
 src: lvccld
 tags:
   - dystopia
+  - horror
 img_url: /images/books/make_me_better.jpg
 permalink: /books/make_me_better/
 layout: book.njk
