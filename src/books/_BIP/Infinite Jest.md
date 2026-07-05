@@ -7,6 +7,7 @@ tags:
   - dystopia
   - sci-fi
   - edifying
+  - postmodern
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
