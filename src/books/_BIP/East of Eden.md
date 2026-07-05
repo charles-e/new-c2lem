@@ -11,8 +11,8 @@ permalink: /books/BIP_/East_of_Eden/
 published: 1952
 publisher: Viking
 layout: book.njk
-pct_progress: 46.5
-latest_progress: '2026-06-27T05:34:37.807Z'
+pct_progress: 53
+latest_progress: '2026-07-05T04:08:26.569Z'
 ---
 replace me
 
@@ -36,3 +36,5 @@ replace me
 * <span meta="30.1@2026-06-15T18:19:44.446Z"></span> “Cathy spoke very quietly. “Adam, I didn’t want to come here. I am not going to stay here. As soon as I can I will go away.”“Oh, nonsense.” He laughed. “You’re like a child away from home for the first time. You’ll love it once you get used to it and the baby is born. You know, when I first went away to the army I thought I was going to die of homesickness. But I got over it. We all get over it. So don’t say silly things like that.”
 
 * <span meta="46.5@2026-06-27T05:34:37.807Z"></span> And now his tissue, which had fought joyously against time, gave up a little. His young skin turned old, his clear eyes dulled, and a little stoop came to his great shoulders. Liza with her acceptance could take care of tragedy; she had no real hope this side of Heaven. But Samuel had put up a laughing wall against natural laws, and Una’s death breached his battlements. He became an old man.
+
+* <span meta="53@2026-07-05T04:08:26.569Z"></span> “Although Kate made no movement or sound Eva knew something had struck home. The fingers of Kate’s right hand slowly curled around the palm while the left hand crept like a lean cat toward the edge of the desk. Kate sat still as though she held her breath. Eva was jittery. Her mind went to the box in her dresser drawer where her hypodermic needle lay.”
