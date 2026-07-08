@@ -11,8 +11,8 @@ tags:
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
-pct_progress: 7.8
-latest_progress: '2026-07-05T04:15:40.355Z'
+pct_progress: 14.8
+latest_progress: '2026-07-08T22:46:16.622Z'
 ---
 replace me
 
@@ -30,3 +30,14 @@ involuntary thing where he laughs whenever anyone else does, and
 Schtitt is finding what he has just said very amusing indeed.
 
 ”
+
+* <span meta="14.8@2026-07-08T22:46:16.622Z"></span> “Jim
+not that way Jim. That's no way to treat a garage door, bending
+stiffly down at the waist and yanking at the handle so the door jerks
+up and out jerky and hard and you crack your shins and my ruined
+knees, son. Let's see you bend at the healthy knees. Let's see you
+hook a soft hand lightly over the handle feeling its subtle grain and
+pull just as exactly gently as will make it come to you. Experiment,
+Jim. See just how much force you need to start the door easy, let it
+roll up out open on its hidden greasy rollers and pulleys in the
+ceiling's set of spiderwebbed beams. ”
