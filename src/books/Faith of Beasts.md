@@ -10,7 +10,7 @@ tags:
 img_url: /images/books/The_Faith_of_Beasts.jpg
 publisher: Orbit
 published: 2026
-permalink: /books/BIP_/The_Faith_of_Beasts/
+permalink: /books/Faith_of_Beasts/
 layout: book.njk
 series: The Captive's War
 ---
