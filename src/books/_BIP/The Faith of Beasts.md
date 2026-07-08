@@ -1,13 +1,13 @@
 ---
-title: "The Faith of Beasts"
-author: "Corey, James"
+title: The Faith of Beasts
+author: 'Corey, James'
 date_started: 2026-07-04T00:00:00.000Z
 date_read: 2026-07-08T00:00:00.000Z
 date_posted: 2026-07-08T00:00:00.000Z
 src: lvccld
-tags: 
- - sci-fi 
-img_url : "https://m.media-amazon.com/images/I/81SF4dGC8jL._SL1500_.jpg"
+tags:
+  - sci-fi
+img_url: /images/books/The_Faith_of_Beasts.jpg
 publisher: Orbit
 published: 2026
 permalink: /books/BIP_/The_Faith_of_Beasts/
