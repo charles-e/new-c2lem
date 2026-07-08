@@ -8,10 +8,13 @@ tags:
   - sci-fi
   - edifying
   - postmodern
+  - humor
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
 pct_progress: 14.8
+publisher: Back Bay Books
+published: 1996
 latest_progress: '2026-07-08T22:46:16.622Z'
 ---
 replace me
