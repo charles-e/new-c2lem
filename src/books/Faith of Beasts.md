@@ -14,4 +14,4 @@ permalink: /books/Faith_of_Beasts/
 layout: book.njk
 series: The Captive's War
 ---
-Humanity has been defeated taken as captives by the Carryx empire an empire that takes many species as slaves.  Humanity must show utility or be killed.  Sovran has become the human arbiter/liason to the Carryx; he must keep captors happy and at the same time plot for his race to victory over the captors. Its a good soap opera with lots of little plot devices that center around the ways that species cooperate, coopt and combat one another. 
+Humanity has been defeated taken as captives by the Carryx empire, joining probably hundreds of other slave species.  Humanity must show utility to the Carryx or be killed.  Sovran has become the human arbiter/representative to the Carryx; he must keep captors happy and at the same time plot for his race to an eventual victory over the captors. It's a space soap opera with lots of little plot devices that center around the ways that species cooperate, coopt and combat one another. 
