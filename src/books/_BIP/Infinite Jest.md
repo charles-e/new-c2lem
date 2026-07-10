@@ -12,10 +12,10 @@ tags:
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
-pct_progress: 14.8
+pct_progress: 21.8
 publisher: Back Bay Books
 published: 1996
-latest_progress: '2026-07-08T22:46:16.622Z'
+latest_progress: '2026-07-10T02:46:12.711Z'
 ---
 replace me
 
@@ -44,3 +44,7 @@ pull just as exactly gently as will make it come to you. Experiment,
 Jim. See just how much force you need to start the door easy, let it
 roll up out open on its hidden greasy rollers and pulleys in the
 ceiling's set of spiderwebbed beams. ”
+
+* <span meta="21.8@2026-07-10T02:46:12.711Z"></span>  From both the north and northeast tree-lines E.T.A. looks
+down its hill's steepest, best-planted decline into the complexly
+decaying grounds of Enfield Marine.
