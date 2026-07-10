@@ -11,8 +11,8 @@ permalink: /books/BIP_/East_of_Eden/
 published: 1952
 publisher: Viking
 layout: book.njk
-pct_progress: 53
-latest_progress: '2026-07-05T04:08:26.569Z'
+pct_progress: 58.8
+latest_progress: '2026-07-10T04:45:50.001Z'
 ---
 replace me
 
@@ -38,3 +38,5 @@ replace me
 * <span meta="46.5@2026-06-27T05:34:37.807Z"></span> And now his tissue, which had fought joyously against time, gave up a little. His young skin turned old, his clear eyes dulled, and a little stoop came to his great shoulders. Liza with her acceptance could take care of tragedy; she had no real hope this side of Heaven. But Samuel had put up a laughing wall against natural laws, and Una’s death breached his battlements. He became an old man.
 
 * <span meta="53@2026-07-05T04:08:26.569Z"></span> “Although Kate made no movement or sound Eva knew something had struck home. The fingers of Kate’s right hand slowly curled around the palm while the left hand crept like a lean cat toward the edge of the desk. Kate sat still as though she held her breath. Eva was jittery. Her mind went to the box in her dresser drawer where her hypodermic needle lay.”
+
+* <span meta="58.8@2026-07-10T04:45:50.001Z"></span> It was at the supper table that the boys discovered the change in their father. They knew him as a presence—as ears that heard but did not listen, eyes that looked and did not notice. He was a cloud of a father. 
