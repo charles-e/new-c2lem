@@ -11,8 +11,8 @@ permalink: /books/BIP_/East_of_Eden/
 published: 1952
 publisher: Viking
 layout: book.njk
-pct_progress: 58.8
-latest_progress: '2026-07-10T04:45:50.001Z'
+pct_progress: 60.7
+latest_progress: '2026-07-12T00:52:14.840Z'
 ---
 replace me
 
@@ -40,3 +40,5 @@ replace me
 * <span meta="53@2026-07-05T04:08:26.569Z"></span> “Although Kate made no movement or sound Eva knew something had struck home. The fingers of Kate’s right hand slowly curled around the palm while the left hand crept like a lean cat toward the edge of the desk. Kate sat still as though she held her breath. Eva was jittery. Her mind went to the box in her dresser drawer where her hypodermic needle lay.”
 
 * <span meta="58.8@2026-07-10T04:45:50.001Z"></span> It was at the supper table that the boys discovered the change in their father. They knew him as a presence—as ears that heard but did not listen, eyes that looked and did not notice. He was a cloud of a father. 
+
+* <span meta="60.7@2026-07-12T00:52:14.840Z"></span> “Also, to start the engine of a modern car you do just two things, turn a key and touch the starter. Everything else is automatic. The process used to be more complicated. It required not only a good memory, a strong arm, an angelic temper, and a blind hope, but also a certain amount of practice of magic, so that a man about to turn the crank of a Model T might be seen to spit on the ground and whisper a spell.”
