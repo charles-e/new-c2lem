@@ -12,10 +12,10 @@ tags:
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
-pct_progress: 21.8
+pct_progress: 24.9
 publisher: Back Bay Books
 published: 1996
-latest_progress: '2026-07-10T02:46:12.711Z'
+latest_progress: '2026-07-12T19:08:22.623Z'
 ---
 replace me
 
@@ -48,3 +48,12 @@ ceiling's set of spiderwebbed beams. ”
 * <span meta="21.8@2026-07-10T02:46:12.711Z"></span>  From both the north and northeast tree-lines E.T.A. looks
 down its hill's steepest, best-planted decline into the complexly
 decaying grounds of Enfield Marine.
+
+* <span meta="24.9@2026-07-12T19:08:22.623Z"></span> “Don
+Gately is almost twenty-nine and sober and just huge. Lying there
+gurgling and inert with a fluttery-eyed smile. One shoulder blade and
+buttock pooch out over the side of a sofa that sags like a
+hammock. Gately looks less built than poured, the smooth immovability
+of an Easter Island statue. It would be nice if intimidating size
+wasn't one of the major factors in a male alumni getting offered the
+male live-in Staff job here, but there you go.”
