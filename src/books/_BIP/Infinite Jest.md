@@ -12,10 +12,10 @@ tags:
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
-pct_progress: 24.9
+pct_progress: 27.2
 publisher: Back Bay Books
 published: 1996
-latest_progress: '2026-07-12T19:08:22.623Z'
+latest_progress: '2026-07-13T02:23:10.927Z'
 ---
 replace me
 
@@ -57,3 +57,14 @@ hammock. Gately looks less built than poured, the smooth immovability
 of an Easter Island statue. It would be nice if intimidating size
 wasn't one of the major factors in a male alumni getting offered the
 male live-in Staff job here, but there you go.”
+
+* <span meta="27.2@2026-07-13T02:23:10.927Z"></span> “Poor
+Tony Krause had a seizure on the T. It happened on a Gray Line train
+from Watertown to Inman Square, Cambridge. He'd been drinking codeine
+cough syrup in the men's room of the Armenian Foundation Library
+in horrid central Watertown MA for
+over a week, darting out from cover only
+to beg a scrip from hideous Equus Reese and
+then dash in at Brooks Pharmacy, wearing a simply vile ensemble
+of synthetic-fiber slacks and suspenders and tweed Donegal cap
+he'd had to cadge from a longshoremen's union hall.”
