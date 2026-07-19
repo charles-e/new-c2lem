@@ -11,10 +11,34 @@ permalink: /books/BIP_/East_of_Eden/
 published: 1952
 publisher: Viking
 layout: book.njk
-pct_progress: 60.7
-latest_progress: '2026-07-12T00:52:14.840Z'
+pct_progress: 100.0
+latest_progress: '2026-07-14T03:43:29.493Z'
+date_read: '2026-07-18T08:43:29.493Z'
+date_posted: '2026-07-18T08:43:29.493Z'
 ---
-replace me
+This is a weird book. In the main plot, the sons of civil war veteran Cyrus Trask, Charles and Adam grow up to despise each other, Charles never leaving the farm but Adam having been sent the the Army by his father spends years wandering as a vagrant. Eventually the sons inherit great wealth from their father.  The story expands to include Kathy a sociopath from a very young age, who, after murdering her parents in a staged arson/robbery, becomes a prostitute and attempts to usurp the business from her pimp.  However the attempted usurpation fails and the pimp beats her almost to death.  The very injured Kathy shows up at the Trask farm where Adam seemingly falls in love at first sight and takes on her recovery as a project. Shortly thereafter, having split the inheritance with his brother, Adam takes off to Salinas and along the way marries Kathy even though Kathy has no interest in marriage or indeed any normal relationship with a man.  Soon after arrival in Salinas, after a failed abortion attempt, Kathy gives birth to two sons, Cal and Aron, then literally the next day, Kathy shoots Adam in the shoulder and flees to eventually become the owner of a whore house in Salinas. 
+
+In the subordinate plot, Samuel Hamilton in Salinas watches his seven children raised in near poverty but also in great joy, achieve independence and then struggle as a family help grandfather Samuel retire.  Having hired Samuel as a douser/water witch Adam almost hires Samuel to build a pump and irrigation system for his large fertile farm property.  Thereafter Samuel becomes a councilor to Adam offering advice support and convincing Adam to name his two sons when his despair over the lose of his wife has rendered him as a zombie.  
+
+About half way through the book when trying to decide what to name his unnamed toddler sons, Adam, Samuel Hamilton and Adam's chinese servant/savant Lee discuss deeply the biblical story of Cain and Abel, (Long story short, Cain killed Abel) and what was God's judgement upon Cain.  Lee does research and concludes that God's judgement is that Cain "mayest" rule over sin.  (and that this is the critical interpretation of the hebrow word "Timshel"). 
+
+Cut to the end of the book;  Cal has told Aron that his mother is a whore, and Aron, fragile egg that he is, secretly joins the Army and then gets himself killed.  Cal has uttered the words
+
+<blockquote>
+Adam asked, “Do you know where your brother is?”
+
+“No, I don’t,” said Cal.
+
+“Weren’t you with him at all?”
+
+“No.”
+
+“He hasn’t been home for two nights. Where is he?”
+
+“How do I know?” said Cal. “Am I supposed to look after him?”
+</blockquote>
+The crux of the novel is that Cal decides to make money for his father as a gift. He gets help from Tom Hamilton in order to invest in bean futures that Tom correctly suspects will rise a great deal in the run up to World War I.  Of course Adam Trask rejects the gift as evil profiteering 
+ Charles stays in massachusetts on his farm and eventually dies childless.   Lee takes over as dad.  
 
 * <span meta="10.7@2026-06-07T05:09:07.015Z"></span> “She was a clean, mean old woman. She looked at the dust-gray rotting curtains, threw them out, and made new ones. She dug grease out of the stove that had been there since Charles’ mother died. And she leached the walls of a brown shiny nastiness deposited by cooking fat and kerosene lamps. She pickled the floors with lye, soaked the blankets in sal soda, complaining the whole time to herself, “Men—dirty animals. Pigs is clean compared. Rot in their own juice. Don’t see how no woman ever marries them. Stink like measles. Look at oven—pie juice from Methuselah.”
 
@@ -42,3 +66,7 @@ replace me
 * <span meta="58.8@2026-07-10T04:45:50.001Z"></span> It was at the supper table that the boys discovered the change in their father. They knew him as a presence—as ears that heard but did not listen, eyes that looked and did not notice. He was a cloud of a father. 
 
 * <span meta="60.7@2026-07-12T00:52:14.840Z"></span> “Also, to start the engine of a modern car you do just two things, turn a key and touch the starter. Everything else is automatic. The process used to be more complicated. It required not only a good memory, a strong arm, an angelic temper, and a blind hope, but also a certain amount of practice of magic, so that a man about to turn the crank of a Model T might be seen to spit on the ground and whisper a spell.”
+
+* <span meta="64.5@2026-07-14T03:40:22.834Z"></span> As he closed the door he heard the parrot say, “Button up, you bloody bastard!” And Liza, “Polly, if you don’t watch your language, I’ll thrash you.”
+
+* <span meta="64.9@2026-07-14T03:43:29.493Z"></span> “Dessie was the beloved of the family. Mollie the pretty kitten, Olive the strong-headed, Una with clouds on her head, all were loved, but Dessie was the warm-beloved. Hers was the twinkle and the laughter infectious as chickenpox, and hers the gaiety that colored a day and spread to people so that they carried it away with them.I can put it this way. Mrs. Clarence Morrison of 122 Church Street, Salinas, had three children and a husband who ran a dry goods store. On certain mornings, at breakfast, Agnes Morrison would say, “I’m going to Dessie Hamilton’s for a fitting after dinner.”
