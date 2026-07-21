@@ -11,7 +11,7 @@ permalink: /books/BIP_/East_of_Eden/
 published: 1952
 publisher: Viking
 layout: book.njk
-pct_progress: 100.0
+pct_progress: 100
 latest_progress: '2026-07-14T03:43:29.493Z'
 date_read: '2026-07-18T08:43:29.493Z'
 date_posted: '2026-07-18T08:43:29.493Z'

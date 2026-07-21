@@ -7,7 +7,7 @@ date_posted: 2026-07-08T00:00:00.000Z
 src: lvccld
 tags:
   - sci-fi
-img_url: /images/books/The_Faith_of_Beasts.jpg
+img_url: /images/books/Faith_of_Beasts.jpg
 publisher: Orbit
 published: 2026
 permalink: /books/Faith_of_Beasts/
