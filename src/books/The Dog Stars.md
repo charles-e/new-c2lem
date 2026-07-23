@@ -13,8 +13,8 @@ permalink: /books/BIP_/Dog_Stars/
 layout: book.njk
 pct_progress: 71.5
 latest_progress: '2026-07-21T23:17:44.172Z'
-date_read:  '2026-07-22T23:17:44.172Z'
-date_posted:  '2026-07-22T23:17:44.172Z'
+date_read: '2026-07-22T23:17:44.172Z'
+date_posted: '2026-07-22T23:17:44.172Z'
 ---
 <blockquote>
 So when we get sick of rabbits and sunfish from the pond, I get a deer. Mostly I just want to go up there. It feels like church, hallow and cool. The dead forest swaying and whispering, the green forest full of sighs. The musk smell of deer beds. The creeks where I always pray to see a trout. One fingerling. One big old survivor, his green shadow idling against the green shadows of the stones.
