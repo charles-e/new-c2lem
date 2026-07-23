@@ -21,5 +21,6 @@ So when we get sick of rabbits and sunfish from the pond, I get a deer. Mostly I
 </blockquote>
 
 Kinda like _The Road_ but with a dog and a super competent side-kick, and an airplane.  And the dog dies.  And they shoot a goodly number of guns.  The dialog is terse and there are no technological advancements, just a USA that has been radically depopulated by a plague.  Nonetheless a good story that made it easy to just keep reading in spite of the pervasive melancholy that comes with the post-apocalypse territory.     
-
+<!-- 
 * <span meta="71.5@2026-07-21T23:17:44.172Z"></span> He smiled grim but I saw a shadow of worry cross the winter of his eyes.
+-->
