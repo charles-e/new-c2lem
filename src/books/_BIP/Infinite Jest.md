@@ -12,10 +12,10 @@ tags:
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
-pct_progress: 27.2
+pct_progress: 41.7
 publisher: Back Bay Books
 published: 1996
-latest_progress: '2026-07-13T02:23:10.927Z'
+latest_progress: '2026-07-23T05:03:47.218Z'
 ---
 replace me
 
@@ -68,3 +68,15 @@ to beg a scrip from hideous Equus Reese and
 then dash in at Brooks Pharmacy, wearing a simply vile ensemble
 of synthetic-fiber slacks and suspenders and tweed Donegal cap
 he'd had to cadge from a longshoremen's union hall.”
+
+* <span meta="41.7@2026-07-23T05:03:47.218Z"></span> “Gately
+is an unlikely choice for Ennet House chef, having fed for most of
+the last twelve years on sub-shop subs and corporate snack foods
+consumed amid some sort of motion. He is 188 cm. and 128 kg. and had
+never once eaten broccoli or a pear until last year. Chef-wise, he
+offers up an exceptionless routine of: boiled hot dogs; dense
+damp meat loaf with little pieces of American cheese and half a box
+of cornflakes on top, for texture; Cream of Chicken soup over
+spirochete-shaped noodles; ominously dark, leathery Shake 'N Bake
+chicken legs; queasily underdone hamburgs; and hamburg-sauce
+spaghetti whose pasta he boils for almost an hour.”
