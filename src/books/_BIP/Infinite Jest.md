@@ -12,10 +12,10 @@ tags:
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
-pct_progress: 41.7
+pct_progress: 49.7
 publisher: Back Bay Books
 published: 1996
-latest_progress: '2026-07-23T05:03:47.218Z'
+latest_progress: '2026-07-24T19:18:28.422Z'
 ---
 replace me
 
@@ -80,3 +80,12 @@ of cornflakes on top, for texture; Cream of Chicken soup over
 spirochete-shaped noodles; ominously dark, leathery Shake 'N Bake
 chicken legs; queasily underdone hamburgs; and hamburg-sauce
 spaghetti whose pasta he boils for almost an hour.”
+
+* <span meta="49.7@2026-07-24T19:18:28.422Z"></span> “ She was about two meters from Wayne,
+facing him, doing near-splits
+on the heavy shag, one arm up and pretending to blow the whistle
+while Wayne produced
+the classic low-register growling sounds of
+U.S. football. Pemulis made rather a show of pushing the
+bumpkin-billed yachting hat back to scratch his head, blinking. Mrs.
+Inc was the only one looking at him.”
