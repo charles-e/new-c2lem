@@ -6,6 +6,7 @@ src: lvccld
 tags:
   - fantasy
 permalink: /books/BIP_/Saint_Death's_Daughter/
+img_url: /images/books/Saint_Deaths_Daughter.jpg
 layout: book.njk
 pct_progress: 22
 latest_progress: '2026-07-28T05:31:44.001Z'
