@@ -12,10 +12,10 @@ tags:
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
-pct_progress: 49.7
+pct_progress: 56.1
 publisher: Back Bay Books
 published: 1996
-latest_progress: '2026-07-24T19:18:28.422Z'
+latest_progress: '2026-07-28T20:12:21.967Z'
 ---
 replace me
 
@@ -89,3 +89,9 @@ the classic low-register growling sounds of
 U.S. football. Pemulis made rather a show of pushing the
 bumpkin-billed yachting hat back to scratch his head, blinking. Mrs.
 Inc was the only one looking at him.”
+
+* <span meta="56.1@2026-07-28T20:12:21.967Z"></span> A man in an ancient NATO-surplus wool greatcoat is up on his
+hands and knees to the engineer's lower left, throwing up. Bits of
+chyme hang from his mouth and refuse to detach. There's little bloody
+threads in it. His hunched form looks somehow canine on the uneven
+slope.
