@@ -12,10 +12,10 @@ tags:
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
-pct_progress: 56.1
+pct_progress: 59.5
 publisher: Back Bay Books
 published: 1996
-latest_progress: '2026-07-28T20:12:21.967Z'
+latest_progress: '2026-08-01T00:06:33.567Z'
 ---
 replace me
 
@@ -95,3 +95,13 @@ hands and knees to the engineer's lower left, throwing up. Bits of
 chyme hang from his mouth and refuse to detach. There's little bloody
 threads in it. His hunched form looks somehow canine on the uneven
 slope.
+
+* <span meta="59.5@2026-08-01T00:06:33.567Z"></span> Saprogenic
+Greetings*
+
+WHEN
+YOU CARE ENOUGH TO LET A PROFESSIONAL SAY IT FOR YOU
+
+*a
+proud member of the ACME Family of Gags 'N Notions, Pre-Packaged
+Emotions, Jokes and Surprises and Wacky Disguises
