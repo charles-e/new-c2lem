@@ -16,7 +16,7 @@ date_posted: '2026-08-08T01:44:20.266Z'
 pct_progress: '100'
 latest_progress: '2026-08-08T01:44:20.266Z'
 ---
-A charming book but it took 50 pages of patience to get some traction.  Is this the best fantasy novel I have ever read?  No.  Is this the best fantasy novel have read in a good long while: yes (like since [The Bright Sword](/books/Bright_Sword/)).  It's a big long soap opera about a necromancer, a *girl* necromancer named Miscellaneous "Lanie" Stones , a girl necromancer who likes to wear pink, orange and enjoys reanimating mice into cute little mouse skeletons. Its not all fun and games though, in the course of the novel Lanie's sister (Amanita Muscaria Stones) is murdered by magical assassins sent by the Blackbird queen and then Lanie's niece, Datu, is threatened and Lanie must go into hiding to learn more powerful magic and plot her revenge.   
+A charming book but it took 50 pages of patience to get some traction.  Is this the best fantasy novel I have ever read?  No.  Is this the best fantasy novel have read in a good long while: yes (like since [The Bright Sword](/books/Bright_Sword/)).  It's a big long soap opera about a necromancer, a *girl* necromancer named Miscellaneous "Lanie" Stones, a girl necromancer who likes to wear pink, orange and enjoys reanimating mice into cute little mouse skeletons. Its not all fun and games though, in the course of the novel Lanie's sister (Amanita Muscaria Stones) is murdered by magical assassins sent by the Blackbird queen and then Lanie's niece, Datu, is threatened and Lanie must go into hiding to learn more powerful magic and plot her revenge.   
 
 This is not your daddy's necromancer! (For me, 45 years ago, my first necromancer was Elric of Melnibone and there is no comparison.)  
 
