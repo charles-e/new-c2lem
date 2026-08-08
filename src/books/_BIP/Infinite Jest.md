@@ -12,10 +12,10 @@ tags:
 permalink: /books/BIP_/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
-pct_progress: 59.5
+pct_progress: 73
 publisher: Back Bay Books
 published: 1996
-latest_progress: '2026-08-01T00:06:33.567Z'
+latest_progress: '2026-08-08T04:23:36.390Z'
 ---
 replace me
 
@@ -105,3 +105,9 @@ YOU CARE ENOUGH TO LET A PROFESSIONAL SAY IT FOR YOU
 *a
 proud member of the ACME Family of Gags 'N Notions, Pre-Packaged
 Emotions, Jokes and Surprises and Wacky Disguises
+
+* <span meta="73@2026-08-08T04:23:36.390Z"></span> Until the other night. Don, the other night, after the
+fracas and your display of reluctant se offendendo
+after your injury and the whole
+aftermath ... Don, I dreamed the whole mad repressed third-grade
+interval of grandiose perfidy all over again.
