@@ -9,10 +9,10 @@ tags:
   - edifying
   - postmodern
   - humor
-permalink: /books/BIP_/Infinite_Jest/
+permalink: /books/Infinite_Jest/
 img_url: /images/books/Infinite_Jest.jpg
 layout: book.njk
-pct_progress: 73
+pct_progress: 100
 publisher: Back Bay Books
 published: 1996
 pages: 1150
