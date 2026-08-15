@@ -15,10 +15,11 @@ layout: book.njk
 pct_progress: 73
 publisher: Back Bay Books
 published: 1996
-pages
+pages: 1150
+hours: 60
 latest_progress: '2026-09-08T04:23:36.390Z'
 date_read: '2026-08-08T04:23:36.390Z'
-date_posted: '2026-08-08T04:23:36.390Z'
+date_posted: '2026-08-16T04:23:36.390Z'
 ---
 <blockquote>
 And no matter how many times he has the Terminex people out, there are still the enormous roaches that come out of the bathroom drains. Sewer roaches, according to Terminex. Blattaria implacablus or something. Really huge roaches. Armored-vehicle-type bugs. Totally black, with Kevlar-type cases, the works. And fearless, raised in the Hobbesian sewers down there.
@@ -27,7 +28,7 @@ Boston's and New Orleans's little brown roaches were bad enough, but you could a
 
 This book is just too much.  By reading and completing this book you are joining a club (of mostly men) who, just as with fans of TV shows such as The Wire, will, if given time and a glimmer of interest from anyone, chew your ear off explaining aspects of the book until you start looking for a polite or even impolite mechanism to end the lecture.  And sadly, yes, I have now joined this club.  
 
-Over all, the book has two main settings, a tennis academy on the top of a hill and a halfway house at the bottom of the same hill (in Boston).  The book is told anecdotally, not in linear sequence and additionally the text has frequent and often long footnotes (and some footnotes have footnotes or reference other footnotes).  The stories have focus on the recovering addicts in the halfway house or the potential addicts who under high pressure of competitive tennis, are beginning to indulge in marijuana, drinking and other pharmaceuticals.  Additionally the story follows the Incandenza family whose deceased father was a polymath inventor who is credited with a working but flawed fusion technology and a type of video processing and distribution system which has obsoleted video tapes and replaced the internet.   
+Over all, the book has two main settings, a tennis academy on the top of a hill and a halfway house at the bottom of the same hill (in Boston).  The book is told anecdotally, not in linear sequence and additionally the text has frequent and often long footnotes (and some footnotes have footnotes or reference other footnotes).  The stories have focus on the recovering addicts in the halfway house or the potential addicts who under high pressure of competitive tennis, are beginning to indulge in marijuana, drinking and other pharmaceuticals.  Additionally the story follows the Incandenza family whose deceased father was a polymath inventor credited with a working but flawed fusion technology and a type of video processing and distribution system which has obsoleted video tapes and replaced the internet.  And these two technologies are bound up in alternative history that has lead to a major ecological disaster in Canada and the north east United States (the state of Maine is no longer habitable) which in turn has led to a political unification of the north american countries.  Additionally the video technology is a monopoly but there are allegedly a small number of discs which are lethally addictive.  
 
 Aspects of the book that require explaining:
 * Many, many characters
@@ -38,7 +39,7 @@ Aspects of the book that require explaining:
 <!-- 
 * <span meta="4.6@2026-07-01T02:30:04.456Z"></span> And no matter how many times he has the Terminex people out, there are still the enormous roaches that come out of the bathroom drains. Sewer roaches, according to Terminex. Blattaria implacablus or something. Really huge roaches. Armored-vehicle-type bugs. Totally black, with Kevlar-type cases, the works. And fearless, raised in the Hobbesian sewers down there.
 Boston's and New Orleans's little brown roaches were bad enough, but you could at least come in and turn on a light and they'd run for their lives.
-
+ 
 * <span meta="7.8@2026-07-05T04:15:40.355Z"></span> “He feels at the side of his white jaw, where there's
 some sort of red welt, it looks like. 'Not different' — looking
 out into the Ave.'s raised median at the Green Line train rattling
