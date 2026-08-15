@@ -32,18 +32,13 @@ Publisher's Weekly says that the "story weaves between two surprisingly similar 
 
 One plot of the book follows the "dysfunctional family of E.T.A.'s founder, optical-scientist-turned-cult-filmmaker Dr. James Incandenza (aka Himself), who took his life shortly after producing a mysterious film called Infinite Jest, which is supposedly so addictively entertaining as to bring about a total neural meltdown in its viewer. As Himself's estranged sons, professional football punter Orin, introverted tennis star Hal and deformed naif Mario, come to terms with his suicide and legacy, they and the residents of Ennet House become enmeshed in the machinations of the wheelchair-bound leader of a Quebecois separatist faction, who hopes to disseminate cartridges of Infinite Jest and thus shred the social fabric of O.N.A.N. ”
 
-This book tells many stories about addiction, recovery from addiction, about family relationships that, while not abusive or violent, are at the same time not normal; a few of the stories are touching and many of them are tragic.  But the glue that holds the book together is absurdity that is couched in matter-of-fact, verbose, detailed, grounded narrative. For notable example, there are two descriptions of an incident where a transvestite, addict and thief snatches the purse of an artificial heart recipient, one from the thief's perspective and one from witnesses to the incident. Note the victim has installed the actual external pump into an expensive purse and is walking around Boston shopping in expensive stores (which is absurd!). The story from the witnesses notes that the theft victim chases the purse thief while yelling, 'Stop the thief she stole my heart!'  
+This book tells many stories about addiction, recovery from addiction, about family relationships that, while not abusive or violent, are at the same time not normal; a few of the stories are touching and many of them are tragic.  But the glue that holds the book together is absurdity that is couched in matter-of-fact, verbose, detailed, grounded narrative. For notable example, there are two descriptions of an incident where a transvestite, addict and thief snatches the purse of an artificial heart recipient, one from the thief's perspective and one from witnesses to the incident. Note the victim has installed the actual external pump into an expensive purse and is walking around Boston shopping in expensive stores (which is absurd!). The story from the witnesses notes that the theft victim chases the purse thief while, "shouting repeatedly, 'She stole my heart, stop her!' In response to her plaintive calls, tragically, misunderstanding shoppers and passers by merely shook their heads at one another, smiling knowingly at what they ignorantly presumed to be yet another alternative lifestyle's relationship gone sour. A duo of Cambridge, Massachusetts, patrolmen, whose names are being withheld from Moment's dogged queries, were publicly heard to passively quip, 'Happens all the time,' as the victimized woman staggered frantically past in the wake of the fleet transvestite, shouting for help for her stolen heart.”
 
 Orin Incandenza has a phobia for insects and early in the book it explains how he puts glasses over roaches in order to cleanly asphyxiate them.
 "And no matter how many times he has the Terminex people out, there are still the enormous roaches that come out of the bathroom drains. Sewer roaches, according to Terminex. Blattaria implacablus or something. Really huge roaches. Armored-vehicle-type bugs. Totally black, with Kevlar-type cases, the works. And fearless, raised in the Hobbesian sewers down there.  Boston's and New Orleans's little brown roaches were bad enough, but you could at least come in and turn on a light and they'd run for their lives."  Towards the very end of the book, the Assassins Fautueille Roulon (wheelchair assassins), quebecois terrorists, as part of their pursuit of the Infinite Jest film, capture Orin for "technical interrogation" and trap him in what is no less than a giant glass jar into which they intend to release roaches. 
 
 I enjoyed the book and it subtle humor but it is not a linear narrative and it does not have a coherent message.  The closest thing I found in the book to a message is the faith that 12 step programs, at least for some, offer hope and progress.  On the other hand, is the book entertaining: yes.  
 
-Aspects of the book that require explaining:
-* Many, many characters
-* The author's verbosity and use of footnotes.
-* the phrase 'howling fantods'
-* the way the author tells stories of pathos which are at the same time ridiculously exaggerated and/or absurd.
 <!-- 
 * <span meta="4.6@2026-07-01T02:30:04.456Z"></span> And no matter how many times he has the Terminex people out, there are still the enormous roaches that come out of the bathroom drains. Sewer roaches, according to Terminex. Blattaria implacablus or something. Really huge roaches. Armored-vehicle-type bugs. Totally black, with Kevlar-type cases, the works. And fearless, raised in the Hobbesian sewers down there.
 Boston's and New Orleans's little brown roaches were bad enough, but you could at least come in and turn on a light and they'd run for their lives.
@@ -138,17 +133,3 @@ after your injury and the whole
 aftermath ... Don, I dreamed the whole mad repressed third-grade
 interval of grandiose perfidy all over again.
 -->
-“The
-active, alert woman gave chase to the purse snatching 'woman' for as
-long as she could, plaintively shouting to passers by the words 'Stop
-her! She stole my heart!' on the fashionable sidewalk crowded with
-shoppers, reportedly shouting repeatedly, 'She stole my heart,
-stop her!' In response to her plaintive calls, tragically,
-misunderstanding shoppers and passers by merely shook their heads at
-one another, smiling knowingly at what they ignorantly presumed to be
-yet another alternative lifestyle's relationship gone sour. A
-duo of Cambridge, Massachusetts, patrolmen, whose names are being
-withheld from Moment's dogged
-queries, were publicly heard to passively quip, 'Happens all the
-time,' as the victimized woman staggered frantically past in the wake
-of the fleet transvestite, shouting for help for her stolen heart.”
