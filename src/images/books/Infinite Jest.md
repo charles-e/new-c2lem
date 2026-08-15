@@ -15,10 +15,27 @@ layout: book.njk
 pct_progress: 73
 publisher: Back Bay Books
 published: 1996
-latest_progress: '2026-08-08T04:23:36.390Z'
+pages
+latest_progress: '2026-09-08T04:23:36.390Z'
+date_read: '2026-08-08T04:23:36.390Z'
+date_posted: '2026-08-08T04:23:36.390Z'
 ---
-replace me
+<blockquote>
+And no matter how many times he has the Terminex people out, there are still the enormous roaches that come out of the bathroom drains. Sewer roaches, according to Terminex. Blattaria implacablus or something. Really huge roaches. Armored-vehicle-type bugs. Totally black, with Kevlar-type cases, the works. And fearless, raised in the Hobbesian sewers down there.
+Boston's and New Orleans's little brown roaches were bad enough, but you could at least come in and turn on a light and they'd run for their lives.
+</blockquote>
 
+This book is just too much.  By reading and completing this book you are joining a club (of mostly men) who, just as with fans of TV shows such as The Wire, will, if given time and a glimmer of interest from anyone, chew your ear off explaining aspects of the book until you start looking for a polite or even impolite mechanism to end the lecture.  And sadly, yes, I have now joined this club.  
+
+Over all, the book has two main settings, a tennis academy on the top of a hill and a halfway house at the bottom of the same hill (in Boston).  The book is told anecdotally, not in linear sequence and additionally the text has frequent and often long footnotes (and some footnotes have footnotes or reference other footnotes).  The stories have focus on the recovering addicts in the halfway house or the potential addicts who under high pressure of competitive tennis, are beginning to indulge in marijuana, drinking and other pharmaceuticals.  Additionally the story follows the Incandenza family whose deceased father was a polymath inventor who is credited with a working but flawed fusion technology and a type of video processing and distribution system which has obsoleted video tapes and replaced the internet.   
+
+Aspects of the book that require explaining:
+* Many, many characters
+* The author's verbosity and use of footnotes.
+* the phrase 'howling fantods'
+* the way the author tells stories of pathos which are at the same time ridiculously exaggerated and/or absurd. For notable example, there are two descriptions of an incident where a transvestite, addict and thief snatches the purse of an artificial heart recipient, one from the thief's perspective and one from witnesses to the incident. Note the victim has installed the actual external pump into an expensive purse and is walking around Boston shopping in expensive stores (which is absurd!). The story from the witnesses notes that the theft victim chases the purse thief while yelling, 'Stop the thief she stole my heart!'  The story with its ridiculous punchline is told in a completely matter-of-fact manner.  
+
+<!-- 
 * <span meta="4.6@2026-07-01T02:30:04.456Z"></span> And no matter how many times he has the Terminex people out, there are still the enormous roaches that come out of the bathroom drains. Sewer roaches, according to Terminex. Blattaria implacablus or something. Really huge roaches. Armored-vehicle-type bugs. Totally black, with Kevlar-type cases, the works. And fearless, raised in the Hobbesian sewers down there.
 Boston's and New Orleans's little brown roaches were bad enough, but you could at least come in and turn on a light and they'd run for their lives.
 
@@ -111,3 +128,18 @@ fracas and your display of reluctant se offendendo
 after your injury and the whole
 aftermath ... Don, I dreamed the whole mad repressed third-grade
 interval of grandiose perfidy all over again.
+-->
+“The
+active, alert woman gave chase to the purse snatching 'woman' for as
+long as she could, plaintively shouting to passers by the words 'Stop
+her! She stole my heart!' on the fashionable sidewalk crowded with
+shoppers, reportedly shouting repeatedly, 'She stole my heart,
+stop her!' In response to her plaintive calls, tragically,
+misunderstanding shoppers and passers by merely shook their heads at
+one another, smiling knowingly at what they ignorantly presumed to be
+yet another alternative lifestyle's relationship gone sour. A
+duo of Cambridge, Massachusetts, patrolmen, whose names are being
+withheld from Moment's dogged
+queries, were publicly heard to passively quip, 'Happens all the
+time,' as the victimized woman staggered frantically past in the wake
+of the fleet transvestite, shouting for help for her stolen heart.”
