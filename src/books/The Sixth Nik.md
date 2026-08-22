@@ -11,6 +11,7 @@ tags:
 permalink: /books/BIP_/Sixth_Nik/
 layout: book.njk
 date_read: 2026-08-13T00:00:00.000Z
+date_posted: 2026-08-22T00:00:00.000Z
 ---
 <blockquote>
 As a Niffakog, I had but one duty in life: Execute my assigned Chore before my brain swelled against my skull and killed me.
