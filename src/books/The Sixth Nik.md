@@ -8,7 +8,7 @@ tags:
   - sci-fi
   - horror
   - body horror
-permalink: /books/BIP_/Sixth_Nik/
+permalink: /books/Sixth_Nik/
 layout: book.njk
 date_read: 2026-08-13T00:00:00.000Z
 date_posted: 2026-08-22T00:00:00.000Z
