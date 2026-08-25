@@ -14,6 +14,7 @@ publisher: Knopf
 published: 2025
 hours: 14
 date_read: '2026-08-25Z00:00:00.000Z'
+date_posted: '2026-08-25Z00:00:00.000Z'
 ---
 Started this on a long road trip and wanted to to listen to something "current".  
 The book starts with Natalie a famous social media influencer who lives on "Yesteryear" farm as a representative of the "tradwife" lifestyle and married to Caleb, pretend cowboy/farmer, heir to a powerful political dynasty; her family (Caleb and five kids) is in the midst of an incipient scandal: Caleb was sleeping with her young social media producer and the producer is now attacking the family in the media.  
