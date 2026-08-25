@@ -1,20 +1,19 @@
 ---
-title: "Yesteryear"
-author: "Burke, Caro Clair"
-date_started: 2026-08-11Z00:00:00.000Z
+title: Yesteryear
+author: 'Burke, Caro Clair'
+date_started: '2026-08-11Z00:00:00.000Z'
 src: audible
-tags: 
- - audio
- - satire
- - sarcasm
-img_url : "https://m.media-amazon.com/images/I/7169bZ6hrNL._SY522_.jpg"
+tags:
+  - audio
+  - satire
+  - sarcasm
+img_url: /images/books/Yesteryear.jpg
 permalink: /books/Yesteryear/
 layout: book.njk
 publisher: Knopf
 published: 2025
 hours: 14
-date_read: 2026-08-25Z00:00:00.000Z
-
+date_read: '2026-08-25Z00:00:00.000Z'
 ---
 Started this on a long road trip and wanted to to listen to something "current".  
 The book starts with Natalie a famous social media influencer who lives on "Yesteryear" farm as a representative of the "tradwife" lifestyle and married to Caleb, pretend cowboy/farmer, heir to a powerful political dynasty; her family (Caleb and five kids) is in the midst of an incipient scandal: Caleb was sleeping with her young social media producer and the producer is now attacking the family in the media.  
