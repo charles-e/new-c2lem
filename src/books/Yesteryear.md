@@ -1,6 +1,6 @@
 ---
 title: Yesteryear
-author: 'Burke, Caro Clair'
+author: 'Burke, Caro Claire'
 date_started: '2026-08-11Z00:00:00.000Z'
 src: audible
 tags:
