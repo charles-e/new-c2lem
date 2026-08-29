@@ -7,7 +7,7 @@ tags:
   - adventure
   - fantasy
 img_url: /images/books/The_Magicians.jpg
-permalink: /books/BIP_/Magicians/
+permalink: /books/Magicians/
 layout: book.njk
 publisher: Penguin
 published: 2010
