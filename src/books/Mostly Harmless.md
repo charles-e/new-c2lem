@@ -16,7 +16,6 @@ pct_progress: 100
 latest_progress: '2026-09-01T20:25:11.689Z'
 date_read: '2026-09-01T20:25:11.689Z'
 date_posted: '2026-09-02T20:25:11.689Z'
-
 ---
 
 <blockquote>
