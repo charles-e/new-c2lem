@@ -1,5 +1,5 @@
 ---
-title: Land: A Novel
+title: Land&#58; A Novel
 author: 'O''Farrell, Maggie'
 date_started: 2026-09-01T00:00:00.000Z
 src: amazon
