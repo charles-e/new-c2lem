@@ -1,6 +1,6 @@
 ---
 title: Land: A Novel
-author: 'OFarrell, Maggie'
+author: 'O''Farrell, Maggie'
 date_started: 2026-09-01T00:00:00.000Z
 src: lvccld
 pages: 385
