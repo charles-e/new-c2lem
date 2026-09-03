@@ -17,5 +17,3 @@ latest_progress: '2026-09-03T21:52:45.806Z'
 My sister says this is a good one so here I go.
 
 * <span meta="2.6@2026-09-03T21:52:45.806Z"></span> Could they be graves? Liam shuffles forward a step into the copse, then another, taking great care where he treads. Only on ground, please, solid ground. He feels something clingy and sodden brush against his calf, like a pleading wet hand, and he cries out.
-
-O'Farrell, Maggie. Land: A Novel (p. 10). (Function). Kindle Edition. 
