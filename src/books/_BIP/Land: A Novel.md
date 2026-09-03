@@ -2,7 +2,7 @@
 title: Land: A Novel
 author: 'O''Farrell, Maggie'
 date_started: 2026-09-01T00:00:00.000Z
-src: lvccld
+src: amazon
 pages: 385
 publisher: Knopf
 published: 2026
