@@ -16,6 +16,8 @@ permalink: /books/BIP_/Spoonbenders/
 layout: book.njk
 pct_progress: 42.4
 latest_progress: '2026-09-01T18:53:31.404Z'
+date_read: '2026-09-03T18:53:31.404Z'
+date_posted: '2026-09-05T18:53:31.404Z'
 ---
 <blockquote>
 Matty Telemachus left his body for the first time in the summer of 1995, when he was fourteen years old. Or maybe it’s more accurate to say that his body expelled him, sending his consciousness flying on a geyser of lust and shame.
