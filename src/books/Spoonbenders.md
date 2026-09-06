@@ -12,7 +12,7 @@ publisher: Knopf Doubleday
 published: 2017
 hours: 14
 img_url: /images/books/Spoonbenders.jpg
-permalink: /books/BIP_/Spoonbenders/
+permalink: /books/Spoonbenders/
 layout: book.njk
 pct_progress: 42.4
 latest_progress: '2026-09-01T18:53:31.404Z'
