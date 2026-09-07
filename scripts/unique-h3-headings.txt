@@ -72,6 +72,7 @@ Funny
 Gadgets
 Games
 Greedy Corporations
+Hack
 Handy
 Happy
 Harkening back
@@ -185,6 +186,7 @@ UI
 Useful
 Venn Diagrams
 WTF?
+War
 Water
 Weird Places
 Whales
