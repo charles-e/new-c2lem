@@ -7,7 +7,7 @@ tags:
   - mystery
   - audio
 img_url: /images/books/Codex_A_Novel.jpg
-permalink: /books/BIP_/Codex_A_Novel/
+permalink: /books/Codex_A_Novel/
 date_read: '2026-09-08T00:00:00.000Z'
 date_posted: '2026-09-12T00:00:00.000Z'
 publisher: Random House
