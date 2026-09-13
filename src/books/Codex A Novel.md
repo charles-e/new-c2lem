@@ -16,4 +16,4 @@ hours: 11
 layout: book.njk
 ---
 
-Had to see how deep is Mr. Grossman's back catalog.  The answer is: not that deep.  This book doesn't hold a candle to either the [The Magicians](/src/books/The_Magicians)or [Bright Sword](/src/books/Bright_Sword). Meh.
+Had to see how deep is Mr. Grossman's back catalog.  The answer is: not that deep.  This book doesn't hold a candle to either the [The Magicians](/src/books/The_Magicians) or [Bright Sword](/src/books/Bright_Sword). Meh.
