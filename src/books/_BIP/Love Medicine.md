@@ -14,7 +14,6 @@ published: 1984
 pct_progress: 42.4
 latest_progress: '2026-09-15T05:43:23.575Z'
 ---
-replace me
 
 * <span meta="34.6@2026-09-01T20:21:47.901Z"></span> I shook my head to clear it. The children started to shout.
 Marie scolded, the babies blubbered, the cow stamped, and the
