@@ -5,8 +5,7 @@ date_started: 2026-09-16T00:00:00.000Z
 src: audible
 tags:
   - horror
-img_url: >-
-  https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71Eh2z9g1gL._SY522_.jpg
+img_url: /images/books/Incidents_Around_the_House.jpg
 permalink: /books/BIP_/Incidents_Around_the_House/
 layout: book.njk
 pct_progress: '52.0'

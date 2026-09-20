@@ -1,6 +1,6 @@
 ---
 title: Love Medicine
-author: Erdrich, Louise
+author: 'Erdrich, Louise'
 date_started: '2026-07-19Z00:00:00.000Z'
 src: lvccld
 tags:
@@ -9,7 +9,7 @@ img_url: /images/books/Love_Medicine.jpg
 permalink: /books/BIP_/Love_Medicine/
 layout: book.njk
 pages: 271
-publisher: Holt, Rinehart & Winston
+publisher: 'Holt, Rinehart & Winston'
 published: 1984
 pct_progress: 42.4
 latest_progress: '2026-09-15T05:43:23.575Z'
