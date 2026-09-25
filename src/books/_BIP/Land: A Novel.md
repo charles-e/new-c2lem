@@ -11,8 +11,8 @@ tags:
 img_url: '/images/books/Land:_A_Novel.jpg'
 permalink: '/books/BIP_/Land:_A_Novel/'
 layout: book.njk
-pct_progress: '52.0'
-latest_progress: '2026-09-22T02:46:02.143Z'
+pct_progress: '56.0'
+latest_progress: '2026-09-25T05:08:18.854Z'
 ---
 My sister says this is a good one so here I go.
 
@@ -22,3 +22,5 @@ My sister says this is a good one so here I go.
 * <span meta="34.0@2026-09-15T02:55:12.217Z"></span> Tomás grips at his jacket cuffs with tense hands. He glances from one woman to the other and sees that they have cooked up these terms between them. Why did he ever let her come down here on her own? Why hadn’t he followed her when she walked off? “Come away outside,” he says gruffly, “just the two of us, and we’ll talk all this over.” “Oh,” she murmurs, “now you want to talk.” The widow bows her head, as if to hide a smile, and Tomás cannot believe that this alliance has been formed so swiftly, so completely, in the time he was up the hill. How do women do that?
 
 * <span meta="52.0@2026-09-22T02:46:02.143Z"></span> The day he sees that his hand is no longer smaller than Rose’s is when he runs through the bushes of the boreen and doesn’t come back for a long time, even though they are all calling for him. He stumbles through the solace of the bog, its brownish ooze lapping over his bare feet, and when he reaches the higher ground, he kicks and thumps at the soil, hurls handfuls of it into the air, grips its dampness in his fists and squeezes and squeezes until he notices that it has turned to dry clods between the slits of his fingers.
+
+* <span meta="56.0@2026-09-25T05:08:18.854Z"></span> Liam wakes in his pallet under the thatch for what he knows will be the final time, Eugene curled into a ball next to him. He will leave today. It is very simple: he will rise, he will tie his bootlaces, he will open the door, he will step outside, and then the leaving will be done.
