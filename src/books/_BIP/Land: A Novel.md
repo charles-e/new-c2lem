@@ -11,8 +11,8 @@ tags:
 img_url: '/images/books/Land:_A_Novel.jpg'
 permalink: '/books/BIP_/Land:_A_Novel/'
 layout: book.njk
-pct_progress: '56.0'
-latest_progress: '2026-09-25T05:08:18.854Z'
+pct_progress: '68.0'
+latest_progress: '2026-09-26T22:14:52.300Z'
 ---
 My sister says this is a good one so here I go.
 
@@ -24,3 +24,7 @@ My sister says this is a good one so here I go.
 * <span meta="52.0@2026-09-22T02:46:02.143Z"></span> The day he sees that his hand is no longer smaller than Rose’s is when he runs through the bushes of the boreen and doesn’t come back for a long time, even though they are all calling for him. He stumbles through the solace of the bog, its brownish ooze lapping over his bare feet, and when he reaches the higher ground, he kicks and thumps at the soil, hurls handfuls of it into the air, grips its dampness in his fists and squeezes and squeezes until he notices that it has turned to dry clods between the slits of his fingers.
 
 * <span meta="56.0@2026-09-25T05:08:18.854Z"></span> Liam wakes in his pallet under the thatch for what he knows will be the final time, Eugene curled into a ball next to him. He will leave today. It is very simple: he will rise, he will tie his bootlaces, he will open the door, he will step outside, and then the leaving will be done.
+
+* <span meta="68.0@2026-09-26T22:14:52.300Z"></span> He hears these questions so clearly, in her high and piping voice, that it is as if he might turn around and find the young Enda beside him, her face tilted up to his, awaiting the wisdom of his answer. Tomás is struck by the notion, as he turns his head to see that there is, indeed, no one with him, no small Enda, no one at all, that she would have made the perfect apprentice. She would have carried on in his footsteps, had things been different, had the cards fallen another way. Instead, she is gone, and he will never see her again.
+
+O'Farrell, Maggie. Land: A Novel (pp. 264-265). (Function). Kindle Edition.
