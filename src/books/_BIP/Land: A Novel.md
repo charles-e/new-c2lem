@@ -11,8 +11,8 @@ tags:
 img_url: '/images/books/Land:_A_Novel.jpg'
 permalink: '/books/BIP_/Land:_A_Novel/'
 layout: book.njk
-pct_progress: '68.0'
-latest_progress: '2026-09-26T22:14:52.300Z'
+pct_progress: '81.0'
+latest_progress: '2026-09-27T03:17:11.375Z'
 ---
 My sister says this is a good one so here I go.
 
@@ -28,3 +28,7 @@ My sister says this is a good one so here I go.
 * <span meta="68.0@2026-09-26T22:14:52.300Z"></span> He hears these questions so clearly, in her high and piping voice, that it is as if he might turn around and find the young Enda beside him, her face tilted up to his, awaiting the wisdom of his answer. Tomás is struck by the notion, as he turns his head to see that there is, indeed, no one with him, no small Enda, no one at all, that she would have made the perfect apprentice. She would have carried on in his footsteps, had things been different, had the cards fallen another way. Instead, she is gone, and he will never see her again.
 
 O'Farrell, Maggie. Land: A Novel (pp. 264-265). (Function). Kindle Edition.
+
+* <span meta="81.0@2026-09-27T03:17:11.375Z"></span> She becomes solely sensation: the shocking whiteness of his chest under his loosened shirt, the soft scrape of his stubble against her clavicle, the bewildering things her body wants to do or wants from his, and knows how to do, the plush press of his mouth on hers, the silk-firm slide of his hands over her ribs and stomach and more, the fathomless lock of his gaze on hers.
+
+O'Farrell, Maggie. Land: A Novel (p. 320). (Function). Kindle Edition.
