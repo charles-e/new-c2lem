@@ -20,13 +20,20 @@ date_read: '2026-09-27T03:17:11.375Z'
 date_posted: '2026-09-27T23:17:11.375Z'
 
 ---
+<blockquote>
+It strikes Rose as a lonely, miserable way to die: alone, outdoors, with people walking past you, not knowing you, not seeing that you’d gone. It is like the passing of a wild animal, or— 
+
+At this half-formed thought, Rose’s mind pulls aside, like someone veering away from a cliff-edge. She knows that people—thousands of them—died at roadsides, in ditches, in the rubble of their homes, outside churches, wherever they fell, not long before she had been born. Neither of her parents had ever spoken of those times, but she, Liam and Enda were aware that they had no grandparents, no cousins, nobody, and Phina had once told them that Tomás had rescued her from a terrible fate, that he’d come for her and taken her away with him, but she wouldn’t elaborate.
+
+</blockquote>
+
 The story of an Irish family (we never learn the family name or there is none ) from the near vicinity of Holmpatrick north of Dublin (guessing with the help of my AI) and their mystical connection to that patch of land.  The father and mother are both orphaned survivors of the potato famine.
 
 The story for the begins with Tomas and his son Liam on a survey working for the British army.  Tomas has a vision (or a psychic break) at a spring he was cataloging and stays out all night having forgotten his son.  Upon his return to the basecamp village he can not stop perseverating over his vision and as an immediate consequence he receives an exorcism from the parish priest.  After a several months long period of recovery Tomas rents a plot of land near the location of his vision and moves his family there to be close to the source of his inspiration where he feels a connection. 
   
-Along the way the backstory is told in snippets and the family suffers hardships. In particular, Liam flees his father's instability to the seeming stability of the catholic church school (conveniently run by the same priest that conducted Tomas's exorcism) and Tomas loses his obvious successor in surveying.  Liam winds up as a monk, then priest, only to lose his faith through watching the way the empire treats the natives of Cochin (India) where he is running a school. 
+Along the way the backstory is told in snippets and the family suffers hardships. In particular, Liam flees his father's instability to the seeming stability of the catholic church school (run by the same priest that conducted Tomas's exorcism) and Tomas loses his obvious successor in surveying.  Liam winds up as a Jesuit priest only to lose his faith through watching the way the empire/church treats the natives of Cochin (India) where he is running a school. 
 
-Ultimately this is the sad story of a likeable, virtuous Irish family undergoing dissolution, mostly as an effect of British colonialism, and also thanks to the Catholic church.  There are magical elements in the story which are tied to the land where Tomas settles the family and we see some sort of spirit in the local spring and they adopt a dog that seems to have a supernatural connection to the family.  As a reader you want the supernatural resources to help the family which is beset on all sides by predatory emanations of the aristocracy and the church, and yet magic never arrives to save the day.  The book ends with mom and dad dead, two of the children in Quebec, one child as a hermit hiding in the family homestead and the Liam the priest is back in Dublin working as a surveyor for the Army.  I hope that this is a happy ending. 
+Ultimately this is a beautifully written but sad story of a likeable, virtuous Irish family undergoing dissolution, mostly as an effect of British colonialism, and also thanks to the Catholic church.  There are magical elements in the story which are tied to the land where Tomas settles the family; we see some sort of spirit in the local spring and they adopt a dog that has a supernatural connection to the area and the family.  As a reader you want the supernatural resources to help the family which is beset on all sides by predatory emanations of the aristocracy and the church, however magic never arrives to save the day.  The book ends with mom and dad passed away, two of the children in Quebec, one child living as a hermit hiding in the family homestead and Liam the once-priest is back in Dublin working as a surveyor for the Army.  I hope that this is a happy ending. 
 
 <!--
 
