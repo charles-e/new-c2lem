@@ -8,13 +8,27 @@ publisher: Knopf
 published: 2026
 tags:
   - edifying
+  - historical
+  - magical-realism 
+  - sad
 img_url: '/images/books/Land:_A_Novel.jpg'
 permalink: '/books/BIP_/Land:_A_Novel/'
 layout: book.njk
 pct_progress: '81.0'
 latest_progress: '2026-09-27T03:17:11.375Z'
+date_read: '2026-09-27T03:17:11.375Z'
+date_posted: '2026-09-27T23:17:11.375Z'
+
 ---
-My sister says this is a good one so here I go.
+The story of an Irish family (we never learn the family name or there is none ) from the near vicinity of Holmpatrick north of Dublin (guessing with the help of my AI) and their mystical connection to that patch of land.  The father and mother are both orphaned survivors of the potato famine.
+
+The story for the begins with Tomas and his son Liam on a survey working for the British army.  Tomas has a vision (or a psychic break) at a spring he was cataloging and stays out all night having forgotten his son.  Upon his return to the basecamp village he can not stop perseverating over his vision and as an immediate consequence he receives an exorcism from the parish priest.  After a several months long period of recovery Tomas rents a plot of land near the location of his vision and moves his family there to be close to the source of his inspiration where he feels a connection. 
+  
+Along the way the backstory is told in snippets and the family suffers hardships. In particular, Liam flees his father's instability to the seeming stability of the catholic church school (conveniently run by the same priest that conducted Tomas's exorcism) and Tomas loses his obvious successor in surveying.  Liam winds up as a monk, then priest, only to lose his faith through watching the way the empire treats the natives of Cochin (India) where he is running a school. 
+
+Ultimately this is the sad story of a likeable, virtuous Irish family undergoing dissolution, mostly as an effect of British colonialism, and also thanks to the Catholic church.  There are magical elements in the story which are tied to the land where Tomas settles the family and we see some sort of spirit in the local spring and they adopt a dog that seems to have a supernatural connection to the family.  As a reader you want the supernatural resources to help the family which is beset on all sides by predatory emanations of the aristocracy and the church, and yet magic never arrives to save the day.  The book ends with mom and dad dead, two of the children in Quebec, one child as a hermit hiding in the family homestead and the Liam the priest is back in Dublin working as a surveyor for the Army.  I hope that this is a happy ending. 
+
+<!--
 
 * <span meta="2.6@2026-09-03T21:52:45.806Z"></span> Could they be graves? Liam shuffles forward a step into the copse, then another, taking great care where he treads. Only on ground, please, solid ground. He feels something clingy and sodden brush against his calf, like a pleading wet hand, and he cries out.
 * <span meta="16.0@2026-09-08T03:50:35.553Z"></span> He is in the eye of the storm now; he can hear the screaming of the gale, feel the dart of each icy raindrop. He is forced to recall things he has expended much effort on trying to forget: for example, the sucking of stones, to slake the craving within, and the way the grit lodges in the pits of teeth, under the tongue. For example: the crying, the endless crying, of the youngers who lie together on a sack filled with bracken. And being sent out to stand at the gate to wait for someone, anyone, to rise up from the road so as to be able to hold out a hand to ask for a farthing, please, a morsel, all the while hearing the squealing noise of the earl’s pigs over the hill, which are hungry too, because it is your father’s job to feed and care for them but he is too weak or ill to do this task.
@@ -27,8 +41,6 @@ My sister says this is a good one so here I go.
 
 * <span meta="68.0@2026-09-26T22:14:52.300Z"></span> He hears these questions so clearly, in her high and piping voice, that it is as if he might turn around and find the young Enda beside him, her face tilted up to his, awaiting the wisdom of his answer. Tomás is struck by the notion, as he turns his head to see that there is, indeed, no one with him, no small Enda, no one at all, that she would have made the perfect apprentice. She would have carried on in his footsteps, had things been different, had the cards fallen another way. Instead, she is gone, and he will never see her again.
 
-O'Farrell, Maggie. Land: A Novel (pp. 264-265). (Function). Kindle Edition.
-
 * <span meta="81.0@2026-09-27T03:17:11.375Z"></span> She becomes solely sensation: the shocking whiteness of his chest under his loosened shirt, the soft scrape of his stubble against her clavicle, the bewildering things her body wants to do or wants from his, and knows how to do, the plush press of his mouth on hers, the silk-firm slide of his hands over her ribs and stomach and more, the fathomless lock of his gaze on hers.
 
-O'Farrell, Maggie. Land: A Novel (p. 320). (Function). Kindle Edition.
+--!>
