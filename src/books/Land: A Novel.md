@@ -12,7 +12,7 @@ tags:
   - magical-realism 
   - sad
 img_url: '/images/books/Land:_A_Novel.jpg'
-permalink: '/books/BIP_/Land:_A_Novel/'
+permalink: '/books/Land:_A_Novel/'
 layout: book.njk
 pct_progress: '81.0'
 latest_progress: '2026-09-27T03:17:11.375Z'
