@@ -18,7 +18,7 @@ latest_progress: '2026-10-01T20:30:36.124Z'
 * <span meta="34.6@2026-09-01T20:21:47.901Z"></span> I shook my head to clear it. The children started to shout.
 Marie scolded, the babies blubbered, the cow stamped, and the
 dogs complained. The moment of stillness was over; it was brief,
-but the fact is whenI got up from the front steps I was changed.
+but the fact is when I got up from the front steps I was changed.
 
 * <span meta="42.4@2026-09-15T05:43:23.575Z"></span> I rang the bell. It made a deep and costly sound in the hall. I heard the knock of thick black shoes, the rustle of heavy cloth, and a slight wind caught me. I had imagined coming back here many times to this door, and always it was the carved bone of Leopolda's face that met me, not Dympna, who opened the door and plumply smiled. She had only three teeth left, now, in her wide pale face. Two were on the top and one was on the bottom.
 That, and her eyes so red and blank, gave her the look of a great rabbit.
@@ -46,5 +46,5 @@ tacked-on air of a new and unpainted bay window.
 * <span meta="62.0@2026-10-01T20:30:36.124Z"></span> She was so dense with life,
 such a powerful distillation of Dot and Gerry, it seemed she
 might weigh about as much as any load. But that was only a
-thought, ofcourse. For as it turned out, she was too light and did
+thought, of course. For as it turned out, she was too light and did
 not register at all.
