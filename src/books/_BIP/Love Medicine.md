@@ -11,8 +11,8 @@ layout: book.njk
 pages: 271
 publisher: 'Holt, Rinehart & Winston'
 published: 1984
-pct_progress: '59.0'
-latest_progress: '2026-10-01T14:56:05.225Z'
+pct_progress: '62.0'
+latest_progress: '2026-10-01T20:30:36.124Z'
 ---
 
 * <span meta="34.6@2026-09-01T20:21:47.901Z"></span> I shook my head to clear it. The children started to shout.
@@ -42,3 +42,9 @@ and going and running and running.
 
 * <span meta="59.0@2026-10-01T14:56:05.225Z"></span> Dot wasn't much. Her body was inhospitable. Her skin was loose, sallow, and draped like upholstery fabric over her short, board-like bones. Like the shack we spent our days in, she seemed jerry-built, thrown into the world with loosely nailed limbs and lightly puttied joints. Some pregnant women's bellies look like they always have been there. But Dot's stomach was an odd shape, almost square, and had the
 tacked-on air of a new and unpainted bay window.
+
+* <span meta="62.0@2026-10-01T20:30:36.124Z"></span> She was so dense with life,
+such a powerful distillation of Dot and Gerry, it seemed she
+might weigh about as much as any load. But that was only a
+thought, ofcourse. For as it turned out, she was too light and did
+not register at all.
