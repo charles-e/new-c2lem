@@ -11,8 +11,8 @@ layout: book.njk
 pages: 271
 publisher: 'Holt, Rinehart & Winston'
 published: 1984
-pct_progress: '55.7'
-latest_progress: '2026-09-30T18:49:10.827Z'
+pct_progress: '59.0'
+latest_progress: '2026-10-01T14:56:05.225Z'
 ---
 
 * <span meta="34.6@2026-09-01T20:21:47.901Z"></span> I shook my head to clear it. The children started to shout.
@@ -39,3 +39,11 @@ down, searching, still lighted even after the water swirls over the
 back end. I wait. The wires short out. It is all finally dark. And
 then there is only the water, the sound of it going and running
 and going and running and running.
+
+* <span meta="59.0@2026-10-01T14:56:05.225Z"></span> Dot wasn't much. Her body
+was inhospitable. Her skin was loose, sallow, and draped like up-
+holstery fabric over her short, boardlike bones. Like the shack we
+spent our days in, she seemed jerry-built, thrown into the worldwith loosely nailed limbs and lightly puttied joints. Some preg-
+nant women's bellies look like they always have been there. But
+Dot's stomach was an odd shape, almost square, and had the
+tacked-on air ofa newand unpainted bay window.
