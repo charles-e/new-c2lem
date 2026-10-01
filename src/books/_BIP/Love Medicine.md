@@ -40,10 +40,5 @@ back end. I wait. The wires short out. It is all finally dark. And
 then there is only the water, the sound of it going and running
 and going and running and running.
 
-* <span meta="59.0@2026-10-01T14:56:05.225Z"></span> Dot wasn't much. Her body
-was inhospitable. Her skin was loose, sallow, and draped like up-
-holstery fabric over her short, boardlike bones. Like the shack we
-spent our days in, she seemed jerry-built, thrown into the worldwith loosely nailed limbs and lightly puttied joints. Some preg-
-nant women's bellies look like they always have been there. But
-Dot's stomach was an odd shape, almost square, and had the
-tacked-on air ofa newand unpainted bay window.
+* <span meta="59.0@2026-10-01T14:56:05.225Z"></span> Dot wasn't much. Her body was inhospitable. Her skin was loose, sallow, and draped like upholstery fabric over her short, board-like bones. Like the shack we spent our days in, she seemed jerry-built, thrown into the world with loosely nailed limbs and lightly puttied joints. Some pregnant women's bellies look like they always have been there. But Dot's stomach was an odd shape, almost square, and had the
+tacked-on air of a new and unpainted bay window.
