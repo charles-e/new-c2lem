@@ -23,7 +23,7 @@ Dot wasn't much. Her body was inhospitable. Her skin was loose, sallow, and drap
 
 In [How to Read Literature Like a Professor](/books/How_to_Read_Literature_Like_a_Professor/) Erdrich was one of his recommended authors and this book was published shortly after I graduated from high school.  This is a set of short stories featuring characters from the 'Erdrich Extended Reservation Universe' which is to say the stories concern the frequently melancholy lives of American indians and (I assume) from one particular family group.  These are good stories and a couple of them at least are the type that a literature teacher would assign to as an example.
 
-In fact one story, [Scales](https://docs.google.com/document/d/14RyGVKK_zvHOCFKIWyZfp4TobJiGIRLgUZvrpNJVdo4/edit?usp=sharing), is so good that I went to the bother of typing it up into a text file to share with my friends since it is only nine pages and is just a condensed gumdrop of amazing metaphors.  Another story, _The Convertible_, made me cry.  This, my my first Erdrich, is a really good book that made me laugh and cry.
+In fact one story, [Scales](https://docs.google.com/document/d/14RyGVKK_zvHOCFKIWyZfp4TobJiGIRLgUZvrpNJVdo4/edit?usp=sharing), is so good that I went to the bother of typing it up into a text file to share with my friends since it is only nine pages and is just a condensed gumdrop of amazing metaphors.  Another story, _The Convertible_, made me cry.  This, my my first Erdrich, is a really good book that made me cry and also laugh.
 
 <!--
 * <span meta="34.6@2026-09-01T20:21:47.901Z"></span> I shook my head to clear it. The children started to shout.
