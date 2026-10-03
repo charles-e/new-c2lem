@@ -14,6 +14,7 @@ published: 1984
 pct_progress: '62.0'
 latest_progress: '2026-10-01T20:30:36.124Z'
 ---
+In [How to Read Like a Professor](/books/How_to_Read_Literature_Like_a_Professor/) Erdrich was one of his recommended authors and this book was pubished shortly after I graduated from high school.
 
 * <span meta="34.6@2026-09-01T20:21:47.901Z"></span> I shook my head to clear it. The children started to shout.
 Marie scolded, the babies blubbered, the cow stamped, and the
