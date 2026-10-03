@@ -5,6 +5,7 @@ date_started: '2026-07-19Z00:00:00.000Z'
 src: lvccld
 tags:
   - edifying
+  - short stories
 img_url: /images/books/Love_Medicine.jpg
 permalink: /books/BIP_/Love_Medicine/
 layout: book.njk
@@ -13,9 +14,18 @@ publisher: 'Holt, Rinehart & Winston'
 published: 1984
 pct_progress: '62.0'
 latest_progress: '2026-10-01T20:30:36.124Z'
+date_read: '2026-10-03T20:30:36.124Z'
+date_posted: '2026-10-03T20:30:36.124Z'
 ---
-In [How to Read Like a Professor](/books/How_to_Read_Literature_Like_a_Professor/) Erdrich was one of his recommended authors and this book was pubished shortly after I graduated from high school.
+<blockquote>
+Dot wasn't much. Her body was inhospitable. Her skin was loose, sallow, and draped like upholstery fabric over her short, board-like bones. Like the shack we spent our days in, she seemed jerry-built, thrown into the world with loosely nailed limbs and lightly puttied joints. Some pregnant women's bellies look like they always have been there. But Dot's stomach was an odd shape, almost square, and had the tacked-on air of a new and unpainted bay window.
+</blockquote>
 
+In [How to Read Like a Professor](/books/How_to_Read_Literature_Like_a_Professor/) Erdrich was one of his recommended authors and this book was published shortly after I graduated from high school.  This is a set of short stories featuring characters from the 'Erdrich Extended Reservation Universe' which is to say the stories concern the frequently melancholy lives of American indians and (I assume) from one particular family group.  These are good stories and a couple of them at least are the type that a literature teacher would assign to as an example.
+
+In fact one story, [Scales](https://docs.google.com/document/d/14RyGVKK_zvHOCFKIWyZfp4TobJiGIRLgUZvrpNJVdo4/edit?usp=sharing), is so good that I went to the bother of typing it up into a text file to share with my friends.  Another story, _The Convertible_, made me cry.  
+
+<!--
 * <span meta="34.6@2026-09-01T20:21:47.901Z"></span> I shook my head to clear it. The children started to shout.
 Marie scolded, the babies blubbered, the cow stamped, and the
 dogs complained. The moment of stillness was over; it was brief,
@@ -49,3 +59,5 @@ such a powerful distillation of Dot and Gerry, it seemed she
 might weigh about as much as any load. But that was only a
 thought, of course. For as it turned out, she was too light and did
 not register at all.
+
+--!>

@@ -6,7 +6,7 @@ src: hoopla
 tags:
   - non-fiction
   - edifying
-permalink: /books/BIP_/How_to_Read_Literature_Like_a_Professor/
+permalink: /books/How_to_Read_Literature_Like_a_Professor/
 img_url: /images/books/How_to_Read_Literature_Like_a_Professor.jpg
 publisher: Harper Perennial
 published: 2024
