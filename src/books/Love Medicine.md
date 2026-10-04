@@ -7,7 +7,7 @@ tags:
   - edifying
   - short stories
 img_url: /images/books/Love_Medicine.jpg
-permalink: /books/BIP_/Love_Medicine/
+permalink: /books/Love_Medicine/
 layout: book.njk
 pages: 271
 publisher: 'Holt, Rinehart & Winston'
