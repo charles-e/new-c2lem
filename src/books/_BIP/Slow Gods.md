@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Slow_Gods.jpg
 permalink: /books/BIP_/Slow_Gods/
 layout: book.njk
-pct_progress: '35.2'
-latest_progress: '2026-10-03T02:02:41.026Z'
+pct_progress: '51.0'
+latest_progress: '2026-10-04T14:57:38.269Z'
 ---
 replace me
 
@@ -24,3 +24,7 @@ replace me
 * <span meta="24.0@2026-10-01T04:21:09.615Z"></span> “You like it when the creatures you talk to have eyes and ears and noses and mouths like yourselves. Your imaginations do not yet fully extend to other kinds of sentience as being of equal value, when they do not resemble you. It is an intellectual limitation of organics, albeit one honestly come by in evolutionary terms. You evolved to see each other as safety; anything else as threat. It takes energy to overcome your basic prejudice, and humans are very reluctant to burn glucose in this regard.”
 
 * <span meta="35.2@2026-10-03T02:02:41.026Z"></span> Down here the sticky damp of previous storms was a cold, slithering presence, pools of water splashing beneath our feet where the ocean had leached into the building, the shuddering of the storm outside whistling through open vents and tiny fissures in stone as if it were a great tentacled thing hungry to prise its way inside.
+
+* <span meta="51.0@2026-10-04T14:57:38.269Z"></span> She stayed the night anyway, sleeping on the spare futon in the attic, next to the warmth of the solar converters. In the morning, at the first flare of light across the isle, Rencki leaped onto the end of my bed, tickled my nose with the tip of a fuzzy paw and said: “Let’s go for a stroll.”
+
+North, Claire. Slow Gods (p. 224). (Function). Kindle Edition.
