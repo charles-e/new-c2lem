@@ -8,8 +8,8 @@ tags:
 img_url: /images/books/Slow_Gods.jpg
 permalink: /books/BIP_/Slow_Gods/
 layout: book.njk
-pct_progress: '51.0'
-latest_progress: '2026-10-06T01:15:15.766Z'
+pct_progress: '73.0'
+latest_progress: '2026-10-06T01:15:26.707Z'
 ---
 replace me
 
@@ -30,3 +30,5 @@ replace me
 North, Claire. Slow Gods (p. 224). (Function). Kindle Edition.
 
 * <span meta="51.0@2026-10-06T01:15:15.766Z"></span>
+
+* <span meta="73.0@2026-10-06T01:15:26.707Z"></span> Big emotion is not the same as big empathy. Indeed, I have often observed that it leaves little room for anything but itself, driving out all nuance or space to feel anything else at all.
