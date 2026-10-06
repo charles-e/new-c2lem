@@ -9,7 +9,7 @@ img_url: /images/books/Slow_Gods.jpg
 permalink: /books/BIP_/Slow_Gods/
 layout: book.njk
 pct_progress: '51.0'
-latest_progress: '2026-10-04T14:57:38.269Z'
+latest_progress: '2026-10-06T01:15:15.766Z'
 ---
 replace me
 
@@ -28,3 +28,5 @@ replace me
 * <span meta="51.0@2026-10-04T14:57:38.269Z"></span> She stayed the night anyway, sleeping on the spare futon in the attic, next to the warmth of the solar converters. In the morning, at the first flare of light across the isle, Rencki leaped onto the end of my bed, tickled my nose with the tip of a fuzzy paw and said: “Let’s go for a stroll.”
 
 North, Claire. Slow Gods (p. 224). (Function). Kindle Edition.
+
+* <span meta="51.0@2026-10-06T01:15:15.766Z"></span>
