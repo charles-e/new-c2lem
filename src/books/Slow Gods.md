@@ -13,6 +13,7 @@ permalink: /books/Slow_Gods/
 layout: book.njk
 pct_progress: '100.0'
 latest_progress: '2026-10-06T01:15:26.707Z'
+date_read: '2026-10-06T01:15:26.707Z' 
 date_posted: '2026-10-06T01:15:26.707Z' 
 ---
 <blockquote>
