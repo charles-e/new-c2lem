@@ -32,6 +32,8 @@ One of the alien’s heads snaps right around to her, like she just farted at a 
 “Nah.” Anna switches over to video. “Say hi to the internet. Where do you come from? Are there more of you?”
 
 “This is all I need.” The alien sighs. Two of her heads stay fixed on Anna. Two of them circle around as wary sentries. The other four lash and rip and eat the hell out of the poor turtle in a spew of gore. “I need to consider what this means. Enjoy convincing anyone I’m real.”
-<blockquote>
+</blockquote>
 
-This book is extremely violent and mostly the victims are various flavors of military because in this book mankind makes first contact and it is not a happy contact: the aliens kick humanity's collective ass.  
+As funny as my sample quote is, the alien, Ssrin is very dangerous, but not half as dangerous as the aliens it is running from.  Ssrin and Anna are bonded together so that they are a team resisting the "bad" aliens who can literally lay waste to earth.  
+
+This book is extremely violent and mostly the victims are various flavors/nationalities of military because in this book mankind makes first contact and it is not a happy contact: the aliens kick humanity's collective ass.  I was gripped from the get go and finished this book in under a week.  

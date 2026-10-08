@@ -15,8 +15,9 @@ pct_progress: '100.0'
 latest_progress: '2026-10-06T01:15:26.707Z'
 date_posted: '2026-10-06T01:15:26.707Z' 
 ---
-This book was OK, however it suffers from the pronoun gender disease where he/his changes to te/tis and qe/qis, possible other variations. I find all these variant pronouns very annoying because I want to subvocalize as I read but these just don't vocalize well.  
+This book was OK, however it suffers from the pronoun gender disease where 'he/his' changes to 'te/tis' and 'qe/qis', possible other variations. I find all these variant pronouns very annoying because I want to subvocalize as I read but these just don't vocalize well.  This quirk is a token of respect to gender identity variation which is all well and good however I do not imagine the resulting prose will age well.   
 
+<!-- 
 * <span meta="1.0@2026-09-20T00:06:18.512Z"></span>All are born equal, and by their labours shall they rise. This philosophy was the underlying constitution of the United Social Venture. Both it and the more anthropologically engaging qualities of social and economic status that arose from it were known as Shine.
 
 * <span meta="3.0@2026-09-20T02:09:34.805Z"></span> This is a flaw I have observed many times – people will expend vast energies in ignoring the obvious terrifying thing because it terrifies them so. It is a trait that fascinates me to this day.
@@ -36,3 +37,5 @@ North, Claire. Slow Gods (p. 224). (Function). Kindle Edition.
 * <span meta="51.0@2026-10-06T01:15:15.766Z"></span>
 
 * <span meta="73.0@2026-10-06T01:15:26.707Z"></span> Big emotion is not the same as big empathy. Indeed, I have often observed that it leaves little room for anything but itself, driving out all nuance or space to feel anything else at all.
+
+--!>
