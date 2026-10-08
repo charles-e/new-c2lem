@@ -8,7 +8,6 @@ tags:
   - horror
   - thriller
   - dystopia
-img_url: /images/books/Exordia.jpg
 permalink: /books/Exordia/
 layout: book.njk
 pct_progress: '100.0'
