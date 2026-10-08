@@ -5,13 +5,17 @@ date_started: '2026-9-15T00:00:00.000Z'
 src: lvccld
 tags:
   - sci-fi
+publisher: Orbit
+published: 2025
+pages: 437
 img_url: /images/books/Slow_Gods.jpg
-permalink: /books/BIP_/Slow_Gods/
+permalink: /books/Slow_Gods/
 layout: book.njk
-pct_progress: '73.0'
+pct_progress: '100.0'
 latest_progress: '2026-10-06T01:15:26.707Z'
+date_posted: '2026-10-06T01:15:26.707Z' 
 ---
-replace me
+This book was OK, however it suffers from the pronoun gender disease where he/his changes to te/tis and qe/qis, possible other variations. I find all these variant pronouns very annoying because I want to subvocalize as I read but these just don't vocalize well.  
 
 * <span meta="1.0@2026-09-20T00:06:18.512Z"></span>All are born equal, and by their labours shall they rise. This philosophy was the underlying constitution of the United Social Venture. Both it and the more anthropologically engaging qualities of social and economic status that arose from it were known as Shine.
 

@@ -9,6 +9,9 @@ tags:
   - thriller
   - dystopia
 permalink: /books/Exordia/
+publisher: Tor
+published: 2024
+pages: 530
 layout: book.njk
 pct_progress: '100.0'
 img_url: /images/books/Exordia.jpg
