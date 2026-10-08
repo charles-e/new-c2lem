@@ -15,7 +15,17 @@ pct_progress: '100.0'
 latest_progress: '2026-10-06T01:15:26.707Z'
 date_posted: '2026-10-06T01:15:26.707Z' 
 ---
-This book was OK, however it suffers from the pronoun gender disease where 'he/his' changes to 'te/tis' and 'qe/qis', possible other variations. I find all these variant pronouns very annoying because I want to subvocalize as I read but these just don't vocalize well.  This quirk is a token of respect to gender identity variation which is all well and good however I do not imagine the resulting prose will age well.   
+<blockquote>
+“You like it when the creatures you talk to have eyes and ears and noses and mouths like yourselves. Your imaginations do not yet fully extend to other kinds of sentience as being of equal value, when they do not resemble you. It is an intellectual limitation of organics, albeit one honestly come by in evolutionary terms. You evolved to see each other as safety; anything else as threat. It takes energy to overcome your basic prejudice, and humans are very reluctant to burn glucose in this regard.”
+</blockquote>
+
+This book  suffers from the pronoun gender disease where 'he/his' changes to 'te/tis' and 'qe/qis', possible other variations. I find all these variant pronouns very annoying because I want to subvocalize as I read but these just don't vocalize well.  This quirk is a token of respect to gender identity variation which is all well and good however I do not imagine the resulting prose will age well.   
+
+Despite my pronoun annoyance, I got moderate enjoyment out of this book our protagonist, Mawukana na-Vdnaze,("Maw") has through a mysteriously dramatic process become some sort of immortal pilot with a violent streak.  The story maintains the idea that there is some sort of arc dimension that enables faster than light travel and that traveling in the arc dimension is spooky.  But Maw can travel with none of the spookiness.  And he travels in a semi-organic ship, the Emni, that he has to plant, and prune and fertilize.  So there are some interesting plot devices.
+
+But the central plot is that 'the Shine' empire (which seems to be basically the good ole very oligarchical USA writ into space) is using its power to abuse all the other space polities and this eventually goes from cold war to hot.  And the various space polities react to the Shine's provocations the way many earthly governments do, which is to be hypocritical, cowardly. Then there are the "Slow Gods", but they disappointingly (it?) don't really provide any better solution.  So the book revisits the sad ugly earthly politics of thermonuclear war but in an interstellar context.  At the end of the book Maw is still immortal having lived a century and a half through ugly interstellar conflict, having sacrificed his girlfriend now he is ready to do something that is unrelated to interstellar warfare. 
+  
+Meh. 
 
 <!-- 
 * <span meta="1.0@2026-09-20T00:06:18.512Z"></span>All are born equal, and by their labours shall they rise. This philosophy was the underlying constitution of the United Social Venture. Both it and the more anthropologically engaging qualities of social and economic status that arose from it were known as Shine.
@@ -31,8 +41,6 @@ This book was OK, however it suffers from the pronoun gender disease where 'he/h
 * <span meta="35.2@2026-10-03T02:02:41.026Z"></span> Down here the sticky damp of previous storms was a cold, slithering presence, pools of water splashing beneath our feet where the ocean had leached into the building, the shuddering of the storm outside whistling through open vents and tiny fissures in stone as if it were a great tentacled thing hungry to prise its way inside.
 
 * <span meta="51.0@2026-10-04T14:57:38.269Z"></span> She stayed the night anyway, sleeping on the spare futon in the attic, next to the warmth of the solar converters. In the morning, at the first flare of light across the isle, Rencki leaped onto the end of my bed, tickled my nose with the tip of a fuzzy paw and said: “Let’s go for a stroll.”
-
-North, Claire. Slow Gods (p. 224). (Function). Kindle Edition.
 
 * <span meta="51.0@2026-10-06T01:15:15.766Z"></span>
 
