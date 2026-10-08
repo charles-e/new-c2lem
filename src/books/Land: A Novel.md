@@ -9,7 +9,7 @@ published: 2026
 tags:
   - edifying
   - historical
-  - magical-realism 
+  - magical-realism
   - sad
 img_url: '/images/books/Land:_A_Novel.jpg'
 permalink: '/books/Land:_A_Novel/'
@@ -18,7 +18,6 @@ pct_progress: '81.0'
 latest_progress: '2026-09-27T03:17:11.375Z'
 date_read: '2026-09-27T03:17:11.375Z'
 date_posted: '2026-09-27T23:17:11.375Z'
-
 ---
 <blockquote>
 It strikes Rose as a lonely, miserable way to die: alone, outdoors, with people walking past you, not knowing you, not seeing that you’d gone. It is like the passing of a wild animal, or— 

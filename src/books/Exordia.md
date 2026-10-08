@@ -11,10 +11,10 @@ tags:
 permalink: /books/Exordia/
 layout: book.njk
 pct_progress: '100.0'
-img_url: 'https://m.media-amazon.com/images/I/51-ZcCWKk4L._SY445_SX342_QL70_FMwebp_.jpg'
+img_url: /images/books/Exordia.jpg
 latest_progress: '2024-04-09T00:00:00.000Z'
 date_read: '2024-04-09T00:00:00.000Z'
-date_published: '2024-04-09T00:00:00.000Z'
+date_posted: '2024-04-09T00:00:00.000Z'
 ---
 <blockquote>
 “Anna whips out her phone and takes a picture.
