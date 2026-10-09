@@ -13,8 +13,8 @@ permalink: /books/Slow_Gods/
 layout: book.njk
 pct_progress: '100.0'
 latest_progress: '2026-10-06T01:15:26.707Z'
-date_read: '2026-10-06T01:15:26.707Z' 
-date_posted: '2026-10-06T01:15:26.707Z' 
+date_read: '2026-10-06T01:15:26.707Z'
+date_posted: '2026-10-06T01:15:26.707Z'
 ---
 <blockquote>
 “You like it when the creatures you talk to have eyes and ears and noses and mouths like yourselves. Your imaginations do not yet fully extend to other kinds of sentience as being of equal value, when they do not resemble you. It is an intellectual limitation of organics, albeit one honestly come by in evolutionary terms. You evolved to see each other as safety; anything else as threat. It takes energy to overcome your basic prejudice, and humans are very reluctant to burn glucose in this regard.”
