@@ -17,8 +17,8 @@ pct_progress: '94.5'
 latest_progress: '2026-10-11T03:08:42.972Z'
 date_read: '2026-10-11T03:08:42.972Z'
 date_posted: '2026-10-11T03:08:42.972Z'
-
 ---
+
 I heard about this book from the Ancillary Review of Books podcast and their notion was that this book has some world building commonalities with Bank's Culture novels: well that's catnip to me. At about 25% through the book I still don't understand what is going on because (I assume) the author has imagined completely different, unique technology as well as cultural milieu wrapped around the technology and the story starts in media res, so it appears that the fun for me will be in coming to an understanding...
 
 ...three days later...
