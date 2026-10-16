@@ -15,7 +15,7 @@ tags:
   - american indian
 recommendation_src: A Meal of Thorns
 img_url: /images/books/Cahokia_Jazz_A_Novel.jpg
-permalink: /books/Cahokia_Jazz_A_Novel/
+permalink: /books/Cahokia_Jazz/
 layout: book.njk
 pct_progress: '100.0'
 latest_progress: '2026-10-14T19:18:48.338Z'
