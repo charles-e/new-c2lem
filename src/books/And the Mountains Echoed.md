@@ -11,6 +11,8 @@ permalink: /books/And_the_Mountains_Echoed/
 layout: book.njk
 pct_progress: '49.0'
 latest_progress: '2026-10-14T19:11:23.949Z'
+date_read: '2026-10-17T19:11:23.949Z'
+date_posted: '2026-10-17T19:11:23.949Z'
 ---
 Didn't read Kite Runner but I have seen all the hype... then I saw this book at the Westside library and thought, "what the hell".  
 
