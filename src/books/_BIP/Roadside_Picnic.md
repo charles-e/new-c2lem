@@ -9,8 +9,8 @@ tags:
 img_url: /images/books/Roadside_Picnic.jpg
 permalink: /books/BIP_/Roadside_Picnic/
 layout: book.njk
-pct_progress: '25.0'
-latest_progress: '2026-10-17T20:32:41.868Z'
+pct_progress: '12.5'
+latest_progress: '2026-10-18T01:48:23.172Z'
 ---
 replace me
 
@@ -20,3 +20,5 @@ replace me
 “Well?”
 “Believe it or not, he does.”
 “Yeah?” I say. “Then he can go get them himself. It’s easy as pie! We have basements full of hell slime, he can take a bucket and dip right in. It’s his funeral.”
+
+* <span meta="12.5@2026-10-18T01:48:23.172Z"></span> “From below, the city was an archipelago of shadows.It was irregular and sprawling and hugely complex. It displaced currents. Jags of keel contradicted each other in all directions. Anchor chains trailed like hair, snapped and forgotten. From its orifices billowed refuse; fecal matter and particulate, and oil eddying uneasily and rising in small slicks. A constant drool of trash fouled the water and was swallowed by it.Below the city there were a few hundred yards of rapidly thinning light, then miles of dark water.The underside of Armada was crisscrossed with life.”
