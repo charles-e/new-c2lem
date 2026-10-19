@@ -20,4 +20,3 @@ replace me
 
 * <span meta="15.7@2026-10-19T03:04:41.878Z"></span> In mathematics, a point is defined as a place or a position, and a point has no measure. One cannot claim a point is infinitesimally small, as that would imply size. One cannot say a point has size zero either, as that implies it can be measured. The closest analogy you come to is that the click—announcing its nothingness with nothing—is a position, a point inside yourself, the fragile self you store in your equally fragile head.
 
-Tremblay, Paul. Dead but Dreaming of Electric Sheep: A Novel (p. 51). (Function). Kindle Edition.
