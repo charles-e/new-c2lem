@@ -13,8 +13,8 @@ tags:
 img_url: /images/books/Scar.jpg
 permalink: /books/BIP_/Scar/
 layout: book.njk
-pct_progress: '13.1'
-latest_progress: '2026-10-19T03:51:56.956Z'
+pct_progress: '15.2'
+latest_progress: '2026-10-19T04:37:17.847Z'
 ---
 replace me
 
@@ -23,3 +23,5 @@ replace me
 * <span meta="12.5@2026-10-18T01:48:23.172Z"></span> “From below, the city was an archipelago of shadows.It was irregular and sprawling and hugely complex. It displaced currents. Jags of keel contradicted each other in all directions. Anchor chains trailed like hair, snapped and forgotten. From its orifices billowed refuse; fecal matter and particulate, and oil eddying uneasily and rising in small slicks. A constant drool of trash fouled the water and was swallowed by it.Below the city there were a few hundred yards of rapidly thinning light, then miles of dark water.The underside of Armada was crisscrossed with life.”
 
 * <span meta="13.1@2026-10-19T03:51:56.956Z"></span> The man wore a dark grey suit; the woman a simple blue dress. They were tall and held themselves with immense authority. The man had a trim mustache and an easy arrogance. The woman’s features were heavy and irregular, but the flesh of her mouth was sensual, the cruel cast of her eyes compelling.What had made Bellis stare at them both with fascination and distaste, what commanded her attention, were the scars.Curling down the outside of the woman’s face, from the corner of her left eye to the corner of her mouth. Fine and uninterrupted. Another, thicker and shorter and more jagged, swept from the right side of her nose across her cheek and curled up as if to cup her eye. And others, contoured to her face. They disfigured her ocher skin with esthetic precision.
+
+* <span meta="15.2@2026-10-19T04:37:17.847Z"></span> I like that library," he said. "I like going there, and not just because of the ice woman, neither.""There’s a lot worse you could do than settle into some reading, lad," said Tanner. "We’ve finished Crawfoot’s Chronicles; you could find some other stories. You could read them to me, for a change. How’re your letters?""I can make them out," said Shekel vaguely."Well, there you go then. You go and have a word with Miss Coldy, and get her to recommend some reading for you.
