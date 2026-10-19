@@ -10,6 +10,7 @@ format: kindle
 tags:
   - fantasy
   - horror
+  - steampunk
 img_url: /images/books/Scar.jpg
 permalink: /books/BIP_/Scar/
 layout: book.njk
