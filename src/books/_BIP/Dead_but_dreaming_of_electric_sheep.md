@@ -11,8 +11,8 @@ tags:
 img_url: /images/books/Dead_but_dreaming_of_electric_sheep.jpg
 permalink: /books/BIP_/Dead_but_dreaming_of_electric_sheep/
 layout: book.njk
-pct_progress: '15.7'
-latest_progress: '2026-10-19T03:04:41.878Z'
+pct_progress: '20.0'
+latest_progress: '2026-10-20T22:31:28.430Z'
 ---
 replace me
 
@@ -20,3 +20,4 @@ replace me
 
 * <span meta="15.7@2026-10-19T03:04:41.878Z"></span> In mathematics, a point is defined as a place or a position, and a point has no measure. One cannot claim a point is infinitesimally small, as that would imply size. One cannot say a point has size zero either, as that implies it can be measured. The closest analogy you come to is that the click—announcing its nothingness with nothing—is a position, a point inside yourself, the fragile self you store in your equally fragile head.
 
+* <span meta="20.0@2026-10-20T22:31:28.430Z"></span> Julia stares at this ludicrous man and glimpses the terrible truth that he and hundreds like him, including the great Janice Moore, cocooned within ivory-tower boardrooms and glad-handing in high-rise law offices, make daily, greedy, myopic, purposefully destructive, off-the-cuff decisions that affect the lives and economic well-being of millions of people who have zero say in the matter, in any of the matters.
