@@ -14,8 +14,8 @@ tags:
 img_url: /images/books/Scar.jpg
 permalink: /books/BIP_/Scar/
 layout: book.njk
-pct_progress: '31.9'
-latest_progress: '2026-10-22T22:08:23.828Z'
+pct_progress: '35.1'
+latest_progress: '2026-10-23T04:32:01.978Z'
 ---
 replace me
 
@@ -30,3 +30,5 @@ replace me
 * <span meta="22.4@2026-10-19T18:38:27.528Z"></span> Bellis, thank you again. For… protecting me. When you said nothing about the letter." She watched him tight-faced, and was silent. "I’ll see you again, soon. I hope that’ll be all right."And again she said nothing, conscious of the distance daylight had brought between them, and of the many things he was not telling her. But, still, she did not mind if he came again. It had been a long time since she had conversed as she had that night.
 
 * <span meta="31.9@2026-10-22T22:08:23.828Z"></span> They moan across thousands of miles; echo-locating; sounding; sending friendly, stupid messages to each other; doing what they have been told: Looking for Armada.
+
+* <span meta="35.1@2026-10-23T04:32:01.978Z"></span> They sat back in silent unease. Bellis heard the recurring muttering of the waves, watched the smoke from her cigarillo unravel in front of the window, obscuring the night sky. The conjuncture disgusted her suddenly: it seemed to have trapped her. Her life was reduced to a succession of nights and smoking and scratching for ideas. But now something had changed.
