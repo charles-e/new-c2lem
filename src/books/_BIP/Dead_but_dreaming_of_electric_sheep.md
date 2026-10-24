@@ -11,8 +11,8 @@ tags:
 img_url: /images/books/Dead_but_dreaming_of_electric_sheep.jpg
 permalink: /books/BIP_/Dead_but_dreaming_of_electric_sheep/
 layout: book.njk
-pct_progress: '62.0'
-latest_progress: '2026-10-24T23:31:24.365Z'
+pct_progress: '64.0'
+latest_progress: '2026-10-24T23:40:04.623Z'
 ---
 replace me
 
@@ -27,3 +27,5 @@ replace me
 * <span meta="60.0@2026-10-22T22:10:01.279Z"></span> They arrive at Terminal B’s outpost, Gate 7, with minutes to spare. There is one gate agent behind the counter, holding the corded intercom mic as though it is the last tomato but it is too squishy to include in a sad salad. On schedule, the agent invites anyone who needs assistance to preboard at this time. After a brief, warm thought for Uncle Fun, who hates the corporatized aviation jargon of preboard, Julia shouts, “Excuse us, coming through!” and dowses a lane toward the gate.
 
 * <span meta="62.0@2026-10-24T23:31:24.365Z"></span> Julia recites dialogue. “‘This is a very complicated case, Maude. You know, a lotta ins, a lotta outs, a lotta what-have-yous. And, uh, a lotta strands to keep in my head, man. Lotta strands to keep in old Duder’s head.’”
+
+* <span meta="64.0@2026-10-24T23:40:04.623Z"></span> Everyone attempts to parse the chaos of their lives with the language of story. I learned that from my great-aunt Ava, the psychic who didn’t see her heart attack coming despite two weeks of shortness of breath and chest pains. Again, I’m sorry. I have to admit, I’m nervous. You and this story make me nervous, and when I get nervous, I—”
