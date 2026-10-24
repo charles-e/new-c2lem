@@ -11,8 +11,8 @@ tags:
 img_url: /images/books/Dead_but_dreaming_of_electric_sheep.jpg
 permalink: /books/BIP_/Dead_but_dreaming_of_electric_sheep/
 layout: book.njk
-pct_progress: '60.0'
-latest_progress: '2026-10-22T22:10:01.279Z'
+pct_progress: '62.0'
+latest_progress: '2026-10-24T23:31:24.365Z'
 ---
 replace me
 
@@ -25,3 +25,5 @@ replace me
 * <span meta="35.1@2026-10-21T05:08:16.813Z"></span> It’s a dangerous, profane, forbidden thrill, one based in having power over another’s autonomy. This is what it must feel like to be one of our world’s many supervillains.
 
 * <span meta="60.0@2026-10-22T22:10:01.279Z"></span> They arrive at Terminal B’s outpost, Gate 7, with minutes to spare. There is one gate agent behind the counter, holding the corded intercom mic as though it is the last tomato but it is too squishy to include in a sad salad. On schedule, the agent invites anyone who needs assistance to preboard at this time. After a brief, warm thought for Uncle Fun, who hates the corporatized aviation jargon of preboard, Julia shouts, “Excuse us, coming through!” and dowses a lane toward the gate.
+
+* <span meta="62.0@2026-10-24T23:31:24.365Z"></span> Julia recites dialogue. “‘This is a very complicated case, Maude. You know, a lotta ins, a lotta outs, a lotta what-have-yous. And, uh, a lotta strands to keep in my head, man. Lotta strands to keep in old Duder’s head.’”
