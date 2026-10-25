@@ -1,5 +1,5 @@
 ---
-title: Dead but dreaming of electric sheep
+title: Dead But Dreaming of Electric Sheep
 author: 'Tremblay, paul'
 date_started: '2026-10-17T00:00:00.000Z'
 src: lvccld
@@ -9,10 +9,12 @@ tags:
   - fantasy
   - horror
 img_url: /images/books/Dead_but_dreaming_of_electric_sheep.jpg
-permalink: /books/Dead_but_dreaming_of_electric_sheep/
+permalink: /books/Dead_But_Dreaming/
 layout: book.njk
-pct_progress: '64.0'
+pct_progress: '100.0'
 latest_progress: '2026-10-25T03:23:52.784Z'
+date_posted: '2026-10-25T03:23:52.784Z'
+date_read: '2026-10-25T03:23:52.784Z'
 ---
 replace me
 
