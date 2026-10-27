@@ -12,7 +12,7 @@ tags:
   - sci-fi
   - alt-history
 img_url: /images/books/Nonesuch:_A_Novel.jpg
-permalink: /books/BIP_/Nonesuch:_A_Novel/
+permalink: /books/BIP_/Nonesuch/
 layout: book.njk
 pct_progress: '11.0'
 latest_progress: '2026-10-27T05:43:38.134Z'
