@@ -14,7 +14,9 @@ tags:
 img_url: /images/books/Nonesuch:_A_Novel.jpg
 permalink: /books/BIP_/Nonesuch:_A_Novel/
 layout: book.njk
-pct_progress: '0.0'
-latest_progress: '2026-10-24T00:00:00.000Z'
+pct_progress: '11.0'
+latest_progress: '2026-10-27T05:43:38.134Z'
 ---
 replace me
+
+* <span meta="11.0@2026-10-27T05:43:38.134Z"></span> Recognition is what allows us to take hold of a perception, and to hold it fast in memory. Without recognition, a sight scrabbles for attachments in your mind and finds nothing there to fit it, and when the immediate terror is over it fades, dreamlike. Yet
