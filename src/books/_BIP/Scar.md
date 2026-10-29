@@ -14,8 +14,8 @@ tags:
 img_url: /images/books/Scar.jpg
 permalink: /books/BIP_/Scar/
 layout: book.njk
-pct_progress: '38.4'
-latest_progress: '2026-10-25T17:45:44.601Z'
+pct_progress: '42.5'
+latest_progress: '2026-10-29T00:41:37.358Z'
 ---
 replace me
 
@@ -34,3 +34,5 @@ replace me
 * <span meta="35.1@2026-10-23T04:32:01.978Z"></span> They sat back in silent unease. Bellis heard the recurring muttering of the waves, watched the smoke from her cigarillo unravel in front of the window, obscuring the night sky. The conjuncture disgusted her suddenly: it seemed to have trapped her. Her life was reduced to a succession of nights and smoking and scratching for ideas. But now something had changed.
 
 * <span meta="38.4@2026-10-25T17:45:44.601Z"></span> Bellis was not inordinately fond of Silas, she realized with mild surprise.She was grateful to him; she found him interesting and impressive, though not so charming as he thought himself. They held something between them: extraordinary secrets, plans that could not be allowed to fail. They were comrades in this. She did not mind him sharing her bed; she might even tup him again, she thought with an inadvertent smirk. But they were not close.
+
+* <span meta="42.5@2026-10-29T00:41:37.358Z"></span> He opened his own lips and pushed his tongue into the statue’s craw. He felt the cold thorns of its teeth, and he probed further. The figurine’s mouth was cavernous, and the man’s tongue seemed to reach into the center of the little piece. It was very cold to his mouth. He had to steel himself not to gag on its taste, musty and salt and piscine.And as the man wriggled his tongue in the stone throat, something kissed him back.He had expected it-hoped for it, relied on it. But still it came with a jolt of nausea and shock. A little flickering something tonguing his own tongue. Cold and wet and unpleasantly organic, as if a fat maggot lurked at the statue’s core.
