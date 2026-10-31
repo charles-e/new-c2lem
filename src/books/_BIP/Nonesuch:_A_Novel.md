@@ -15,7 +15,7 @@ img_url: /images/books/Nonesuch:_A_Novel.jpg
 permalink: /books/BIP_/Nonesuch/
 layout: book.njk
 pct_progress: '38.0'
-latest_progress: '2026-10-28T18:57:49.109Z'
+latest_progress: '2026-10-31T01:47:41.135Z'
 ---
 replace me
 
@@ -26,3 +26,5 @@ replace me
 * <span meta="30.0@2026-10-28T17:48:47.177Z"></span> December saw the weather turn cold. Sharp frosts at morning and evening; an edge like a blade to the winds off the river; the coal smoke coagulating to a blue layer near the ground that moved like a tarry syrup, and tasted like one too. On clear nights, the moon painted swaths of ice-white over the roofscape of the blacked-out city. The stars, far brighter than she had ever seen them in London, glittered and trembled in the black air, and the river wrinkled into minute lines of silver, as if the moon were pressing fingerprints into it.
 
 * <span meta="38.0@2026-10-28T18:57:49.109Z"></span> The Grand Master approached, mostly shadow, but plain enough to her dark-adapted eyes for her to see that she had been quite wrong to imagine, from his voice, some cadaverously tall aristo with wild eyebrows and an opera cloak. He was actually a plumpish elderly nondescript, dressed in tweeds, with a little metal badge in his lapel and a moustache like a mouse that had died of old age.
+
+* <span meta="38.0@2026-10-31T01:47:41.135Z"></span> “Hold on,” said Iris. “I don’t want you to pay me more as the cost of silence. I want you to pay me more because I’ve proved I can be trusted.” “An interesting distinction.” “An important one! I am not here to… mulct you for money,” Iris said, aware as she spoke that she was reorganizing the past to obtain a new future quite as much as if she had done it by managing to reach the palace of Nonesuch. “I am here to give you my word. I am here to promise you that the firm’s secrets will be my secrets. To swear that I am not a scoundrel or a blackguard.”
