@@ -11,7 +11,7 @@ tags:
   - humor
   - family
   - novella
-img_url: /images/books/Porcelain_Sisters.jpg
+img_url: /images/books/porcelain_sisters.jpg
 permalink: /books/porcelain_sisters/
 layout: book.njk
 pct_progress: '100.0'
