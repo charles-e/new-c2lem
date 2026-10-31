@@ -22,7 +22,12 @@ date_posted: '2026-10-31T01:47:41.135Z'
 <blockquote>
 December saw the weather turn cold. Sharp frosts at morning and evening; an edge like a blade to the winds off the river; the coal smoke coagulating to a blue layer near the ground that moved like a tarry syrup, and tasted like one too. On clear nights, the moon painted swaths of ice-white over the roofscape of the blacked-out city. The stars, far brighter than she had ever seen them in London, glittered and trembled in the black air, and the river wrinkled into minute lines of silver, as if the moon were pressing fingerprints into it.
 </blockquote>
-It's August of 1939 in London, war with Nazi German is threatened but not yet certain. Iris is a party-girl who works at a stock brokerage: she is a finance nerd and wants to be rich.  Geoff is an electrical engineer who, out of spite, Iris sweeps off his feet for a one-night-stand and in the process pisses off a posh, fascist, wanna-be wizard Lalage who then tricks a golem into hunting Iris. Eventually Iris is living through the blitz and trying to stop Lalage from getting to Nonesuch a magical La Grange point from which she can go back in time to assassinate Churchill.  
+
+It's August of 1939 in London, war with Nazi German is threatened but not yet certain. Iris is a party-girl who works at a stock brokerage: she is a finance nerd and wants to be rich.  Geoff is an electrical engineer who, out of spite, Iris sweeps off his feet for a one-night-stand and in the process pisses off a posh, fascist, wanna-be wizard named Lalage. Lalage then tricks a golem into hunting Iris. Eventually Iris is living through the blitz and trying to stop Lalage from getting to "Nonesuch", a magical La Grange point, from which she can go back in time to assassinate Churchill so that fascism will win the day thus making air war unnecessary.
+
+This is a novel where the protagonist knows finance and economics well enough to hold conversation with Keynes but by night on the full moon she fights fascism by performing magical rituals involving enchanted statuary on top old buildings in London.  
+
+And just when I thought the novel was going to make the dismount having resolved everything, Iris makes a sudden decision and the story now has "to be continued".
 
    <!-- 
 * <span meta="11.0@2026-10-27T05:43:38.134Z"></span> Recognition is what allows us to take hold of a perception, and to hold it fast in memory. Without recognition, a sight scrabbles for attachments in your mind and finds nothing there to fit it, and when the immediate terror is over it fades, dreamlike.
