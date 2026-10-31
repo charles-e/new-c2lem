@@ -16,8 +16,8 @@ permalink: /books/porcelain_sisters/
 layout: book.njk
 pct_progress: '100.0'
 latest_progress: '2026-10-29T00:00:00.000Z'
-date_read: '2026-10-29T00:00:00.000Z'
-date_posted: '2026-10-29T00:00:00.000Z'
+date_read: 2026-10-31T00:00:00.000Z
+date_posted: 2026-10-31T00:00:00.000Z
 ---
 <blockquote>
 “I don’t know what’s worse,” Isabel said. “The horror this place was before or this bougie version. It’s like Masshole Disney.” “I offered to drop you at home,” Ruth said. “That would have taken us an hour out of our way. Let’s just get this over with.” Ruth parked on Main Street in front of a new brick building with large glass windows. The store was the final green stamp that marked a town as officially gentrified—the Ubik of Modern Life, the Last Nail in Authenticity’s Coffin: Starbucks.
