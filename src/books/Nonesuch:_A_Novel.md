@@ -27,7 +27,7 @@ It's August of 1939 in London, war with Nazi German is threatened but not yet ce
 
 This is a novel where the protagonist knows finance and economics well enough to hold conversation with Keynes but by night on the full moon she fights fascism by performing magical rituals involving enchanted statuary on top old buildings in London.  The magic in the novel is based, seemingly on tricking, bribing, negotiating with angels. The angels are completely otherworldly seeming very comfortable in six-winged old testament form and follow complicated rules such that conversations with them are really tricky, riddle-laden interrogations.  
 
-Yet the story's entire magical action takes place in the interludes between the Iris and Geoff's complicated romantic negotiations or otherwise around the unpredictable tragic consequences of the German bombing campaign.
+Yet the story's entire magical action takes place in the interludes between  Iris's and Geoff's complicated romantic negotiations or otherwise around the unpredictable, tragic consequences of the German bombing campaign.
 
 And just when I thought the novel was going to make the dismount having resolved everything, Iris makes a sudden decision and the story now has "to be continued".
 
