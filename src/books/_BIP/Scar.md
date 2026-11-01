@@ -14,8 +14,8 @@ tags:
 img_url: /images/books/Scar.jpg
 permalink: /books/BIP_/Scar/
 layout: book.njk
-pct_progress: '45.8'
-latest_progress: '2026-11-01T00:55:30.812Z'
+pct_progress: '56.3'
+latest_progress: '2026-11-01T23:07:42.418Z'
 ---
 replace me
 
@@ -38,3 +38,5 @@ replace me
 * <span meta="42.5@2026-10-29T00:41:37.358Z"></span> He opened his own lips and pushed his tongue into the statue’s craw. He felt the cold thorns of its teeth, and he probed further. The figurine’s mouth was cavernous, and the man’s tongue seemed to reach into the center of the little piece. It was very cold to his mouth. He had to steel himself not to gag on its taste, musty and salt and piscine.And as the man wriggled his tongue in the stone throat, something kissed him back.He had expected it-hoped for it, relied on it. But still it came with a jolt of nausea and shock. A little flickering something tonguing his own tongue. Cold and wet and unpleasantly organic, as if a fat maggot lurked at the statue’s core.
 
 * <span meta="45.8@2026-11-01T00:55:30.812Z"></span> Beyond the boundary of stringy boscage that edged the beach, the trails became more defined.
+
+* <span meta="56.3@2026-11-01T23:07:42.418Z"></span> It was obvious that this meeting was a formality and that the positions of the protagonists had already been decided over a long time. The arguments and discussions were stilted, the unspoken allegiances and enmities all half visible. Bellis spoke when she was addressed, offering her brief opinion on some matter of language.
