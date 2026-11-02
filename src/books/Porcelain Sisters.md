@@ -12,7 +12,7 @@ tags:
   - family
   - novella
 img_url: /images/books/Porcelain_Sisters.jpg
-permalink: /books/porcelain_sisters/
+permalink: /books/Porcelain_Sisters/
 layout: book.njk
 pct_progress: '100.0'
 latest_progress: '2026-10-29T00:00:00.000Z'
