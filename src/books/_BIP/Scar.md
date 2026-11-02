@@ -15,7 +15,7 @@ img_url: /images/books/Scar.jpg
 permalink: /books/BIP_/Scar/
 layout: book.njk
 pct_progress: '59.6'
-latest_progress: '2026-11-02T18:50:54.513Z'
+latest_progress: '2026-11-02T18:51:04.797Z'
 ---
 replace me
 
@@ -42,3 +42,5 @@ replace me
 * <span meta="56.3@2026-11-01T23:07:42.418Z"></span> It was obvious that this meeting was a formality and that the positions of the protagonists had already been decided over a long time. The arguments and discussions were stilted, the unspoken allegiances and enmities all half visible. Bellis spoke when she was addressed, offering her brief opinion on some matter of language.
 
 * <span meta="59.6@2026-11-02T18:50:54.513Z"></span> Armada lolled in the sun. It was getting hotter.The frantic work continued, and below the water, the shape of the avanc’s harness grew slowly more solid. It was ghosted, its outlines in girders and wooden supports, like an abstract for some implausible building. As the days went on it grew a little more substantial, its intricate spines and gears more like something real. It grew through the extraordinary efforts of the crews. The city was on something like a war footing, every iota of industry and effort commandeered. People understood that they were careering at breakneck speed into a new epoch.
+
+* <span meta="59.6@2026-11-02T18:51:04.797Z"></span> Armada lolled in the sun. It was getting hotter.The frantic work continued, and below the water, the shape of the avanc’s harness grew slowly more solid. It was ghosted, its outlines in girders and wooden supports, like an abstract for some implausible building. As the days went on it grew a little more substantial, its intricate spines and gears more like something real. It grew through the extraordinary efforts of the crews. The city was on something like a war footing, every iota of industry and effort commandeered. People understood that they were careering at breakneck speed into a new epoch.
