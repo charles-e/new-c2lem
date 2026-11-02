@@ -3,8 +3,8 @@ title: The Recognitions
 author: 'Gaddis, William'
 date_started: '2026-10-30T00:00:00.000Z'
 src: used
-pages: 784
-published: 1976
+pages: 968
+published: 1955
 publisher: NYRB Classics
 tags:
   - edifying
