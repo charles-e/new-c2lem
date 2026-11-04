@@ -15,7 +15,7 @@ img_url: /images/books/Scar.jpg
 permalink: /books/BIP_/Scar/
 layout: book.njk
 pct_progress: '66.7'
-latest_progress: '2026-11-03T21:43:50.338Z'
+latest_progress: '2026-11-04T01:01:01.313Z'
 ---
 replace me
 
@@ -44,3 +44,5 @@ replace me
 * <span meta="59.6@2026-11-02T18:50:54.513Z"></span> Armada lolled in the sun. It was getting hotter.The frantic work continued, and below the water, the shape of the avanc’s harness grew slowly more solid. It was ghosted, its outlines in girders and wooden supports, like an abstract for some implausible building. As the days went on it grew a little more substantial, its intricate spines and gears more like something real. It grew through the extraordinary efforts of the crews. The city was on something like a war footing, every iota of industry and effort commandeered. People understood that they were careering at breakneck speed into a new epoch.
 
 * <span meta="66.7@2026-11-03T21:43:50.338Z"></span> Uther Doul clearly drew something from his time with her, but still she could not be sure what. She was not intimidated by him anymore, even carrying her secrets. For all his deadly skills, his brilliance in branches of obscure theology and science, she thought she saw in him someone more lost and confused than she, someone removed from all societies, uncertain of norms and interaction, retreated behind cold control. It made her feel safe in his presence.
+
+* <span meta="66.7@2026-11-04T01:01:01.313Z"></span> The man slips under the water. The sea opens to him, and he drifts down past the huge links of chain, toward the unthinkable beast of burden that stretches its limbs in the deepest reaches. When he needs breath he pulls the statue to him, the little grotesquerie hunched and glowing in the night sea with faint biotic light, the toothed osculum a puncture-hole of dark, the open eye wide and mocking, tar-black, and he kisses it deeply and feels its flickering tongue-thing with the disgust that he can never banish.
