@@ -14,8 +14,8 @@ tags:
 img_url: /images/books/Scar.jpg
 permalink: /books/BIP_/Scar/
 layout: book.njk
-pct_progress: '66.7'
-latest_progress: '2026-11-04T01:01:01.313Z'
+pct_progress: '78.5'
+latest_progress: '2026-11-04T07:10:45.859Z'
 ---
 replace me
 
@@ -46,3 +46,5 @@ replace me
 * <span meta="66.7@2026-11-03T21:43:50.338Z"></span> Uther Doul clearly drew something from his time with her, but still she could not be sure what. She was not intimidated by him anymore, even carrying her secrets. For all his deadly skills, his brilliance in branches of obscure theology and science, she thought she saw in him someone more lost and confused than she, someone removed from all societies, uncertain of norms and interaction, retreated behind cold control. It made her feel safe in his presence.
 
 * <span meta="66.7@2026-11-04T01:01:01.313Z"></span> The man slips under the water. The sea opens to him, and he drifts down past the huge links of chain, toward the unthinkable beast of burden that stretches its limbs in the deepest reaches. When he needs breath he pulls the statue to him, the little grotesquerie hunched and glowing in the night sea with faint biotic light, the toothed osculum a puncture-hole of dark, the open eye wide and mocking, tar-black, and he kisses it deeply and feels its flickering tongue-thing with the disgust that he can never banish.
+
+* <span meta="78.5@2026-11-04T07:10:45.859Z"></span> Her hands were shaking. She gritted her teeth, furious at that, and ran her hands over her swept-back hair and exhaled, but she could not stop herself from trembling. She had to press her pen quite hard upon the paper so that the trembling would not make her words illegible. She scrawled a single quick sentence, then stopped suddenly, and stared at it, and could not write any more. She read what she had written, again and again.Tomorrow they flog me.
