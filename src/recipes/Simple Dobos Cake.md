@@ -1,5 +1,5 @@
 ---
-title: Simple Dobos Cake 
+title: Simple Dobos Torte 
 date: 2026-11-04
 tags: recipes
 layout: layouts/recipe.njk
@@ -11,7 +11,7 @@ src: https://www.hawaiianelectric.com/recipes/find-a-recipe/chocolate-cake-with-
 ## Notes:
 * We had this for my birthday and let my girlfriend make it (which is a test in and of itself.)  
 
-* Much fancier versions of this cake have six layers with pastry cream filling but this one works because the frosting is apparently 80% of the differentiator.
+* Much fancier versions of this cake ( more "Torte" less cake) have six layers with pastry cream filling but this one works because the frosting is apparently 80% of the differentiator.
 
 * This was a pre-inflationary shrinkage recipe so now the cake mix is smaller but to make up for sooo is the pudding mix -- anyway the recipe still works.
 
