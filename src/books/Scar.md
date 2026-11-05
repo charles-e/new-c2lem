@@ -16,9 +16,18 @@ permalink: /books/Scar/
 layout: book.njk
 pct_progress: '100.0'
 latest_progress: '2026-11-05T19:42:24.128Z'
+date_read:  '2026-11-05T19:42:24.128Z'
+date_posted:  '2026-12-05T19:42:24.128Z'
 ---
-replace me
+<blockquote>
+Her hands were shaking. She gritted her teeth, furious at that, and ran her hands over her swept-back hair and exhaled, but she could not stop herself from trembling. She had to press her pen quite hard upon the paper so that the trembling would not make her words illegible. She scrawled a single quick sentence, then stopped suddenly, and stared at it, and could not write any more. She read what she had written, again and again. Tomorrow they flog me.
+</blockquote>
 
+Finally got around to reading this tome which is now not quite 25 years old.  This is the second book in the trilogy that made Mieville's rep. The books demonstrate amazing steam-punk world building that includes "remade men" who have undergone magico-surgical procedures to replace their heads, limbs or bodies with animal or mechanical  substitutes. Being remade and enslaved is, in general, a drastic punishment for criminals.  Besides the remade their are multiple sentient races and not one gods damned elf or hobbit, instead, to pick one, the khepri who have a human body and the head of a beetle.   
+
+The book follows the journey of Bellis Coldwine a 30-something political dissident from New Crobuzon who starts the immigration to a safer colony when her ship is captured by pirates from the city of Armada and from then on follows her as a citizen of Armada.  Armada is, as the name suggests, a migrating, peregrinating city that is an composed of repurposed boats lashed together whose livelihood is trade and privateering.
+
+<!-- 
 * <span meta="7.4@2026-10-18T01:46:05.552Z"></span> “The outer edges of the city were low buildings in porous stone and coral. There were other submarines moving smoothly between the towers and above the roofs. The sunken promenades beneath them climbed their way to the distant ramparts and cathedrals of the city’s core, a mile or so away, seen very faintly through the sea. There at the heart of Salkrikaltor City were taller edifices that loomed all the way out of the waves. They were no less intricate below the surface. The city was convoluted and interconnected.”
 
 * <span meta="12.5@2026-10-18T01:48:23.172Z"></span> “From below, the city was an archipelago of shadows.It was irregular and sprawling and hugely complex. It displaced currents. Jags of keel contradicted each other in all directions. Anchor chains trailed like hair, snapped and forgotten. From its orifices billowed refuse; fecal matter and particulate, and oil eddying uneasily and rising in small slicks. A constant drool of trash fouled the water and was swallowed by it.Below the city there were a few hundred yards of rapidly thinning light, then miles of dark water.The underside of Armada was crisscrossed with life.”
@@ -52,3 +61,5 @@ replace me
 * <span meta="78.5@2026-11-04T17:13:48.261Z"></span> Backstay stools, coaming, pawls, davits, and catheads encased in salt-aged architecture.
 
 * <span meta="100.0@2026-11-05T19:42:24.128Z"></span> I am coming home. I will amass much more to tell you on the return journey, which will be long, but will end. I do not need this letter delivered. Whoever I decide you are, dear friend, I will give it to you myself.I will deliver it by hand.
+
+-->
