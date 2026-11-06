@@ -9,8 +9,8 @@ tags:
 img_url: /images/books/Roadside_Picnic.jpg
 permalink: /books/BIP_/Roadside_Picnic/
 layout: book.njk
-pct_progress: '39.7'
-latest_progress: '2026-10-19T02:55:48.312Z'
+pct_progress: '46.4'
+latest_progress: '2026-11-06T05:10:51.262Z'
 ---
 replace me
 
@@ -27,3 +27,5 @@ Excerpt From
 Roadside Picnic (Rediscovered Classics)
 Strugatsky, Arkady
 This material may be protected by copyright.
+
+* <span meta="46.4@2026-11-06T05:10:51.262Z"></span> A crowd gathered—the whole neighborhood had come to gawk—but, of course, no one had the guts to go near. Eventually, someone figured it out: broke down the door to his house, gave him a way in. And what do you know, he stood up and walked in and closed the door behind him. I had to get to work, don’t know how it turned out, all I know is that they were planning to call the Institute, so they’d take him the hell away from us. You know what they say? They say the military has been drafting an order, that these corpses, if their relatives have moved out, should be sent to them at their new place of residence. Won’t the family be delighted!
