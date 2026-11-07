@@ -9,8 +9,8 @@ tags:
 img_url: /images/books/Roadside_Picnic.jpg
 permalink: /books/BIP_/Roadside_Picnic/
 layout: book.njk
-pct_progress: '46.4'
-latest_progress: '2026-11-06T05:10:51.262Z'
+pct_progress: '63.0'
+latest_progress: '2026-11-07T20:32:16.920Z'
 ---
 replace me
 
@@ -29,3 +29,5 @@ Strugatsky, Arkady
 This material may be protected by copyright.
 
 * <span meta="46.4@2026-11-06T05:10:51.262Z"></span> A crowd gathered—the whole neighborhood had come to gawk—but, of course, no one had the guts to go near. Eventually, someone figured it out: broke down the door to his house, gave him a way in. And what do you know, he stood up and walked in and closed the door behind him. I had to get to work, don’t know how it turned out, all I know is that they were planning to call the Institute, so they’d take him the hell away from us. You know what they say? They say the military has been drafting an order, that these corpses, if their relatives have moved out, should be sent to them at their new place of residence. Won’t the family be delighted!
+
+* <span meta="63.0@2026-11-07T20:32:16.920Z"></span> Suddenly, for no apparent reason, he felt a wave of despair. Everything was useless. Everything was pointless. My God, he thought, we can’t do a thing! We can’t stop it, we can’t slow it down! No force in the world could contain this blight, he thought in horror. It’s not because we do bad work. And it’s not because they are more clever and cunning than we are. The world is just like that. Man is like that. If it wasn’t the Visit, it would have been something else. Pigs can always find mud.
