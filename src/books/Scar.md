@@ -17,7 +17,7 @@ layout: book.njk
 pct_progress: '100.0'
 latest_progress: '2026-11-05T19:42:24.128Z'
 date_read:  '2026-11-05T19:42:24.128Z'
-date_posted:  '2026-12-05T19:42:24.128Z'
+date_posted:  '2026-11-06T19:42:24.128Z'
 
 ---
 <blockquote>
@@ -30,7 +30,7 @@ The book primarily follows the journey of Bellis Coldwine, a 30-something politi
 
 In addition to the many interesting fantastic devices that absolutely retain the reader's attention, the character of Bellis is also intriguing.  I wanted to like her, but she is not absolutely likable, particularly because she is self-centered and always thinks that she is the smartest person in the room.  She manages to have a sex-life but she doesn't have any friends. She gravitates toward other important characters as friends and each case she winds up confessing that in retrospect she was used, manipulated to do other's bidding with bad consequences for herself.  
 
-This story is just so exuberantly, spectacularly audacious in it's creations that I believe it it should be on everybody's must read list.
+This story is just so exuberantly, spectacularly audacious in it's creations that I believe it it should be on everybody's fantasy must read list.
 
 <!-- 
 * <span meta="7.4@2026-10-18T01:46:05.552Z"></span> “The outer edges of the city were low buildings in porous stone and coral. There were other submarines moving smoothly between the towers and above the roofs. The sunken promenades beneath them climbed their way to the distant ramparts and cathedrals of the city’s core, a mile or so away, seen very faintly through the sea. There at the heart of Salkrikaltor City were taller edifices that loomed all the way out of the waves. They were no less intricate below the surface. The city was convoluted and interconnected.”
