@@ -12,8 +12,8 @@ tags:
 img_url: /images/books/Shroud.jpg
 permalink: /books/BIP_/Shroud/
 layout: book.njk
-pct_progress: '24.0'
-latest_progress: '2026-11-18T05:07:52.347Z'
+pct_progress: '31.0'
+latest_progress: '2026-11-18T14:20:00.222Z'
 ---
 replace me
 
@@ -26,3 +26,5 @@ replace me
 * <span meta="24.0@2026-11-14T18:27:31.032Z"></span> found the link to his pod and had my routines compose a summary of our discoveries for him. The mental image of him reading over them, forehead furrowed over his wispy eyebrows, was absurdly comforting. We were establishing a veneer of normality. “Well,” he said at last. “This is unexpected.” The understatement of the galactic year. “Have you tried four pulses?” The static had risen as he spoke, even though we were trying to use wavelengths that the surrounding monsters didn’t seem to favour. I had to ask him to repeat himself, and then the words didn’t seem to make sense.
 
 * <span meta="24.0@2026-11-18T05:07:52.347Z"></span> “Try some maths. The Fibonacci sequence. That’s basic stuff. Oh God, this is huge. This is incredible.” There was a crowing tone to his voice which suggested he was picturing someone giving him a promotion and an award, as well as a big hike of wage-worth for this. Conveniently overlooking the fact that, unless Shroud had independently evolved an academic credit program, there was nobody around to care.
+
+* <span meta="31.0@2026-11-18T14:20:00.222Z"></span> It burst out with terrifying speed. Everything we’d seen so far on Shroud had been slow. Slow enough that the deliberate, inexorable nature of its motions had been a part of the horror. Now we learned that Shroud worked to a variety of speeds, because the thing that launched itself out of the hole—its burrow—was enormous and very swift. A plated worm creature five metres thick, each segment bearing a leg, and the legs arranged in a helix around its body, so it could grip every side of its tunnel at once. Its front emerged as a tight fist, gleaming all the colours of mother-of-pearl in our lights. Halfway through its strike it opened into a fan of hooked blades,
