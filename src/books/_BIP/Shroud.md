@@ -12,8 +12,8 @@ tags:
 img_url: /images/books/Shroud.jpg
 permalink: /books/BIP_/Shroud/
 layout: book.njk
-pct_progress: '33.0'
-latest_progress: '2026-11-18T19:12:06.855Z'
+pct_progress: '35.0'
+latest_progress: '2026-11-18T20:33:04.946Z'
 ---
 replace me
 
@@ -30,3 +30,5 @@ replace me
 * <span meta="31.0@2026-11-18T14:20:00.222Z"></span> It burst out with terrifying speed. Everything we’d seen so far on Shroud had been slow. Slow enough that the deliberate, inexorable nature of its motions had been a part of the horror. Now we learned that Shroud worked to a variety of speeds, because the thing that launched itself out of the hole—its burrow—was enormous and very swift. A plated worm creature five metres thick, each segment bearing a leg, and the legs arranged in a helix around its body, so it could grip every side of its tunnel at once. Its front emerged as a tight fist, gleaming all the colours of mother-of-pearl in our lights. Halfway through its strike it opened into a fan of hooked blades,
 
 * <span meta="33.0@2026-11-18T19:12:06.855Z"></span> An ambassador in two volumes. That is what I thought when I was merely foraging. Reconsidering the facts now, assimilating my errant memories and analysing them for error, I concur with my more fragmentary opinion. Some far-off sky power has sent me a message. I cannot know how I am supposed to answer, but perhaps that information will be encoded within the ambassador.
+
+* <span meta="35.0@2026-11-18T20:33:04.946Z"></span> Let me put this into words you can understand. Life in the open air was hard compared to life in the ocean. For an age, things lived a littoral existence on the edge of land and sea. But it was easier on this world than on yours. Here, the line between land and sea is seldom as sharp as it is in your home. On this world the atmosphere is denser, so there is a steadier gradation from the depths of the sea to the heights of the air. A ladder life could climb.
