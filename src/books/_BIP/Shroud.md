@@ -12,8 +12,8 @@ tags:
 img_url: /images/books/Shroud.jpg
 permalink: /books/BIP_/Shroud/
 layout: book.njk
-pct_progress: '31.0'
-latest_progress: '2026-11-18T14:20:00.222Z'
+pct_progress: '33.0'
+latest_progress: '2026-11-18T19:12:06.855Z'
 ---
 replace me
 
@@ -28,3 +28,5 @@ replace me
 * <span meta="24.0@2026-11-18T05:07:52.347Z"></span> “Try some maths. The Fibonacci sequence. That’s basic stuff. Oh God, this is huge. This is incredible.” There was a crowing tone to his voice which suggested he was picturing someone giving him a promotion and an award, as well as a big hike of wage-worth for this. Conveniently overlooking the fact that, unless Shroud had independently evolved an academic credit program, there was nobody around to care.
 
 * <span meta="31.0@2026-11-18T14:20:00.222Z"></span> It burst out with terrifying speed. Everything we’d seen so far on Shroud had been slow. Slow enough that the deliberate, inexorable nature of its motions had been a part of the horror. Now we learned that Shroud worked to a variety of speeds, because the thing that launched itself out of the hole—its burrow—was enormous and very swift. A plated worm creature five metres thick, each segment bearing a leg, and the legs arranged in a helix around its body, so it could grip every side of its tunnel at once. Its front emerged as a tight fist, gleaming all the colours of mother-of-pearl in our lights. Halfway through its strike it opened into a fan of hooked blades,
+
+* <span meta="33.0@2026-11-18T19:12:06.855Z"></span> An ambassador in two volumes. That is what I thought when I was merely foraging. Reconsidering the facts now, assimilating my errant memories and analysing them for error, I concur with my more fragmentary opinion. Some far-off sky power has sent me a message. I cannot know how I am supposed to answer, but perhaps that information will be encoded within the ambassador.
