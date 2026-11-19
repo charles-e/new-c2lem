@@ -12,8 +12,8 @@ tags:
 img_url: /images/books/Shroud.jpg
 permalink: /books/BIP_/Shroud/
 layout: book.njk
-pct_progress: '35.0'
-latest_progress: '2026-11-18T20:33:04.946Z'
+pct_progress: '45.0'
+latest_progress: '2026-11-19T21:34:11.028Z'
 ---
 replace me
 
@@ -32,3 +32,5 @@ replace me
 * <span meta="33.0@2026-11-18T19:12:06.855Z"></span> An ambassador in two volumes. That is what I thought when I was merely foraging. Reconsidering the facts now, assimilating my errant memories and analysing them for error, I concur with my more fragmentary opinion. Some far-off sky power has sent me a message. I cannot know how I am supposed to answer, but perhaps that information will be encoded within the ambassador.
 
 * <span meta="35.0@2026-11-18T20:33:04.946Z"></span> Let me put this into words you can understand. Life in the open air was hard compared to life in the ocean. For an age, things lived a littoral existence on the edge of land and sea. But it was easier on this world than on yours. Here, the line between land and sea is seldom as sharp as it is in your home. On this world the atmosphere is denser, so there is a steadier gradation from the depths of the sea to the heights of the air. A ladder life could climb.
+
+* <span meta="45.0@2026-11-19T21:34:11.028Z"></span> Our self-constructed mission was already veering onto the far side of impossible, and we wouldn’t survive many more surprises. How many radical shifts of landscape lay between us and our ridiculously distant goal, exactly? A task that only appeared remotely possible if you refused to actually examine the details. But without this goal, we had literally nothing else to do but wait to die. I forced myself not to think. Sometimes action is all we have, to stave off despair.
