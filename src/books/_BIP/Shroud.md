@@ -12,8 +12,8 @@ tags:
 img_url: /images/books/Shroud.jpg
 permalink: /books/BIP_/Shroud/
 layout: book.njk
-pct_progress: '58.0'
-latest_progress: '2026-11-24T22:25:26.988Z'
+pct_progress: '67.0'
+latest_progress: '2026-11-25T22:47:08.022Z'
 ---
 replace me
 
@@ -38,3 +38,5 @@ replace me
 * <span meta="49.0@2026-11-21T20:41:22.517Z"></span> Even if it wasn’t some single savage shock carving off a leg, it would be wear and tear, like Ste Etienne had said. Something would give. A joint, a motor, a part we couldn’t fix with the limited ability of the arms. And one we couldn’t replace or cannibalize from somewhere. It was, I felt, inevitable. It wasn’t a happy solo shift, is what I’m trying to communicate. Not a good time to be left to one’s own thoughts. When Ste Etienne woke again, I was almost pathetically glad.
 
 * <span meta="58.0@2026-11-24T22:25:26.988Z"></span> I was not happy. I couldn’t even draw a map from where I was to happy, not in the dark like I was. But it helped. I felt around the edges of my equilibrium. Still fragile. Still pieced together and held in place with spit and tape. But not about to come apart any more, into all those razor-edged fragments.
+
+* <span meta="67.0@2026-11-25T22:47:08.022Z"></span> “Right,” she said. “I’ve done the maths.” I looked at the calculations she’d sent over. It just seemed to reinforce the triumph of design that the Shrouded dirigibles represented. If humans had built them, they had enough lifting power that we’d be using them for bulk freight. “And?” I prompted. “What do you think?” Ste Etienne demanded, as though I was supposed to have been able to read all the intervening steps between the maths and “profit” in her head. “We’re going to steal one.”
