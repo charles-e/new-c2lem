@@ -17,7 +17,12 @@ layout: book.njk
 pct_progress: '87.8'
 latest_progress: '2026-11-26T04:39:01.367Z'
 ---
-replace me
+* <span meta="50@2026-11-24T04:26:37.383Z"></span>
+She walks up to them, passing through the hologram, like a goddess walking through worlds, and puts her hands on her hips.
+"I hope the trip wasn't too exhausting?" she asks.
+"It was fine. Just a few bad dreams and turbulence.
+"Bad dreams and turbulence sounds like the name of an indie band
+that only six people listen to.
 
 * <span meta="85.4@2026-11-26T04:26:37.383Z"></span> All the talk of impact and deflection had meant little except more economic speculation. It didn't change much on the ground.
 Life was still hard. Garri was still expensive. You still had to drill your own borehole. The weather was still erratic, aleatory.
