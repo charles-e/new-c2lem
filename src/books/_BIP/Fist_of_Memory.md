@@ -14,8 +14,8 @@ tags:
 img_url: /images/books/Fist_of_Memory.jpg
 permalink: /books/BIP_/Fist_of_Memory/
 layout: book.njk
-pct_progress: '87.8'
-latest_progress: '2026-11-26T04:39:01.367Z'
+pct_progress: '91.8'
+latest_progress: '2026-11-26T21:07:08.588Z'
 ---
 * <span meta="40@2026-11-23T04:26:37.383Z"></span> When I step out of the bathroom, it's just past midnight. The cross draft of air hitting my moist skin is soothing, so I stand there for a moment, relishing it before I mop up the lingering drops with my towel and moisturize. I pull on my standard attire. Blue jeans and a black tank-top with black plimsoles. Myoji-sensei told me that efficient people have a fixed outfit they wear all the time to minimize time spent deciding what to wear each day. I follow that principle.
 
@@ -32,3 +32,5 @@ Life was still hard. Garri was still expensive. You still had to drill your own 
 * <span meta="87.8@2026-11-26T04:39:01.367Z"></span> Try to think.
 Ahanna, like me, is motivated by the memory of death. Who would I have been if I hadn't let my mother's murder motivate me to accept Baba and Myoji-sensei's twisted Nietzschean philosophy?
 Perhaps I would have been free. If I can help him slip from the fist of memory, perhaps we will be free of each other.
+
+* <span meta="91.8@2026-11-26T21:07:08.588Z"></span>
