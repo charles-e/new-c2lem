@@ -17,6 +17,8 @@ layout: book.njk
 pct_progress: '87.8'
 latest_progress: '2026-11-26T04:39:01.367Z'
 ---
+* <span meta="40@2026-11-23T04:26:37.383Z"></span> When I step out of the bathroom, it's just past midnight. The cross draft of air hitting my moist skin is soothing, so I stand there for a moment, relishing it before I mop up the lingering drops with my towel and moisturize. I pull on my standard attire. Blue jeans and a black tank-top with black plimsoles. Myoji-sensei told me that efficient people have a fixed outfit they wear all the time to minimize time spent deciding what to wear each day. I follow that principle.
+
 * <span meta="50@2026-11-24T04:26:37.383Z"></span>
 She walks up to them, passing through the hologram, like a goddess walking through worlds, and puts her hands on her hips.
 "I hope the trip wasn't too exhausting?" she asks.
