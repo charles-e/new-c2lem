@@ -15,7 +15,7 @@ img_url: /images/books/Fist_of_Memory.jpg
 permalink: /books/BIP_/Fist_of_Memory/
 layout: book.njk
 pct_progress: '91.8'
-latest_progress: '2026-11-26T21:07:08.588Z'
+latest_progress: '2026-11-26T21:10:48.439Z'
 ---
 * <span meta="40@2026-11-23T04:26:37.383Z"></span> When I step out of the bathroom, it's just past midnight. The cross draft of air hitting my moist skin is soothing, so I stand there for a moment, relishing it before I mop up the lingering drops with my towel and moisturize. I pull on my standard attire. Blue jeans and a black tank-top with black plimsoles. Myoji-sensei told me that efficient people have a fixed outfit they wear all the time to minimize time spent deciding what to wear each day. I follow that principle.
 
@@ -34,3 +34,6 @@ Ahanna, like me, is motivated by the memory of death. Who would I have been if I
 Perhaps I would have been free. If I can help him slip from the fist of memory, perhaps we will be free of each other.
 
 * <span meta="91.8@2026-11-26T21:07:08.588Z"></span>
+
+* <span meta="91.8@2026-11-26T21:10:48.439Z"></span> She looks behind him. "Beautiful, isn't it?"
+He spins to face the cylinder. The golden edge of the sun is visible on the horizon and mist hangs in the air—the touch of the night's chill lingers. As does a fading moon. The dew-speckled trees and the grass at the base of the inselberg are shockingly green in the faint light. The texture of the rock seems to be alive. Pulsing to the angular frequency of the cylinder like some impossible heartbeat. Even the buzzing observation drones circling the cylinder like carrion birds are made into beautiful silhouettes, cast against the light.
