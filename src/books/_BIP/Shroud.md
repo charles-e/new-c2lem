@@ -12,8 +12,8 @@ tags:
 img_url: /images/books/Shroud.jpg
 permalink: /books/BIP_/Shroud/
 layout: book.njk
-pct_progress: '67.0'
-latest_progress: '2026-11-25T22:47:08.022Z'
+pct_progress: '74.0'
+latest_progress: '2026-11-26T23:41:50.026Z'
 ---
 replace me
 
@@ -40,3 +40,5 @@ replace me
 * <span meta="58.0@2026-11-24T22:25:26.988Z"></span> I was not happy. I couldn’t even draw a map from where I was to happy, not in the dark like I was. But it helped. I felt around the edges of my equilibrium. Still fragile. Still pieced together and held in place with spit and tape. But not about to come apart any more, into all those razor-edged fragments.
 
 * <span meta="67.0@2026-11-25T22:47:08.022Z"></span> “Right,” she said. “I’ve done the maths.” I looked at the calculations she’d sent over. It just seemed to reinforce the triumph of design that the Shrouded dirigibles represented. If humans had built them, they had enough lifting power that we’d be using them for bulk freight. “And?” I prompted. “What do you think?” Ste Etienne demanded, as though I was supposed to have been able to read all the intervening steps between the maths and “profit” in her head. “We’re going to steal one.”
+
+* <span meta="74.0@2026-11-26T23:41:50.026Z"></span> By then, I seemed to be losing track of what it meant to be me, Juna Ceelander. We have this idea, that there’s a consistent self within us, but that’s not true really. Take enough chemicals, sabotage the pharma safeties, and you learn there’s nothing of that you which isn’t soluble in sufficient drugs. Inside you is a multitude, all the different selves you might ever have been, many of which you kept locked in the oubliette of your mind because they weren’t fit for public consumption. For me that oubliette was flung open now. The person I was had been formed from a melange of all those selves, drawn on at random by the chemical roulette coursing through my veins.
