@@ -20,15 +20,20 @@ date_read: '2026-11-26T22:01:46.236Z'
 date_posted: '2026-11-27T22:01:46.236Z'
 ---
 
-I read this on the basis of loving [Shigidi](/books/Shigidi Brass Head/) and I was only slightly disappointed by this book not being quite so good.  
+I read this on the basis of loving [Shigidi](/books/Shigidi%20Brass%20Head/) and I was only slightly disappointed by this book not being quite so good. 
 
-I enjoyed this book's depictions of assassins going about their business with cold practicality. For example:
+The setting is earth 50ish years in the future, that is suffering from climate change and its attendant natural disasters additionally many people can afford to have a brain implanted personal AI chip which can helpfully give you the weather (for example). Additionally, at least for some of this story's characters, shamanistic charms, poisons, magic are real phenomena.
+
+I enjoyed this book's depictions of assassins (Tope) and going about their business with cold practicality. For example:
 
 <blockquote>
 When I step out of the bathroom, it's just past midnight. The cross draft of air hitting my moist skin is soothing, so I stand there for a moment, relishing it before I mop up the lingering drops with my towel and moisturize. I pull on my standard attire. Blue jeans and a black tank-top with black plimsoles. Myoji-sensei told me that efficient people have a fixed outfit they wear all the time to minimize time spent deciding what to wear each day. I follow that principle.
 </blockquote>
 
-Both of his assassins are trapped in memories of trauma and loss.
+Both of his assassins are trapped in memories of trauma and loss (hence the title).  If assassins can be likeable then the assassins in this book are likeable. The other main character is Itumelung Sefako, an astrophysicist from South Africa who is having dreams, of, we come to understand, the UFO hovering on earth with Sefako right there.   
+
+The premise is that this book is 25-50 years hence and a UFO is coming to Earth.  Earth (the major powers America/Europe) assumes that the object (whose name is "Irunmole") is a comet of some variety actually has a plan to "shoot down or nudge" this type of visiting hazard. 
+
 
 * <span meta="40@2026-11-23T04:26:37.383Z"></span> When I step out of the bathroom, it's just past midnight. The cross draft of air hitting my moist skin is soothing, so I stand there for a moment, relishing it before I mop up the lingering drops with my towel and moisturize. I pull on my standard attire. Blue jeans and a black tank-top with black plimsoles. Myoji-sensei told me that efficient people have a fixed outfit they wear all the time to minimize time spent deciding what to wear each day. I follow that principle.
 
