@@ -19,6 +19,7 @@ latest_progress: '2026-11-26T22:01:46.236Z'
 date_read: '2026-11-26T22:01:46.236Z'
 date_posted: '2026-11-27T22:01:46.236Z'
 ---
+
 I read this on the basis of loving [Shigidi](/books/Shigidi Brass Head/).  I enjoyed this book's depictions of assassins going about their business with cold practicality. 
 * <span meta="40@2026-11-23T04:26:37.383Z"></span> When I step out of the bathroom, it's just past midnight. The cross draft of air hitting my moist skin is soothing, so I stand there for a moment, relishing it before I mop up the lingering drops with my towel and moisturize. I pull on my standard attire. Blue jeans and a black tank-top with black plimsoles. Myoji-sensei told me that efficient people have a fixed outfit they wear all the time to minimize time spent deciding what to wear each day. I follow that principle.
 
